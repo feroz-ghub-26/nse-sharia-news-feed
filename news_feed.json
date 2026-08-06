@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:35:09.081843+00:00",
+  "generated_at": "2026-08-06T10:32:37.052843+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -292,6 +292,13 @@
       "source": "rss"
     },
     {
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "description": "Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.",
+      "publication_date": "Wed, 05 Aug 2026 21:03:12 GMT",
+      "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "source": "rss"
+    },
+    {
       "title": "AMD shares fall 6% as investors demand bigger AI payoff",
       "description": "Advanced Micro Devices shares declined significantly after its revenue forecast fell short. Investors sought clearer proof the company can capitalize on the AI spending boom. SpaceX's decision to exclusively use rival Nvidia's chips also impacted AMD's stock. The company projects data-center revenue to more than double by 2027. AMD's stock has more than doubled this year on AI chip expectations.",
       "publication_date": "Wed, 05 Aug 2026 21:02:43 +0530",
@@ -353,13 +360,6 @@
       "publication_date": "Wed, 05 Aug 2026 20:31:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 20:03:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
@@ -465,6 +465,13 @@
       "publication_date": "Wed, 05 Aug 2026 18:41:51 GMT",
       "link": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
       "source": "rss"
+    },
+    {
+      "title": "US unveils charges against five leaders of Mexico's CJNG cartel - Reuters",
+      "description": "US unveils charges against five leaders of Mexico's CJNG cartel &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 18:39:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUJ1NzFZNjZQZFFHWWcyajkxeEJtbjJGOWtmWm9uX1B5Z2ZFRHZ0b2Z0bnhqSjBsUm1fZTBPTTZoZjhCU3JYV3N5N2xqeUNJbWc2TE9jc0lkRjl0T0FUMFRtamhZQThUdFY1RDdJTklqYTl2ZXhRVnpTZnVzY3RZRUcwdDdKSTRBWlFubVgwUkE2eVdlY1NxRjhzWGJiQjNsZHZQa3dhMjZUYjRkQldDUml3?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
@@ -1048,6 +1055,13 @@
       "source": "Reuters"
     },
     {
+      "title": "AI data centres, Middle East demand drive record quarter at Siemens Energy - Reuters",
+      "description": "AI data centres, Middle East demand drive record quarter at Siemens Energy &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 08:38:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9ueU9aZ0ZYRkd0N3pZZEtjVXFnM0QxVWJ6MUhZUmhTUjZPdUpQc19KZlpZLWhna1lRRnV1bmhvdnJSZzYxckFQdkZXZkF6dlI4X0U0WlRNUzhTUnhIeWpJYUIyYmlvelBYUlQ2RkFQRng2T25WV3dXYzYtaWhCUjlHQTJoTHhGOTNYRmUtV0FLTFJ2VWZrXzEza2JQcXN2ZDloZEtjWGUtbnFmcjFubXRWS3d0WEYyZ3Q1VXFKWUZtRHN6MUNUSg?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Indian refiners buy Middle East and West African crude, sources say - Reuters",
       "description": "Indian refiners buy Middle East and West African crude, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 08:24:10 GMT",
@@ -1115,13 +1129,6 @@
       "description": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 05:11:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "AI data centres, Middle East demand drive record quarter at Siemens Energy - Reuters",
-      "description": "AI data centres, Middle East demand drive record quarter at Siemens Energy &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 05:02:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9ueU9aZ0ZYRkd0N3pZZEtjVXFnM0QxVWJ6MUhZUmhTUjZPdUpQc19KZlpZLWhna1lRRnV1bmhvdnJSZzYxckFQdkZXZkF6dlI4X0U0WlRNUzhTUnhIeWpJYUIyYmlvelBYUlQ2RkFQRng2T25WV3dXYzYtaWhCUjlHQTJoTHhGOTNYRmUtV0FLTFJ2VWZrXzEza2JQcXN2ZDloZEtjWGUtbnFmcjFubXRWS3d0WEYyZ3Q1VXFKWUZtRHN6MUNUSg?oc=5",
       "source": "Reuters"
     },
     {
@@ -1220,6 +1227,13 @@
       "description": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 01:36:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
+      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 01:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1335,6 +1349,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap - Reuters",
+      "description": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 19:19:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - Reuters",
       "description": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 19:02:35 GMT",
@@ -1360,6 +1381,13 @@
       "description": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 18:44:47 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTBUQWJhNTlGalR6X1BiS0JMLUpfRzRnMnoyQVB5cU1BcEVnc2k3cVpObzZueU8weU0wdm1mYnp3c1FYM25NRUgxbE9tZ1lCckRyYVVlZUlNemhXZl9YOGFJa2lrVTRLS0JGb01yeUd0M205a2hJdVBjRWtZYjhsbXpZWUFmMHNlMkJBZW5YMVE0clN1cEU3d0VEV3FkTTIzaWw2dEJuRExJTDB6ZVBvQW5lRzJ6bXFHS05LdTlZNkt0N0V0d2c?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "FAA proposes giving airlines flexibility on flight emergency medical kits - Reuters",
+      "description": "FAA proposes giving airlines flexibility on flight emergency medical kits &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 18:25:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQXQtdEpaUzVzM1hKTGNJcTFhbENIZS15NlhXVk96ZHdNb05yRmk0YzVnQ0JwQVRqTTZCSUxmTXQ0TmNMNWhkMDZOYkdTLVpBM1Fkb2J4Zlg1dEJpQVRCWW13aFotQVBSTkJ4cUV2NlZsVGx6OFh1eXVEQWNBdE9WYVFSNkI1MkJQaFpYbWJHWmx5TlktTW1NVHRYbzNBNnF5TFRsUkFsdDJzQTF3RkM0cDIzdDNXLXhOazFZY3VGNEZoOWdkQUJYSEJMVVpBY0V4ZzlUTjVOZWplZw?oc=5",
       "source": "Reuters"
     },
     {
@@ -1409,34 +1437,6 @@
       "description": "Europe's STOXX 600 closes at record high as earnings, tech gains lift sentiment &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 16:47:12 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUZFbTJydmNONDdBVHNVNWJNRXN4X01QRmxzM1hDY25ZTDJWODQtMWpBZ2llZlBfRmFXXzVXaEQtenZrMVFjQS1BQm96djVlMnpXUndVN3N2NlhlOWhOX01JX3d2OWVSZXVoVU5iUGp0WUJkMWtSWVdZTTVDalAxSDJ6R185N2Roa3NDUXZ4dWIwMnNyNlVlcHNEUnluMzFocFhiVg?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "FTSE 100 lifted by miners rally; mid-cap index scales first record high since 2021 - Reuters",
-      "description": "FTSE 100 lifted by miners rally; mid-cap index scales first record high since 2021 &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 16:28:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXpMQndSZ3BwbjY0bFh1aU1pZUh0dDhTRzlYa0std0c5TmJLYjA1QnZ5MzJwZHNna2JEQXpQSDZ4R0k0ZEFPVE5tU3ItLUotZjBkdXczYnlnaE9tTzQySS1kNm9DZGs3WnF1dUQ3ZGhjYzE0RlFIbmppVkotUVFIX2dTaw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack - Reuters",
-      "description": "Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 16:21:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWxZWjEzUHh2dXNYYUxyS2RjbUhHTXh1RHpVTjZwUUpScFlZbnFUVDkwUlR3bXJMU3otWDY4Q2cyTml6dXV2YVJIZkdiN0lnZUV0T19VN1QwRUY4ZmU5bjNhUHJfU2tWeEw4RVFoTUN4R2lGaW1WSXpzUWxaVmZWSF9kRGhLcE9GU1lxaHp4N0xnNFp0MG9lMkZEeTd4TTEyTTBySlEzYVJFM0RSdjFTRHJZbnFmdFBISndla004RHVTQQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 - Reuters",
-      "description": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 16:19:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzdKSkNaWjdlN2xsLTdua0JNdGNsWVI1OVdUZ2gyQk5oQ3YwcW1GNnhmbVQ5MnNjSnRKMmlTaGFHck1Bb01rbUNsOEFDTExqZHJwUTJHYzA4YzVmSUs5NjB1Mi1JNE94RFlrVmJOSzJLZjhPbDM2cm51a0dvUmlhazZhT1QzUFF6XzRVcEhIZ1JrV2EySE5PV2JkaVVhRTYyNXZObm9FcVpRSG96YUN4Ym5PNA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "South African rand strengthens on softer oil prices - Reuters",
-      "description": "South African rand strengthens on softer oil prices &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 16:04:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlhPdWd1RUFpMXN4em1DNWs1MHFXOXpwQy00NTdnTjdaR3FlbWhZYjhBX0MtNHNkSzRqQXR5cVBmV1dSeTlxeEVaNDVmZHA2amNoQTZDQ2U4M0FZY29NV3lQZkZpUFc3WElCNng1bExXaWxPT25IVy1rd0Rod0RaQ3FpMnBwaE1wQS1Fb1VIa3RNbHRIM21QOHNEajBLN2lId2l4Mg?oc=5",
       "source": "Reuters"
     }
   ]
