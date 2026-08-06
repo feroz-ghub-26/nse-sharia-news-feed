@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:12:55.292316+00:00",
+  "generated_at": "2026-08-06T22:27:41.731708+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -194,10 +194,24 @@
       "source": "rss"
     },
     {
+      "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - Reuters",
+      "description": "Stocks mixed with Nasdaq down; US oil eases on Iran talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 23:12:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
       "description": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 23:07:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Myanmar's Min Aung Hlaing visits Thailand in quest for legitimacy - Reuters",
+      "description": "Myanmar's Min Aung Hlaing visits Thailand in quest for legitimacy &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 23:03:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd21RSmhNWHdNZENBZURCaGhlQkZNbmQydElVN1drTmVOYjNxRFR4OFMxQjRqcjBidzdHOTJIZ0hZdl96VldUM285aHV6X1NqNFp0dFByelBicWo2OU1TSVhQX0tYQmZPOUp5WmItTHIza20yR1ZxSUFaSzVHV0dBZFFEX1VCbXY3ckVFX050T3hRbk41d280X3J6Tm1DS2gtZzhMX3dTUDYwbjNRWUhJWmllaDhoTC1qb1MtVElWTnFiTmo4RzV3NUZn?oc=5",
       "source": "Reuters"
     },
     {
@@ -341,6 +355,20 @@
       "source": "rss"
     },
     {
+      "title": "TSX hits record high as Shopify and metal miners surge - Reuters",
+      "description": "TSX hits record high as Shopify and metal miners surge &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:45:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjQzR2tSZlJZNDhuWkZ2ZTZGZ183RkxMV0YwT2Uzd1NUbWxoSm0xQnQ2ajhiSjJFa0h0N2tRNDd6Z0xSdHdaR2MzbVJrM2o4N0wzeHdFN2JKM01iT0NhcWlrRWQ2bF9yWXFpM0RMaVFjR04wbVRMZllXZ2M3Z0dTMldiQjZwbXlQVVFGSHpFcXVKQzVIQkRnQQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
+      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:37:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "description": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
       "publication_date": "Wed, 05 Aug 2026 20:36:16 GMT",
@@ -360,13 +388,6 @@
       "publication_date": "Wed, 05 Aug 2026 20:31:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 20:03:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
@@ -747,6 +768,13 @@
       "source": "rss"
     },
     {
+      "title": "China eases controls on fuel exports for a second month, sources say - Reuters",
+      "description": "China eases controls on fuel exports for a second month, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 15:52:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRMR3J2NzJaT2hKV1ZTem4wMWhSQVF4NnNNQ19WNXFLaUNVamQ5Slg4NjB6Y0ZpWkN0SWYxeFZrVnF5QXhGSXl6UnNyMXRFVXRQVUtsaURERFRDM25FaW9DQW9QRDZPdmpuMTNGdHVpSFNPcG1Da0VtMXNpVk1OVXVMVlVFS3RHekhiT19FelYwMFFGMVI5QnNzNkJUY0tQMWxMUk5RR0hIWDVyN293?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal - Reuters",
       "description": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 15:51:43 GMT",
@@ -1104,6 +1132,20 @@
       "source": "Reuters"
     },
     {
+      "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
+      "description": "Trump says US held 'all-day negotiation' with Iran on Tuesday &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 07:43:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap - Reuters",
+      "description": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 07:43:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Israel's El Al Airlines doubles second-quarter net profit despite Iran conflict - Reuters",
       "description": "Israel's El Al Airlines doubles second-quarter net profit despite Iran conflict &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 07:03:44 GMT",
@@ -1148,7 +1190,7 @@
     {
       "title": "Serbia to open refinery to other firms to secure fuel supplies - Reuters",
       "description": "Serbia to open refinery to other firms to secure fuel supplies &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 05:43:51 GMT",
+      "publication_date": "Wed, 05 Aug 2026 05:42:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEI3YzQtSDZzWlRVeUYzNVBBY2kzdTFKOHNjejVIWHFKaFpROEVRWjBvWlpXUkoyOXNoajhTZjVSWG5WbkpPdXNlbGdGbk1Zck9VTmxmcE9KYTFIbFo4a21hU09EQXBpVE5aYkJ0RUR5cy1ybTRNTGNkUE9SWUZUWVByS3VQUGpWVkUxWWpPNURQdTBaeTZLT0N3X2t1TmdYaEZHbGtVQ0w?oc=5",
       "source": "Reuters"
     },
@@ -1181,24 +1223,10 @@
       "source": "Reuters"
     },
     {
-      "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
-      "description": "Trump says US held 'all-day negotiation' with Iran on Tuesday &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 04:48:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "UAE non-oil growth hits four-month high in July, PMI shows - Reuters",
       "description": "UAE non-oil growth hits four-month high in July, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 04:37:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzZXaG5pTEl0UndReFdXQzRHalJQRWhpLUdxUFV1NVV6dWtLdjFYT3lmMW10R0Nidjc4cEswdFJYXzdtaURFSGtjQmRGZlpXNGVmeFFLOTdzUmh6YzBaQUpya180T1VlaEVGcUhFcGlEdWt4aGs4X1RkUHlNWlJ3aW4yWm82NDA5T0lhNVNTUW9teUNUa2g2aEN1WWprcTg3RE85bXNwYjd5eE5B?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "China eases controls on fuel exports for a second month, sources say - Reuters",
-      "description": "China eases controls on fuel exports for a second month, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 04:37:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRMR3J2NzJaT2hKV1ZTem4wMWhSQVF4NnNNQ19WNXFLaUNVamQ5Slg4NjB6Y0ZpWkN0SWYxeFZrVnF5QXhGSXl6UnNyMXRFVXRQVUtsaURERFRDM25FaW9DQW9QRDZPdmpuMTNGdHVpSFNPcG1Da0VtMXNpVk1OVXVMVlVFS3RHekhiT19FelYwMFFGMVI5QnNzNkJUY0tQMWxMUk5RR0hIWDVyN293?oc=5",
       "source": "Reuters"
     },
     {
@@ -1248,13 +1276,6 @@
       "description": "Wildberries logistics hub in Russia's Tula region on fire after drone attack &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 03:25:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0V6QWcwSzRQdnZlc1pwOXk1QkZfV1diSldtckNuNzBBbGZGajZYUENMb293YUF4d2lVdG83TlpMbEF6bDlNa3Z5ZENlT2xOekhpZWluSmtjU2NkYVo5SGJ3SXBGT0p3VmpuQi1KWDlLcm1SN0tmZ2I3eW5QdXpBRnpFemtCcERCdGktdkhZNnRUY21DVWZNSzl1WUE4TUQtNnNnWjhrVkFkaDFBVkhCcw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - Reuters",
-      "description": "Stocks mixed with Nasdaq down; US oil eases on Iran talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 01:37:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1384,13 +1405,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap - Reuters",
-      "description": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 19:19:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - Reuters",
       "description": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 19:02:35 GMT",
@@ -1423,20 +1437,6 @@
       "description": "FAA proposes giving airlines flexibility on flight emergency medical kits &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 18:25:46 GMT",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQXQtdEpaUzVzM1hKTGNJcTFhbENIZS15NlhXVk96ZHdNb05yRmk0YzVnQ0JwQVRqTTZCSUxmTXQ0TmNMNWhkMDZOYkdTLVpBM1Fkb2J4Zlg1dEJpQVRCWW13aFotQVBSTkJ4cUV2NlZsVGx6OFh1eXVEQWNBdE9WYVFSNkI1MkJQaFpYbWJHWmx5TlktTW1NVHRYbzNBNnF5TFRsUkFsdDJzQTF3RkM0cDIzdDNXLXhOazFZY3VGNEZoOWdkQUJYSEJMVVpBY0V4ZzlUTjVOZWplZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US job openings fall as healthcare vacancies post largest drop in 11 months - Reuters",
-      "description": "US job openings fall as healthcare vacancies post largest drop in 11 months &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 18:01:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVRqNTQwX0d3cmUtT3BtY19iRndYWk5EdXN5OFBrUGFTOXJHNkJGdHhObXgwd3NXSjh3YnZwYzlRUDcyNFBrVldNbnR4VnI4emFKRU5ZNkdBSDJPY3ZDRXpJMnhUY0owYU16cDFaQXd1SG13SjE2UGwxemhIN2hLei1Oa3ZqcDhSSWRrSXhXWGREcEV2SDE4ag?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "EU ministers seek tougher migration response after Ceuta influx - Reuters",
-      "description": "EU ministers seek tougher migration response after Ceuta influx &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 17:14:16 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUFqeFNGMy1BTG8zemhjYUxxeWVuaGZZdjBQM3k1cW0xRzk3Tm1JckFLVDh5MDBBbkF6a2stVGY1cGRQZklvc0lCaWljbUFHOGV3bDhhbGlESU9mS2tCUEJjLUg5SklnLVpmYVk3WTFvV09BendxYUc4XzJLYmJuc0FGOFg2cjNmeGNvTi1iQUtLenBQbkU5YmZVd3V6TkxlaHc3RQ?oc=5",
       "source": "Reuters"
     }
   ]
