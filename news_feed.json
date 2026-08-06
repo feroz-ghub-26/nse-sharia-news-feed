@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:28:54.536568+00:00",
+  "generated_at": "2026-08-06T01:30:24.441552+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,137 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
+      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
+      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
+      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+      "source": "rss"
+    },
+    {
+      "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
+      "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
+      "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
+      "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
+      "source": "rss"
+    },
+    {
+      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+      "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
+      "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
+      "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
+      "source": "rss"
+    },
+    {
+      "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+      "description": "Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
+      "publication_date": "Wed, 05 Oct 2016 14:00:44 +0530",
+      "link": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
+      "source": "rss"
+    },
+    {
+      "title": "Uber redBus partner with ixigo for train travellers",
+      "description": "ixigo, India’s leading mobile travel marketplace has announced partnerships with Uber and redBus to enable instant bookings for cabs and buses natively within ixigo trains app.",
+      "publication_date": "Wed, 05 Oct 2016 14:00:34 +0530",
+      "link": "http://www.moneycontrol.com/news/sme/uberredbus-partnerixigo-for-train-travellers_7577561.html",
+      "source": "rss"
+    },
+    {
+      "title": "Workload in IT to come down due to AI; jobs to reduce: Genpact",
+      "description": "But along with that the employment growth rates have started to dip, NV 'Tiger' Tyagarajan says. The percentage addition of employees in India will not be same as past. And due to advancements, a workforce with higher skill sets is required for the IT industry, he says.",
+      "publication_date": "Wed, 05 Oct 2016 13:39:13 +0530",
+      "link": "http://www.moneycontrol.com/news/business/workloadit-to-come-down-due-to-ai-jobs-to-reduce-genpact_7577361.html",
+      "source": "rss"
+    },
+    {
+      "title": "Pixel launch: Is Google Assistant's AI an assault on privacy?",
+      "description": "Sure, artificial intelligence can make life simpler by suggesting you places to eat, tell you weather, or even crack a joke. The more you use it, the more it learns about your habits and preferences. The protocols pertaining to artificial intelligence, or the lack of it, make our data less secure and more vulnerable.",
+      "publication_date": "Wed, 05 Oct 2016 12:53:07 +0530",
+      "link": "http://www.moneycontrol.com/news/technology/pixel-launch-is-google-assistants-aiassaultprivacy_7576961.html",
+      "source": "rss"
+    },
+    {
+      "title": "Up over 200% in 1 year, what's buzzing with Borosil Glass?",
+      "description": "Shares of Borosil Glass Works have increased threefold over the past one year as the company has posted strong revenue and EBIDTA growth over the past few quarters.",
+      "publication_date": "Wed, 05 Oct 2016 12:28:33 +0530",
+      "link": "http://www.moneycontrol.com/news/buzzing-stocks/up-over-2001-year-whats-buzzingborosil-glass_7576821.html",
+      "source": "rss"
+    },
+    {
+      "title": "Why you should not be always chasing returns",
+      "description": "Most people focus on returns and chase products that offer the best returns at any point.",
+      "publication_date": "Wed, 05 Oct 2016 12:27:10 +0530",
+      "link": "http://www.moneycontrol.com/news/investing/why-you-should-not-be-always-chasing-returns_7576681.html",
+      "source": "rss"
+    },
+    {
+      "title": "Jhunjhunwala-partnered fund buys stake in TFCI: What's buzzing?",
+      "description": "In an interview with CNBC-TV18, Satpal Arora, MD of Tourism Finance Corporation of India (TFCI), talked about the state of business and the outlook ahead.",
+      "publication_date": "Wed, 05 Oct 2016 12:02:15 +0530",
+      "link": "http://www.moneycontrol.com/news/business/jhunjhunwala-partnered-fund-buys-staketfci-whats-buzzing_7576501.html",
+      "source": "rss"
+    },
+    {
+      "title": "RBI latest meeting 'diluted' its old policy framework: Nomura",
+      "description": "On Tuesday, the central bank surprised the market with a 25-basis-point cut to its policy repo rate, or the rate at which it lends to banks, to 6.25 percent.",
+      "publication_date": "Wed, 05 Oct 2016 11:54:06 +0530",
+      "link": "http://www.moneycontrol.com/news/economy/rbi-latest-meeting-diluted-its-old-policy-framework-nomura_7576181.html",
+      "source": "rss"
+    },
+    {
+      "title": "Bond bull market may pause but is far from over: Expert",
+      "description": "The benchmark 10-year government-security yield remained stuck in 8-7.5 percent range through all of 2015 and half of 2016, moving lower to sub-7 percent only when the RBI promised in April to reduce the system's liquidity deficit. The yield may now fall more.",
+      "publication_date": "Wed, 05 Oct 2016 10:54:17 +0530",
+      "link": "http://www.moneycontrol.com/news/economy/bond-bull-market-may-pauseis-farover-expert_7575741.html",
+      "source": "rss"
+    },
+    {
+      "title": "Scope for meaningful rate cuts going ahead: Neelkanth Mishra",
+      "description": "Credit Suisse' Neelkanth Mishra expects repo rate to fall to a decade low in the coming quarters. He says that beginning December the market may see a robust and widespread pick-up which may boost indices.",
+      "publication_date": "Wed, 05 Oct 2016 10:33:49 +0530",
+      "link": "http://www.moneycontrol.com/news/market-outlook/scope-for-meaningful-rate-cuts-going-ahead-neelkanth-mishra_7575461.html",
+      "source": "rss"
+    },
+    {
+      "title": "Tech up to a healthier world",
+      "description": "Sensors, 3D printed skin, wearables, reconstructed organs, revolutionized clinical trials, personalized medicine and what not – get ready for a new era of healthcare",
+      "publication_date": "Wed, 05 Oct 2016 10:07:15 +0530",
+      "link": "http://www.moneycontrol.com/news/24x7booking/techtohealthier-world_7500201.html",
+      "source": "rss"
+    },
+    {
+      "title": "Steel stocks rally as govt extends MIP on 66 steel products",
+      "description": "Stocks like Hindustan Zinc, Hindalco, Jindal Steel, JSW Steel and Tata Steel gained over 1 percent from previous close.",
+      "publication_date": "Wed, 05 Oct 2016 10:00:07 +0530",
+      "link": "http://www.moneycontrol.com/news/buzzing-stocks/steel-stocks-rally-as-govt-extends-mip66-steel-products_7578561.html",
+      "source": "rss"
+    },
+    {
+      "title": "Endurance Technologies IPO opens: Should you subscribe?",
+      "description": "The Aurangabad-based company aims to mop up nearly Rs 1,162 crore (at higher end of price band) by diluting 17.5 percent stake through the issue that will close on October 7. It already raised Rs 348.52 crore through anchor investors' portion on Tuesday, the day before issue opening.",
+      "publication_date": "Wed, 05 Oct 2016 09:04:03 +0530",
+      "link": "http://www.moneycontrol.com/news/ipo-tip/endurance-technologies-ipo-opens-should-you-subscribe_7575861.html",
+      "source": "rss"
+    },
+    {
+      "title": "Cautiously optimistic on India; eyeing earnings revival: Sanger",
+      "description": "Global liquidity tailwinds are unlikely to get any better from now and that makes Arvind Sanger, Managing Partner at Geosphere Capital Management “cautiously optimistic” on the Indian markets.",
+      "publication_date": "Wed, 05 Oct 2016 09:00:17 +0530",
+      "link": "http://www.moneycontrol.com/news/fii-view/cautiously-optimisticindia-eyeing-earnings-revival-sanger_7574941.html",
+      "source": "rss"
+    },
+    {
+      "title": "Automation threatens 69% jobs in India: World Bank",
+      "description": "\"In large parts of Africa, it is likely that technology could fundamentally disrupt this pattern. Research based on World Bank data has predicted that the proportion of jobs threatened in India by automation is 69 percent, in China it is 77 percent and in Ethiopia, the percentage of jobs threatened by automation is 85 percent,\" he said.",
+      "publication_date": "Wed, 05 Oct 2016 08:00:04 +0530",
+      "link": "http://www.moneycontrol.com/news/current-affairs/automation-threatens-69-jobsindia-world-bank_7574441.html",
+      "source": "rss"
+    },
     {
       "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
       "description": "CNBC’s Jim Cramer said investors should view SpaceX as a multigenerational investment, whose biggest opportunities may take decades to fully materialize.",
@@ -313,6 +439,13 @@
       "source": "rss"
     },
     {
+      "title": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+      "description": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 18:38:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden - Reuters",
       "description": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 18:34:15 GMT",
@@ -332,6 +465,13 @@
       "publication_date": "Wed, 05 Aug 2026 18:28:06 GMT",
       "link": "https://www.cnbc.com/2026/08/05/affordability-grocery-prices.html",
       "source": "rss"
+    },
+    {
+      "title": "Gulf oil exports steady in July, still 40% below pre-war mark - Reuters",
+      "description": "Gulf oil exports steady in July, still 40% below pre-war mark &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 18:25:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1c5cDdsaENzVWRTM3JoaUFicGFuczBDdm5GY2tkLWJhN0pSVk81MTlYMm1CQlNmQ1c5ZHZJUUFnLUhFd29CZmRjaEhkR0k3aEZRQW1JR3BKbVZiLVQ5UFJrSFZCTEFIMHpSakZ3TW5IZDctci1sT1piR2VzcGhNU21fN3FDd3ZLaEJ3dFBXdjY2Wjd4aEtwblhlTHJETENxWG5lRDNlWEpCM2ZS?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Kids Online Safety Act social media safety bill advances in Senate",
@@ -404,6 +544,13 @@
       "source": "Reuters"
     },
     {
+      "title": "US upstream oil and gas second-quarter dealmaking dives on volatility - Reuters",
+      "description": "US upstream oil and gas second-quarter dealmaking dives on volatility &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 17:06:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcC1IbklSbF9lSXFHVFlhR2tWcC1MOU84Z01nQm9IbXp0bXlGTFZBUzhJZUNsaTRxVUJSLU9pTlppZkxzT1JIS0dEOGluWVlqaXpJMHVTU0ZKdDJxaVVwallJY2E2SkpnMWlwV0FFYlRRbU5PMWVXTW1FVmVUOTV0MnpjeVRuQktiUnBmNWZDb1RjVjRyaE0yTlMyUjgyYjQ1SHpMbjVMSlpGNnFXYkktbEQyNUE3dw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
       "description": "The upstart salad chain aimed to take on Sweetgreen and expanded rapidly under the ownership of Volt Investment.",
       "publication_date": "Wed, 05 Aug 2026 17:05:49 GMT",
@@ -451,6 +598,13 @@
       "publication_date": "Wed, 05 Aug 2026 16:43:58 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-paul-tudor-jones-failure-will-give-you-a-tattoo-that-will-stay-with-you-your-whole-life-and-sometimes-its-a-really-good-thing/articleshow/132920490.cms",
       "source": "rss"
+    },
+    {
+      "title": "FTSE 100 rises, led by Glencore, Next earnings; banks slide - Reuters",
+      "description": "FTSE 100 rises, led by Glencore, Next earnings; banks slide &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 16:38:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3RCb2poSVI4ZDNOcG90cFVTQzlnUmRoVmkzM3F0dktUbzhyUGpPMnd5Z3doVWlwVXAwb09nWWJSYjF2T1Y2SXFic3E4b0lIZ3BIek80bU5Rd1RNbnpHRTVVaUpWNXhSRy0zdnNLV1d3dDhGRVFldTBudEwtWExJc25lWTQtcXRkM052dmRsaE5yTFFwM09ud2tVaHlPcXh6?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US stock market could ride earnings strength to more gains after S&P 500 hits record - Reuters",
@@ -803,6 +957,13 @@
       "source": "Reuters"
     },
     {
+      "title": "UN rights chief says Iran executed at least 56 people since March - Reuters",
+      "description": "UN rights chief says Iran executed at least 56 people since March &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 10:31:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeW9QZjd0R3djcFhWMjBZSmhadjhVekQyU0JzYW03NWdpN3VWMVZjelZuX0Rqa0RlbkZBRXF2YkFGcFBBZk93X3U4Y01neXEybmh3QlRrcnp2WEQ2LV9Ldk9DbTlLNThQTUlEOXNrYlZCdkVzeGpGcEdvYmFhYjBEM2YxaFVPY0FWSS1TblRuMFM1TDF3MmlJRFBtWm9oLUhzY0dtQlZmblpRTEpscTdxenEzclJSbG8?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident",
       "description": "It's the latest cybersecurity incident involving frontier models developed by Anthropic and OpenAI.",
       "publication_date": "Wed, 05 Aug 2026 10:18:07 GMT",
@@ -824,10 +985,24 @@
       "source": "Reuters"
     },
     {
+      "title": "Euro zone services revival drives activity in July but outlook clouded by Iran war - Reuters",
+      "description": "Euro zone services revival drives activity in July but outlook clouded by Iran war &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 09:02:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUpBLVkzZ1FST0VMdzh1MmRUdFBYRXFpbmw0Y2swOUU2OGVBWnNYZzBZbGhIV19iYWp2ODVfQm1FTXBqaFRXU1MtRWI0R2VwVzZnNW1iV0hmbk8taEVaT3JNdU10ZmVTbGYzLXB2YW5QYUN2SEFWanNhZXN6YTViN0k1blh0SG9EeTdpaTZYNXlkSVZ3ZExTR2NyMnlfNnJheGFJZVRYOV9VdzRuYW1LbWZOdGhpdnBtYkIyellKTFlCQWpjc0JF?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "UK services sector returns to growth, optimism picks up, PMI shows - Reuters",
       "description": "UK services sector returns to growth, optimism picks up, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 09:01:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnB5ZnUzZ2R3TjBjRVY2di1LUGdjMnI4N3FlQjlIemRuR1NNSnVkUWJhVXljUmkteTE1M2ZRVnNQMjg3dGM4dS1pRnlkczhicEVia0I5N3pLUkpiOHNmQnRJT1Nua1dqTEJzUEVRNjdQbk5LZC1nZHk3bzF0ZDBEUUpGZC1wRnlkV3dyUWxNcmptSm43aF9SRG1fa2Zlc1VhQUFjLXhGRTFNUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "AI data centres, Middle East demand drive record quarter at Siemens Energy - Reuters",
+      "description": "AI data centres, Middle East demand drive record quarter at Siemens Energy &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 08:38:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9ueU9aZ0ZYRkd0N3pZZEtjVXFnM0QxVWJ6MUhZUmhTUjZPdUpQc19KZlpZLWhna1lRRnV1bmhvdnJSZzYxckFQdkZXZkF6dlI4X0U0WlRNUzhTUnhIeWpJYUIyYmlvelBYUlQ2RkFQRng2T25WV3dXYzYtaWhCUjlHQTJoTHhGOTNYRmUtV0FLTFJ2VWZrXzEza2JQcXN2ZDloZEtjWGUtbnFmcjFubXRWS3d0WEYyZ3Q1VXFKWUZtRHN6MUNUSg?oc=5",
       "source": "Reuters"
     },
     {
@@ -842,6 +1017,20 @@
       "description": "German services downturn eases in July as demand picks up, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 07:59:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0NCQkc3dHJJSmxpbVY0eEM5WjU3MFlCbW5LejB5QVV4ZXRLbENkZ0EzT2VYaTI1T19GVEdFOWt0bEM4UmZ4RHFNMTVWV19iUGhpTGtoN0pnVEowajZxcXUxRlZoc29Hc1VadUUzRkRiVmY0czlrNWxPd1docS1BSjExcW9Xb19adFVPYWFzcTJJM2dUekV2U1g4OVlSSVltY1dJbUZIS3EtTlhNZVp3?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Israel's El Al Airlines doubles second-quarter net profit despite Iran conflict - Reuters",
+      "description": "Israel's El Al Airlines doubles second-quarter net profit despite Iran conflict &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 07:03:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlVmYVpGYzBJMHZXUy1CODdmVHhUak9yZVJSUlVVMDhaUHdydEdHaGQwTEd4Z0NHdmw0c1YtaXdTa0hjUTdYNDFqSlFLVFhsZS1lOUYzY0d1SWtFc2U3YXhQU2xYejRQcnpUTVBDX0c3Z3BsNW5fTHVkaDdsc2hfX3doZXlINXBDQjkxWEdtMEc2S1FBdGpKYVJMWHhsQ09qYnNMNmJOWnpiUTZQaXQzMUlZcjdyWXZRSXVHSTNKTllNNVBoT1J1T1ExOHM?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal - Reuters",
+      "description": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 06:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0RESDQ4NjdTVGJzRExCNVZHV0xKZVJaMkVzMFBQdFB3YjdrUUpMYmV6Z0lZTFhHOXRDWXR4ZnpHNUtiOFNmMUg4MjhtVXU5QUdkOUFycjFQLTQ5SGxmbmFsTVNHQXB4NkNyT21xZjBBOHpYSFE0LWw5eElGUjA2VTlhTXNHUEhKTmVNWEQ0NERYbF9VWjg0N1RybkxTSENGMVdPR1A1MV84RTJnQVFRQS1vdWhSa2pqeTJmTDZnSmRfOGxBV1E?oc=5",
       "source": "Reuters"
     },
     {
@@ -873,6 +1062,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Serbia to open refinery to other firms to secure fuel supplies - Reuters",
+      "description": "Serbia to open refinery to other firms to secure fuel supplies &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 05:43:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEI3YzQtSDZzWlRVeUYzNVBBY2kzdTFKOHNjejVIWHFKaFpROEVRWjBvWlpXUkoyOXNoajhTZjVSWG5WbkpPdXNlbGdGbk1Zck9VTmxmcE9KYTFIbFo4a21hU09EQXBpVE5aYkJ0RUR5cy1ybTRNTGNkUE9SWUZUWVByS3VQUGpWVkUxWWpPNURQdTBaeTZLT0N3X2t1TmdYaEZHbGtVQ0w?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
       "description": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 05:11:00 GMT",
@@ -894,10 +1090,24 @@
       "source": "Reuters"
     },
     {
+      "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
+      "description": "Trump says US held 'all-day negotiation' with Iran on Tuesday &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 04:48:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "UAE non-oil growth hits four-month high in July, PMI shows - Reuters",
       "description": "UAE non-oil growth hits four-month high in July, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 04:37:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzZXaG5pTEl0UndReFdXQzRHalJQRWhpLUdxUFV1NVV6dWtLdjFYT3lmMW10R0Nidjc4cEswdFJYXzdtaURFSGtjQmRGZlpXNGVmeFFLOTdzUmh6YzBaQUpya180T1VlaEVGcUhFcGlEdWt4aGs4X1RkUHlNWlJ3aW4yWm82NDA5T0lhNVNTUW9teUNUa2g2aEN1WWprcTg3RE85bXNwYjd5eE5B?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "China eases controls on fuel exports for a second month, sources say - Reuters",
+      "description": "China eases controls on fuel exports for a second month, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 04:37:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRMR3J2NzJaT2hKV1ZTem4wMWhSQVF4NnNNQ19WNXFLaUNVamQ5Slg4NjB6Y0ZpWkN0SWYxeFZrVnF5QXhGSXl6UnNyMXRFVXRQVUtsaURERFRDM25FaW9DQW9QRDZPdmpuMTNGdHVpSFNPcG1Da0VtMXNpVk1OVXVMVlVFS3RHekhiT19FelYwMFFGMVI5QnNzNkJUY0tQMWxMUk5RR0hIWDVyN293?oc=5",
       "source": "Reuters"
     },
     {
@@ -936,6 +1146,20 @@
       "source": "Reuters"
     },
     {
+      "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - Reuters",
+      "description": "Stocks mixed with Nasdaq down; US oil eases on Iran talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 01:37:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks - Reuters",
+      "description": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 01:36:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
       "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 01:26:00 GMT",
@@ -947,6 +1171,13 @@
       "description": "BOJ debated mounting price risks even upon hiking rates in June, minutes show &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 01:14:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRG9GbThZTWtkTmJGYW1JMWRYYVgtbXhVak9tcl96Yk5LX2YzX2tsOER3aXI1ZGpwd2N3bkxESmd1V254Nm1WNS04cHVMV25OS3BNRFVJNTl5ckRUbGJPdlE2b2hfOWpQVGlJdUJwNzBMYVlBTXVZZDhuN19NNXdvWHdNQ3dDQ1I0enRDNGo3LTVHRFRsSl9UMDlXVE44aEx6NVBxVlMwWU9mam9ENHNaN2NoUUJGMkVNM3dVWnM5TXUwVEN2UmJ3?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Lower bonds yields, Iran talks set gold on track for largest daily growth since February - Reuters",
+      "description": "Lower bonds yields, Iran talks set gold on track for largest daily growth since February &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 01:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5",
       "source": "Reuters"
     },
     {
@@ -968,6 +1199,13 @@
       "description": "Shell invests in next phase of Arrow Energy's Surat Gas Project &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 23:17:48 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQThTTWNYQXJRMlMyQ01KT3hVOEJDeTNCdUtReUFVSjRvSERhTlpyQ0V3ZW92eU8wdUpyd3otM2NiejFTV2pRQW1HSEx0R045amltQjhsVDk3bVVuWklCa0FUdEo0TEtMSTZFcncycVczMGdHOUM5Uks4Q2VPRTJPclRDV2hlOWtRay1BdmJzbTN3SUlGbWhDdUxxeGxvSVRrMERleFVrTnZqN051?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Booking profit beats estimates; Middle East worries weigh on forecast - Reuters",
+      "description": "Booking profit beats estimates; Middle East worries weigh on forecast &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 23:14:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPblNUR180Ri13NVUtUlY4ZUhkX2VFTm1ZRUhiN2FDdHczUEpCTkNjZWNkeGFMYUxTM25ZRlg3WFRwbjdnRlpWRGJuN1A1bEhQTUJZNzhtT29fUjlXVzNTT3NrRWptdGVZOV81bGtRcmt1S1BSUkExV01TQUo2SC14aEpBeHZScEJzZFgzUGFIeC1QR0RvV0Y0Z0llcEF1aTc4NHhHRGlR?oc=5",
       "source": "Reuters"
     },
     {
@@ -1006,6 +1244,13 @@
       "source": "Reuters"
     },
     {
+      "title": "TSX hits record high as mining and technology shares jump - Reuters",
+      "description": "TSX hits record high as mining and technology shares jump &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 20:29:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1E0TzZMYTVOT2RwdWc5Rm45WG9mb2p5NWNQek01OVk0QXJZVzEyMkZ4dVF1NUc0VU9PUmZzM2lWT3otWmNJWkFsUVh4c0VPYVY2bjRSVU5VZ0RIcnFZa1RXNXptN3draFNlWmtfLWRpcFRtRWlRc0pDY0JyZFhIWnRoM042emFKdzVzd0J0RXQxc3FHLXliRVg5Z09PY2JZMW4taXUyZkNCdw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Canadian military says soldier charged with terrorism offenses is no longer serving - Reuters",
       "description": "Canadian military says soldier charged with terrorism offenses is no longer serving &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 20:16:03 GMT",
@@ -1027,10 +1272,31 @@
       "source": "Reuters"
     },
     {
+      "title": "Petrobras halts studies for $1 billion gas pipeline in Brazil amid regulatory uncertainty, sources say - Reuters",
+      "description": "Petrobras halts studies for $1 billion gas pipeline in Brazil amid regulatory uncertainty, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 18:46:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclpNOEhfRjUzOWdQdDNKZGRFTVlfUC1MRXhmYk5jNjdxakpOVnhlaVMteG4wWDdoUHpjSWUtTjhoX2dtMWtoNVJtWTdfdjJCdE5lZTI5MFpzZFVveHJ2SGFFSElkNVM4T2ZpMnF0b0NxR3lvWEJwdFBXdERTTU1oMGdZQWRGYzZqaDU0OHItMHREdUE4YWRicVk4VVVEQ19hOUhhTnppX2M2V0RzUTNIdDRwRG1RWmdVWXZFWE53?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Marathon Petroleum's profits surge on big refining margin boost - Reuters",
+      "description": "Marathon Petroleum's profits surge on big refining margin boost &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 18:45:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc09qR2FxemhFLWFCOGhqUVRhT3Q0aUhkZ2lpNDVsUlZFN0JVMzZHZkZmOU1tTk9VNUN1c2p4dXBYV0FoOE9fc184SGtxWjF3Yi00TV8tdTY2bnhhc0VwZG1ha2tKWG1LT3ZhV2hiUUZvLS1mdWVlcV81NHJ6alpDVmFZNW91amdrQXdWMUtxLWtYakdoVjE0cFFnVWNFendJSjU5TlZCekVnSmtqWXNMUUZFNUxxUm5YZUdWeXNROUVLZw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last - Reuters",
       "description": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 18:44:47 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTBUQWJhNTlGalR6X1BiS0JMLUpfRzRnMnoyQVB5cU1BcEVnc2k3cVpObzZueU8weU0wdm1mYnp3c1FYM25NRUgxbE9tZ1lCckRyYVVlZUlNemhXZl9YOGFJa2lrVTRLS0JGb01yeUd0M205a2hJdVBjRWtZYjhsbXpZWUFmMHNlMkJBZW5YMVE0clN1cEU3d0VEV3FkTTIzaWw2dEJuRExJTDB6ZVBvQW5lRzJ6bXFHS05LdTlZNkt0N0V0d2c?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change - Reuters",
+      "description": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 18:10:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTIzRWd4cTNxUHJ2NTJfQTNMVjIyRnJrN0U0NGFMNzNHdVJscGsxQ0tPeHljNVVjd0p0MU1FM3FEcXdfR05zR3c5QVB4czU0V1BfamdIVUtLdWZNa3BCb0ozM2NPZkU2WFNFSGFKbmVkUXZiOGNhbnBZRWQwNkNINWlWTm5QdW1hbXpCZDBDVXhUZmQ1b0ZLZ2dOelRJbkVlN0RjNXozSUdmVXdnSW01VnVBTzIyTVVzY2VmRUNPTlczWGZSNzQ5eQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1097,10 +1363,24 @@
       "source": "Reuters"
     },
     {
+      "title": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 - Reuters",
+      "description": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 16:19:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzdKSkNaWjdlN2xsLTdua0JNdGNsWVI1OVdUZ2gyQk5oQ3YwcW1GNnhmbVQ5MnNjSnRKMmlTaGFHck1Bb01rbUNsOEFDTExqZHJwUTJHYzA4YzVmSUs5NjB1Mi1JNE94RFlrVmJOSzJLZjhPbDM2cm51a0dvUmlhazZhT1QzUFF6XzRVcEhIZ1JrV2EySE5PV2JkaVVhRTYyNXZObm9FcVpRSG96YUN4Ym5PNA?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "South African rand strengthens on softer oil prices - Reuters",
       "description": "South African rand strengthens on softer oil prices &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 16:04:13 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlhPdWd1RUFpMXN4em1DNWs1MHFXOXpwQy00NTdnTjdaR3FlbWhZYjhBX0MtNHNkSzRqQXR5cVBmV1dSeTlxeEVaNDVmZHA2amNoQTZDQ2U4M0FZY29NV3lQZkZpUFc3WElCNng1bExXaWxPT25IVy1rd0Rod0RaQ3FpMnBwaE1wQS1Fb1VIa3RNbHRIM21QOHNEajBLN2lId2l4Mg?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "India's ONGC posts profit jump as crude price surge boosts margins - Reuters",
+      "description": "India's ONGC posts profit jump as crude price surge boosts margins &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 15:21:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTi1WWUx3eWNLSTVsUzNwaWtqQ3ZvUFJpSElkbzhoV19EOURTUkhvV25TUWtlaGZ2T3NMTzRkS0ExWFR4dHRFR25aWFJ5VEhKSTJLd3o2Si1uRG9xYTEyUVcxSjZsck00djA3NC1RUG9oSEw0V2JyY1JBVGotTWJxRk5XcmpYeW9xM1pMazEtWmJBcy1OMTVLR25wRnlLMzRKQkc4R3o2Q0xPRUEtVFhCaVNzY1o?oc=5",
       "source": "Reuters"
     },
     {
@@ -1139,6 +1419,13 @@
       "source": "Reuters"
     },
     {
+      "title": "EXCLUSIVE: Nigeria's Dangote refinery aims to raise $5 billion with October listing, source says - Reuters",
+      "description": "EXCLUSIVE: Nigeria's Dangote refinery aims to raise $5 billion with October listing, source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 12:58:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWm9LQ0xSQ1JkdGFGdElhVkVJeFFUajJUNjdTVUpSWXFVYl9ZOG5nMVRmXzJPeXVhZ1M4S0NTQnZYaG9uN0VjdDVNT1U3NnZFVjItdXJHQmJiOWVLYVlzOENUYXdqZW4tV2JMejI0WnU0X19ld1Z5UVF3aWdtaENvZ1N1SEdDdDF1aHliOU5DMmw2WXZTdFJ5ZGJLSXUwSkJKZDBXa2phdHNzekNES0RxSzlYRnBWMFdvNHRjc04tUEF5NTU1clNIMjFRNA?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "EU interior ministers' meeting over Ceuta crisis was 'constructive', Spain says - Reuters",
       "description": "EU interior ministers' meeting over Ceuta crisis was 'constructive', Spain says &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 12:57:09 GMT",
@@ -1151,293 +1438,6 @@
       "publication_date": "Tue, 04 Aug 2026 12:06:40 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMC1Ha0xsY2N0R2VONVJhNXAtYmNWTnJTMV9sYTMtYWxfUnpGaENHNHZXN1pFZ3pXSXRkZ0lCd2lqZE5lWUhhNU16RFhvejBoTTFEQ0hFZUhkNG9WN01BcUliaDRvWDlZbEk2cF9xeFdjd3MxWklqQlR4RERod2ExZHJRR2EtR3pmVzBnaVdweFpqQ1BDMUU5eFpBVTBxdVN4NHNKZ0sycUtzMVFh?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "China's EV export boom is starting to show up in the gasoline market - Reuters",
-      "description": "China's EV export boom is starting to show up in the gasoline market &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 12:01:04 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2huWXltQ2pZM3ZsdXhLQjFfZUszdDZ4M3Y0cUZJZTJySGlzckhablQyRS0xOV91c0VlUmstVERBcDkxaW90VXI2RFNmV3BCeXpOWE84YmR6Ql9hWmxHYkhKaFhtRDVzTGVYTXA1emFyMDJNYkZmeEdQdzltblIzaEFJUDh4VFNUOWlibm1laWZ3OGw3Z0hmYnNNbHluMzRWRm5tNlg4VjdYeHl5cjVuMVBRM2MzRl8xdkZIWHQ1UldmSmdR?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Yemen's Houthis say they hit Saudi target at Najran airport - Reuters",
-      "description": "Yemen's Houthis say they hit Saudi target at Najran airport &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 10:55:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNENTczlOZ3BKWHFnNHpqNnNidHgzQzRpeGh3cHdLTElFUFRZNWpQbWpqTzZTckJpS2hpd1huaXhsa05mbkxLdUV0a3dVVkpWS0dLVUY5S21VU2ZzOXRDSWJkN0FRdG9Xdjh1Sl9fNzRtZ19ROExWT1dNSm4zbFhBZWs5VGgzTGFBNUhMdDlZbXZQT3QzUGYwSXdjcmhJVkZQU1plWEdEa2JPdVZ5OUE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Hedge funds' 2026 gains dented by tech trades in July, JPMorgan says - Reuters",
-      "description": "Hedge funds' 2026 gains dented by tech trades in July, JPMorgan says &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 10:55:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmtxTHBQNDRMZHRyeUNlNjZVSXJsY2NhQmFVc0Q3ZUw2TWs2WDh5a1NDTEpNdWk4NnVWOFZKU0FkRlRpbVJaOVVqMGFrOVpCOUo0YVoxYWVKWVp2anZ4MzlyTzZadFg3cVRvNHhpVmE4MWxrdF94MzY2eC00aENIZmZhaUttSWlyQU5kUGFKcjVFcDhMZ3pZOUg3RmN3eW8xalNHUGpHOU53WE1Wa3lxMEl5ZTBaSU0?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Morning Bid: Earnings overload - Reuters",
-      "description": "Morning Bid: Earnings overload &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 10:53:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWx5QmI1d1U2R0wxZzJfNThHZmVtVGUxSEt6ejU5cldNQ3RwMVZiNlRzamQ5aGFzTDFWSU9DMjBnc3k3andNNnlBNmFha09jSjRQV20ybFBZWlNWb1hfZ2thekRoazhZZTNfNkRNdkptT1VDQnBvdlI5TEx6X19FU2Q1Q3dKeUd6ZXowbkFjOGNDYThub0xn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - Reuters",
-      "description": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 10:50:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllLTEZpVXpPaEQxbG5tWlVyYnlUN3MwUURrck9nWnNXeTVqSG9uQWczMi1FY3dJM1RtSFBBT3RUOFpzaEZKVjZ3LVpfZ01aODFDaFlvTFhLdXJhMzVvQ25qamJ6MDlYVHRuUmZPcW5HamJIbENjeExMUWlsY3UyaWcySjZ6WHJqWE5EZGtIT0N0YXlUZGtHX1FQR2NEemFyUUx1S1hDOGtqYXpvc2l1cFZCMWF3ejAwcnY3Mk5OSWk3Y04wb21FMg?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say - Reuters",
-      "description": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 10:06:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Three crew injured as cargo ship hit by drone attack near Russia's Novorossiysk - Reuters",
-      "description": "Three crew injured as cargo ship hit by drone attack near Russia's Novorossiysk &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 09:42:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXZGT3BmOHBhbTZqRm5xTURQRUxmckpIUjBlTmEwNnBrQ2c1QjNGVkcyRGQwZEZteGp2QlB1OEhabWttNGd5WnI3bTk2ajJZckxDNWRjT2hsOFBBSW9lSnotel9UX3VlRjdnV1RGbGdScE5IeWJxa25RNkxZSUp5RUt0dVljTlNmYXl6QnRzMElLaVViaVBWbGZQSGwzYjlNV0F1bVlmanoxOUx4bXRlRTRMdkZMM2pv?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Russian July seaborne oil product exports drop 33% m/m, data from sources shows - Reuters",
-      "description": "Russian July seaborne oil product exports drop 33% m/m, data from sources shows &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 09:33:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYzhOcmZPd2Fra21UTFAwcDRTcGtoMjRMb3pmbWVfc2NuR0R3SlNJd1FOV0Q5RGpSaWdQa0xUMHVhTGtNaEIwN0NHcXNEMGg1cjBtQld5d2dEVndUNTZBX3h4aGJZZmVSY3gzUXRlbE42enBTOWJ0Y0YwclFoOTFSY0V5dFhMWEUycDl3c1YySzlvaHNrRTRzaXVwLU9PSFE3eTRFUDBwcTNEMnB5T1hqVkJGRG91WkxwX0FXVmw0Y3g?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Goldman sees Brent at $80-$90 until US-Iran deal or major escalation - Reuters",
-      "description": "Goldman sees Brent at $80-$90 until US-Iran deal or major escalation &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 08:45:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3RQcExCZTFRck1VT3ZpMWV3YkxZVElmR18wQ3RGa2lpbDFNWU11alJoaVdFM2Z0M0t6V2wtdzkwNThqVHFPSW5HWHVOeHJzM3NJdnRuMEFfUnVwS09TS1hkWUVJZXBQNTVFbEMzbG41ZXdqR0V1TjdpV2pGY1BTV2pmSGwzdjRqZWJkR1VCTlE4aUpkNHk3b25YdG05eHRMdXBzZFhiZTJ4d19zcFBXZmtkYy1LZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - Reuters",
-      "description": "Two tankers with Saudi oil exit Red Sea over weekend, data shows &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 06:33:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEt0RUhnRlVGV0xuNmhOTDZaaVo3NVI3MWhXdERDQ3BaX19SMkh5bmlONEl5YjlRSEtyc0p0cVZGblYtd3FPdHRtX0V2RldWOVRpdzY1RTV3YnZOSk02X0gzNDhyeEpaclNaVHR1MlJVa1plZUM4a3FqOFVoYXdiY3lBYWU0MW0tcTVoSml1TFhKN0Q2aXhKQVFGNk16TnhYcGhxSXVaQlVISndNWDNyblhPM2xHajhD?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "HPCL buys W.Africa crude for Rajasthan refinery, sources say - Reuters",
-      "description": "HPCL buys W.Africa crude for Rajasthan refinery, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 06:01:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHVpSUpRRGVvNlhnaVJhcWpvdnNXTWtTQUJ1anNtLXlmY2V4Vl9teGFVcHFsS05FaGNldTllOW16ZDVVNUJCUmdxUmhoZzJ5NERyUlB4OFliSDYzZDluZEdoMV9ZN2xGS19aTGRZNHhfX1VXdWlIcVk4YTQ0YmxNR18waVcwNjFXcVF5UXNUMXZtY3VSNTZmVHFvanJfQ1duX2QtT1QwQVhhdw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Greek shipper GasLog says LNG tanker stable after Strait of Hormuz incident - Reuters",
-      "description": "Greek shipper GasLog says LNG tanker stable after Strait of Hormuz incident &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 05:57:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzVYY1M4dFBJX28xcS02bnNFNE14aVdhc2lhS19ibExWM3JjZFN6NnRmaVpicVRNajNsRzlqZTFUaGdvZWxyTHVtOUw0TTM1WjRhaTFjY3JOYktzWFNoZVRjdkRrVWFpYVIyZklHSDhzM2c0c3hYM0M1WVpVWVJORjBreDJ0end3WlVyMHZFaWZfN3RRVU11SGNnZlpnSzNmZ1Q0RHdMdUg5WjhEbTB6S3hzSVl6TUljOV9wUUxxdF9ZNnM?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
-      "description": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 05:32:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Hundreds of firefighters battle blaze at Wildberries warehouse in Russia's Vladimir region - Reuters",
-      "description": "Hundreds of firefighters battle blaze at Wildberries warehouse in Russia's Vladimir region &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 05:21:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOU9OREpRMlEtczBGTWExZ2lIZ2pMRVlKSV9hcEx6b1NGam9YcDVEV3g3YmRSRmNKYk5YUUJZWlQ4cUNRMW9mX2JxcHVPdWc3czBDQjQ1TGhEV2Q0WEJncS0zV0Z4dk5XbTFTU1drNUZJbnEtek9tcGRIWlJLdGhpWnVQVG1TVDY4aHhXN2NTYzZkOUJDWmluaUJ2NWU4RGM3WFVQNy00enRNblVXdnlvNXowbzJYZTNYdUZ2Yjlucw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nedbank CEO targets Kenya infrastructure surge, fintech with NCBA stake - Reuters",
-      "description": "Nedbank CEO targets Kenya infrastructure surge, fintech with NCBA stake &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 05:18:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmNuM1ZfTktHX0FBcWNtanUtMDRoM3BvT3JwWmRVOVJ1QVd4UXI4SmJCRmtoOGxhMXQ3S0VMd20yU2x2ejZWWUVFR01ySGJyaGVmNzlBd0ZVSUZXbzA3U0NzZjM2NkdxaUI2a2k1UUd4aXJkdHhPVnp4ZDNOR1hxZ3hPUS04U0ltRHcxUEwzVTRoSVY3ZGU0?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Sustainable fund launches stutter amid industry caution - Reuters",
-      "description": "Sustainable fund launches stutter amid industry caution &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 05:04:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ19fRXBxM3NaNDlIMDNyZEVuT1R4SXBFM0Q4aDZ6S0FQUDdLSFB6NjNPaTY4ZEhua2NVNWJ2T01zMURFY1J4LUJKRnhacE1yTjFscHBrTmdiSjZ3V0VLUjF4a1RyRHdzd3NuRVF3SGp4cXEyQTJhekJ4YmNzM0U0NkFWdWtJZ1ZhMU9zdTFxNHFjaGJYZWI3S0FCbXEtUXdvU24wRWZMOWU2aElMNlZyOWN3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Morning Bid: Yen clings to gains but bond pressure builds - Reuters",
-      "description": "Morning Bid: Yen clings to gains but bond pressure builds &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 04:33:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EalpPNjU1ZC1kSWl1ZzU4T3djdVQ0U2VxWXBab18tWllXbjRMaHRuQXZrMG05VWF3cDdjNGlnbEhIbmxpY0htYWFGS2M4cjl4Y0prdnNsWkExNjZ5MzBtOHNRa1RyZFpyb2Zad3hFTjc3Z1RZTWg5bDJEN09Db0U?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "India's LIC slumps to lowest in nearly 4 months on discounted stake sale - Reuters",
-      "description": "India's LIC slumps to lowest in nearly 4 months on discounted stake sale &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 03:54:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTVfVzQyS3EwMGc3N1N2T0NVd0xMT1JPWV91S3lJQnFRQl9QVVdXTG53R3ZiZGFhOXRJN1B3SWU3T2lOZDRwTEh0ZUZyeE5ULW1oajAxTUtCMnlpYnFVcERib1ZvaDFiTmk4aTRuTHhlNHlSZkpJM3VISVpUS1RUX1h0WkdaY05aWGNwS0Nfdl9sX25KVm1fY0phOFUxTXBlcy0zdVpZX2NLblJ5dDJQNU40MnhFTVZwUGNDbA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Ukraine drones kill six, damage warehouses in Russia, authorities say - Reuters",
-      "description": "Ukraine drones kill six, damage warehouses in Russia, authorities say &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 03:07:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2NENkNUTmR5RlpOYlhDWW1kdEtGdmtickhGU2wzdmgwZlB1SC1HNmZpSDNOUVM4dFo3ZHlWVnc3YTluaS1xelBOT0lPV3dMT0VDdnN0anJKRl9QM1IwODd2SkhzQ0M5dElCOE1pNWlFTW5zazJ6eHotN1dEb29yV1BuTVgzOVN3dm9tNTlkSlRTblhRdzk2aF95ZEtSQzQ5UkhlZm5RcG1ySzRRTV9rbTRMemtKdw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Competing cues, caution ahead of RBI policy decision keep rupee nearly flat - Reuters",
-      "description": "Competing cues, caution ahead of RBI policy decision keep rupee nearly flat &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 02:56:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXZxeFNDdDRBUUFmVU9XeDVzcEFMMzQ1SVFzZHFsWlZaNFdtb25RdkN2WEI1OUZ6WEt3OHlITUpjZjMxSDVGa2JoQ1poU2RMaVhVU2d0bFQxczFiREtFcDVDVC1zTzNvcVFhYkNOeTczdVh4eThDZEZpeG5wWVJXRDlRZWgtcVllLTBXZnJIVkR4QV9ucHh0TFlCdEpGcnUwUElWakdBakFIcHUxU1U4TFZhRFFQYWJsMDlz?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Shipping traffic at key Gulf waterways little changed on uncertain peace talks - Reuters",
-      "description": "Shipping traffic at key Gulf waterways little changed on uncertain peace talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 02:14:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3lXOERWQUVYQV8yeHduRkh1cDJVWjE2eEZja21TbXpqeDJEVHZBS0J5OXExanZmNEpCaVEzT2VRdDFsaXpJWjRXbmVpRFVkelozdXUtYUZEcDdCVjFxQVFfODBRc2dzR1dfWVNyQjVhNHVFckg3OG9XRW01dW5EYlBTNnRFZ1A1OFVRSTJkYkJzcmdsUEpSYU9wa3lpeGxmLUkyNVJHeXBhWkNBNlN0ZUJ1NUdURGl3Y3NkRFRZOTl2d1Zv?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Global Market Today: Asian stocks drop as AI rally pauses, oil dips",
-      "description": "Asian markets experienced a dip on Thursday as Wall Street's recent tech surge showed signs of slowing down. Crude oil prices also fell slightly after Iran and Oman reached a new agreement regarding the Strait of Hormuz. Meanwhile, Sandisk and Western Digital faced significant declines following disappointing earnings reports. As investors reassess stock valuations, the geopolitical context in the Middle East is increasingly influencing oil price trends.",
-      "publication_date": "Thu, 06 Aug 2026 06:30:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-as-ai-rally-pauses-oil-dips/articleshow/132978857.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Indian Bank raising $400 million in overseas loan; syndication underway",
-      "description": "Indian Bank has embarked on a significant financial undertaking by securing a four-year loan worth $400 million, underwritten by CTBC of Taiwan and Commerzbank of Germany. The pricing for this loan ranges from 119 to 123 basis points over the SOFR rate. Currently in syndication, this initiative opens the door for additional banks to participate, with advantageous provisions from the Reserve Bank of India's special swap facility enhancing this opportunity.",
-      "publication_date": "Thu, 06 Aug 2026 06:24:37 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raising-400-million-in-overseas-loan-syndication-underway/articleshow/132978843.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Foreign borrowings hit over $6 billion in June as 140 firms tap global market",
-      "description": "In June, external commercial borrowings and foreign currency convertible bonds amassed an impressive $6.07 billion. Prominent borrowers included Shriram Finance and Microsoft Corp India, while Air India acquired necessary funding for aircraft imports through a leasing company. A total of 140 companies participated in these significant financial maneuvers, with data from the Reserve Bank of India highlighting these crucial transactions.",
-      "publication_date": "Thu, 06 Aug 2026 06:20:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-borrowings-hit-over-6-billion-in-june-as-140-firms-tap-global-market/articleshow/132978802.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Stocks in news: PB Fintech, LIC, Trent, Ola Electric, and Cipla",
-      "description": "In a day of mixed economic signals, Indian markets displayed notable volatility before settling at a flat close. PB Fintech enjoyed a substantial rise in profits thanks to robust growth in insurance premiums. ONGC is also gearing up to ink deals with Venezuela for managing oil blocks. Simultaneously, Ola Electric and Cipla made headlines with their considerable investments in renewable energy initiatives.",
-      "publication_date": "Thu, 06 Aug 2026 05:57:51 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-pb-fintech-lic-trent-ola-electric-and-cipla/articleshow/132978632.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Domestic equities experienced a slight uptick, with the Nifty finishing virtually unchanged despite gains across various sectors. Analysts predict a positive outlook for Indian equities moving forward. Lower Brent crude prices are favorable for inflation expectations. The India VIX declined, signaling decreased market anxiety. Additionally, foreign portfolio investors showed a tendency toward net buying on Wednesday.",
-      "publication_date": "Thu, 06 Aug 2026 05:44:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132978212.cms",
-      "source": "rss"
-    },
-    {
-      "title": "CAS sparks trader backlash as losses mount, Sebi holds firm",
-      "description": "Concerns are mounting among traders regarding the recent shift to a closing auction system, which has led to significant price volatility. Numerous market participants have reported unexpected losses, prompting authorities to engage with brokers to explore these issues. Despite regulators' attempts to bolster trader involvement, the contentious pricing mechanism continues to stir debate within the financial community.",
-      "publication_date": "Thu, 06 Aug 2026 05:37:50 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-sparks-trader-backlash-as-losses-mount-sebi-holds-firm/articleshow/132978167.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
-      "description": "The Dow Jones Industrial Average achieved an all-time high on Wednesday, driven by rising optimism over potential peace talks with Iran. Meanwhile, both SpaceX and AMD saw their stock prices drop following their earnings announcements. The growth in private payrolls also showed signs of cooling in July, reflecting a steady job market, as market watchers keep a keen eye on inflationary pressures and the Federal Reserve's next moves.",
-      "publication_date": "Thu, 06 Aug 2026 01:41:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/articleshow/132970250.cms",
-      "source": "rss"
-    },
-    {
-      "title": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI",
-      "description": "Optimism over a Strait of Hormuz deal pushed the Dow to a record high and its fifth positive day in a row, while oil extends a cooling trend.",
-      "publication_date": "Thu, 06 Aug 2026 01:21:13 GMT",
-      "link": "https://www.cnbc.com/2026/08/06/us-iran-oman-hormuz-amd-nvidia-musk-spacex-.html",
-      "source": "rss"
-    },
-    {
-      "title": "No decision yet on merchant discount rate on UPI deals",
-      "description": "Central bank governor Sanjay Malhotra stated it is premature to discuss UPI transaction charges. Discussions are ongoing regarding the payment mechanism's future and costs. The government is reportedly amending laws to allow merchant discount rates on select UPI transactions. This move follows Finance Minister Nirmala Sitharaman's introduction of a new bill. The central bank's current focus remains on strengthening UPI adoption across India.",
-      "publication_date": "Thu, 06 Aug 2026 01:10:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/no-decision-yet-on-merchant-discount-rate-on-upi-deals/articleshow/132978779.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Liquidity to peak in Sept, but big surplus won't last long: RBI",
-      "description": "The Reserve Bank of India will absorb surplus liquidity from a special forex swap facility. This absorption will occur through higher currency in circulation and maturing forward positions. Banking system liquidity is expected to peak in September due to FCNR(B) deposit inflows. Economists anticipate a surplus of around ₹4-5 lakh crore in the banking system. The central bank will then begin withdrawing excess liquidity through durable absorption measures.",
-      "publication_date": "Thu, 06 Aug 2026 01:05:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/liquidity-to-peak-in-sept-but-big-surplus-wont-last-long-rbi/articleshow/132978753.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US stocks: Alphabet shares fall 4% as DeepMind chief shifts role in Google’s AI shakeup",
-      "description": "Alphabet's Class C shares declined significantly after a major AI leadership restructuring. DeepMind CEO Demis Hassabis is moving to a new chief scientist role. Several prominent Gemini researchers have departed the company recently. This overhaul occurs as Google DeepMind faces challenges with its latest AI model. The company's cloud business, however, continues to show strong revenue growth.",
-      "publication_date": "Thu, 06 Aug 2026 01:02:38 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-alphabet-shares-fall-4-as-deepmind-chief-shifts-role-in-googles-ai-shakeup/articleshow/132967508.cms",
-      "source": "rss"
-    },
-    {
-      "title": "New framework to standardise interest rate rules on the anvil, says RBI",
-      "description": "The Reserve Bank of India plans to standardize interest rate rules for all regulated entities. This new principle-based framework aims to increase transparency and ensure uniformity across lending. The proposed changes are unlikely to affect EMIs or bring NBFCs into the external benchmark regime. Governor Sanjay Malhotra stated this move will improve consumer protection and rationalise existing norms.",
-      "publication_date": "Thu, 06 Aug 2026 01:01:28 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-framework-to-standardise-interest-rate-rules-on-the-anvil-says-rbi/articleshow/132978749.cms",
-      "source": "rss"
-    },
-    {
-      "title": "No case for early closure or extension of swap window: RBI",
-      "description": "The Reserve Bank of India will not close the swap window early. Robust foreign currency inflows have strengthened India's balance of payments position. The central bank has not received any proposals for extending the deadline. This facility allows banks to swap overseas borrowings at concessional rates. The swap window has already attracted significant dollar inflows by July.",
-      "publication_date": "Thu, 06 Aug 2026 00:56:52 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/no-case-for-early-closure-or-extension-of-swap-window-rbi/articleshow/132978737.cms",
-      "source": "rss"
-    },
-    {
-      "title": "'No US lawsuits filed yet, ready to defend on facts if needed': HDFC Bank CEO clarifies on governance allegations",
-      "description": "HDFC Bank assured shareholders about its strong governance credentials. No US lawsuits have been filed against the bank following investigations. The bank's leadership stated they are well-positioned to defend any potential legal action. HDFC Bank is fundamentally strong with a pristine balance sheet. The integration with HDFC Limited is unlocking meaningful synergies for future growth.",
-      "publication_date": "Thu, 06 Aug 2026 00:51:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/no-us-lawsuits-filed-yet-ready-to-defend-on-facts-if-needed-hdfc-bank-ceo-clarifies-on-governance-allegations/articleshow/132978449.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
-      "description": "India is ramping up stake sales in state-owned companies to keep the growth engine running amid growing fiscal constraints",
-      "publication_date": "Thu, 06 Aug 2026 00:11:08 GMT",
-      "link": "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
-      "source": "rss"
-    },
-    {
-      "title": "We're downgrading Honeywell Aerospace after a shockingly bad earnings debut",
-      "description": "The company slashed its full-year guidance on key metrics in its first earnings report since separating from the Honeywell conglomerate in June.",
-      "publication_date": "Thu, 06 Aug 2026 00:09:36 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/were-downgrading-honeywell-aerospace-after-a-shockingly-bad-earnings-debut.html",
-      "source": "rss"
-    },
-    {
-      "title": "A selection of the best images from our photojournalists around the globe - Reuters",
-      "description": "A selection of the best images from our photojournalists around the globe &nbsp;&nbsp; Reuters",
-      "publication_date": "Mon, 24 Sep 2018 03:11:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOeVZtdW5NOUJjSDVvTTEwTWx0WnhyLUVVdkNWZ2lkX19iOG5TMDZTaUNMNldrXzFySl9jcS1DQTVKZk13Z2FSUQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Mexican jalapenos tied to Salmonella outbreak in 27 US states",
-      "description": "",
-      "publication_date": "2026-08-06 01:18:25",
-      "link": "https://www.investing.com/news/stock-market-news/cdc-says-345-sickened-in-salmonella-outbreak-tied-to-jalapeno-peppers-4839785",
-      "source": "rss"
-    },
-    {
-      "title": "Pentagon to hold meeting on weapons shortfall after Trump call- NBC",
-      "description": "",
-      "publication_date": "2026-08-06 01:14:03",
-      "link": "https://www.investing.com/news/stock-market-news/pentagon-to-hold-meeting-on-weapons-shortfall-after-trump-call-nbc-93CH-4839949",
-      "source": "rss"
-    },
-    {
-      "title": "Earnings call transcript: Kakao posts stronger q2 2026 profit, stock slips",
-      "description": "",
-      "publication_date": "2026-08-06 01:13:45",
-      "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-kakao-posts-stronger-q2-2026-profit-stock-slips-93CH-4839948",
-      "source": "rss"
     }
   ]
 }
