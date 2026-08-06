@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:30:24.441552+00:00",
+  "generated_at": "2026-08-06T04:01:01.690947+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,12 +30,12 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 47
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -208,6 +208,13 @@
       "source": "rss"
     },
     {
+      "title": "Occidental quarterly profit soars to highest since 2022 on oil rally - Reuters",
+      "description": "Occidental quarterly profit soars to highest since 2022 on oil rally &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 22:08:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjBBN2NQeVI2azRMY0lHdTI1RnFkQjdVZ0pIbS1pY3RoaXJ0OGFuQUJITkM5TTFGUVNBbF9Tb2cyMTE2Z2tmX2xxcm1PdU1QUTl5RjF5WVNPWGI0cEdxSFFaZ01BUEs2bi0wYmZEMTQzMF9DVWtFa3RyUGdmMkJGREtHeWlhZFJxczIxWFg4am9yVUV3MWtIcXJkTVFRTXE2dXlYWFY1UFBTN1N6XzFnOUZCRHhDeURTMlpoXw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
       "description": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
       "publication_date": "Wed, 05 Aug 2026 21:55:46 GMT",
@@ -303,6 +310,20 @@
       "description": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 20:56:08 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhKWmZFYjctT3FLTWdsTnkyVVdsRnRoRkZCaXBIWk9hcFhnSEU2YV9UZjM1end5SjFKTzFsYXFWY2RGR2lYcEotR0RDSkZwcTVXWF9CeUM2eGZFTGhodk5DMmk2Tm1BbHp0YXRzX3pOb241N2dGQ0tFYnR1elBQU0tzWUxvTFhyZ2JUYWRqY0lkYWlvbzlGS1gwRUpYYkhuQkxJaEdFQ3JYbFdQRmZXNEk4bV9EMkNFdnA1NQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks - Reuters",
+      "description": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:55:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Fed's Cook ready to raise rates if inflation doesn't start easing - Reuters",
+      "description": "Fed's Cook ready to raise rates if inflation doesn't start easing &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:55:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDd0Vlp2NlhIcHd6bEhrdmVCeU9GSzdZM01JeXJ4MElkaG83Z0Nva0dLbzNya1pPUjlSQTJyS3pqRnoxWlY1c0lnSUlFVjJGcHEtSlZ1VXc4REhNODBFMzZ6eko5MmZWdVNSY25ERUM2X3VwZFNHaFE3WHlfRlF1X3hHYUhZR2VWcE5kSmNlbEtNTC1uRTBxZDBNLUtUOGROWTZ3cHlSLWRtdmN1N2FZ?oc=5",
       "source": "Reuters"
     },
     {
@@ -754,6 +775,13 @@
       "source": "rss"
     },
     {
+      "title": "US service sector maintains strong growth pace in July - Reuters",
+      "description": "US service sector maintains strong growth pace in July &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 14:13:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUROY3VfTWk1dnUtUVp0dE5PSTVYQmVoWGc4d3hHcDdCcVlsOVpWVmVrdkV0UTFHTmItbGJyYkVaSE0yZVBXdnVOMW40ZGJjcXN5UlIxRU9PVzdpTU1aaktoNExKN1lCaU5lX3QtT2xheEZyVWRGUU4yUU1veEM5MlctQ3RiVmZYUl96NE9CTEMtaXc0d0JIQlJ6cUg?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Four stabbed in apparent mental health-related incident near London's Covent Garden - Reuters",
       "description": "Four stabbed in apparent mental health-related incident near London's Covent Garden &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 14:06:43 GMT",
@@ -880,6 +908,13 @@
       "source": "rss"
     },
     {
+      "title": "Gulf stock markets end higher as investors await signs of progress in US-Iran talks - Reuters",
+      "description": "Gulf stock markets end higher as investors await signs of progress in US-Iran talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 13:04:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlg2dTVGaDVhTlhYajZWZE5NY0JvdjV1Z1dObmNORUlydXFoSnFTcGxjbnFGeUpHUUJ1TDhsenpGWkhYLV80Sm9zYktER29tcWNiTEg5c2o1WVgzQzEtMS1UZlRpZmJRTGdZWHVIY0VuNmZ0TlEyUjlDSHMyYUdYOG5JMXlidUhCN2xyeFF2RVpFUWJFU1RDODNqWmJvWTA4V29sRnNsNWNrbHVKYkVyMVcwMUJsckE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "HSBC picks ICICI Bank, Titan, 8 other stocks to ride a potential $25 billion FII inflow as AI trade volatility looms",
       "description": "HSBC expects India to attract up to $25 billion in foreign equity inflows if global investors rebalance portfolios away from volatile AI-driven markets. The brokerage has identified 10 preferred stocks, including ICICI Bank, Titan, M&M and Adani Ports, citing strong earnings visibility, domestic demand and structural growth drivers.",
       "publication_date": "Wed, 05 Aug 2026 13:00:02 +0530",
@@ -978,13 +1013,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Wildberries logistics hub in Russia's Tula region on fire after drone attack - Reuters",
-      "description": "Wildberries logistics hub in Russia's Tula region on fire after drone attack &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 09:08:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0V6QWcwSzRQdnZlc1pwOXk1QkZfV1diSldtckNuNzBBbGZGajZYUENMb293YUF4d2lVdG83TlpMbEF6bDlNa3Z5ZENlT2xOekhpZWluSmtjU2NkYVo5SGJ3SXBGT0p3VmpuQi1KWDlLcm1SN0tmZ2I3eW5QdXpBRnpFemtCcERCdGktdkhZNnRUY21DVWZNSzl1WUE4TUQtNnNnWjhrVkFkaDFBVkhCcw?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Euro zone services revival drives activity in July but outlook clouded by Iran war - Reuters",
       "description": "Euro zone services revival drives activity in July but outlook clouded by Iran war &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 09:02:18 GMT",
@@ -996,13 +1024,6 @@
       "description": "UK services sector returns to growth, optimism picks up, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 09:01:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnB5ZnUzZ2R3TjBjRVY2di1LUGdjMnI4N3FlQjlIemRuR1NNSnVkUWJhVXljUmkteTE1M2ZRVnNQMjg3dGM4dS1pRnlkczhicEVia0I5N3pLUkpiOHNmQnRJT1Nua1dqTEJzUEVRNjdQbk5LZC1nZHk3bzF0ZDBEUUpGZC1wRnlkV3dyUWxNcmptSm43aF9SRG1fa2Zlc1VhQUFjLXhGRTFNUQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "AI data centres, Middle East demand drive record quarter at Siemens Energy - Reuters",
-      "description": "AI data centres, Middle East demand drive record quarter at Siemens Energy &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 08:38:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9ueU9aZ0ZYRkd0N3pZZEtjVXFnM0QxVWJ6MUhZUmhTUjZPdUpQc19KZlpZLWhna1lRRnV1bmhvdnJSZzYxckFQdkZXZkF6dlI4X0U0WlRNUzhTUnhIeWpJYUIyYmlvelBYUlQ2RkFQRng2T25WV3dXYzYtaWhCUjlHQTJoTHhGOTNYRmUtV0FLTFJ2VWZrXzEza2JQcXN2ZDloZEtjWGUtbnFmcjFubXRWS3d0WEYyZ3Q1VXFKWUZtRHN6MUNUSg?oc=5",
       "source": "Reuters"
     },
     {
@@ -1064,8 +1085,15 @@
     {
       "title": "Serbia to open refinery to other firms to secure fuel supplies - Reuters",
       "description": "Serbia to open refinery to other firms to secure fuel supplies &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 05:43:51 GMT",
+      "publication_date": "Wed, 05 Aug 2026 05:42:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEI3YzQtSDZzWlRVeUYzNVBBY2kzdTFKOHNjejVIWHFKaFpROEVRWjBvWlpXUkoyOXNoajhTZjVSWG5WbkpPdXNlbGdGbk1Zck9VTmxmcE9KYTFIbFo4a21hU09EQXBpVE5aYkJ0RUR5cy1ybTRNTGNkUE9SWUZUWVByS3VQUGpWVkUxWWpPNURQdTBaeTZLT0N3X2t1TmdYaEZHbGtVQ0w?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Gulf shipping traffic steady amid uncertainty of peace talks - Reuters",
+      "description": "Gulf shipping traffic steady amid uncertainty of peace talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 05:21:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpxYUZIYkdaMkhoNVRrM2ZkZ3NYdWh4aUJEb2pOa29zOFBROGFHdmxwNDZZOHhicHpOOGVlS0FGTC1QdHR4UmRVbmtacWZrc3J4empuUEt5dDNSZTJRb25obllvdEFaQTVQV1B1Q05wRlpwdVpVaEJHZW80MTBxWmViU2d3V0psZHMxMENsV0x3RzBJWXpZV0hlc3MyeWxSQ3dmZllIZzRkaGNvb2ppaQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1073,6 +1101,13 @@
       "description": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 05:11:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "AI data centres, Middle East demand drive record quarter at Siemens Energy - Reuters",
+      "description": "AI data centres, Middle East demand drive record quarter at Siemens Energy &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 05:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9ueU9aZ0ZYRkd0N3pZZEtjVXFnM0QxVWJ6MUhZUmhTUjZPdUpQc19KZlpZLWhna1lRRnV1bmhvdnJSZzYxckFQdkZXZkF6dlI4X0U0WlRNUzhTUnhIeWpJYUIyYmlvelBYUlQ2RkFQRng2T25WV3dXYzYtaWhCUjlHQTJoTHhGOTNYRmUtV0FLTFJ2VWZrXzEza2JQcXN2ZDloZEtjWGUtbnFmcjFubXRWS3d0WEYyZ3Q1VXFKWUZtRHN6MUNUSg?oc=5",
       "source": "Reuters"
     },
     {
@@ -1125,6 +1160,13 @@
       "source": "Reuters"
     },
     {
+      "title": "India's Manipal Health jumps on market debut, valuing hospital chain at $9 billion - Reuters",
+      "description": "India's Manipal Health jumps on market debut, valuing hospital chain at $9 billion &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 04:25:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmdFYUZRNUp2VGQxTUx2alFNb3VTQ1NtUFpnYW1XOHF4YzBvYUE3a2hlSDJONkxWVmkyVXlUejRQYzAwUDhjWnhMeHgydUZNSFNFVHd5THFaazlqV2U0eWJaelJlYmc2ajhCMUhGdG44MElqWHJiSVVxYjctMldNRjNscV9nOGhyZEVEMHN3MVBXTDhNNDlNMUs1c0JRZ0RTbk5UTUY5bHV6LVhHODhCWnJxaV9sUERuTENfOEdURHIweXdiOVZKV3ZrV2hLSHNXaHNsZnB3?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Christina Hines wins Democratic primary for competitive US House seat in Michigan, US media projects - Reuters",
       "description": "Christina Hines wins Democratic primary for competitive US House seat in Michigan, US media projects &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 04:16:00 GMT",
@@ -1139,10 +1181,10 @@
       "source": "Reuters"
     },
     {
-      "title": "Gulf shipping traffic steady amid uncertainty of peace talks - Reuters",
-      "description": "Gulf shipping traffic steady amid uncertainty of peace talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 03:04:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpxYUZIYkdaMkhoNVRrM2ZkZ3NYdWh4aUJEb2pOa29zOFBROGFHdmxwNDZZOHhicHpOOGVlS0FGTC1QdHR4UmRVbmtacWZrc3J4empuUEt5dDNSZTJRb25obllvdEFaQTVQV1B1Q05wRlpwdVpVaEJHZW80MTBxWmViU2d3V0psZHMxMENsV0x3RzBJWXpZV0hlc3MyeWxSQ3dmZllIZzRkaGNvb2ppaQ?oc=5",
+      "title": "Wildberries logistics hub in Russia's Tula region on fire after drone attack - Reuters",
+      "description": "Wildberries logistics hub in Russia's Tula region on fire after drone attack &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 03:25:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0V6QWcwSzRQdnZlc1pwOXk1QkZfV1diSldtckNuNzBBbGZGajZYUENMb293YUF4d2lVdG83TlpMbEF6bDlNa3Z5ZENlT2xOekhpZWluSmtjU2NkYVo5SGJ3SXBGT0p3VmpuQi1KWDlLcm1SN0tmZ2I3eW5QdXpBRnpFemtCcERCdGktdkhZNnRUY21DVWZNSzl1WUE4TUQtNnNnWjhrVkFkaDFBVkhCcw?oc=5",
       "source": "Reuters"
     },
     {
@@ -1150,13 +1192,6 @@
       "description": "Stocks mixed with Nasdaq down; US oil eases on Iran talks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 01:37:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks - Reuters",
-      "description": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 01:36:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
       "source": "Reuters"
     },
     {
@@ -1262,6 +1297,13 @@
       "description": "Qatar says mediators make progress in efforts to end US-Iran war &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 19:35:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers - Reuters",
+      "description": "OpenAI pays $3.2 million in US probe over hiring foreign workers &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 19:24:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1391,52 +1433,10 @@
       "source": "Reuters"
     },
     {
-      "title": "PODCAST: Manufacturing rebounds - Reuters",
-      "description": "PODCAST: Manufacturing rebounds &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 14:13:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWNUdkpLMG5rTVozVFg4clZiNGNBRDhqa1ZGUUZkZE1NTVZQdlc2bXc5M0p2Y09GaWptWnJPWG5COWxNdGNBSkdYNWdkSVZKZm5sRHFfWUdIZVJoUEVpblV1d1RJdnlTQVQtX0lZYmxoOVQxVEh0N1FaNm9mbG9iRy1IOURjR2lnUjZuVVgwVWw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Canadian trade surplus hits four-year high in June, helped by weaker C$ - Reuters",
-      "description": "Canadian trade surplus hits four-year high in June, helped by weaker C$ &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 13:57:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUZWdWRTTlFDTS1jRTFveDlsblVOS1lrTktzbkVIbUljbi1rU0YyUXF3NElUM090Z0k2c0Q5LTI4OE5SVk1PaGd4TWEzdlgtcTNTWms1akxlXzA0Y1BNb19McHBCVlVqSnNEWUZaYlBWV3c4ZGk0NjVRdF9MeHpwS3F4cnhkYXU5VGw2bVQ0TTk0cHVMQkM5bUJraERIbmxEeTg4?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Iran demands inbound control of Hormuz and outbound oversight, source says - Reuters",
-      "description": "Iran demands inbound control of Hormuz and outbound oversight, source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 13:46:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Fed's Paulson keeps 'open mind' on rate policy outlook amid high inflation - Reuters",
-      "description": "Fed's Paulson keeps 'open mind' on rate policy outlook amid high inflation &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 13:41:57 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHhRaTdoVFozWW02NDBFSkllcmh2MVNTdzVqQ0x5YW1VMUtCTFBZS214c0FrZkhWNVI1UURhRDA5aTZaMjdYS0FFeURnYURSdDNlUnIwU0dhYUFnSlpsZjJXeFZnODZjLVlTbGRRb0VjUWltWmpBT0hJLW0zYlhNSU83NXRlZDdTanA5QTdGb2RPeDI4SHRsdWxDaVhRTnNqQjJHR3JUdHRNZVFySTlIWG1iQQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "EXCLUSIVE: Nigeria's Dangote refinery aims to raise $5 billion with October listing, source says - Reuters",
-      "description": "EXCLUSIVE: Nigeria's Dangote refinery aims to raise $5 billion with October listing, source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 12:58:11 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWm9LQ0xSQ1JkdGFGdElhVkVJeFFUajJUNjdTVUpSWXFVYl9ZOG5nMVRmXzJPeXVhZ1M4S0NTQnZYaG9uN0VjdDVNT1U3NnZFVjItdXJHQmJiOWVLYVlzOENUYXdqZW4tV2JMejI0WnU0X19ld1Z5UVF3aWdtaENvZ1N1SEdDdDF1aHliOU5DMmw2WXZTdFJ5ZGJLSXUwSkJKZDBXa2phdHNzekNES0RxSzlYRnBWMFdvNHRjc04tUEF5NTU1clNIMjFRNA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "EU interior ministers' meeting over Ceuta crisis was 'constructive', Spain says - Reuters",
-      "description": "EU interior ministers' meeting over Ceuta crisis was 'constructive', Spain says &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 12:57:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPREgyVDIwZnNfemF4TVJydWhqZl95UVc3bWN1Y21IdXZlbFVYdGd2a0k3U1FQaU9yN3pwWXQxaGhUWU1xNUtpVG9rVVhVWUVvVndoS3R1cDh6UG1fM0ZJUDlzTHJTQUJMZE5rUDRNdllZdEVFREdWZnJtZWljWlJIVHhjb2xmRWI0aGZuN21jcU9ESVpPR01NdExpTnBzck85eTBOMm85RzBaek1PYk8tdzNVazNrb1hW?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "French coastguards rescue 157 from burning migrant boat in English Channel - Reuters",
-      "description": "French coastguards rescue 157 from burning migrant boat in English Channel &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 12:06:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMC1Ha0xsY2N0R2VONVJhNXAtYmNWTnJTMV9sYTMtYWxfUnpGaENHNHZXN1pFZ3pXSXRkZ0lCd2lqZE5lWUhhNU16RFhvejBoTTFEQ0hFZUhkNG9WN01BcUliaDRvWDlZbEk2cF9xeFdjd3MxWklqQlR4RERod2ExZHJRR2EtR3pmVzBnaVdweFpqQ1BDMUU5eFpBVTBxdVN4NHNKZ0sycUtzMVFh?oc=5",
+      "title": "NRG Energy misses quarterly profit estimates as interest costs rise - Reuters",
+      "description": "NRG Energy misses quarterly profit estimates as interest costs rise &nbsp;&nbsp; Reuters",
+      "publication_date": "Tue, 04 Aug 2026 15:00:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUs1MmYwZklYQW9XWklqMnF5S3pzZnVjZEgtQ3o1aFBtR2tuUTlrYUpjdW12a3JrSDdzWWNDcWk2dmZGY0ZJY2hyMTM4dzNsR2V1eGJfRjZBbXFfd0NDelprZ1dLRVpyUWp1NGRERWZjRE1aN21la01aaVA3bFVUY3oxdjdOSFhGZDYwOFBtd29DcGJtbk9SMFJOajhOcmhRZTZDU09qSVJJTjJ3QWFsa0JOUDNkdjA?oc=5",
       "source": "Reuters"
     }
   ]
