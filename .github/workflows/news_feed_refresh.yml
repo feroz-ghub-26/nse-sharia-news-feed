@@ -3,14 +3,20 @@ name: Refresh free news feed
 on:
   schedule:
     - cron: '0 * * * *'
+    - cron: '30 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: news-feed-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh-news-feed:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,6 +28,12 @@ jobs:
 
       - name: Generate news feed JSON
         run: python scripts/refresh_news_feed.py
+
+      - name: Show feed status
+        run: |
+          ls -lh news_feed.json || true
+          echo "Last 5 lines of news_feed.json (if present):"
+          tail -n 5 news_feed.json || true
 
       - name: Commit updated feed
         run: |
