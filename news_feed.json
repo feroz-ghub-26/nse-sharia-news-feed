@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:46:39.887114+00:00",
+  "generated_at": "2026-08-07T14:08:00.436402+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -292,6 +292,13 @@
       "source": "rss"
     },
     {
+      "title": "Trading Day: Momentum fizzles, gold sizzles - Reuters",
+      "description": "Trading Day: Momentum fizzles, gold sizzles &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 21:10:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUpRNUR0dUREOGNCc05RdF9OT2hlQjJULU5PSFJPT29wT3lJUElsV1JReE5ocmhhcjNTUmg2UnR0NF9pN0lrRnE4dUVuNGplYlJ4TXozSTYzMGdnd0M5MnpyRmxSTDFFZTEwZWRocTlkQ1pOT25XNVRWXzBrLXcxTGFZRFk3a3A1a3hDUWFkZmJHWGwzc05WY1prOVJJS0NFam9PSmFn?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "US Treasury keeps coupon auction sizes steady",
       "description": "The US Treasury has announced it will keep its issuance of both coupon and floating-rate notes consistent for the upcoming quarters. This strategy aims to alleviate worries around yield increases and inflation. Analysts suggest auction sizes will hold steady until next year, with a projected $125 billion in notes to be sold next week, reflecting robust market demand for Treasury bills.",
       "publication_date": "Wed, 05 Aug 2026 21:08:23 +0530",
@@ -376,6 +383,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
+      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:37:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "description": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
       "publication_date": "Wed, 05 Aug 2026 20:36:16 GMT",
@@ -395,13 +409,6 @@
       "publication_date": "Wed, 05 Aug 2026 20:31:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 20:03:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
@@ -467,18 +474,18 @@
       "source": "Reuters"
     },
     {
+      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 19:12:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Why US markets are rising: S&P 500, Dow hit record highs as Mideast hopes offset SpaceX, AMD drag",
       "description": "Major Wall Street indexes opened higher on Wednesday morning. Hopes for Middle East peace offset declines in SpaceX and AMD shares. These companies' forecasts failed to impress investors, causing their stock prices to fall. The Dow Jones Industrial Average rose 180 points at the open. The S&P 500 and Nasdaq Composite also saw gains.",
       "publication_date": "Wed, 05 Aug 2026 19:11:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-mideast-hopes-offset-spacex-amd-drag/articleshow/132932841.cms",
       "source": "rss"
-    },
-    {
-      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
-      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 19:07:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Pidilite Industries among 6 stocks to hit 52-week highs & surge up to 22% in a month",
@@ -864,6 +871,13 @@
       "publication_date": "Wed, 05 Aug 2026 14:44:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-nifty-stocks-that-are-down-up-to-35-from-52-week-highs-are-you-affected/slideshow/132910965.cms",
       "source": "rss"
+    },
+    {
+      "title": "VIEW India's central bank holds rates as expected - Reuters",
+      "description": "VIEW India's central bank holds rates as expected &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 14:35:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekdGNDA0d1FoYU9lc3oydF9oQ1V1a2R5RFVUMFAxaDZDZ3pmZTNXaEFlZy1wSEtDVi1jUzE0c0cxbU9vX002bDQxWjN3LVpHeHU1Ry03cjFSNHhCZGZ3MWFMYWdXLUZ0dnRDemV6SDZycnFhaWRPRFlURU8zdGtsRWx2SGlJQllqTUhyb1pNZFRpVmUxbG9pZA?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
@@ -1265,13 +1279,6 @@
       "source": "Reuters"
     },
     {
-      "title": "VIEW India's central bank holds rates as expected - Reuters",
-      "description": "VIEW India's central bank holds rates as expected &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 04:55:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekdGNDA0d1FoYU9lc3oydF9oQ1V1a2R5RFVUMFAxaDZDZ3pmZTNXaEFlZy1wSEtDVi1jUzE0c0cxbU9vX002bDQxWjN3LVpHeHU1Ry03cjFSNHhCZGZ3MWFMYWdXLUZ0dnRDemV6SDZycnFhaWRPRFlURU8zdGtsRWx2SGlJQllqTUhyb1pNZFRpVmUxbG9pZA?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "UAE non-oil growth hits four-month high in July, PMI shows - Reuters",
       "description": "UAE non-oil growth hits four-month high in July, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 04:37:00 GMT",
@@ -1430,13 +1437,6 @@
       "description": "Oil prices settle 5% lower after claims of progress in US-Iran talks &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 19:27:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers - Reuters",
-      "description": "OpenAI pays $3.2 million in US probe over hiring foreign workers &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 19:24:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
       "source": "Reuters"
     }
   ]
