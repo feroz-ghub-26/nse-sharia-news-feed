@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:54:36.050254+00:00",
+  "generated_at": "2026-08-07T10:45:14.749795+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 50
+      "article_count": 48
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -376,13 +376,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 20:37:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "description": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
       "publication_date": "Wed, 05 Aug 2026 20:36:16 GMT",
@@ -402,6 +395,13 @@
       "publication_date": "Wed, 05 Aug 2026 20:31:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
       "source": "rss"
+    },
+    {
+      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
+      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:03:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
@@ -866,10 +866,24 @@
       "source": "rss"
     },
     {
+      "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
+      "description": "Trump says US held 'all-day negotiation' with Iran on Tuesday &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 14:26:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "US service sector maintains strong growth pace in July - Reuters",
       "description": "US service sector maintains strong growth pace in July &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 14:13:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUROY3VfTWk1dnUtUVp0dE5PSTVYQmVoWGc4d3hHcDdCcVlsOVpWVmVrdkV0UTFHTmItbGJyYkVaSE0yZVBXdnVOMW40ZGJjcXN5UlIxRU9PVzdpTU1aaktoNExKN1lCaU5lX3QtT2xheEZyVWRGUU4yUU1veEM5MlctQ3RiVmZYUl96NE9CTEMtaXc0d0JIQlJ6cUg?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
+      "description": "GlobalFoundries tops second quarter estimates on AI chip demand &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 14:13:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3M2M3BPLXpSSFBXMktMVG5vRlFGcmEwT0FYRzFfV3dHcG1RSU5xTzFNeU5ubkpWZWcwcjRMQmFfWTF1c3NUZEtHU1V6Wl8zakI0Y1lWRk5NSnNROGRFMHdIbGtKRXpDWFMybDU1b2d1Y24wdlBzcDJmU3dERDM3Q3hpemgyTmNnLURjaW1VOVlKX0RfTEZFWTVMTG02RmFHelQ4ODVTUFQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1258,13 +1272,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
-      "description": "Trump says US held 'all-day negotiation' with Iran on Tuesday &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 04:48:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "UAE non-oil growth hits four-month high in July, PMI shows - Reuters",
       "description": "UAE non-oil growth hits four-month high in July, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 04:37:00 GMT",
@@ -1431,13 +1438,6 @@
       "publication_date": "Tue, 04 Aug 2026 19:24:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
-      "description": "South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.",
-      "publication_date": "Thu, 06 Aug 2026 23:42:20 GMT",
-      "link": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
-      "source": "rss"
     }
   ]
 }
