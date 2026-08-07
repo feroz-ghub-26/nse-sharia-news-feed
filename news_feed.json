@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:50:20.147037+00:00",
+  "generated_at": "2026-08-07T06:06:26.981632+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -164,6 +164,13 @@
       "publication_date": "Wed, 05 Oct 2016 08:00:04 +0530",
       "link": "http://www.moneycontrol.com/news/current-affairs/automation-threatens-69-jobsindia-world-bank_7574441.html",
       "source": "rss"
+    },
+    {
+      "title": "Indian share benchmarks inch higher after RBI rate pause - Reuters",
+      "description": "Indian share benchmarks inch higher after RBI rate pause &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 23:48:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
@@ -334,6 +341,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks - Reuters",
+      "description": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:55:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Fed's Cook ready to raise rates if inflation doesn't start easing - Reuters",
       "description": "Fed's Cook ready to raise rates if inflation doesn't start easing &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 20:55:01 GMT",
@@ -362,6 +376,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
+      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:37:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "description": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
       "publication_date": "Wed, 05 Aug 2026 20:36:16 GMT",
@@ -381,13 +402,6 @@
       "publication_date": "Wed, 05 Aug 2026 20:31:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 20:03:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
@@ -824,6 +838,13 @@
       "source": "rss"
     },
     {
+      "title": "Cuba plunged into darkness as aging power grid collapses for second time in 24 hours - Reuters",
+      "description": "Cuba plunged into darkness as aging power grid collapses for second time in 24 hours &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 15:04:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNi14cHJQYzV1UmhmU2pEV3lRQmRqeHlzS3J1WFcwM0NkWS1sZ1FDMm1xNFJ4UjVKNF9kQ3pXWXh3d1h3WG5IeU1VMGRwZXdQTDlJV2xYbUtxWXAzdmVMczJ4WGdQZEY2NEUxV1BGb0RYdnFLSjdIRktXQ3RVTGZDVmhkbXlFa2RPM21uQmt4VWZqQTB4QlpTNGhxVTBDM3p6Z3p3dndUNF9hNDR3SnF2Y3F6Yy12c0hVUmFB?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "SpaceX posts 92% revenue surge, but stock tumbles 7% in after-hours. Here's why",
       "description": "SpaceX reported a strong debut quarterly performance as a public company, with revenue surging 92% year-on-year to $7.8 billion in the April–June quarter, driven by robust growth in its Starlink and AI businesses. Despite the strong earnings, the stock fell in after-hours trading as investors reacted to a sharp rise in capital expenditure and concerns over upcoming IPO lock-up expirations.",
       "publication_date": "Wed, 05 Aug 2026 14:44:50 +0530",
@@ -842,6 +863,13 @@
       "description": "US service sector maintains strong growth pace in July &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 14:13:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUROY3VfTWk1dnUtUVp0dE5PSTVYQmVoWGc4d3hHcDdCcVlsOVpWVmVrdkV0UTFHTmItbGJyYkVaSE0yZVBXdnVOMW40ZGJjcXN5UlIxRU9PVzdpTU1aaktoNExKN1lCaU5lX3QtT2xheEZyVWRGUU4yUU1veEM5MlctQ3RiVmZYUl96NE9CTEMtaXc0d0JIQlJ6cUg?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "New York Times' slower subscriber growth in busy news cycle sparks share selloff - Reuters",
+      "description": "New York Times' slower subscriber growth in busy news cycle sparks share selloff &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 14:09:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGV4TlY0SXFLSmhlNkdKNkREd0MyZEhPT0xTRXEzWmI1TC1mbmlUWUZfNjVSMXMtMW1vNFFnbHNXQXN2TEczbXoxZ3hqb3ZzREpTc29FQndlZHFRbVZYeDFqYWo2dXVacjVhWHBpZ01JX19wcVBmbG9GVEg5TGxDMG91dWZHSVRhRVB6YTVoODE5OFg5MHRQNUhtYWFGU0R2aVpOZ0RxclNJN011ZUlaTzdJb0hjdEZITDRZ?oc=5",
       "source": "Reuters"
     },
     {
@@ -871,6 +899,13 @@
       "publication_date": "Wed, 05 Aug 2026 13:56:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-bajaj-finance-among-axis-securities-top-8-largecap-stock-picks-for-august/slideshow/132909152.cms",
       "source": "rss"
+    },
+    {
+      "title": "'No discussions' over AstraZeneca-Bristol Myers deal, senior source says - Reuters",
+      "description": "'No discussions' over AstraZeneca-Bristol Myers deal, senior source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 13:55:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpOMDBiVmpKVlBJazhKdEJ2RWhjLUlpNUl4Nm04OVF4TnUtSzhETjhYS0NJN2NtWDRDMFlBMHlRWm9OOVduTFBqWmZJbzFxbVRSajM2NFhmYkxaSE1xOVZQN004Wi1QRDMwNzhsMVdNbHZ3Qk42Vm50andHUWdVY0hITGFKQ2xMTTBqT3RYM2VQMGhTWTJfczdHeE5PY0djdFVpMGtnRlNoQUtXN2RvUg?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Mexico's Sheinbaum weighs pilot fracking projects to boost gas production, sources say - Reuters",
@@ -1286,13 +1321,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks - Reuters",
-      "description": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 01:36:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Fed's Schmid says finances around AI buildout merit watching - Reuters",
       "description": "Fed's Schmid says finances around AI buildout merit watching &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 01:23:00 GMT",
@@ -1410,34 +1438,6 @@
       "publication_date": "Tue, 04 Aug 2026 19:24:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - Reuters",
-      "description": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 19:02:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmtBb0gtUVhaWUFKQ2tlakdWSDhOREJnbHM3dVN6ZGRkbEF1Mnp0VXVFYzY0TXRZRDduZDVibW0yaVpkaDg0TjNpY1VCWFlrQnRQam0xN2ZWWG1vZWpZSUlzTU5CWG9rSVM5dDlGQXRFZzVFXzZCcXVsd2ZUUmJaTi0tUDhiSVp3T1M0bGdRcGZuWmgtV01NLW5OTVFCZlQ2VWdEX2dzRUptUFhxSlVXMEI4T1A3UQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Petrobras halts studies for $1 billion gas pipeline in Brazil amid regulatory uncertainty, sources say - Reuters",
-      "description": "Petrobras halts studies for $1 billion gas pipeline in Brazil amid regulatory uncertainty, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 18:46:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclpNOEhfRjUzOWdQdDNKZGRFTVlfUC1MRXhmYk5jNjdxakpOVnhlaVMteG4wWDdoUHpjSWUtTjhoX2dtMWtoNVJtWTdfdjJCdE5lZTI5MFpzZFVveHJ2SGFFSElkNVM4T2ZpMnF0b0NxR3lvWEJwdFBXdERTTU1oMGdZQWRGYzZqaDU0OHItMHREdUE4YWRicVk4VVVEQ19hOUhhTnppX2M2V0RzUTNIdDRwRG1RWmdVWXZFWE53?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Marathon Petroleum's profits surge on big refining margin boost - Reuters",
-      "description": "Marathon Petroleum's profits surge on big refining margin boost &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 18:45:37 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc09qR2FxemhFLWFCOGhqUVRhT3Q0aUhkZ2lpNDVsUlZFN0JVMzZHZkZmOU1tTk9VNUN1c2p4dXBYV0FoOE9fc184SGtxWjF3Yi00TV8tdTY2bnhhc0VwZG1ha2tKWG1LT3ZhV2hiUUZvLS1mdWVlcV81NHJ6alpDVmFZNW91amdrQXdWMUtxLWtYakdoVjE0cFFnVWNFendJSjU5TlZCekVnSmtqWXNMUUZFNUxxUm5YZUdWeXNROUVLZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
-      "description": "South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.",
-      "publication_date": "Thu, 06 Aug 2026 23:42:20 GMT",
-      "link": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
-      "source": "rss"
     }
   ]
 }
