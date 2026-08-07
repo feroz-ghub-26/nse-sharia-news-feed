@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T02:19:37.828122+00:00",
+  "generated_at": "2026-08-07T04:50:20.147037+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -192,13 +192,6 @@
       "publication_date": "Wed, 05 Aug 2026 23:16:27 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms",
       "source": "rss"
-    },
-    {
-      "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - Reuters",
-      "description": "Stocks mixed with Nasdaq down; US oil eases on Iran talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 23:12:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
@@ -775,20 +768,6 @@
       "source": "rss"
     },
     {
-      "title": "China eases controls on fuel exports for a second month, sources say - Reuters",
-      "description": "China eases controls on fuel exports for a second month, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 15:52:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRMR3J2NzJaT2hKV1ZTem4wMWhSQVF4NnNNQ19WNXFLaUNVamQ5Slg4NjB6Y0ZpWkN0SWYxeFZrVnF5QXhGSXl6UnNyMXRFVXRQVUtsaURERFRDM25FaW9DQW9QRDZPdmpuMTNGdHVpSFNPcG1Da0VtMXNpVk1OVXVMVlVFS3RHekhiT19FelYwMFFGMVI5QnNzNkJUY0tQMWxMUk5RR0hIWDVyN293?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal - Reuters",
-      "description": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 15:51:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0RESDQ4NjdTVGJzRExCNVZHV0xKZVJaMkVzMFBQdFB3YjdrUUpMYmV6Z0lZTFhHOXRDWXR4ZnpHNUtiOFNmMUg4MjhtVXU5QUdkOUFycjFQLTQ5SGxmbmFsTVNHQXB4NkNyT21xZjBBOHpYSFE0LWw5eElGUjA2VTlhTXNHUEhKTmVNWEQ0NERYbF9VWjg0N1RybkxTSENGMVdPR1A1MV84RTJnQVFRQS1vdWhSa2pqeTJmTDZnSmRfOGxBV1E?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Tanger CEO says World Cup drove up traffic, sales this summer",
       "description": "Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup.",
       "publication_date": "Wed, 05 Aug 2026 15:48:39 GMT",
@@ -1062,6 +1041,13 @@
       "source": "Reuters"
     },
     {
+      "title": "AI data centres, Middle East demand drive record quarter at Siemens Energy - Reuters",
+      "description": "AI data centres, Middle East demand drive record quarter at Siemens Energy &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 12:10:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9ueU9aZ0ZYRkd0N3pZZEtjVXFnM0QxVWJ6MUhZUmhTUjZPdUpQc19KZlpZLWhna1lRRnV1bmhvdnJSZzYxckFQdkZXZkF6dlI4X0U0WlRNUzhTUnhIeWpJYUIyYmlvelBYUlQ2RkFQRng2T25WV3dXYzYtaWhCUjlHQTJoTHhGOTNYRmUtV0FLTFJ2VWZrXzEza2JQcXN2ZDloZEtjWGUtbnFmcjFubXRWS3d0WEYyZ3Q1VXFKWUZtRHN6MUNUSg?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal",
       "description": "EA said its stock has ceased trading and will be delisted from the Nasdaq. Its shareholders will receive $210 in cash per share.",
       "publication_date": "Wed, 05 Aug 2026 12:08:58 GMT",
@@ -1125,17 +1111,17 @@
       "source": "Reuters"
     },
     {
-      "title": "AI data centres, Middle East demand drive record quarter at Siemens Energy - Reuters",
-      "description": "AI data centres, Middle East demand drive record quarter at Siemens Energy &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 08:38:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9ueU9aZ0ZYRkd0N3pZZEtjVXFnM0QxVWJ6MUhZUmhTUjZPdUpQc19KZlpZLWhna1lRRnV1bmhvdnJSZzYxckFQdkZXZkF6dlI4X0U0WlRNUzhTUnhIeWpJYUIyYmlvelBYUlQ2RkFQRng2T25WV3dXYzYtaWhCUjlHQTJoTHhGOTNYRmUtV0FLTFJ2VWZrXzEza2JQcXN2ZDloZEtjWGUtbnFmcjFubXRWS3d0WEYyZ3Q1VXFKWUZtRHN6MUNUSg?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Indian refiners buy Middle East and West African crude, sources say - Reuters",
       "description": "Indian refiners buy Middle East and West African crude, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 08:24:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXB4OWNHemNBNWozSm5fZnh4dDBlY21lYk5tdkZEVE90dUt0VXVKandrbkZSSU5DRUllS2JSS1hFNFpXTE0xRjRGNl9QNlpxM2hkVUpEcDRSbW9mdkJxZ292OHlhY0gxVHF0V2RFWnRDWDdVV3RmWGJuazQ5NmhDelJkX3BxdnF0OUkwaklFNl91UlR6M3k2cWxzbllMc19SQ3Y4NmpKdmtqXzVWeUFtZk9WdEw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "China eases controls on fuel exports for a second month, sources say - Reuters",
+      "description": "China eases controls on fuel exports for a second month, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 08:00:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRMR3J2NzJaT2hKV1ZTem4wMWhSQVF4NnNNQ19WNXFLaUNVamQ5Slg4NjB6Y0ZpWkN0SWYxeFZrVnF5QXhGSXl6UnNyMXRFVXRQVUtsaURERFRDM25FaW9DQW9QRDZPdmpuMTNGdHVpSFNPcG1Da0VtMXNpVk1OVXVMVlVFS3RHekhiT19FelYwMFFGMVI5QnNzNkJUY0tQMWxMUk5RR0hIWDVyN293?oc=5",
       "source": "Reuters"
     },
     {
@@ -1157,6 +1143,13 @@
       "description": "Israel's El Al Airlines doubles second-quarter net profit despite Iran conflict &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 07:03:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlVmYVpGYzBJMHZXUy1CODdmVHhUak9yZVJSUlVVMDhaUHdydEdHaGQwTEd4Z0NHdmw0c1YtaXdTa0hjUTdYNDFqSlFLVFhsZS1lOUYzY0d1SWtFc2U3YXhQU2xYejRQcnpUTVBDX0c3Z3BsNW5fTHVkaDdsc2hfX3doZXlINXBDQjkxWEdtMEc2S1FBdGpKYVJMWHhsQ09qYnNMNmJOWnpiUTZQaXQzMUlZcjdyWXZRSXVHSTNKTllNNVBoT1J1T1ExOHM?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal - Reuters",
+      "description": "Canada's Gran Tierra to sell South American assets to Maurel and Prom in $1.33 billion deal &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 07:01:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0RESDQ4NjdTVGJzRExCNVZHV0xKZVJaMkVzMFBQdFB3YjdrUUpMYmV6Z0lZTFhHOXRDWXR4ZnpHNUtiOFNmMUg4MjhtVXU5QUdkOUFycjFQLTQ5SGxmbmFsTVNHQXB4NkNyT21xZjBBOHpYSFE0LWw5eElGUjA2VTlhTXNHUEhKTmVNWEQ0NERYbF9VWjg0N1RybkxTSENGMVdPR1A1MV84RTJnQVFRQS1vdWhSa2pqeTJmTDZnSmRfOGxBV1E?oc=5",
       "source": "Reuters"
     },
     {
@@ -1438,6 +1431,13 @@
       "publication_date": "Tue, 04 Aug 2026 18:45:37 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc09qR2FxemhFLWFCOGhqUVRhT3Q0aUhkZ2lpNDVsUlZFN0JVMzZHZkZmOU1tTk9VNUN1c2p4dXBYV0FoOE9fc184SGtxWjF3Yi00TV8tdTY2bnhhc0VwZG1ha2tKWG1LT3ZhV2hiUUZvLS1mdWVlcV81NHJ6alpDVmFZNW91amdrQXdWMUtxLWtYakdoVjE0cFFnVWNFendJSjU5TlZCekVnSmtqWXNMUUZFNUxxUm5YZUdWeXNROUVLZw?oc=5",
       "source": "Reuters"
+    },
+    {
+      "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+      "description": "South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.",
+      "publication_date": "Thu, 06 Aug 2026 23:42:20 GMT",
+      "link": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+      "source": "rss"
     }
   ]
 }
