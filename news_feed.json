@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T23:52:47.112513+00:00",
+  "generated_at": "2026-08-07T02:19:37.828122+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
+      "status": "empty",
       "article_count": 0
     }
   ],
@@ -250,6 +250,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Mexico investigating tourist hub for cyclospora after UK alert - Reuters",
+      "description": "Mexico investigating tourist hub for cyclospora after UK alert &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 21:32:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVRfejRXX2Q5N2N0UFhKMXdJLUlXbkdSQ0lQNkJrbTY2QTNBeVhNYmRwS0hOei1BQ3Y1azVDa2VxVUZNZlNrbzdhMmtKeW1wM1JGVlR3c0tkazAtb0lPWERCcjlqbTlnM2J1WE5BeWd5R0hadzZ1bDlIOXVXVXZRNVZ2VWVuLXIwdlRYeHNDU0ZkVzhQQ1RqWHNNMTM3UVFJeGVDUjFnejVpZXNwUHpQQ3lCMnNfQl9fU1JYZUZMMEtXMHo1TWtLeTZn?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
       "description": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
       "publication_date": "Wed, 05 Aug 2026 21:32:34 GMT",
@@ -381,6 +388,13 @@
       "publication_date": "Wed, 05 Aug 2026 20:31:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
       "source": "rss"
+    },
+    {
+      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
+      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 20:03:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
@@ -1132,13 +1146,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
-      "description": "Trump says US held 'all-day negotiation' with Iran on Tuesday &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 07:43:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap - Reuters",
       "description": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 07:43:51 GMT",
@@ -1223,6 +1230,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
+      "description": "Trump says US held 'all-day negotiation' with Iran on Tuesday &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 04:48:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "UAE non-oil growth hits four-month high in July, PMI shows - Reuters",
       "description": "UAE non-oil growth hits four-month high in July, PMI shows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 04:37:00 GMT",
@@ -1283,13 +1297,6 @@
       "description": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 01:36:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 01:26:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "Marathon Petroleum's profits surge on big refining margin boost &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 18:45:37 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc09qR2FxemhFLWFCOGhqUVRhT3Q0aUhkZ2lpNDVsUlZFN0JVMzZHZkZmOU1tTk9VNUN1c2p4dXBYV0FoOE9fc184SGtxWjF3Yi00TV8tdTY2bnhhc0VwZG1ha2tKWG1LT3ZhV2hiUUZvLS1mdWVlcV81NHJ6alpDVmFZNW91amdrQXdWMUtxLWtYakdoVjE0cFFnVWNFendJSjU5TlZCekVnSmtqWXNMUUZFNUxxUm5YZUdWeXNROUVLZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last - Reuters",
-      "description": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 18:44:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTBUQWJhNTlGalR6X1BiS0JMLUpfRzRnMnoyQVB5cU1BcEVnc2k3cVpObzZueU8weU0wdm1mYnp3c1FYM25NRUgxbE9tZ1lCckRyYVVlZUlNemhXZl9YOGFJa2lrVTRLS0JGb01yeUd0M205a2hJdVBjRWtZYjhsbXpZWUFmMHNlMkJBZW5YMVE0clN1cEU3d0VEV3FkTTIzaWw2dEJuRExJTDB6ZVBvQW5lRzJ6bXFHS05LdTlZNkt0N0V0d2c?oc=5",
       "source": "Reuters"
     }
   ]
