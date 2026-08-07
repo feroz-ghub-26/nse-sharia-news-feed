@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:08:00.436402+00:00",
+  "generated_at": "2026-08-07T15:49:22.122967+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -219,6 +219,13 @@
       "description": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 22:38:55 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Newly spun-off Honeywell Aerospace cuts 2026 forecast on supply-chain woes - Reuters",
+      "description": "Newly spun-off Honeywell Aerospace cuts 2026 forecast on supply-chain woes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 22:36:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNclQ0dHVjSWxSTHFkNlFlSlVUMGxHODRCa2g2OVpvbnUya1cyaWNDSGtSME1ra1E0bjBod3BoRk12cmZNUG5jSE9hMEEyX2kyQlhDOFdFSmFrcHVZcHVWaDdXTUNZNlY4Szk1M0tzWHJWdVFEck5sTGEyWkhRRFlhdnFVc2I3czFySkxNOGFNTW5fNDJpd1FyMjRlbmdCd1E0alozNV9KbmlNdExhMFA4ODBlRmJYMmZNa1BYdkFwQ3FSVVZ6WlI1bjlIUmhUN0k?oc=5",
       "source": "Reuters"
     },
     {
@@ -474,18 +481,18 @@
       "source": "Reuters"
     },
     {
-      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
-      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 19:12:41 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Why US markets are rising: S&P 500, Dow hit record highs as Mideast hopes offset SpaceX, AMD drag",
       "description": "Major Wall Street indexes opened higher on Wednesday morning. Hopes for Middle East peace offset declines in SpaceX and AMD shares. These companies' forecasts failed to impress investors, causing their stock prices to fall. The Dow Jones Industrial Average rose 180 points at the open. The S&P 500 and Nasdaq Composite also saw gains.",
       "publication_date": "Wed, 05 Aug 2026 19:11:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-mideast-hopes-offset-spacex-amd-drag/articleshow/132932841.cms",
       "source": "rss"
+    },
+    {
+      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 05 Aug 2026 19:07:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Pidilite Industries among 6 stocks to hit 52-week highs & surge up to 22% in a month",
@@ -1430,13 +1437,6 @@
       "description": "Canadian military says soldier charged with terrorism offenses is no longer serving &nbsp;&nbsp; Reuters",
       "publication_date": "Tue, 04 Aug 2026 20:16:03 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDRyTUk5cVZQVk51bGNJWlFBc1RhNFphNVNuYVczVHE4M3FHVE5ucURaSkNhY0F0RkdTM1U4akcwV1l3SEpBV3kzbVpSejJfQ1Q0T2NQRi1JUXB1RVBpZGVLZmNNX0ZDZWd1OHp5OWJQaTdXTWcxYjhMYTk3ekxQUlAzMkVWNV9kWVRtVU5EaW5MYmlwdmxFdldiMnZNU3lvT3JVZmp1VnNPclVkaGdTZHQ3U05pNDFf?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
-      "description": "Oil prices settle 5% lower after claims of progress in US-Iran talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Tue, 04 Aug 2026 19:27:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
       "source": "Reuters"
     }
   ]
