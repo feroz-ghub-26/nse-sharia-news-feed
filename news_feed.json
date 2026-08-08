@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:33:05.169056+00:00",
+  "generated_at": "2026-08-08T13:40:09.525550+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -205,13 +205,6 @@
       "description": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 23:07:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Myanmar's Min Aung Hlaing visits Thailand in quest for legitimacy - Reuters",
-      "description": "Myanmar's Min Aung Hlaing visits Thailand in quest for legitimacy &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 23:03:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd21RSmhNWHdNZENBZURCaGhlQkZNbmQydElVN1drTmVOYjNxRFR4OFMxQjRqcjBidzdHOTJIZ0hZdl96VldUM285aHV6X1NqNFp0dFByelBicWo2OU1TSVhQX0tYQmZPOUp5WmItTHIza20yR1ZxSUFaSzVHV0dBZFFEX1VCbXY3ckVFX050T3hRbk41d280X3J6Tm1DS2gtZzhMX3dTUDYwbjNRWUhJWmllaDhoTC1qb1MtVElWTnFiTmo4RzV3NUZn?oc=5",
       "source": "Reuters"
     },
     {
@@ -1437,6 +1430,13 @@
       "description": "Meta ordered to pay $567 million in New Mexico for teen mental health fund &nbsp;&nbsp; Reuters",
       "publication_date": "Thu, 06 Aug 2026 23:51:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ25adU40RDVWeVlvNTZDdmNqdHZpOERIODV6XzhBRmY3bFdPYmlYN2liNTloRWRkaEVNaDRpSXRXdEh5RVN2SFZGSTZRdXFsaGRyNENpMkRnTDBNdm5EX0trbWJQS3FFcmNMMzZabGRCb2VaZW5LYVExdVp2Zy1uWkFQTU54cC0xbTZKaU1FbDBKVW5TeGdFUDVZLXVjbGd3eW5JNl9mYlNodw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns - Reuters",
+      "description": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns &nbsp;&nbsp; Reuters",
+      "publication_date": "Thu, 06 Aug 2026 23:44:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
       "source": "Reuters"
     }
   ]
