@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:38:55.750678+00:00",
+  "generated_at": "2026-08-11T12:48:07.034319+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1356,6 +1356,62 @@
       "source": "Reuters"
     },
     {
+      "title": "DBS Bank extends Rs 520-cr credit to K Raheja Corp to develop commercial tower in Pune",
+      "description": "DBS Bank India has announced a substantial investment of Rs 520 crore for the development of a commercial tower in Pune. Additionally, Certus Capital has pledged over Rs 1,000 crore to various real estate projects in the first half of 2026, covering key cities such as Hyderabad, Mumbai, Chennai, and the National Capital Region.",
+      "publication_date": "Tue, 11 Aug 2026 17:59:33 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dbs-bank-extends-rs-520-cr-credit-to-k-raheja-corp-to-develop-commercial-tower-in-pune/articleshow/133154476.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Tribeca, Ira Realty to build Trump-branded housing project in Hyderabad at Rs 2,000 cr investment",
+      "description": "Tribeca Developers and Ira Realty are thrilled to announce their ambitious Trump-branded luxury housing project nestled in Hyderabad. The venture, requiring a hefty investment of Rs 2,000 crore, will boast two magnificent 65-storey structures featuring a total of 450 high-end apartments. With construction kicking off, the project is on track for completion in four years. This signifies the debut of a Trump-branded initiative in the vibrant South Indian market.",
+      "publication_date": "Tue, 11 Aug 2026 17:57:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tribeca-ira-realty-to-build-trump-branded-housing-project-in-hyderabad-at-rs-2000-cr-investment/articleshow/133154431.cms",
+      "source": "rss"
+    },
+    {
+      "title": "State Bank of India returns to dollar debt market, bankers see strong demand",
+      "description": "State Bank of India is set to re-enter the dollar bond market, marking its first appearance in nearly a year. The nation's leading financial institution foresees strong investor interest in its five-year bond offer. This decision comes in the wake of the Reserve Bank of India's launch of a swap facility earlier this June. SBI targets a minimum fundraising of $500 million, with current promotional activities underway.",
+      "publication_date": "Tue, 11 Aug 2026 17:56:17 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/state-bank-of-india-returns-to-dollar-debt-market-bankers-see-strong-demand/articleshow/133154390.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Indian bonds slip as crude hovers near $90",
+      "description": "Indian government bonds declined on Tuesday as oil prices briefly surged past ninety dollars. Traders awaited inflation data for clues on the Reserve Bank of India's interest rate path. Elevated oil prices could potentially fuel inflation and strain India's fiscal balance. Ample banking system liquidity supported demand, especially for short-term debt instruments. Foreign investors also purchased longer-dated bonds as the yield curve steepened.",
+      "publication_date": "Tue, 11 Aug 2026 17:54:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-as-crude-hovers-near-90/articleshow/133154375.cms",
+      "source": "rss"
+    },
+    {
+      "title": "RVNL Q1 Results: Net profit rises 18% YoY, EBITDA more than doubles",
+      "description": "Rail Vikas Nigam reported an 18.5% year-on-year rise in Q1FY27 net profit to ₹159.36 crore, while revenue increased 10.6%. EBITDA more than doubled, lifting margins, though profit and revenue declined sequentially amid continued pressure on the stock.",
+      "publication_date": "Tue, 11 Aug 2026 17:53:03 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rvnl-q1-results-net-profit-rises-18-yoy-ebitda-more-than-doubles/articleshow/133154291.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Titan Company among 4 stocks to hit 52-week highs and surge up to 25% in a month",
+      "description": "",
+      "publication_date": "Tue, 11 Aug 2026 17:47:25 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-among-4-stocks-to-hit-52-week-highs-and-surge-up-to-25-in-a-month/slideshow/133154265.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sebi proposes to widen foreign investors' access to non-agricultural commodities derivatives",
+      "description": "​India's markets ​regulator on Tuesday proposed ​to widen foreign investors' access to non-agricultural commodity derivatives ‌by allowing ⁠them ⁠to trade in ​physically settled contracts, a proposal paper ​on its website showed.",
+      "publication_date": "Tue, 11 Aug 2026 17:19:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-proposes-to-widen-foreign-investors-access-to-non-agricultural-commodities-derivatives/articleshow/133153234.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Retail traders lost $9.6 billion in equity derivatives",
+      "description": "The Indian equity market saw investors experiencing a striking loss of 916.85 billion rupees in futures and options trading. Retail trader involvement in equity derivatives has significantly dwindled from the previous year. This downturn signifies the impact of regulatory reforms aimed at reducing reckless speculative behavior. With the Securities and Exchange Board of India and policymakers introducing multiple safeguards, there has been a noticeable impact on overall trading volumes.",
+      "publication_date": "Tue, 11 Aug 2026 16:48:28 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-traders-lost-9-6-billion-in-equity-derivatives/articleshow/133152430.cms",
+      "source": "rss"
+    },
+    {
       "title": "Don't worry about AI! Why PPFAS CIO Rajeev Thakkar wants Indian investors to read what tech analyst Benedict Evans said",
       "description": "PPFAS CIO Rajeev Thakkar says fears that AI will destroy IT jobs are exaggerated. Citing Benedict Evans and historical automation, he argues technology eliminates some roles while creating new work, with implementation, cybersecurity and other opportunities emerging.",
       "publication_date": "Tue, 11 Aug 2026 16:38:01 +0530",
@@ -1381,62 +1437,6 @@
       "description": "The Indian rupee tumbled to a two-week low on Tuesday as surging oil prices and waning optimism regarding a U.S.-Iran deal pressured the currency. The Reserve Bank of India stepped in to mitigate the rupee's decline, yet both the Nifty 50 and benchmark bonds experienced downturns. Attention is now on the impending inflation reports from India and the U.S. for further market cues.",
       "publication_date": "Tue, 11 Aug 2026 15:54:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-retreats-to-near-two-week-low-closes-at-95-43-vs-usd-as-us-iran-standoff-pushes-oil-higher/articleshow/133150919.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Is Microsoft overbuilding AI capacity? Bernstein says no, raises target price to $660",
-      "description": "Bernstein maintains an Outperform rating on Microsoft and raises its target to $660, citing disciplined AI infrastructure spending, flexible datacenters, staggered commitments and strong fundamentals that support long-term growth.",
-      "publication_date": "Tue, 11 Aug 2026 15:47:32 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/is-microsoft-overbuilding-ai-capacity-bernstein-says-no-raises-target-price-to-660/articleshow/133150784.cms",
-      "source": "rss"
-    },
-    {
-      "title": "KPI Green Energy Q1 Results: Net profit dips 14% at Rs 95 crore",
-      "description": "KPI Green Energy experienced a fourteen percent dip in net profit for the June quarter, signaling the effects of geopolitical tensions and rising costs on financing and depreciation. Despite this, the company reported a notable sixteen percent increase in total revenue, amounting to Rs 710 crore. Additionally, Kapil Kriplani has been appointed as the new Chief Financial Officer, following Salim Yahoo's resignation from the role.",
-      "publication_date": "Tue, 11 Aug 2026 15:35:30 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kpi-green-energy-q1-results-net-profit-dips-14-at-rs-95-crore/articleshow/133150517.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Zydus Lifesciences Q1 Results: Net profit down 36% at Rs 939.8 crore",
-      "description": "Zydus Lifesciences reported a significant year-on-year decline of thirty-six percent in net profit for the first quarter, despite a robust twenty-two percent increase in operational revenue, reaching eight thousand seventeen crore rupees. The company experienced profitability challenges with an EBITDA reduction of seven point six percent compared to the previous year. Following the announcement, their stock price saw an uptick. Zydus is a prominent player in the global pharmaceutical landscape.",
-      "publication_date": "Tue, 11 Aug 2026 15:33:13 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zydus-lifesciences-q1-results-net-profit-down-36-at-rs-939-8-crore/articleshow/133150477.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Siemens Q1 Results: Net profit declines 18% to Rs 343 crore",
-      "description": "Siemens Ltd reported a decline in net profit of over eighteen percent in the June quarter, largely due to fluctuating commodity prices and rising material costs. On a positive note, the company experienced a significant increase in operational revenue, underlining strong demand. Additionally, new orders surged, particularly within the Smart Infrastructure segment, driven by robust investments from both private and public sectors.",
-      "publication_date": "Tue, 11 Aug 2026 15:30:43 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q1-results-net-profit-declines-18-to-rs-343-crore/articleshow/133150416.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Axis Direct highlights 3 stocks showing bullish momentum for August. Do you own any?",
-      "description": "Axis Direct has identified three stocks with strong technical setups and bullish momentum for August. Ramkrishna Forgings, Endurance Technologies and 360 ONE WAM have shown decisive breakouts and positive trend structures, with the brokerage providing specific buying ranges, stop-loss levels and upside targets.",
-      "publication_date": "Tue, 11 Aug 2026 15:09:53 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-highlights-3-stocks-showing-bullish-momentum-for-august-do-you-own-any/slideshow/133149615.cms",
-      "source": "rss"
-    },
-    {
-      "title": "MFs pull back: Stakes cut in 12 smallcap stocks after two quarters of buying; stocks fall up to 40%",
-      "description": "MF holdings declined across 83 BSE smallcaps in June 2026 after two quarters of accumulation. Among these, 15 stocks posted 20% or steeper CY26 declines, including Inox Wind, KEC International, Latent View Analytics and Afcons Infrastructure, highlighting divergent performance and reduced institutional exposure across several smallcap counters.",
-      "publication_date": "Tue, 11 Aug 2026 15:00:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-pull-back-stakes-cut-in-12-smallcap-stocks-after-two-quarters-of-buying-stocks-fall-up-to-40/slideshow/133149530.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US Stock Market: Senate moves to advance Crypto Clarity Act in major win for Trump, industry",
-      "description": "The US Senate is moving to advance the Clarity Act, which aims to establish a comprehensive regulatory framework for cryptocurrencies. A key procedural vote is expected after the August recess, but the bill faces a 60-vote hurdle and resistance from Democrats seeking stronger safeguards.",
-      "publication_date": "Tue, 11 Aug 2026 14:38:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-senate-moves-to-advance-crypto-clarity-act-in-major-win-for-trump-industry/articleshow/133148943.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Intel’s $15 billion stock sale. Why shares fell despite AI boom",
-      "description": "Intel shares fell after the company announced the offering, as investors worried about share dilution",
-      "publication_date": "Tue, 11 Aug 2026 14:17:11 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/intels-15-billion-stock-sale-why-shares-fell-despite-ai-boom/slideshow/133148896.cms",
       "source": "rss"
     }
   ]
