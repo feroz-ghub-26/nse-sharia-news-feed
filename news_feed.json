@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:57:16.598721+00:00",
+  "generated_at": "2026-08-11T20:41:27.623257+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "US stocks: US market ends down as Iran peace deal optimism fades",
+      "description": "Wall Street closed lower as investors grew pessimistic about Middle East stability. Amazon and Alphabet stocks dipped, impacting major indices like the S&P 500. Brent crude futures held near one-week highs amid rising oil prices and uncertainty. Investors await crucial inflation data which will shape Federal Reserve policy expectations. Jabil climbed after an upgrade, while On and Venture Global shares fell.",
+      "publication_date": "Wed, 12 Aug 2026 01:38:33 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms",
+      "source": "rss"
+    },
     {
       "title": "Fed’s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
       "description": "Chicago Fed President Austan Goolsbee has voiced significant worry over soaring inflation, recognizing it as the foremost challenge facing the economy today. While he deems the labor market stable, he doesn't classify it as vigorous. Meanwhile, traders are weighing the possibility of a rate hike in September, and experts expect consumer inflation data to indicate an uptick.",
@@ -1430,13 +1437,6 @@
       "description": "Tablespace Technologies has filed its DRHP with SEBI for an IPO comprising a fresh issue of up to ₹800 crore and an OFS. The managed workspace provider plans to repay borrowings, pursue acquisitions and fund corporate needs.",
       "publication_date": "Tue, 11 Aug 2026 20:38:25 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tablespace-technologies-files-draft-papers-with-sebi-to-raise-funds-through-ipo/articleshow/133158566.cms",
-      "source": "rss"
-    },
-    {
-      "title": "NDR InvIT Trust files draft papers for Rs 750 crore IPO",
-      "description": "In an ambitious move, NDR InvIT Trust plans to launch a public offering to secure up to Rs 750 crore, comprising a combination of new issues and an offer-for-sale. The capital raised is intended to enhance their portfolio through new warehousing acquisitions, facilitating ongoing development. NDR Warehousing, as the trust's sponsor, stands as a leader in India's warehousing landscape, overseeing a substantial amount of leasable space in strategic markets.",
-      "publication_date": "Tue, 11 Aug 2026 20:20:31 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ndr-invit-trust-files-draft-papers-for-rs-750-crore-ipo/articleshow/133158157.cms",
       "source": "rss"
     }
   ]
