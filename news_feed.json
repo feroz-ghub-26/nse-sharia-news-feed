@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:44:01.737042+00:00",
+  "generated_at": "2026-08-11T11:38:55.750678+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
@@ -1356,6 +1356,27 @@
       "source": "Reuters"
     },
     {
+      "title": "Don't worry about AI! Why PPFAS CIO Rajeev Thakkar wants Indian investors to read what tech analyst Benedict Evans said",
+      "description": "PPFAS CIO Rajeev Thakkar says fears that AI will destroy IT jobs are exaggerated. Citing Benedict Evans and historical automation, he argues technology eliminates some roles while creating new work, with implementation, cybersecurity and other opportunities emerging.",
+      "publication_date": "Tue, 11 Aug 2026 16:38:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dont-worry-about-ai-why-ppfas-cio-rajeev-thakkar-wants-indian-investors-to-read-what-tech-analyst-benedict-evans-said/articleshow/133152220.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Can SIFs bridge the gap between mutual funds and alternative investments?",
+      "description": "Specialized Investment Funds (SIFs) introduced a new investment framework for experienced investors. As portfolios evolve beyond traditional asset classes, could SIFs become the missing link between mutual funds and alternative investments?",
+      "publication_date": "Tue, 11 Aug 2026 16:37:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-sifs-bridge-the-gap-between-mutual-funds-and-alternative-investments/articleshow/133142331.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: European shares edge higher as energy stocks gain on Middle East uncertainty",
+      "description": "European shares edged higher as energy stocks gained on elevated oil prices amid Middle East tensions. Investors remained cautious ahead of key euro zone and U.S. economic data that could influence inflation, growth and interest-rate expectations.",
+      "publication_date": "Tue, 11 Aug 2026 16:16:59 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-energy-stocks-gain-on-middle-east-uncertainty/articleshow/133151455.cms",
+      "source": "rss"
+    },
+    {
       "title": "Rupee retreats to near two-week low, closes at 95.43 vs USD as US-Iran standoff pushes oil higher",
       "description": "The Indian rupee tumbled to a two-week low on Tuesday as surging oil prices and waning optimism regarding a U.S.-Iran deal pressured the currency. The Reserve Bank of India stepped in to mitigate the rupee's decline, yet both the Nifty 50 and benchmark bonds experienced downturns. Attention is now on the impending inflation reports from India and the U.S. for further market cues.",
       "publication_date": "Tue, 11 Aug 2026 15:54:26 +0530",
@@ -1416,27 +1437,6 @@
       "description": "Intel shares fell after the company announced the offering, as investors worried about share dilution",
       "publication_date": "Tue, 11 Aug 2026 14:17:11 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/intels-15-billion-stock-sale-why-shares-fell-despite-ai-boom/slideshow/133148896.cms",
-      "source": "rss"
-    },
-    {
-      "title": "How Wipro's Nifty exit shows old warhorse Indian IT is losing charm",
-      "description": "Wipro’s exit from the Nifty 50 and BSE’s inclusion highlight the shifting composition of India’s benchmark index. The move comes as IT stocks face concerns over AI disruption and weakening investor interest. Wipro shares are down sharply in 2026, while the combined Nifty 50 weight of India’s top IT companies has fallen.",
-      "publication_date": "Tue, 11 Aug 2026 14:04:11 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-wipros-nifty-exit-shows-old-warhorse-indian-it-is-losing-charm/articleshow/133147925.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US officials seek to strengthen domestic supply chains as foreign manufacturing investment surges",
-      "description": "US officials are working to strengthen domestic manufacturing supply chains as foreign investment rises under President Donald Trump’s tariff and deregulation policies. Officials are seeking to help small and medium-sized suppliers expand capacity, speed up foreign investment reviews and rebuild US industrial capacity amid growing demand from overseas manufacturers.",
-      "publication_date": "Tue, 11 Aug 2026 13:55:30 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-officials-seek-to-strengthen-domestic-supply-chains-as-foreign-manufacturing-investment-surges/articleshow/133147619.cms",
-      "source": "rss"
-    },
-    {
-      "title": "25-year-old hedge fund manager who lost $35 billion in a month eyes fresh capital after AI stock selloff",
-      "description": "Leopold Aschenbrenner’s AI-focused hedge fund, Situational Awareness, lost around $35 billion in weeks after leveraged bets on AI stocks turned sour. Despite the sharp losses, the 25-year-old fund manager is seeking fresh capital from existing backers. The episode highlights the risks of concentrated portfolios, heavy leverage and conviction-driven investing.",
-      "publication_date": "Tue, 11 Aug 2026 13:54:08 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/25-year-old-hedge-fund-manager-who-lost-35-billion-in-a-month-eyes-fresh-capital-after-ai-stock-selloff/articleshow/133147747.cms",
       "source": "rss"
     }
   ]
