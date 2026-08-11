@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:48:07.034319+00:00",
+  "generated_at": "2026-08-11T14:15:39.986413+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1356,6 +1356,62 @@
       "source": "Reuters"
     },
     {
+      "title": "US stocks: S&P 500, Nasdaq open higher as investors weigh report of fresh US-Iran peace deal",
+      "description": "Stock markets opened higher on Tuesday as investors reacted positively. The S&P 500 and Nasdaq Composite saw gains at the opening bell. This positive market movement followed news of a potential arrangement between the US and Iran. The Dow Jones Industrial Average experienced a slight decrease at the open. Investors welcomed the report suggesting an end to six months of conflict.",
+      "publication_date": "Tue, 11 Aug 2026 19:13:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-us-iran-peace-deal/articleshow/133156341.cms",
+      "source": "rss"
+    },
+    {
+      "title": "CME to allow round-the-clock trading of 100-Ounce Silver futures from September",
+      "description": "CME Group is set to launch 24/7 trading for silver futures starting in September, responding to heightened retail demand for precious metal products. Over fifty-three thousand gold futures contracts changed hands during weekend trading sessions alone. The company's metals division achieved record volumes in the first half, pending regulatory approval, to entice more traders into the market.",
+      "publication_date": "Tue, 11 Aug 2026 19:11:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cme-to-allow-round-the-clock-trading-of-100-ounce-silver-futures-from-september/articleshow/133156331.cms",
+      "source": "rss"
+    },
+    {
+      "title": "India govt says retail option trader losses fell 18% after regulatory curbs",
+      "description": "In India's equity derivatives market, retail investor losses plummeted by nearly eighteen percent year-on-year. The wave of regulatory measures to control speculative trading led to a significant drop in individual investors participating in this segment. This marks a concerning trend as retail investors have faced ongoing losses over the last five financial years, mirrored by a decline in overall market turnover compared to the previous year.",
+      "publication_date": "Tue, 11 Aug 2026 19:09:13 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-says-retail-option-trader-losses-fell-18-after-regulatory-curbs/articleshow/133156271.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Quote of the day by Peter Bernstein: \"Paradigm shifts are an inevitable result of forecast errors — the raw material from which paradigm shifts are fashioned\"",
+      "description": "Peter Bernstein’s insight highlights how forecast errors can trigger paradigm shifts in financial markets. Unexpected technological, economic, policy or geopolitical developments challenge conventional assumptions, making adaptability, humility and willingness to rethink investment strategies essential for navigating uncertainty.",
+      "publication_date": "Tue, 11 Aug 2026 18:49:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-peter-bernstein-paradigm-shifts-are-an-inevitable-result-of-forecast-errors-the-raw-material-from-which-paradigm-shifts-are-fashioned/articleshow/133155859.cms",
+      "source": "rss"
+    },
+    {
+      "title": "SBI returns to dollar bond market after a year, prices five-year notes 88 bps over US Treasury",
+      "description": "State Bank of India is targeting up to $500 million through a five-year dollar bond after attracting over $2 billion in peak orders. Strong demand enabled SBI to tighten pricing guidance, highlighting robust investor appetite for its debt.",
+      "publication_date": "Tue, 11 Aug 2026 18:42:15 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/sbi-returns-to-dollar-bond-market-after-a-year-prices-five-year-notes-88-bps-over-us-treasury/articleshow/133155806.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sunshine Pictures IPO price band set at ₹342-360; issue opens on August 18",
+      "description": "Sunshine Pictures’ IPO opens August 18, 2026, closing August 20. The price band is set at ₹342-360, with a lot size of 41 shares. The company aims to raise ₹282.14 crore to fund working capital and general corporate needs.",
+      "publication_date": "Tue, 11 Aug 2026 18:40:16 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunshine-pictures-ipo-price-band-set-at-342-360-issue-opens-on-august-18/articleshow/133155766.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks seesaw as investors assess new US-Iran peace proposal",
+      "description": "",
+      "publication_date": "Tue, 11 Aug 2026 18:16:56 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-rocket-lab-amd-intel-spacex-chip-stock-price-news-11th-august-2026/liveblog/133154916.cms",
+      "source": "rss"
+    },
+    {
+      "title": "TVS Supply Chain Solutions Q1 profit rises on strong business wins, freight volumes",
+      "description": "TVS Supply Chain Solutions reported a 28.7% rise in Q1FY27 revenue and 34% growth in adjusted EBITDA, supported by strong volumes and global forwarding. Record quarterly business wins reached ₹543 crore, while adjusted PBT surged 71%.",
+      "publication_date": "Tue, 11 Aug 2026 18:09:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-supply-chain-solutions-q1-profit-rises-on-strong-business-wins-freight-volumes/articleshow/133154739.cms",
+      "source": "rss"
+    },
+    {
       "title": "DBS Bank extends Rs 520-cr credit to K Raheja Corp to develop commercial tower in Pune",
       "description": "DBS Bank India has announced a substantial investment of Rs 520 crore for the development of a commercial tower in Pune. Additionally, Certus Capital has pledged over Rs 1,000 crore to various real estate projects in the first half of 2026, covering key cities such as Hyderabad, Mumbai, Chennai, and the National Capital Region.",
       "publication_date": "Tue, 11 Aug 2026 17:59:33 +0530",
@@ -1381,62 +1437,6 @@
       "description": "Indian government bonds declined on Tuesday as oil prices briefly surged past ninety dollars. Traders awaited inflation data for clues on the Reserve Bank of India's interest rate path. Elevated oil prices could potentially fuel inflation and strain India's fiscal balance. Ample banking system liquidity supported demand, especially for short-term debt instruments. Foreign investors also purchased longer-dated bonds as the yield curve steepened.",
       "publication_date": "Tue, 11 Aug 2026 17:54:54 +0530",
       "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-as-crude-hovers-near-90/articleshow/133154375.cms",
-      "source": "rss"
-    },
-    {
-      "title": "RVNL Q1 Results: Net profit rises 18% YoY, EBITDA more than doubles",
-      "description": "Rail Vikas Nigam reported an 18.5% year-on-year rise in Q1FY27 net profit to ₹159.36 crore, while revenue increased 10.6%. EBITDA more than doubled, lifting margins, though profit and revenue declined sequentially amid continued pressure on the stock.",
-      "publication_date": "Tue, 11 Aug 2026 17:53:03 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rvnl-q1-results-net-profit-rises-18-yoy-ebitda-more-than-doubles/articleshow/133154291.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Titan Company among 4 stocks to hit 52-week highs and surge up to 25% in a month",
-      "description": "",
-      "publication_date": "Tue, 11 Aug 2026 17:47:25 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-among-4-stocks-to-hit-52-week-highs-and-surge-up-to-25-in-a-month/slideshow/133154265.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sebi proposes to widen foreign investors' access to non-agricultural commodities derivatives",
-      "description": "​India's markets ​regulator on Tuesday proposed ​to widen foreign investors' access to non-agricultural commodity derivatives ‌by allowing ⁠them ⁠to trade in ​physically settled contracts, a proposal paper ​on its website showed.",
-      "publication_date": "Tue, 11 Aug 2026 17:19:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-proposes-to-widen-foreign-investors-access-to-non-agricultural-commodities-derivatives/articleshow/133153234.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Retail traders lost $9.6 billion in equity derivatives",
-      "description": "The Indian equity market saw investors experiencing a striking loss of 916.85 billion rupees in futures and options trading. Retail trader involvement in equity derivatives has significantly dwindled from the previous year. This downturn signifies the impact of regulatory reforms aimed at reducing reckless speculative behavior. With the Securities and Exchange Board of India and policymakers introducing multiple safeguards, there has been a noticeable impact on overall trading volumes.",
-      "publication_date": "Tue, 11 Aug 2026 16:48:28 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-traders-lost-9-6-billion-in-equity-derivatives/articleshow/133152430.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Don't worry about AI! Why PPFAS CIO Rajeev Thakkar wants Indian investors to read what tech analyst Benedict Evans said",
-      "description": "PPFAS CIO Rajeev Thakkar says fears that AI will destroy IT jobs are exaggerated. Citing Benedict Evans and historical automation, he argues technology eliminates some roles while creating new work, with implementation, cybersecurity and other opportunities emerging.",
-      "publication_date": "Tue, 11 Aug 2026 16:38:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dont-worry-about-ai-why-ppfas-cio-rajeev-thakkar-wants-indian-investors-to-read-what-tech-analyst-benedict-evans-said/articleshow/133152220.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Can SIFs bridge the gap between mutual funds and alternative investments?",
-      "description": "Specialized Investment Funds (SIFs) introduced a new investment framework for experienced investors. As portfolios evolve beyond traditional asset classes, could SIFs become the missing link between mutual funds and alternative investments?",
-      "publication_date": "Tue, 11 Aug 2026 16:37:06 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-sifs-bridge-the-gap-between-mutual-funds-and-alternative-investments/articleshow/133142331.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: European shares edge higher as energy stocks gain on Middle East uncertainty",
-      "description": "European shares edged higher as energy stocks gained on elevated oil prices amid Middle East tensions. Investors remained cautious ahead of key euro zone and U.S. economic data that could influence inflation, growth and interest-rate expectations.",
-      "publication_date": "Tue, 11 Aug 2026 16:16:59 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-energy-stocks-gain-on-middle-east-uncertainty/articleshow/133151455.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Rupee retreats to near two-week low, closes at 95.43 vs USD as US-Iran standoff pushes oil higher",
-      "description": "The Indian rupee tumbled to a two-week low on Tuesday as surging oil prices and waning optimism regarding a U.S.-Iran deal pressured the currency. The Reserve Bank of India stepped in to mitigate the rupee's decline, yet both the Nifty 50 and benchmark bonds experienced downturns. Attention is now on the impending inflation reports from India and the U.S. for further market cues.",
-      "publication_date": "Tue, 11 Aug 2026 15:54:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-retreats-to-near-two-week-low-closes-at-95-43-vs-usd-as-us-iran-standoff-pushes-oil-higher/articleshow/133150919.cms",
       "source": "rss"
     }
   ]
