@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:53:10.196414+00:00",
+  "generated_at": "2026-08-11T19:57:16.598721+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fed’s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
+      "description": "Chicago Fed President Austan Goolsbee has voiced significant worry over soaring inflation, recognizing it as the foremost challenge facing the economy today. While he deems the labor market stable, he doesn't classify it as vigorous. Meanwhile, traders are weighing the possibility of a rate hike in September, and experts expect consumer inflation data to indicate an uptick.",
+      "publication_date": "Wed, 12 Aug 2026 01:15:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-austan-goolsbee-says-inflation-is-the-biggest-problem-on-fed-rate-signal/articleshow/133164860.cms",
+      "source": "rss"
+    },
     {
       "title": "Why the US-Iran war continues to disrupt oil markets",
       "description": "The oil market is witnessing unprecedented volatility amid the intensifying US-Iran hostilities. Iran's surprising maneuver to shut down the critical Hormuz waterway has caught the attention of global investors. President Trump’s inconsistent remarks have also played a pivotal role in shaping market reactions. Despite the rise in crude prices, they remain below expert expectations.",
@@ -1430,13 +1437,6 @@
       "description": "In an ambitious move, NDR InvIT Trust plans to launch a public offering to secure up to Rs 750 crore, comprising a combination of new issues and an offer-for-sale. The capital raised is intended to enhance their portfolio through new warehousing acquisitions, facilitating ongoing development. NDR Warehousing, as the trust's sponsor, stands as a leader in India's warehousing landscape, overseeing a substantial amount of leasable space in strategic markets.",
       "publication_date": "Tue, 11 Aug 2026 20:20:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ndr-invit-trust-files-draft-papers-for-rs-750-crore-ipo/articleshow/133158157.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dish TV Q1 Results: Net loss widens to Rs 286 crore on fall in subscription revenue",
-      "description": "Dish TV India faced a challenging June quarter, reporting a steep net loss of Rs 286.3 crore. The decline in subscription revenue significantly impacted the company's overall financial standing, with operating revenue dropping by 19.28 percent year-on-year. Nevertheless, Dish TV concentrated on enhancing customer experience and developing its VZY ecosystem, while surprisingly, advertisement revenue experienced a modest rise during this tough period.",
-      "publication_date": "Tue, 11 Aug 2026 20:18:02 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dish-tv-q1-results-net-loss-widens-to-rs-286-crore-on-fall-in-subscription-revenue/articleshow/133158103.cms",
       "source": "rss"
     }
   ]
