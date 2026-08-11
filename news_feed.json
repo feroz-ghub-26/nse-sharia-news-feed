@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:52:47.869616+00:00",
+  "generated_at": "2026-08-11T18:53:10.196414+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,18 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "Why the US-Iran war continues to disrupt oil markets",
+      "description": "The oil market is witnessing unprecedented volatility amid the intensifying US-Iran hostilities. Iran's surprising maneuver to shut down the critical Hormuz waterway has caught the attention of global investors. President Trump’s inconsistent remarks have also played a pivotal role in shaping market reactions. Despite the rise in crude prices, they remain below expert expectations.",
+      "publication_date": "Wed, 12 Aug 2026 00:02:15 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/why-the-us-iran-war-continues-to-disrupt-oil-markets/articleshow/133163454.cms",
+      "source": "rss"
+    },
     {
       "title": "Flipkart records highest-ever single day sale, grosses $200mn",
       "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
@@ -1430,13 +1437,6 @@
       "description": "Dish TV India faced a challenging June quarter, reporting a steep net loss of Rs 286.3 crore. The decline in subscription revenue significantly impacted the company's overall financial standing, with operating revenue dropping by 19.28 percent year-on-year. Nevertheless, Dish TV concentrated on enhancing customer experience and developing its VZY ecosystem, while surprisingly, advertisement revenue experienced a modest rise during this tough period.",
       "publication_date": "Tue, 11 Aug 2026 20:18:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dish-tv-q1-results-net-loss-widens-to-rs-286-crore-on-fall-in-subscription-revenue/articleshow/133158103.cms",
-      "source": "rss"
-    },
-    {
-      "title": "JSW Dulux Q1 Results: Profit drops 12% to Rs 79 crore; board approves stock split",
-      "description": "JSW Dulux experienced a profit drop of 12.4 percent during the June quarter, alongside a modest year-on-year dip in revenue. The board has moved forward with a proposed stock split at a ratio of 1:10, pending approvals from shareholders and regulators. Notably, JSW Paints has previously secured a majority stake in Akzo Nobel India, enhancing its market position.",
-      "publication_date": "Tue, 11 Aug 2026 20:16:06 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-dulux-q1-results-profit-drops-12-to-rs-79-crore-board-approves-stock-split/articleshow/133158078.cms",
       "source": "rss"
     }
   ]
