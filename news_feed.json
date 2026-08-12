@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:58:13.269422+00:00",
+  "generated_at": "2026-08-12T20:44:29.500141+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -24,8 +24,8 @@
     },
     {
       "url": "https://www.investing.com/rss/news.rss",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 10
     },
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
@@ -96,10 +96,24 @@
       "source": "rss"
     },
     {
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "description": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+      "publication_date": "Wed, 12 Aug 2026 20:28:48 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "source": "rss"
+    },
+    {
       "title": "Shein's slowing growth tests investor appetite ahead of Hong Kong IPO",
       "description": "Shein’s upcoming IPO faces skepticism from investors due to a notable decline in growth rates. The fast-fashion giant is grappling with rising costs and evolving market dynamics that challenge its established business model. Concerns are mounting regarding whether Shein can replicate its previous growth trajectory that initially drew investor interest.",
       "publication_date": "Wed, 12 Aug 2026 20:16:13 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sheins-slowing-growth-tests-investor-appetite-ahead-of-hong-kong-ipo/articleshow/133185999.cms",
+      "source": "rss"
+    },
+    {
+      "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+      "description": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+      "publication_date": "Wed, 12 Aug 2026 20:16:05 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
       "source": "rss"
     },
     {
@@ -110,17 +124,31 @@
       "source": "rss"
     },
     {
+      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
+      "description": "Leavitt, who is the youngest White House press secretary every, gave birth in May to a girl, her second child.",
+      "publication_date": "Wed, 12 Aug 2026 20:09:15 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
+      "source": "rss"
+    },
+    {
+      "title": "CoreWeave gains 19%, Nebius surges 34% in post-earnings neocloud rally",
+      "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+      "publication_date": "Wed, 12 Aug 2026 20:00:52 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "source": "rss"
+    },
+    {
+      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 19:59:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "How the market is trading gold as Fed rate hike and inflation odds shift",
       "description": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
       "publication_date": "Wed, 12 Aug 2026 19:57:25 GMT",
       "link": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-      "source": "rss"
-    },
-    {
-      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
-      "description": "Leavitt, who is the youngest White House press secretary every, gave birth in May to a girl, her second child.",
-      "publication_date": "Wed, 12 Aug 2026 19:55:52 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
       "source": "rss"
     },
     {
@@ -138,13 +166,6 @@
       "source": "rss"
     },
     {
-      "title": "CoreWeave gains 20%, Nebius surges 30% in post-earnings neocloud rally",
-      "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-      "publication_date": "Wed, 12 Aug 2026 19:49:07 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-      "source": "rss"
-    },
-    {
       "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
       "description": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
       "publication_date": "Wed, 12 Aug 2026 19:46:08 GMT",
@@ -157,6 +178,13 @@
       "publication_date": "Wed, 12 Aug 2026 19:43:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pilani-investment-to-sell-1-7-million-ultratech-cement-shares-for-1908-crore/articleshow/133185360.cms",
       "source": "rss"
+    },
+    {
+      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - Reuters",
+      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 19:37:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Sebi lowers stress testing limit for commodity derivatives",
@@ -229,13 +257,6 @@
       "source": "rss"
     },
     {
-      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 18:13:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "The S&P paces to snap a 2-day skid, and Goldman beefs up its asset management unit",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "publication_date": "Wed, 12 Aug 2026 18:13:44 GMT",
@@ -271,7 +292,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market edges higher as investors assess deadlock in Iran talks",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks end higher as softer inflation eases Fed rate-hike fears",
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 17:52:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-july-inflation-data-micro-coreweave-chip-stock-price-news-12th-august-2026/liveblog/133182738.cms",
@@ -1416,27 +1437,6 @@
       "description": "In an impressive funding round, Shiprocket has garnered ₹727 crore from anchor investors in anticipation of its IPO. Esteemed domestic and global financial institutions participated in this initiative. The company targets raising ₹1,617 crore through its initial public offering, intending to channel the proceeds into marketing endeavors and tech enhancements, all while moving forward amid a challenging landscape for new-age companies.",
       "publication_date": "Wed, 12 Aug 2026 06:48:59 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-raises-rs-727-crore-from-anchor-investors-ahead-of-ipo-launch/articleshow/133167638.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sebi proposes to expand FPI play in commodities",
-      "description": "In a strategic move, the Securities and Exchange Board of India has unveiled plans to enable foreign investors to trade in commodity derivatives. This initiative is designed to expand engagement within India's commodity derivatives market. International participants will soon be able to trade physically settled non-agricultural contracts, with the requirement to settle positions before the tender period starts.",
-      "publication_date": "Wed, 12 Aug 2026 06:41:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-expand-fpi-play-in-commodities/articleshow/133167595.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Markets Today: Asian stocks mixed, oil extends gains",
-      "description": "Asian markets showed cautious optimism as crude oil prices experienced slight increases, with eyes on potential agreements in the Middle East. Technology stocks thrived, particularly CoreWeave, which soared following an upgraded forecast. Investors are navigating between geopolitical uncertainties and the Federal Reserve's interest rate strategies, with significant US inflation data looming ahead. Meanwhile, gold prices dipped from a recent two-month high amid ongoing conflict concerns.",
-      "publication_date": "Wed, 12 Aug 2026 06:32:32 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-today-asian-stocks-mixed-oil-extends-gains/articleshow/133167545.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Big investors outperform Nifty, bring in double-digit returns",
-      "description": "During Q1 of FY27, marquee investors saw remarkable success, as their stock portfolios delivered returns ranging from 9.7% to a staggering 39.9% between April and June. Ashish Dhawan emerged as the frontrunner, closely followed by other top investors like Ashish Kacholia. Their impressive performance clearly outstripped the Nifty and Nifty 500 market averages, highlighting their substantial stakes in companies with holdings exceeding one thousand crore.",
-      "publication_date": "Wed, 12 Aug 2026 06:29:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-investors-outperform-nifty-bring-in-double-digit-returns/articleshow/133167497.cms",
       "source": "rss"
     }
   ]
