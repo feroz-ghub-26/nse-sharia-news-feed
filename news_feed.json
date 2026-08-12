@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:26:01.536601+00:00",
+  "generated_at": "2026-08-12T16:51:10.332478+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Nebius shares soar 22% as AI demand powers revenue beat",
+      "description": "Nebius shares jumped nearly 22% after the AI cloud provider beat revenue estimates, driven by surging infrastructure demand, larger contracts and higher prices. Core AI cloud revenue increased sixfold, while major customer deals and capacity commitments highlighted strong future growth.",
+      "publication_date": "Wed, 12 Aug 2026 22:00:38 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms",
+      "source": "rss"
+    },
     {
       "title": "Indel Money to raise up to Rs 500 crore via public issue of NCDs",
       "description": "Indel Money plans to raise up to Rs 500 crore through a public issue of non-convertible debentures. The issue will open on August 18 and close on August 31, with an option for early closure. Proceeds will fund onward lending, refinancing existing debt, and general corporate purposes.",
@@ -166,6 +173,20 @@
       "source": "rss"
     },
     {
+      "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+      "description": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
+      "publication_date": "Wed, 12 Aug 2026 16:48:53 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
+      "source": "rss"
+    },
+    {
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+      "publication_date": "Wed, 12 Aug 2026 16:39:34 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "source": "rss"
+    },
+    {
       "title": "Embassy Office Parks REIT to enter Nifty 500, becomes only investment trust in Nifty Midcap 150",
       "description": "Embassy Office Parks REIT will be included in the Nifty 500 and Nifty Midcap 150 from September 30, 2026, as part of NSE Indices’ latest periodic review. The REIT will also enter several other broad-based indices, potentially increasing its visibility and participation from institutional and passive investors.",
       "publication_date": "Wed, 12 Aug 2026 16:36:32 +0530",
@@ -173,10 +194,38 @@
       "source": "rss"
     },
     {
+      "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
+      "description": "Traffic is about 90% lower than the daily average of 130 ships that transited Hormuz before the U.S. and Israel attacked Iran on Feb. 28.",
+      "publication_date": "Wed, 12 Aug 2026 16:33:35 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
+      "source": "rss"
+    },
+    {
       "title": "TCS shares tumble 4%, wipe out Rs 35,000 crore after N Chandrasekaran resigns. What should investors do?",
       "description": "TCS shares fell nearly 4% after N Chandrasekaran resigned as Tata Sons chairman, wiping ₹35,000 crore from its market value. Analysts called the reaction knee-jerk, while technical indicators point to support near ₹2,000–2,300 and resistance at ₹2,670–2,700.",
       "publication_date": "Wed, 12 Aug 2026 16:32:10 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-tumble-4-wipe-out-rs-35000-crore-after-n-chandrasekaran-resigns-what-should-investors-do/articleshow/133180381.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+      "publication_date": "Wed, 12 Aug 2026 16:31:38 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "source": "rss"
+    },
+    {
+      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
+      "description": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
+      "publication_date": "Wed, 12 Aug 2026 16:27:16 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Trump sued over Truth Social advance access sale",
+      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+      "publication_date": "Wed, 12 Aug 2026 16:25:58 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
       "source": "rss"
     },
     {
@@ -194,13 +243,6 @@
       "source": "rss"
     },
     {
-      "title": "Trump sued over Truth Social advance access sale",
-      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-      "publication_date": "Wed, 12 Aug 2026 16:20:22 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-      "source": "rss"
-    },
-    {
       "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
       "description": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
       "publication_date": "Wed, 12 Aug 2026 16:17:39 GMT",
@@ -213,13 +255,6 @@
       "publication_date": "Wed, 12 Aug 2026 16:17:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-      "publication_date": "Wed, 12 Aug 2026 16:02:40 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-      "source": "rss"
     },
     {
       "title": "Tata Motors CV Q1 Results: Net profit soars 83% YoY to Rs 2,560 cr on one-time gain from Tata Capital; revenue jumps 19%",
@@ -250,6 +285,13 @@
       "source": "rss"
     },
     {
+      "title": "Putin says Russia will start seizing European vessels if its ships targeted - Reuters",
+      "description": "Putin says Russia will start seizing European vessels if its ships targeted &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 15:37:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
       "description": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
       "publication_date": "Wed, 12 Aug 2026 15:37:25 GMT",
@@ -261,20 +303,6 @@
       "description": "Gulf oil spill fast becoming worst in years, agencies warn &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 15:36:57 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
-      "description": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
-      "publication_date": "Wed, 12 Aug 2026 15:27:38 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "source": "rss"
-    },
-    {
-      "title": "Putin says Russia will start seizing European vessels if its ships targeted - Reuters",
-      "description": "Putin says Russia will start seizing European vessels if its ships targeted &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 15:26:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
       "source": "Reuters"
     },
     {
@@ -411,13 +439,6 @@
       "source": "rss"
     },
     {
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-      "publication_date": "Wed, 12 Aug 2026 14:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
-      "source": "rss"
-    },
-    {
       "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
       "description": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
       "publication_date": "Wed, 12 Aug 2026 13:59:17 GMT",
@@ -472,13 +493,6 @@
       "publication_date": "Wed, 12 Aug 2026 13:45:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
-      "description": "Home Depot's CEO Ted Decker is taking a temporary medical leave of absence that's expected to last a few months.",
-      "publication_date": "Wed, 12 Aug 2026 13:42:45 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
-      "source": "rss"
     },
     {
       "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
@@ -1423,20 +1437,6 @@
       "description": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
       "publication_date": "Wed, 12 Aug 2026 02:58:04 GMT",
       "link": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
-      "source": "rss"
-    },
-    {
-      "title": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port - Reuters",
-      "description": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 01:50:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjdHV1FOZTRQMUpIMS1PME52VGlXWXJPTmppZl9IVnkyeEhHQkFnTVBfVWlrc3oyaGw3RDlDb0dfN3Jndmx6cUY1eXVNQmdzbFRzcy1aNWZqdUJoZE9POGFQbUFWR2U5MmhWT0QzV2RPOTBHdEd5ZmtrMGNSb2doYk1MalVxaXFfdGRSVURlVnZUdkNHMTlLZ2VpNHlvaFdpTWR1MzQxdVlnUHdIS1dpLWJpaDZfOHBCeGg3dWJ3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US stocks: US market ends down as Iran peace deal optimism fades",
-      "description": "Wall Street closed lower as investors grew pessimistic about Middle East stability. Amazon and Alphabet stocks dipped, impacting major indices like the S&P 500. Brent crude futures held near one-week highs amid rising oil prices and uncertainty. Investors await crucial inflation data which will shape Federal Reserve policy expectations. Jabil climbed after an upgrade, while On and Venture Global shares fell.",
-      "publication_date": "Wed, 12 Aug 2026 01:38:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms",
       "source": "rss"
     }
   ]
