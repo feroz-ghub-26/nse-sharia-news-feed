@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:17:18.452158+00:00",
+  "generated_at": "2026-08-12T15:27:45.808934+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -40,6 +40,27 @@
   ],
   "articles": [
     {
+      "title": "Shein's slowing growth tests investor appetite ahead of Hong Kong IPO",
+      "description": "Shein’s upcoming IPO faces skepticism from investors due to a notable decline in growth rates. The fast-fashion giant is grappling with rising costs and evolving market dynamics that challenge its established business model. Concerns are mounting regarding whether Shein can replicate its previous growth trajectory that initially drew investor interest.",
+      "publication_date": "Wed, 12 Aug 2026 20:16:13 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sheins-slowing-growth-tests-investor-appetite-ahead-of-hong-kong-ipo/articleshow/133185999.cms",
+      "source": "rss"
+    },
+    {
+      "title": "IndiQube Spaces Q1 revenue jumps 37% to record Rs 428 crore",
+      "description": "IndiQube Spaces reported record Q1FY27 revenue of ₹428 crore, up 37% year-on-year. EBITDA rose 34%, while PAT surged 91% to ₹35 crore. Area under management and seat capacity expanded, alongside stronger occupancy and rapidly growing value-added services.",
+      "publication_date": "Wed, 12 Aug 2026 20:12:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indiqube-spaces-q1-revenue-jumps-37-to-record-rs-428-crore/articleshow/133185923.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Pilani Investment to sell 1.7 million UltraTech Cement shares for ₹1,908 crore",
+      "description": "Pilani Investment plans to sell 1.7 million UltraTech Cement shares valued at ₹1,908 crore on August 13, 2026, at a 3% discount. Separately, UltraTech Cement is acquiring a 26% stake in Solaris Horizon Energy to support its green energy initiatives.",
+      "publication_date": "Wed, 12 Aug 2026 19:43:26 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pilani-investment-to-sell-1-7-million-ultratech-cement-shares-for-1908-crore/articleshow/133185360.cms",
+      "source": "rss"
+    },
+    {
       "title": "Sebi lowers stress testing limit for commodity derivatives",
       "description": "The Securities and Exchange Board of India (Sebi) has announced a significant reduction in the Z-score limit for stress testing in commodity derivatives, lowering it to five from ten. This strategic shift is designed to enhance compliance and streamline processes within the standardized framework, ensuring that price variations tied to a Z-score of five facilitate a more accessible business environment for market participants.",
       "publication_date": "Wed, 12 Aug 2026 19:32:16 +0530",
@@ -47,8 +68,8 @@
       "source": "rss"
     },
     {
-      "title": "US STOCKS SNAPSHOT-S&P 500, Nasdaq open higher after inflation data, earnings boost",
-      "description": "Major stock indexes opened higher on Wednesday morning. Investors assessed largely in-line inflation data released today. Upbeat earnings from some AI infrastructure companies provided additional support. The Dow Jones Industrial Average rose slightly at the open. The S&P 500 and Nasdaq Composite also saw gains.",
+      "title": "US stocks: Nasdaq leads Wall Street higher as AI stocks rally, inflation supports Fed pause",
+      "description": "US stock markets rallied on Wednesday, with the Nasdaq taking the lead in gains. Encouraging earnings reports from AI infrastructure companies provided a notable boost to technology stocks. Inflation data matched expectations, fostering confidence that the Federal Reserve may opt to maintain current interest rates. Meanwhile, the fluctuating situation in the Middle East continued to play a significant role in influencing market sentiment.",
       "publication_date": "Wed, 12 Aug 2026 19:15:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms",
       "source": "rss"
@@ -110,7 +131,7 @@
       "source": "rss"
     },
     {
-      "title": "Embassy Office Parks REIT to enter Nifty 500, become only investment trust in Nifty Midcap 150",
+      "title": "Embassy Office Parks REIT to enter Nifty 500, becomes only investment trust in Nifty Midcap 150",
       "description": "Embassy Office Parks REIT will be included in the Nifty 500 and Nifty Midcap 150 from September 30, 2026, as part of NSE Indices’ latest periodic review. The REIT will also enter several other broad-based indices, potentially increasing its visibility and participation from institutional and passive investors.",
       "publication_date": "Wed, 12 Aug 2026 16:36:32 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/embassy-office-parks-reit-to-enter-nifty-500-become-only-investment-trust-in-nifty-midcap-150/articleshow/133180478.cms",
@@ -166,6 +187,20 @@
       "source": "rss"
     },
     {
+      "title": "Trump sued over Truth Social advance access sale",
+      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+      "publication_date": "Wed, 12 Aug 2026 15:24:27 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+      "source": "rss"
+    },
+    {
+      "title": "AI’s costly build-out complicates the Fed’s inflation fight",
+      "description": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
+      "publication_date": "Wed, 12 Aug 2026 15:23:12 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+      "source": "rss"
+    },
+    {
       "title": "Marksans Pharma shares rally over 9% after Q1 profit spikes 174% YoY to Rs 159 crore",
       "description": "Marksans Pharma shares surged after Q1FY27 profit jumped 174% YoY to Rs 159 crore. Revenue rose 35.6% to Rs 841 crore, while EBITDA hit a record Rs 213 crore, driven by strong growth in its UK and Europe formulation businesses.",
       "publication_date": "Wed, 12 Aug 2026 15:22:23 +0530",
@@ -187,6 +222,27 @@
       "source": "rss"
     },
     {
+      "title": "Here's the inflation breakdown for July 2026 — in one chart",
+      "description": "Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say.",
+      "publication_date": "Wed, 12 Aug 2026 15:13:18 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+      "source": "rss"
+    },
+    {
+      "title": "Gulf oil spill fast becoming worst in years, agencies warn - Reuters",
+      "description": "Gulf oil spill fast becoming worst in years, agencies warn &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 15:09:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+      "publication_date": "Wed, 12 Aug 2026 15:08:58 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "source": "rss"
+    },
+    {
       "title": "Global Market: European shares subdued as investors assess earnings, geopolitical risks ahead of US inflation data",
       "description": "European shares traded largely flat as investors assessed mixed corporate earnings, rising oil prices and renewed geopolitical tensions ahead of key U.S. inflation data. Energy stocks led gains, while automobiles and parts declined. Investors remained cautious amid concerns over inflation, global trade and the outlook for interest rates.",
       "publication_date": "Wed, 12 Aug 2026 14:59:30 +0530",
@@ -198,6 +254,13 @@
       "description": "Cupid shares gained 8.8% in two days after the company reported a threefold rise in Q1 FY27 net profit to Rs 44 crore, while revenue surged 159% YoY to Rs 155 crore. Strong operating performance, margin expansion and a higher FY27 guidance have strengthened the outlook for the stock.",
       "publication_date": "Wed, 12 Aug 2026 14:52:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-nearly-9-in-two-days-post-q1-earnings/articleshow/133177435.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
+      "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
+      "publication_date": "Wed, 12 Aug 2026 14:28:39 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
       "source": "rss"
     },
     {
@@ -222,6 +285,13 @@
       "source": "rss"
     },
     {
+      "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+      "description": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
+      "publication_date": "Wed, 12 Aug 2026 14:20:10 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+      "source": "rss"
+    },
+    {
       "title": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
       "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
       "publication_date": "Wed, 12 Aug 2026 14:16:48 GMT",
@@ -241,6 +311,13 @@
       "publication_date": "Wed, 12 Aug 2026 14:14:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ardee-industries-shares-slip-7-post-listing-after-double-digit-listing-gains-what-should-investors-do/articleshow/133176494.cms",
       "source": "rss"
+    },
+    {
+      "title": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock - Reuters",
+      "description": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 14:06:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
@@ -334,13 +411,6 @@
       "source": "rss"
     },
     {
-      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
-      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 13:37:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters",
       "description": "Saudi Red Sea oil exports go dark as Houthi attack threat grows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 13:35:44 GMT",
@@ -383,13 +453,6 @@
       "source": "rss"
     },
     {
-      "title": "Gulf oil spill fast becoming worst in years, agencies warn - Reuters",
-      "description": "Gulf oil spill fast becoming worst in years, agencies warn &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 13:15:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Sebi sees no manipulation in closing auction sessions so far, says Tuhin Kanta Pandey",
       "description": "The Securities and Exchange Board of India has confirmed that no manipulation exists within the newly established closing auction system. This session, which establishes closing stock prices, strives to meet international norms. Since its inception, participation in the closing auction has progressively increased. The regulator is actively considering feedback to amplify market participation. This reform is essential in reducing tracking discrepancies for passive investment funds.",
       "publication_date": "Wed, 12 Aug 2026 13:14:45 +0530",
@@ -399,8 +462,15 @@
     {
       "title": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says - Reuters",
       "description": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 13:06:17 GMT",
+      "publication_date": "Wed, 12 Aug 2026 13:14:13 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Global stocks hold gains after in-line US CPI - Reuters",
+      "description": "Global stocks hold gains after in-line US CPI &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 13:03:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -432,6 +502,13 @@
       "source": "rss"
     },
     {
+      "title": "Israeli troops clash with settlers besieging Palestinian homes in West Bank - Reuters",
+      "description": "Israeli troops clash with settlers besieging Palestinian homes in West Bank &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 12:48:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzBUMnJpVHJxTTZTRmFPbDdrN2pHb3ozZDdDSVpoOEhGOGhaMFJJOG1hTENuMTRaeFU3MVIzX3hIa2Q4Nk1RYjN4WGVfR0JrOVVpQUhFTWs5TWZLdEdwMER5cDVDTWFiWjFKcGt2aEJsSzhNZDZpSFJjSlpOWnFGM2tFV1ZJSmNLY1NHYWdUOEJFNWZLVW42NGwyRzVTQUswSXZUMEtzM3dsN1dja0JRZFdtSU9IOVdnVUg3aWU1ZWkzVkFX?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Technocraft Ventures IPO allotment likely today, GMP signals over 12% listing gain. How to check status",
       "description": "The Rs 251.88-crore Technocraft Ventures IPO received strong investor interest, with its GMP rising to around 12.74% from 11% earlier, signalling expectations of a positive listing. Investors are likely to learn their allotment status today.",
       "publication_date": "Wed, 12 Aug 2026 12:33:54 +0530",
@@ -454,7 +531,7 @@
     },
     {
       "title": "Dhoot Transmission IPO Day 3: GMP signals strong 29% listing gain. What are analysts saying?",
-      "description": "Dhoot Transmission IPO entered its final day with the issue seeing strong investor interest and a grey market premium of around 29%. Analysts remain positive, with Anand Rathi recommending a long-term subscription and Ventura assigning a Subscribe rating, citing the company’s EV focus, premiumisation strategy and strong customer base.",
+      "description": "Dhoot Transmission IPO saw 74 times oversubscription on the final day of bidding, with the issue seeing strong investor interest and a grey market premium of around 29%. Analysts remain positive, with Anand Rathi recommending a long-term subscription and Ventura assigning a Subscribe rating, citing the company’s EV focus, premiumisation strategy and strong customer base.",
       "publication_date": "Wed, 12 Aug 2026 12:20:27 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-day-3-gmp-signals-strong-29-listing-gain-what-are-analysts-saying/articleshow/133173857.cms",
       "source": "rss"
@@ -468,16 +545,9 @@
     },
     {
       "title": "Molbio Diagnostics IPO Day 3: GMP hints at 17% listing gain, issue booked nearly 5x. Should you participate?",
-      "description": "Molbio Diagnostics IPO entered its final bidding day with strong demand, with the Rs 939.70-crore issue subscribed 4.91 times. Its GMP has risen to 17.1%, signalling expectations of a strong listing. The IPO comprises a Rs 200-crore fresh issue and a Rs 739.70-crore OFS.",
+      "description": "Molbio Diagnostics IPO: Point-of-care molecular diagnostics company Molbio Diagnostics saw strong investor response for its IPO, drawing as many as 70 times bids overall for its Rs 939 crore issue, with QIBs bidding 180 times the shares on offer.",
       "publication_date": "Wed, 12 Aug 2026 12:16:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-ipo-day-3-gmp-hints-at-17-listing-gain-issue-booked-nearly-5x-should-you-participate/articleshow/133173828.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-      "publication_date": "Wed, 12 Aug 2026 12:13:45 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
       "source": "rss"
     },
     {
@@ -520,13 +590,6 @@
       "description": "ideaForge Technology shares fell 9.5% over two days after JM Financial downgraded the stock to Add from Buy, citing valuation concerns following a sharp run-up despite strong long-term prospects. The brokerage expects order inflows to remain weak in FY27 before recovering in FY28 and FY29, while execution momentum and operating leverage could support significant revenue and margin growth.",
       "publication_date": "Wed, 12 Aug 2026 12:02:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-shares-drop-over-9-in-two-days-jm-financial-downgrades-rating/articleshow/133173401.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-      "description": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
-      "publication_date": "Wed, 12 Aug 2026 12:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
       "source": "rss"
     },
     {
@@ -600,13 +663,6 @@
       "source": "Reuters"
     },
     {
-      "title": "AI’s costly buildout complicates the Fed’s inflation fight",
-      "description": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.",
-      "publication_date": "Wed, 12 Aug 2026 11:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-      "source": "rss"
-    },
-    {
       "title": "US Stock Market: Treasury yields pare gains as Iran comments dampen hopes for Strait of Hormuz deal",
       "description": "US Treasury yields pared gains as hopes for a U.S.-Iran agreement faded after Tehran indicated the Strait of Hormuz would remain closed unless Washington met its demands. Markets are now awaiting July CPI data for clues on Federal Reserve policy, with any upside surprise potentially putting renewed pressure on Treasury yields.",
       "publication_date": "Wed, 12 Aug 2026 10:55:23 +0530",
@@ -660,6 +716,13 @@
       "description": "PODCAST: Banking on CoreWeave &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 10:08:46 GMT",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE1vNXBNamI2ek1BUXE3U2s1VUl0djJybDViWU4zOHU1MVZqRVZJZ2M1blJkakwxOWd3V2d5VkFfMGZDc3NENW1oUW5PM0IyR0NWT2pKbTh4NW5hREREZjdFREQxYWtUZlJKaFdXZjN4ZmJPSnVVQV9ITkFCM2RWR1NyVDI1Rm03VVE?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - Reuters",
+      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 10:08:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
       "source": "Reuters"
     },
     {
@@ -1251,6 +1314,13 @@
       "source": "rss"
     },
     {
+      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
+      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 04:52:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Libya's state power company says attack on Zawiya substation causes major outage - Reuters",
       "description": "Libya's state power company says attack on Zawiya substation causes major outage &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 04:10:00 GMT",
@@ -1272,13 +1342,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - Reuters",
-      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 02:59:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
       "description": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
       "publication_date": "Wed, 12 Aug 2026 02:58:04 GMT",
@@ -1290,13 +1353,6 @@
       "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 02:41:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Global stocks inch up, oil steady before US CPI - Reuters",
-      "description": "Global stocks inch up, oil steady before US CPI &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 02:19:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1333,13 +1389,6 @@
       "publication_date": "Wed, 12 Aug 2026 01:15:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-austan-goolsbee-says-inflation-is-the-biggest-problem-on-fed-rate-signal/articleshow/133164860.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil prices rise after ship attacks, US-Iran talks deadlock - Reuters",
-      "description": "Oil prices rise after ship attacks, US-Iran talks deadlock &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 00:58:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Dollar slips as in-line CPI tempers rate-hike bets - Reuters",
@@ -1388,55 +1437,6 @@
       "description": "ixigo, India’s leading mobile travel marketplace has announced partnerships with Uber and redBus to enable instant bookings for cabs and buses natively within ixigo trains app.",
       "publication_date": "Wed, 05 Oct 2016 14:00:34 +0530",
       "link": "http://www.moneycontrol.com/news/sme/uberredbus-partnerixigo-for-train-travellers_7577561.html",
-      "source": "rss"
-    },
-    {
-      "title": "Workload in IT to come down due to AI; jobs to reduce: Genpact",
-      "description": "But along with that the employment growth rates have started to dip, NV 'Tiger' Tyagarajan says. The percentage addition of employees in India will not be same as past. And due to advancements, a workforce with higher skill sets is required for the IT industry, he says.",
-      "publication_date": "Wed, 05 Oct 2016 13:39:13 +0530",
-      "link": "http://www.moneycontrol.com/news/business/workloadit-to-come-down-due-to-ai-jobs-to-reduce-genpact_7577361.html",
-      "source": "rss"
-    },
-    {
-      "title": "Pixel launch: Is Google Assistant's AI an assault on privacy?",
-      "description": "Sure, artificial intelligence can make life simpler by suggesting you places to eat, tell you weather, or even crack a joke. The more you use it, the more it learns about your habits and preferences. The protocols pertaining to artificial intelligence, or the lack of it, make our data less secure and more vulnerable.",
-      "publication_date": "Wed, 05 Oct 2016 12:53:07 +0530",
-      "link": "http://www.moneycontrol.com/news/technology/pixel-launch-is-google-assistants-aiassaultprivacy_7576961.html",
-      "source": "rss"
-    },
-    {
-      "title": "Up over 200% in 1 year, what's buzzing with Borosil Glass?",
-      "description": "Shares of Borosil Glass Works have increased threefold over the past one year as the company has posted strong revenue and EBIDTA growth over the past few quarters.",
-      "publication_date": "Wed, 05 Oct 2016 12:28:33 +0530",
-      "link": "http://www.moneycontrol.com/news/buzzing-stocks/up-over-2001-year-whats-buzzingborosil-glass_7576821.html",
-      "source": "rss"
-    },
-    {
-      "title": "Why you should not be always chasing returns",
-      "description": "Most people focus on returns and chase products that offer the best returns at any point.",
-      "publication_date": "Wed, 05 Oct 2016 12:27:10 +0530",
-      "link": "http://www.moneycontrol.com/news/investing/why-you-should-not-be-always-chasing-returns_7576681.html",
-      "source": "rss"
-    },
-    {
-      "title": "Jhunjhunwala-partnered fund buys stake in TFCI: What's buzzing?",
-      "description": "In an interview with CNBC-TV18, Satpal Arora, MD of Tourism Finance Corporation of India (TFCI), talked about the state of business and the outlook ahead.",
-      "publication_date": "Wed, 05 Oct 2016 12:02:15 +0530",
-      "link": "http://www.moneycontrol.com/news/business/jhunjhunwala-partnered-fund-buys-staketfci-whats-buzzing_7576501.html",
-      "source": "rss"
-    },
-    {
-      "title": "RBI latest meeting 'diluted' its old policy framework: Nomura",
-      "description": "On Tuesday, the central bank surprised the market with a 25-basis-point cut to its policy repo rate, or the rate at which it lends to banks, to 6.25 percent.",
-      "publication_date": "Wed, 05 Oct 2016 11:54:06 +0530",
-      "link": "http://www.moneycontrol.com/news/economy/rbi-latest-meeting-diluted-its-old-policy-framework-nomura_7576181.html",
-      "source": "rss"
-    },
-    {
-      "title": "Bond bull market may pause but is far from over: Expert",
-      "description": "The benchmark 10-year government-security yield remained stuck in 8-7.5 percent range through all of 2015 and half of 2016, moving lower to sub-7 percent only when the RBI promised in April to reduce the system's liquidity deficit. The yield may now fall more.",
-      "publication_date": "Wed, 05 Oct 2016 10:54:17 +0530",
-      "link": "http://www.moneycontrol.com/news/economy/bond-bull-market-may-pauseis-farover-expert_7575741.html",
       "source": "rss"
     }
   ]
