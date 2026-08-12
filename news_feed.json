@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:26:08.630411+00:00",
+  "generated_at": "2026-08-12T18:53:20.130871+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -147,8 +147,22 @@
     {
       "title": "U.S. budget deficit surged in July to highest level since March 2021",
       "description": "Beyond the big single-month jump, the collective red ink over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period in 2025.",
-      "publication_date": "Wed, 12 Aug 2026 18:19:57 GMT",
+      "publication_date": "Wed, 12 Aug 2026 18:40:45 GMT",
       "link": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html",
+      "source": "rss"
+    },
+    {
+      "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
+      "description": "Intel on Wednesday revealed CEO Lip-Bu Tan as a big buyer in the massive stock sale that the company announced this week.",
+      "publication_date": "Wed, 12 Aug 2026 18:38:29 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/ceo-of-intel-just-gave-jim-cramer-one-more-reason-to-call-it-his-favorite-stock.html",
+      "source": "rss"
+    },
+    {
+      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+      "description": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
+      "publication_date": "Wed, 12 Aug 2026 18:36:37 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
       "source": "rss"
     },
     {
@@ -229,13 +243,6 @@
       "source": "rss"
     },
     {
-      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 30% off low",
-      "description": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
-      "publication_date": "Wed, 12 Aug 2026 17:32:37 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-      "source": "rss"
-    },
-    {
       "title": "Grasim Industries swings to profit in Q1, revenue rises 21% YoY",
       "description": "Grasim Industries reported strong Q1 FY27 results, with standalone net profit reaching Rs 247 crore and revenue rising 28% YoY. Consolidated net profit jumped 51% to Rs 2,146 crore, driven by robust performance across core and growth businesses.",
       "publication_date": "Wed, 12 Aug 2026 17:23:08 +0530",
@@ -261,13 +268,6 @@
       "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 16:43:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Oil prices little changed as investors weigh lower demand against US-Iran talks deadlock - Reuters",
-      "description": "Oil prices little changed as investors weigh lower demand against US-Iran talks deadlock &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 16:40:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
       "source": "Reuters"
     },
     {
@@ -887,13 +887,6 @@
       "source": "rss"
     },
     {
-      "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus - Reuters",
-      "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 10:17:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "44 bullish & bearish stock picks across sectors for August by Axis Direct",
       "description": "In August, Axis Direct introduces 44 stock recommendations, advocating a buy-on-dips approach. The banking, capital goods, and realty sectors exhibit promising technical patterns for investors. Additionally, consumer durables, healthcare, power, and auto sectors are projected to perform well. However, a selective caution is suggested for FMCG, metals, and oil & gas stocks as the brokerage predicts sustained momentum across various key market areas.",
       "publication_date": "Wed, 12 Aug 2026 10:04:39 +0530",
@@ -1438,6 +1431,13 @@
       "publication_date": "Wed, 12 Aug 2026 06:00:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms",
       "source": "rss"
+    },
+    {
+      "title": "Hormuz shipping traffic falls to one-week low amid hostilities - Reuters",
+      "description": "Hormuz shipping traffic falls to one-week low amid hostilities &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 05:18:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1dzT200SXd2Z1ZNMmhKMEN1b1NITFZ5WGRCcU00Zm1KOUd4dC1sU0lERk1SNk5SaExMUlFBc1hzbmQ4YTJQNm15elZ6eUJCRlMzYzZabV9WTGNtWkFpQy02elVaeXhvQmRMSG5oRzgxWFc1b2Faa1hUNGJtV3pZbDZfMzJzMnJWdVM0UU9jMXVKbEpuWTVZSlhkMENxdGRfTFRCLVRqbjhSVXdkQ3lYb2RKYw?oc=5",
+      "source": "Reuters"
     }
   ]
 }
