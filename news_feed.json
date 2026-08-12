@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:35:45.202130+00:00",
+  "generated_at": "2026-08-12T19:58:13.269422+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -24,8 +24,8 @@
     },
     {
       "url": "https://www.investing.com/rss/news.rss",
-      "status": "ok",
-      "article_count": 10
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
@@ -110,6 +110,48 @@
       "source": "rss"
     },
     {
+      "title": "How the market is trading gold as Fed rate hike and inflation odds shift",
+      "description": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+      "publication_date": "Wed, 12 Aug 2026 19:57:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+      "source": "rss"
+    },
+    {
+      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
+      "description": "Leavitt, who is the youngest White House press secretary every, gave birth in May to a girl, her second child.",
+      "publication_date": "Wed, 12 Aug 2026 19:55:52 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+      "description": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled. The crude is mostly from Saudi Arabia, according to Kpler.",
+      "publication_date": "Wed, 12 Aug 2026 19:51:51 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
+      "source": "rss"
+    },
+    {
+      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
+      "description": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
+      "publication_date": "Wed, 12 Aug 2026 19:50:29 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
+      "source": "rss"
+    },
+    {
+      "title": "CoreWeave gains 20%, Nebius surges 30% in post-earnings neocloud rally",
+      "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+      "publication_date": "Wed, 12 Aug 2026 19:49:07 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "source": "rss"
+    },
+    {
+      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+      "description": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
+      "publication_date": "Wed, 12 Aug 2026 19:46:08 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+      "source": "rss"
+    },
+    {
       "title": "Pilani Investment to sell 1.7 million UltraTech Cement shares for ₹1,908 crore",
       "description": "Pilani Investment plans to sell 1.7 million UltraTech Cement shares valued at ₹1,908 crore on August 13, 2026, at a 3% discount. Separately, UltraTech Cement is acquiring a 26% stake in Solaris Horizon Energy to support its green energy initiatives.",
       "publication_date": "Wed, 12 Aug 2026 19:43:26 +0530",
@@ -124,18 +166,11 @@
       "source": "rss"
     },
     {
-      "title": "CoreWeave surges 19% after a 'cleaner quarter.' Here's what's happening",
-      "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-      "publication_date": "Wed, 12 Aug 2026 19:32:15 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-      "source": "rss"
-    },
-    {
-      "title": "How to trade gold prices as Fed rate hike and inflation odds shifts",
-      "description": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
-      "publication_date": "Wed, 12 Aug 2026 19:22:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-      "source": "rss"
+      "title": "Iran says no progress on reviving interim peace deal with US - Reuters",
+      "description": "Iran says no progress on reviving interim peace deal with US &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 19:29:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
@@ -194,6 +229,13 @@
       "source": "rss"
     },
     {
+      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 18:13:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "The S&P paces to snap a 2-day skid, and Goldman beefs up its asset management unit",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "publication_date": "Wed, 12 Aug 2026 18:13:44 GMT",
@@ -206,13 +248,6 @@
       "publication_date": "Wed, 12 Aug 2026 18:05:21 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUJ0U0RwQ2U2OHRKX1JZX1daaUdjR0ZMZWM5a0x3VndUUzJ0RFRTMTQ4ZHA1blZIYlVNWTZOeTUwa2QxcGQtVGpCRXN0WlJqNW1abl9wMnptY2hTSDA2VHUzNVFBLWVsTnRDYzZYQjBQS2VnZ2VBVVRNVHQwQTJiQ2dxSF92cHlFSENDQ1psZF9rM3plUE5mTzZtUWR0U1d0ZlZ3Z3NZRXBOX2ZQSGZXUTlKNkpHMHZ0amdoUg?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-      "description": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
-      "publication_date": "Wed, 12 Aug 2026 17:57:44 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
-      "source": "rss"
     },
     {
       "title": "Quote of the day by Richard Thaler: \"If we use prediction as the measure of a model, traditional finance makes precisely wrong predictions\"",
@@ -261,20 +296,6 @@
       "description": "Axis Bank has successfully secured USD 300 million from international investors, aimed at bolstering its growth initiatives. With a coupon rate of 5.348 percent, the newly issued senior notes will be listed on the India International Exchange and NSE IFSC. This issuance aligns with all necessary regulatory standards, demonstrating the bank's commitment to growth.",
       "publication_date": "Wed, 12 Aug 2026 17:42:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-300-million-via-bonds/articleshow/133182507.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Iran says no progress on reviving interim peace deal with US - Reuters",
-      "description": "Iran says no progress on reviving interim peace deal with US &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 17:39:37 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-      "description": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
-      "publication_date": "Wed, 12 Aug 2026 17:34:28 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
       "source": "rss"
     },
     {
@@ -605,13 +626,6 @@
       "publication_date": "Wed, 12 Aug 2026 13:40:40 GMT",
       "link": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
       "source": "rss"
-    },
-    {
-      "title": "Dollar slips as in-line CPI tempers rate-hike bets - Reuters",
-      "description": "Dollar slips as in-line CPI tempers rate-hike bets &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 13:39:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Global Market: Emerging markets draw nearly $19 billion in July as foreign investor outflows ease",
@@ -1423,20 +1437,6 @@
       "description": "During Q1 of FY27, marquee investors saw remarkable success, as their stock portfolios delivered returns ranging from 9.7% to a staggering 39.9% between April and June. Ashish Dhawan emerged as the frontrunner, closely followed by other top investors like Ashish Kacholia. Their impressive performance clearly outstripped the Nifty and Nifty 500 market averages, highlighting their substantial stakes in companies with holdings exceeding one thousand crore.",
       "publication_date": "Wed, 12 Aug 2026 06:29:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-investors-outperform-nifty-bring-in-double-digit-returns/articleshow/133167497.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Can Shiprocket IPO deliver long-term growth for high-risk investors?",
-      "description": "Shiprocket is gearing up to secure ₹885 crore through fresh equity aimed at bolstering expansion and addressing debt obligations. Additionally, the company plans to raise ₹732 crore via an offer for sale. With a profitable core business and growing emerging segments, revenue has risen by 24% annually from FY24 to FY26. Investors seeking long-term growth opportunities with a higher risk appetite might find this venture appealing.",
-      "publication_date": "Wed, 12 Aug 2026 06:05:22 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-shiprocket-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133167448.cms",
-      "source": "rss"
-    },
-    {
-      "title": "GIFT Nifty signals muted start, D-Street braces for cautious opening",
-      "description": "Indian equity benchmarks concluded lower on Tuesday, August 11, with Nifty 50 falling below 24,500. Crude oil price rebound and F&O expiry volatility impacted investor sentiment significantly. Market momentum now shifts towards the upcoming U.S. Consumer Price Index data release. Foreign portfolio investors net bought shares worth Rs 258.55 crore on Tuesday. The Indian rupee traded weaker, declining around 15 paise to 95.43.",
-      "publication_date": "Wed, 12 Aug 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133162269.cms",
       "source": "rss"
     }
   ]
