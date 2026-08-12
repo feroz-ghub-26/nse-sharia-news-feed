@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T09:55:35.026214+00:00",
+  "generated_at": "2026-08-12T10:56:26.094120+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,53 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Tata Motors CV Q1 Results: Net profit soars 83% YoY to Rs 2,560 cr on one-time gain from Tata Capital; revenue jumps 19%",
+      "description": "Tata Motors CV Q1 Results: Commercial vehicle major Tata Motors on Wednesday reported a net profit of Rs 2,560 in the first quarter of financial year 2027, marking a jump of 83.3% from Rs 1,397 crore reported in the same period last year.",
+      "publication_date": "Wed, 12 Aug 2026 15:57:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-q1-results-net-profit-soars-83-to-rs-2560-crore-on-one-time-gain-from-tata-capital-revenue-jumps-19/articleshow/133179150.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Rupee nudges up on RBI intervention; investors eye inflation data",
+      "description": "The Indian rupee finished the day marginally higher, propelled by ongoing tensions in the Middle East. Continuous interventions from the central bank have provided support against the U.S. dollar. Traders remain watchful as critical inflation data from India and the U.S. approaches. Throughout August, the central bank has actively engaged in the foreign exchange market. Attention is now on forthcoming inflation reports that could influence future monetary policy decisions.",
+      "publication_date": "Wed, 12 Aug 2026 15:54:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-nudges-up-on-rbi-intervention-investors-eye-inflation-data/articleshow/133179272.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Investcorp-backed NDR InvIT Trust files draft paper with Sebi for Rs 750 crore IPO",
+      "description": "NDR InvIT Trust filed draft papers for a Rs 750 crore IPO to transition from private to public. The funds will support acquiring warehousing assets, aiming to strengthen and diversify its logistics portfolio across major Indian markets.",
+      "publication_date": "Wed, 12 Aug 2026 15:46:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investcorp-backed-ndr-invit-trust-files-draft-paper-with-sebi-for-rs-750-crore-ipo/articleshow/133179051.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bitcoin near $64,000 as crypto markets turn cautious ahead of US CPI. Here is what expert say",
+      "description": "Bitcoin hovered near $64,000 as investors remained cautious ahead of US CPI data, with the broader crypto market largely subdued. Analysts flagged weak short-term momentum below key resistance levels, while Ethereum showed relative strength. Bitcoin’s immediate support lies around $63,000–$63,200, with sustained buying above $64,500 needed to signal a stronger recovery.",
+      "publication_date": "Wed, 12 Aug 2026 15:24:43 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64000-as-crypto-markets-turn-cautious-ahead-of-us-cpi-here-is-what-expert-say/articleshow/133178203.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Marksans Pharma shares rally over 9% after Q1 profit spikes 174% YoY to Rs 159 crore",
+      "description": "Marksans Pharma shares surged after Q1FY27 profit jumped 174% YoY to Rs 159 crore. Revenue rose 35.6% to Rs 841 crore, while EBITDA hit a record Rs 213 crore, driven by strong growth in its UK and Europe formulation businesses.",
+      "publication_date": "Wed, 12 Aug 2026 15:22:23 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/marksans-pharma-shares-rally-over-9-after-q1-profit-spikes-174-yoy-to-rs-159-crore/articleshow/133178142.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Euro zone bond yields dip ahead of US CPI, heavy debt supply",
+      "description": "Euro zone government bond prices edged higher as investors remained cautious ahead of key U.S. inflation data and a heavy pipeline of new bond supply. Renewed tensions in the Middle East and rising oil prices added to inflation concerns, while German Bund yields eased. Markets also remained focused on upcoming bond auctions and the outlook for interest rates.",
+      "publication_date": "Wed, 12 Aug 2026 15:19:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-dip-ahead-of-us-cpi-heavy-debt-supply/articleshow/133178019.cms",
+      "source": "rss"
+    },
     {
       "title": "₹18K cr bet! Retail investors bet on Infosys, TCS, Reliance & 3 other falling bluechips",
       "description": "",
@@ -76,7 +118,7 @@
     },
     {
       "title": "HAL Q1 Results: Net profit rises 15% YoY to Rs 1,590 crore, revenue up 14%",
-      "description": "Hindustan Aeronautics reported an impressive fifteen percent increase in net profit for the first quarter, showcasing robust financial health. Alongside, the company observed a fourteen percent year-on-year rise in operational revenue for the April-June period of the fiscal year twenty twenty-seven. Released on a Wednesday, the findings revealed that HAL shares experienced slight gains following this promising report.",
+      "description": "HAL Shares Q1 Results : Hindustan Aeronautics reported an impressive fifteen percent increase in net profit for the first quarter, showcasing robust financial health. Alongside, the company observed a fourteen percent year-on-year rise in operational revenue for the April-June period of the fiscal year twenty twenty-seven. Released on a Wednesday, the findings revealed that HAL shares experienced slight gains following this promising report.",
       "publication_date": "Wed, 12 Aug 2026 14:20:59 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hal-q1-results-net-profit-rises-15-yoy-to-rs-1590-crore-revenue-up-14/articleshow/133176650.cms",
       "source": "rss"
@@ -89,8 +131,8 @@
       "source": "rss"
     },
     {
-      "title": "Why is market falling today? N Chandra’s exit among 3 factors behind 550-pt Sensex slide; Nifty below 24,300",
-      "description": "The Indian stock market witnessed sharp selling on Wednesday, with the Sensex dropping over 570 points and Nifty sliding below 24,300. The decline was triggered by Tata Sons Chairman N Chandrasekaran's resignation and rising crude oil prices, dragging down major Tata Group stocks and erasing over Rs 2 lakh crore in investor wealth.",
+      "title": "Why did market fall today? N Chandra’s exit among 3 factors behind 188-pt Sensex slide; Nifty below 24,450",
+      "description": "Indian equities extended losses on Wednesday, with Sensex falling 188 points and Nifty declining 36 points, amid pressure on Tata Group stocks following N Chandrasekaran’s resignation and rising oil prices. IT stocks led sectoral declines, while PSU banks gained. Broader markets were mixed, with volatility easing as India VIX declined 1.5%.",
       "publication_date": "Wed, 12 Aug 2026 13:57:21 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-the-market-falling-today-sensex-falls-570-points-nifty-below-24300-key-factors/articleshow/133176165.cms",
       "source": "rss"
@@ -145,7 +187,7 @@
       "source": "rss"
     },
     {
-      "title": "Sebi sees no manipulation in new CAS despite participation concerns",
+      "title": "Sebi sees no manipulation in closing auction sessions so far, says Tuhin Kanta Pandey",
       "description": "The Securities and Exchange Board of India has confirmed that no manipulation exists within the newly established closing auction system. This session, which establishes closing stock prices, strives to meet international norms. Since its inception, participation in the closing auction has progressively increased. The regulator is actively considering feedback to amplify market participation. This reform is essential in reducing tracking discrepancies for passive investment funds.",
       "publication_date": "Wed, 12 Aug 2026 13:14:45 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-no-manipulation-in-new-cas-despite-participation-concerns/articleshow/133175145.cms",
@@ -278,10 +320,24 @@
       "source": "rss"
     },
     {
+      "title": "Crowley stuns Hong in Wisconsin; Flanagan beats Craig in Minnesota",
+      "description": "Progressive Democrats keep their winning streak rolling in Minnesota.",
+      "publication_date": "Wed, 12 Aug 2026 10:49:07 GMT",
+      "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "source": "rss"
+    },
+    {
       "title": "Dr Agarwals Health shares fall 7% after Rs 2,065-crore block deal; Hyperion Investments, Claymore likely sellers",
       "description": "Dr Agarwals Health Care shares dropped on Wednesday after a Rs 2,065-crore block deal involving 4.07 crore shares. Hyperion Investments and Claymore Investments were likely sellers, according to term sheet details. The block deal came after the company reported a 44.6% YoY rise in Q1 FY27 profit to Rs 55 crore.",
       "publication_date": "Wed, 12 Aug 2026 10:48:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-agarwals-health-shares-fall-7-after-rs-2065-crore-block-deal-hyperion-investments-claymore-likely-sellers/articleshow/133171383.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
+      "description": "The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consumption.",
+      "publication_date": "Wed, 12 Aug 2026 10:47:20 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
       "source": "rss"
     },
     {
@@ -299,11 +355,32 @@
       "source": "rss"
     },
     {
+      "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter'. Here's what's happening",
+      "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+      "publication_date": "Wed, 12 Aug 2026 10:29:58 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "source": "rss"
+    },
+    {
+      "title": "China’s answer to Boeing and Airbus makes first international flight — could COMAC challenge the aviation duopoly?",
+      "description": "China’s C919 has made its first scheduled international commercial flight, a milestone in COMAC’s bid to challenge Boeing and Airbus globally.",
+      "publication_date": "Wed, 12 Aug 2026 10:25:53 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html",
+      "source": "rss"
+    },
+    {
       "title": "Lenskart, Delhivery, among 10 stocks with highest increase in DII holdings in Q1. See full list",
       "description": "In August, Axis Direct introduces 44 stock recommendations, advocating a buy-on-dips approach. The banking, capital goods, and realty sectors exhibit promising technical patterns for investors. Additionally, consumer durables, healthcare, power, and auto sectors are projected to perform well. However, a selective caution is suggested for FMCG, metals, and oil & gas stocks as the brokerage predicts sustained momentum across various key market areas.",
       "publication_date": "Wed, 12 Aug 2026 10:23:03 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-delhivery-among-10-stocks-with-highest-increase-in-dii-holdings-in-q1-see-full-list/slideshow/133170949.cms",
       "source": "rss"
+    },
+    {
+      "title": "Major brokerages' forecasts for S&P 500 index in 2026 - Reuters",
+      "description": "Major brokerages' forecasts for S&P 500 index in 2026 &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 10:16:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGhaWThJUzBwaWk0V3lpeHpMeWFYN3BWT0s3cDBQTW9pal9HZEUzWFV1cDFzc2xGaGFtMFNZMmM1NEliWGZ0SGtKRFR1Mzd4N0NCQnl3YW9JY0JXVkpnRGlKaVlOU0kxYktCVERla0dObkdzWUI1MzZYTjdiNWVfWWJhei1rRTh4X1dHQm1OQkxqXzUwa0kwUUZoNHNkOTU5YlNSZnJfaGdabmQ1cXNVQ0JfejJHaGdSc05V?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "44 bullish & bearish stock picks across sectors for August by Axis Direct",
@@ -324,6 +401,13 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 10:01:46 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-12-aug-2026/liveblog/133170214.cms",
+      "source": "rss"
+    },
+    {
+      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
+      "description": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
+      "publication_date": "Wed, 12 Aug 2026 10:00:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
       "source": "rss"
     },
     {
@@ -404,6 +488,13 @@
       "source": "rss"
     },
     {
+      "title": "Oil from tanker grounded off Oman has started reaching mainland, UN agency says - Reuters",
+      "description": "Oil from tanker grounded off Oman has started reaching mainland, UN agency says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 09:15:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Tata Sons’ IPO can take a page from a Hong Kong titan",
       "description": "RBI's requirement for upper-layer shadow lenders leaves Tata Sons facing an inevitable public listing. To resolve long-standing friction with minority owner Shapoorji Pallonji Group over illiquid shares, Tata Sons could emulate Scottish group Jardine Matheson by simplifying its corporate structure, buying out SP Group's stake, and using differential voting rights during an IPO to preserve control and financial stability.",
       "publication_date": "Wed, 12 Aug 2026 09:05:55 +0530",
@@ -471,13 +562,6 @@
       "description": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — was largely flat at 4.682%.",
       "publication_date": "Wed, 12 Aug 2026 08:31:12 GMT",
       "link": "https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html",
-      "source": "rss"
-    },
-    {
-      "title": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
-      "description": "The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consumption.",
-      "publication_date": "Wed, 12 Aug 2026 08:31:06 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
       "source": "rss"
     },
     {
@@ -619,6 +703,13 @@
       "publication_date": "Wed, 12 Aug 2026 08:11:52 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-live-updates-12-aug-2026/liveblog/133168313.cms",
       "source": "rss"
+    },
+    {
+      "title": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
+      "description": "Iran to join BRICS development bank soon, central bank governor says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 08:11:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Current Trading Status",
@@ -775,13 +866,6 @@
       "source": "rss"
     },
     {
-      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-      "description": "Progressive Democrats keep their winning streak rolling in Minnesota.",
-      "publication_date": "Wed, 12 Aug 2026 07:40:42 GMT",
-      "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-      "source": "rss"
-    },
-    {
       "title": "Gold firms below 10-week high as markets brace for US CPI data",
       "description": "Gold prices experienced a notable increase on Wednesday as market participants anticipated essential inflation data. Worries about oil-induced inflation, stemming from unrest in the Middle East, kept the markets on edge. In light of recent job reports, traders lowered their predictions for a potential Federal Reserve rate hike next month. Furthermore, the Indian markets regulator is considering the extension of rules for vault managers handling bullion.",
       "publication_date": "Wed, 12 Aug 2026 07:36:36 +0530",
@@ -894,6 +978,13 @@
       "source": "Reuters"
     },
     {
+      "title": "TUI avoids another profit warning as Iran war further dents travel bookings - Reuters",
+      "description": "TUI avoids another profit warning as Iran war further dents travel bookings &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 05:04:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXFRbkJoZFM5cC1hRjk2TmVxNk1EeHowRHJraXdlZUNqcmZfRHdpdTFyWE9rWkhQWlJnVlJfMVM4XzZTY1RtYm9BS2xPcUZRU1V4YzZPRWdhUGtUQlZRcjVzQmdQVEliUFB5bmNOYm1KVWVsS3ZWZi12c2tYYXFqM2g4WTFGTi1fbVZseWYxenR6RHdDWTNha052OGRWX0E2cS1mMFhvUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
       "description": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
       "publication_date": "Wed, 12 Aug 2026 05:00:01 GMT",
@@ -936,8 +1027,8 @@
       "source": "rss"
     },
     {
-      "title": "Indian shares subdued as higher crude prices weigh - Reuters",
-      "description": "Indian shares subdued as higher crude prices weigh &nbsp;&nbsp; Reuters",
+      "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus - Reuters",
+      "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 02:41:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
       "source": "Reuters"
@@ -985,8 +1076,8 @@
       "source": "rss"
     },
     {
-      "title": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters",
-      "description": "Oil rises as doubts over US-Iran deal heighten supply concerns &nbsp;&nbsp; Reuters",
+      "title": "Oil rises after attacks on ships in Hormuz, Bab el-Mandeb - Reuters",
+      "description": "Oil rises after attacks on ships in Hormuz, Bab el-Mandeb &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 00:58:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
       "source": "Reuters"
@@ -1346,97 +1437,6 @@
       "description": "Salesforce promoted revenue head and former Oracle executive Miguel Milano to role of operating chief.",
       "publication_date": "Wed, 05 Aug 2026 20:48:20 GMT",
       "link": "https://www.cnbc.com/2026/08/05/marc-benioff-gets-a-new-coo-as-salesforce-promotes-miguel-milano-.html",
-      "source": "rss"
-    },
-    {
-      "title": "TSX hits record high as Shopify and metal miners surge - Reuters",
-      "description": "TSX hits record high as Shopify and metal miners surge &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 20:45:56 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjQzR2tSZlJZNDhuWkZ2ZTZGZ183RkxMV0YwT2Uzd1NUbWxoSm0xQnQ2ajhiSjJFa0h0N2tRNDd6Z0xSdHdaR2MzbVJrM2o4N0wzeHdFN2JKM01iT0NhcWlrRWQ2bF9yWXFpM0RMaVFjR04wbVRMZllXZ2M3Z0dTMldiQjZwbXlQVVFGSHpFcXVKQzVIQkRnQQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 20:37:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-      "description": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
-      "publication_date": "Wed, 05 Aug 2026 20:36:16 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-      "source": "rss"
-    },
-    {
-      "title": "Shopify shares soar 18% as AI push helps revenue beat estimates",
-      "description": "Shopify's stock soared following the release of strong second-quarter financial results. The e-commerce giant outperformed analyst projections in terms of revenue and gross merchandise volume, mitigating concerns about the effects of artificial intelligence on service demand.",
-      "publication_date": "Wed, 05 Aug 2026 20:33:25 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/shopify-shares-soar-18-as-ai-push-helps-revenue-beat-estimates/articleshow/132942433.cms",
-      "source": "rss"
-    },
-    {
-      "title": "PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%",
-      "description": "PB Fintech reported a 92% year-on-year rise in Q1FY27 consolidated profit to Rs 163 crore, driven by robust insurance premium growth, higher operating revenue and improving margins. Operating revenue rose 40%, while total insurance premium increased 41%, supported by strong protection and health insurance demand.",
-      "publication_date": "Wed, 05 Aug 2026 20:31:15 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
-      "description": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
-      "publication_date": "Wed, 05 Aug 2026 20:02:56 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
-      "source": "rss"
-    },
-    {
-      "title": "SpaceX stock falls 13% as AI spending surge rattles investors and massive share unlock looms",
-      "description": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
-      "publication_date": "Wed, 05 Aug 2026 20:02:03 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-      "source": "rss"
-    },
-    {
-      "title": "Uber shares drop 6% as weak forecast overshadows strong bookings",
-      "description": "Uber’s strong second-quarter growth was overshadowed by a weak outlook, sending shares down 6% as the company ramps up autonomous-vehicle investments.",
-      "publication_date": "Wed, 05 Aug 2026 19:52:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/uber-shares-drop-6-as-weak-forecast-overshadows-strong-bookings/articleshow/132937582.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
-      "description": "The Trump administration has taken steps to effectively re-create the IEEPA tariff regime using other legal authorities. They already face court challenges.",
-      "publication_date": "Wed, 05 Aug 2026 19:31:26 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
-      "source": "rss"
-    },
-    {
-      "title": "Thomson Reuters lifts full-year revenue forecast with focus on AI rollout",
-      "description": "Thomson Reuters has revised its full-year organic revenue outlook, now anticipating an increase of around eight percent. The company witnessed a remarkable nine percent revenue growth in the second quarter, achieving $1.95 billion. Excluding certain items, earnings per share rose to ninety-nine cents, exceeding market predictions. CEO Steve Hasker highlighted the company's commitment to substantial investment in artificial intelligence, aiming to boost product offerings and explore innovative commercialization pathways.",
-      "publication_date": "Wed, 05 Aug 2026 19:30:40 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/thomson-reuters-lifts-full-year-revenue-forecast-with-focus-on-ai-rollout/articleshow/132935130.cms",
-      "source": "rss"
-    },
-    {
-      "title": "We're increasing our Eli Lilly price target after another beat-and-raise quarter",
-      "description": "The strength of its GLP-1 business suggests the stock still has more room to run.",
-      "publication_date": "Wed, 05 Aug 2026 19:28:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/were-increasing-our-eli-lilly-price-target-after-another-beat-and-raise-quarter.html",
-      "source": "rss"
-    },
-    {
-      "title": "SpaceX shares tumble 12%, fall below IPO price as AI spending concerns mount",
-      "description": "SpaceX has demonstrated accelerated returns on its AI investments, though investors express concerns regarding future funding for data centers. Following its IPO, the company's stock saw a significant drop. Despite this, AI revenue surged over threefold, and new cloud agreements were announced. The capital invested in AI is still high, promising returns in under a year.",
-      "publication_date": "Wed, 05 Aug 2026 19:26:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-shares-slump-12-as-ai-spending-worries-overshadow-early-returns/articleshow/132934927.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Wall Street's 'fear gauge' is doing something unusual as stocks hit record highs",
-      "description": "Stocks and the Cboe Volatility Index move together only about 20% of the time.",
-      "publication_date": "Wed, 05 Aug 2026 19:18:31 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
       "source": "rss"
     }
   ]
