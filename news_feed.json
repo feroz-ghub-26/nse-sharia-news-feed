@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:27:45.808934+00:00",
+  "generated_at": "2026-08-12T15:53:31.958143+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,17 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
+    {
+      "title": "Apollo Hospitals Q1 Results: Net profit jumps 38% YoY to Rs 610 crore; revenue rises 21%",
+      "description": "Apollo Hospitals reported a 38.4% year-on-year rise in Q1FY27 net profit to ₹610 crore, while revenue grew 20.6% to ₹7,044 crore. EBITDA increased 28.2%, supported by higher healthcare volumes, complex procedures, capacity expansion and strong international patient growth.",
+      "publication_date": "Wed, 12 Aug 2026 21:13:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-q1-results-net-profit-jumps-38-yoy-to-rs-610-crore-revenue-rises-21/articleshow/133187109.cms",
+      "source": "rss"
+    },
     {
       "title": "Shein's slowing growth tests investor appetite ahead of Hong Kong IPO",
       "description": "Shein’s upcoming IPO faces skepticism from investors due to a notable decline in growth rates. The fast-fashion giant is grappling with rising costs and evolving market dynamics that challenge its established business model. Concerns are mounting regarding whether Shein can replicate its previous growth trajectory that initially drew investor interest.",
@@ -180,17 +187,66 @@
       "source": "rss"
     },
     {
+      "title": "Trump sued over Truth Social advance access sale",
+      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+      "publication_date": "Wed, 12 Aug 2026 15:44:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+      "source": "rss"
+    },
+    {
+      "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
+      "description": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
+      "publication_date": "Wed, 12 Aug 2026 15:41:24 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
+      "source": "rss"
+    },
+    {
+      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+      "description": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
+      "publication_date": "Wed, 12 Aug 2026 15:37:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+      "source": "rss"
+    },
+    {
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+      "publication_date": "Wed, 12 Aug 2026 15:37:19 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "source": "rss"
+    },
+    {
+      "title": "Gulf oil spill fast becoming worst in years, agencies warn - Reuters",
+      "description": "Gulf oil spill fast becoming worst in years, agencies warn &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 15:36:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
+      "description": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
+      "publication_date": "Wed, 12 Aug 2026 15:27:38 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Putin says Russia will start seizing European vessels if its ships targeted - Reuters",
+      "description": "Putin says Russia will start seizing European vessels if its ships targeted &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 15:26:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+      "description": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
+      "publication_date": "Wed, 12 Aug 2026 15:25:09 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+      "source": "rss"
+    },
+    {
       "title": "Bitcoin near $64,000 as crypto markets turn cautious ahead of US CPI. Here is what expert say",
       "description": "Bitcoin hovered near $64,000 as investors remained cautious ahead of US CPI data, with the broader crypto market largely subdued. Analysts flagged weak short-term momentum below key resistance levels, while Ethereum showed relative strength. Bitcoin’s immediate support lies around $63,000–$63,200, with sustained buying above $64,500 needed to signal a stronger recovery.",
       "publication_date": "Wed, 12 Aug 2026 15:24:43 +0530",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64000-as-crypto-markets-turn-cautious-ahead-of-us-cpi-here-is-what-expert-say/articleshow/133178203.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Trump sued over Truth Social advance access sale",
-      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-      "publication_date": "Wed, 12 Aug 2026 15:24:27 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
       "source": "rss"
     },
     {
@@ -199,6 +255,13 @@
       "publication_date": "Wed, 12 Aug 2026 15:23:12 GMT",
       "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "source": "rss"
+    },
+    {
+      "title": "US to offer 81 million acres in Gulf of Mexico oil and gas lease sale - Reuters",
+      "description": "US to offer 81 million acres in Gulf of Mexico oil and gas lease sale &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 15:22:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHRnTHhIVk9WTzB6bXlKN1dCM2VweVUxNVgzRHhNaEE5VUx4SmxIS2ZRQk8xZDlrbWk3LUJPMl93bDFXc0s1R1loQXl0MS0zQWxMREJCc1Q3eVF6Ykc3YXFBMkoybzc0Nm92U0dsU0QzZnJMU1B3N1JvRDlMZmtnZlBCTTlrQnhwQnhtUXNPOU9TVHZDeTRMVjhuUnBZZGQzWmpELWtXeWhGaWNOUEE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Marksans Pharma shares rally over 9% after Q1 profit spikes 174% YoY to Rs 159 crore",
@@ -229,20 +292,6 @@
       "source": "rss"
     },
     {
-      "title": "Gulf oil spill fast becoming worst in years, agencies warn - Reuters",
-      "description": "Gulf oil spill fast becoming worst in years, agencies warn &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 15:09:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-      "publication_date": "Wed, 12 Aug 2026 15:08:58 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-      "source": "rss"
-    },
-    {
       "title": "Global Market: European shares subdued as investors assess earnings, geopolitical risks ahead of US inflation data",
       "description": "European shares traded largely flat as investors assessed mixed corporate earnings, rising oil prices and renewed geopolitical tensions ahead of key U.S. inflation data. Energy stocks led gains, while automobiles and parts declined. Investors remained cautious amid concerns over inflation, global trade and the outlook for interest rates.",
       "publication_date": "Wed, 12 Aug 2026 14:59:30 +0530",
@@ -255,6 +304,13 @@
       "publication_date": "Wed, 12 Aug 2026 14:52:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-nearly-9-in-two-days-post-q1-earnings/articleshow/133177435.cms",
       "source": "rss"
+    },
+    {
+      "title": "Trump says US has 'total control' over Strait of Hormuz - Reuters",
+      "description": "Trump says US has 'total control' over Strait of Hormuz &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 14:39:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Mortgage rates finally stop rising, causing demand to trickle back",
@@ -311,13 +367,6 @@
       "publication_date": "Wed, 12 Aug 2026 14:14:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ardee-industries-shares-slip-7-post-listing-after-double-digit-listing-gains-what-should-investors-do/articleshow/133176494.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock - Reuters",
-      "description": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 14:06:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
@@ -509,17 +558,17 @@
       "source": "Reuters"
     },
     {
+      "title": "F-16 aircraft crashes in training flight in Turkey, defence ministry says - Reuters",
+      "description": "F-16 aircraft crashes in training flight in Turkey, defence ministry says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 12:38:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXdCZ01PTGIxTWJuWmVlM3l6d3lROVl1Znl3Y195dGJfQzFSTHlOenZXX2dYR0dSZkJhQzg1VkJaQUlBT01uZkhjUHJhUDVrNDJsMzJHbFJmZExCSTl3cVhJMk9jN2pVSGtxQThkODBvZ21maVVFd0pMWjFkQU5qT1FzZlhBTWZBTWFWa3laZVJXbW9UcVppU0pHbEM2SVpmNmhvYUd1b29HWF9L?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Technocraft Ventures IPO allotment likely today, GMP signals over 12% listing gain. How to check status",
       "description": "The Rs 251.88-crore Technocraft Ventures IPO received strong investor interest, with its GMP rising to around 12.74% from 11% earlier, signalling expectations of a positive listing. Investors are likely to learn their allotment status today.",
       "publication_date": "Wed, 12 Aug 2026 12:33:54 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-allotment-likely-today-gmp-signals-over-12-listing-gain-how-to-check-status/articleshow/133174270.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-      "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
-      "publication_date": "Wed, 12 Aug 2026 12:28:39 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
       "source": "rss"
     },
     {
@@ -614,13 +663,6 @@
       "source": "rss"
     },
     {
-      "title": "Putin says Russia will start seizing EU vessels if bloc goes after Russian ships - Reuters",
-      "description": "Putin says Russia will start seizing EU vessels if bloc goes after Russian ships &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 11:48:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "US July CPI seen rising moderately, Fed rate outlook in focus",
       "description": "US consumer prices are expected to have risen modestly in July, potentially easing market expectations of a Federal Reserve rate hike this year. However, inflation remains above the Fed’s target, with Middle East tensions and oil-price uncertainty keeping upside risks elevated.",
       "publication_date": "Wed, 12 Aug 2026 11:31:53 +0530",
@@ -654,13 +696,6 @@
       "publication_date": "Wed, 12 Aug 2026 11:10:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-other-tata-stocks-fall-up-to-4-as-n-chandrasekaran-resigns/articleshow/133172060.cms",
       "source": "rss"
-    },
-    {
-      "title": "US to offer 81 million acres in Gulf of Mexico oil and gas lease sale - Reuters",
-      "description": "US to offer 81 million acres in Gulf of Mexico oil and gas lease sale &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 11:03:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHRnTHhIVk9WTzB6bXlKN1dCM2VweVUxNVgzRHhNaEE5VUx4SmxIS2ZRQk8xZDlrbWk3LUJPMl93bDFXc0s1R1loQXl0MS0zQWxMREJCc1Q3eVF6Ykc3YXFBMkoybzc0Nm92U0dsU0QzZnJMU1B3N1JvRDlMZmtnZlBCTTlrQnhwQnhtUXNPOU9TVHZDeTRMVjhuUnBZZGQzWmpELWtXeWhGaWNOUEE?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "US Stock Market: Treasury yields pare gains as Iran comments dampen hopes for Strait of Hormuz deal",
@@ -712,17 +747,17 @@
       "source": "rss"
     },
     {
+      "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus - Reuters",
+      "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 10:17:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "PODCAST: Banking on CoreWeave - Reuters",
       "description": "PODCAST: Banking on CoreWeave &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 10:08:46 GMT",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE1vNXBNamI2ek1BUXE3U2s1VUl0djJybDViWU4zOHU1MVZqRVZJZ2M1blJkakwxOWd3V2d5VkFfMGZDc3NENW1oUW5PM0IyR0NWT2pKbTh4NW5hREREZjdFREQxYWtUZlJKaFdXZjN4ZmJPSnVVQV9ITkFCM2RWR1NyVDI1Rm03VVE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - Reuters",
-      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 10:08:36 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
       "source": "Reuters"
     },
     {
@@ -1342,18 +1377,18 @@
       "source": "Reuters"
     },
     {
+      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - Reuters",
+      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 02:59:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
       "description": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
       "publication_date": "Wed, 12 Aug 2026 02:58:04 GMT",
       "link": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
       "source": "rss"
-    },
-    {
-      "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus - Reuters",
-      "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 02:41:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port - Reuters",
@@ -1391,53 +1426,18 @@
       "source": "rss"
     },
     {
+      "title": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock - Reuters",
+      "description": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 00:58:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Dollar slips as in-line CPI tempers rate-hike bets - Reuters",
       "description": "Dollar slips as in-line CPI tempers rate-hike bets &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 00:57:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Why the US-Iran war continues to disrupt oil markets",
-      "description": "The oil market is witnessing unprecedented volatility amid the intensifying US-Iran hostilities. Iran's surprising maneuver to shut down the critical Hormuz waterway has caught the attention of global investors. President Trump’s inconsistent remarks have also played a pivotal role in shaping market reactions. Despite the rise in crude prices, they remain below expert expectations.",
-      "publication_date": "Wed, 12 Aug 2026 00:02:15 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/why-the-us-iran-war-continues-to-disrupt-oil-markets/articleshow/133163454.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
-      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
-      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
-      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
-      "source": "rss"
-    },
-    {
-      "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
-      "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
-      "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
-      "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
-      "source": "rss"
-    },
-    {
-      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-      "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
-      "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
-      "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
-      "source": "rss"
-    },
-    {
-      "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-      "description": "Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
-      "publication_date": "Wed, 05 Oct 2016 14:00:44 +0530",
-      "link": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
-      "source": "rss"
-    },
-    {
-      "title": "Uber redBus partner with ixigo for train travellers",
-      "description": "ixigo, India’s leading mobile travel marketplace has announced partnerships with Uber and redBus to enable instant bookings for cabs and buses natively within ixigo trains app.",
-      "publication_date": "Wed, 05 Oct 2016 14:00:34 +0530",
-      "link": "http://www.moneycontrol.com/news/sme/uberredbus-partnerixigo-for-train-travellers_7577561.html",
-      "source": "rss"
     }
   ]
 }
