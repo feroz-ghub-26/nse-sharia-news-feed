@@ -26,6 +26,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Run tests
+        run: python -m unittest -v
+
       - name: Generate news feed JSON
         run: python scripts/refresh_news_feed.py
 
