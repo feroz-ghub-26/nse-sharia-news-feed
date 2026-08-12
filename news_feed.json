@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:53:22.699098+00:00",
+  "generated_at": "2026-08-12T13:54:55.352173+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -40,6 +40,27 @@
   ],
   "articles": [
     {
+      "title": "US STOCKS SNAPSHOT-S&P 500, Nasdaq open higher after inflation data, earnings boost",
+      "description": "Major stock indexes opened higher on Wednesday morning. Investors assessed largely in-line inflation data released today. Upbeat earnings from some AI infrastructure companies provided additional support. The Dow Jones Industrial Average rose slightly at the open. The S&P 500 and Nasdaq Composite also saw gains.",
+      "publication_date": "Wed, 12 Aug 2026 19:15:08 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms",
+      "source": "rss"
+    },
+    {
+      "title": "MCX, NISM launch centre to strengthen India’s commodity market skills",
+      "description": "MCX and NISM have signed an MoU to establish the MCX-NISM Centre for Commodity Markets, focusing on professional training, research, investor awareness and academic engagement. The initiative aims to strengthen expertise in commodity derivatives, risk management, compliance and responsible participation.",
+      "publication_date": "Wed, 12 Aug 2026 19:09:27 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-nism-launch-centre-to-strengthen-indias-commodity-market-skills/articleshow/133184654.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Gokaldas Exports Q1 profit jumps 7% as US tariff pressure eases",
+      "description": "Gokaldas Exports reported a 7% year-on-year rise in Q1FY27 net profit to ₹44 crore, while income climbed 21% to ₹1,180 crore. Recovery followed tariff disruptions, supported by stronger India order execution, Africa volumes and productivity initiatives.",
+      "publication_date": "Wed, 12 Aug 2026 19:06:35 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-q1-profit-jumps-7-as-us-tariff-pressure-eases/articleshow/133184564.cms",
+      "source": "rss"
+    },
+    {
       "title": "Quote of the day by Richard Thaler: \"If we use prediction as the measure of a model, traditional finance makes precisely wrong predictions\"",
       "description": "Richard Thaler challenges traditional finance’s rational-investor assumption, arguing that psychology, emotions and behavioural biases shape markets. Fear, greed, overconfidence and loss aversion can drive bubbles, volatility and mispricing, making investor behaviour essential to understanding financial markets.",
       "publication_date": "Wed, 12 Aug 2026 17:56:20 +0530",
@@ -54,7 +75,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stock futures pare gains after July inflation data",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&P, Nasdaq edge higher after July inflation data, earnings boost",
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 17:52:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-july-inflation-data-micro-coreweave-chip-stock-price-news-12th-august-2026/liveblog/133182738.cms",
@@ -243,10 +264,45 @@
       "source": "rss"
     },
     {
+      "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+      "description": "Home Depot's CEO Ted Decker is taking a temporary medical leave of absence that's expected to last a few months.",
+      "publication_date": "Wed, 12 Aug 2026 13:42:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
+      "source": "rss"
+    },
+    {
+      "title": "CoreWeave surges 23% after a 'cleaner quarter.' Here's what's happening",
+      "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+      "publication_date": "Wed, 12 Aug 2026 13:40:53 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "source": "rss"
+    },
+    {
+      "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
+      "description": "Eclipse demand pushed some Spain and Iceland stays above $1,000 a night, while Iceland hotels cut prices sharply closer to Aug. 12.",
+      "publication_date": "Wed, 12 Aug 2026 13:40:40 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
+      "source": "rss"
+    },
+    {
       "title": "Global Market: Emerging markets draw nearly $19 billion in July as foreign investor outflows ease",
       "description": "Foreign investors returned to emerging markets in July, investing a net $18.8 billion in debt and equities after two months of outflows. Debt attracted $26.7 billion, while equities saw a $7.8 billion outflow. Asia recorded a sharp reversal, led by stronger debt flows, while China remained an exception. Record sovereign debt issuance also highlighted renewed investor appetite.",
       "publication_date": "Wed, 12 Aug 2026 13:38:28 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-emerging-markets-draw-nearly-19-billion-in-july-as-foreign-investor-outflows-ease/articleshow/133175810.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Chinese tech giant Tencent sees spending surge, defends potential 'superior' AI returns",
+      "description": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
+      "publication_date": "Wed, 12 Aug 2026 13:31:54 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
+      "source": "rss"
+    },
+    {
+      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+      "description": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
+      "publication_date": "Wed, 12 Aug 2026 13:29:29 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "rss"
     },
     {
@@ -257,11 +313,32 @@
       "source": "rss"
     },
     {
+      "title": "China’s answer to Boeing and Airbus makes first international flight — could COMAC challenge the aviation duopoly?",
+      "description": "China’s C919 has made its first scheduled international commercial flight, a milestone in COMAC’s bid to challenge Boeing and Airbus globally.",
+      "publication_date": "Wed, 12 Aug 2026 13:15:36 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html",
+      "source": "rss"
+    },
+    {
+      "title": "Gulf oil spill fast becoming worst in years, agencies warn - Reuters",
+      "description": "Gulf oil spill fast becoming worst in years, agencies warn &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 13:15:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Sebi sees no manipulation in closing auction sessions so far, says Tuhin Kanta Pandey",
       "description": "The Securities and Exchange Board of India has confirmed that no manipulation exists within the newly established closing auction system. This session, which establishes closing stock prices, strives to meet international norms. Since its inception, participation in the closing auction has progressively increased. The regulator is actively considering feedback to amplify market participation. This reform is essential in reducing tracking discrepancies for passive investment funds.",
       "publication_date": "Wed, 12 Aug 2026 13:14:45 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-no-manipulation-in-new-cas-despite-participation-concerns/articleshow/133175145.cms",
       "source": "rss"
+    },
+    {
+      "title": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says - Reuters",
+      "description": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 13:06:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "NALCO, Hindalco gain up to 8% as global aluminium prices hit 7-week high amid Mideast tensions",
@@ -289,13 +366,6 @@
       "description": "The July CPI report matched expectations, and CoreWeave's earnings report shows booming demand for Nvidia chips.",
       "publication_date": "Wed, 12 Aug 2026 12:50:34 GMT",
       "link": "https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "source": "rss"
-    },
-    {
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "description": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
-      "publication_date": "Wed, 12 Aug 2026 12:50:08 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "rss"
     },
     {
@@ -346,6 +416,13 @@
       "publication_date": "Wed, 12 Aug 2026 12:13:45 GMT",
       "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
       "source": "rss"
+    },
+    {
+      "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
+      "description": "OPEC further lowers 2026 global oil demand growth forecast &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 12:12:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGtBOHhHeFZVQ0xfdlpxYWtxd1Y4VUVEMFFFMlUxakNMd29IeThMN1RxeVlEbHJpMk8xN0RzakdZWEZxUWFHOGVDSXNRTEM4WjYzcW13TkVSbHBPT1c5VEdCM1A0cFJNVG5fd19yeDlRLTJNYjJYbjVVN1lLRmtQZk5oMW85MXkwNzBhaHNuQUR1Z0RnbHI4RHduQ3dRdFMyOXdvYzZEUmRkVjV6ZXVZ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "SpaceX namesake creates confusion on Dalal Street! Indian IT stock skyrockets 23% in 2 days",
@@ -411,11 +488,11 @@
       "source": "rss"
     },
     {
-      "title": "China’s answer to Boeing and Airbus makes first international flight — could COMAC challenge the aviation duopoly?",
-      "description": "China’s C919 has made its first scheduled international commercial flight, a milestone in COMAC’s bid to challenge Boeing and Airbus globally.",
-      "publication_date": "Wed, 12 Aug 2026 11:45:02 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html",
-      "source": "rss"
+      "title": "Putin says Russia will start seizing EU vessels if bloc goes after Russian ships - Reuters",
+      "description": "Putin says Russia will start seizing EU vessels if bloc goes after Russian ships &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 11:48:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US July CPI seen rising moderately, Fed rate outlook in focus",
@@ -429,13 +506,6 @@
       "description": "TD Power Systems shares surged after the company reported a strong Q1FY27 performance. Profit after tax rose 72% YoY to Rs 86 crore, while revenue and EBITDA jumped 71% and 72%, respectively, driven by robust operational growth.",
       "publication_date": "Wed, 12 Aug 2026 11:27:17 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/td-power-systems-shares-rally-over-12-after-q1-profit-jumps-72-yoy-to-rs-86-crore/articleshow/133172316.cms",
-      "source": "rss"
-    },
-    {
-      "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter.' Here's what's happening",
-      "description": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-      "publication_date": "Wed, 12 Aug 2026 11:22:47 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
       "source": "rss"
     },
     {
@@ -593,6 +663,13 @@
       "source": "rss"
     },
     {
+      "title": "Russia's Orsk refinery halted processing after August 11 drone attack, sources say - Reuters",
+      "description": "Russia's Orsk refinery halted processing after August 11 drone attack, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 09:41:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWE84d1h2M1pxV0lrQkFVb1l3Xy1OdUVKbGM5OW5rMlhYZm1BWTJZSEgzNFpTWTVZcDQ5SHlkN0F0YnlkbjQzSC1XcjR1bGp6SHRPbEZYaEpnMnpFck00SkxJNm5nMlVuVE9ZOTFSRFFudm96WkZiaGxaTUVIVFNUN2VXTEVrMHFrTTNpTEhVclFfNU1fc241V0h2c1ZsQ1RPVHloRm81N2xuYkpjV0dkQkhsZFRUNGZWeFNnVF9RTE1ZXzZ6SnFRRXZxMFE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Gold prices rise Rs 1,200/10g; silver jumps Rs 2,612/kg as traders eye US inflation data. Check key levels",
       "description": "Gold and silver prices opened higher on the MCX as investors awaited US inflation data for cues on the Federal Reserve’s rate outlook. Rising oil prices and tensions in the Middle East also kept inflation concerns in focus.",
       "publication_date": "Wed, 12 Aug 2026 09:38:31 +0530",
@@ -621,20 +698,6 @@
       "source": "rss"
     },
     {
-      "title": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
-      "description": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
-      "publication_date": "Wed, 12 Aug 2026 09:15:43 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
-      "source": "rss"
-    },
-    {
-      "title": "Oil from tanker grounded off Oman has started reaching mainland, UN agency says - Reuters",
-      "description": "Oil from tanker grounded off Oman has started reaching mainland, UN agency says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 09:15:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Tata Sons’ IPO can take a page from a Hong Kong titan",
       "description": "RBI's requirement for upper-layer shadow lenders leaves Tata Sons facing an inevitable public listing. To resolve long-standing friction with minority owner Shapoorji Pallonji Group over illiquid shares, Tata Sons could emulate Scottish group Jardine Matheson by simplifying its corporate structure, buying out SP Group's stake, and using differential voting rights during an IPO to preserve control and financial stability.",
       "publication_date": "Wed, 12 Aug 2026 09:05:55 +0530",
@@ -646,13 +709,6 @@
       "description": "European stocks steady ahead of US inflation data; geopolitical risks in focus &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 09:04:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEJrelVuLWNvQVpMQ0FHVXF0aE9vZTZqcklqQUNLSHpCOGxiQkl3Tko1UVJZTHpnVUhUQ0R6RTNWc08yMXRrb2tMNUI1MWpFby1qM1RUWVllYU9NT0x6MzFzQk1tY0U2Q0lCcGhrNUVRYjJtdDVEbVFObndDeFBiVDdmTXdsQW5FV09uRl9aSzFzWVMtVTdkQkFWMFZPdjBzdk1pWA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Putin says Russia will respond in kind if EU nations seize Russian vessels - Reuters",
-      "description": "Putin says Russia will respond in kind if EU nations seize Russian vessels &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 09:04:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
       "source": "Reuters"
     },
     {
@@ -1188,8 +1244,8 @@
       "source": "Reuters"
     },
     {
-      "title": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port, targets naval base - Reuters",
-      "description": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port, targets naval base &nbsp;&nbsp; Reuters",
+      "title": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port - Reuters",
+      "description": "Ukraine pounds grain terminals at Russia's Black Sea Novorossiysk port &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 01:50:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjdHV1FOZTRQMUpIMS1PME52VGlXWXJPTmppZl9IVnkyeEhHQkFnTVBfVWlrc3oyaGw3RDlDb0dfN3Jndmx6cUY1eXVNQmdzbFRzcy1aNWZqdUJoZE9POGFQbUFWR2U5MmhWT0QzV2RPOTBHdEd5ZmtrMGNSb2doYk1MalVxaXFfdGRSVURlVnZUdkNHMTlLZ2VpNHlvaFdpTWR1MzQxdVlnUHdIS1dpLWJpaDZfOHBCeGg3dWJ3?oc=5",
       "source": "Reuters"
@@ -1230,8 +1286,8 @@
       "source": "Reuters"
     },
     {
-      "title": "Dollar ticks up on Iran tension, with US data in focus - Reuters",
-      "description": "Dollar ticks up on Iran tension, with US data in focus &nbsp;&nbsp; Reuters",
+      "title": "Dollar slips as in-line CPI tempers rate-hike bets - Reuters",
+      "description": "Dollar slips as in-line CPI tempers rate-hike bets &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 00:57:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
       "source": "Reuters"
@@ -1382,62 +1438,6 @@
       "publication_date": "Wed, 05 Aug 2026 23:26:03 GMT",
       "link": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
       "source": "rss"
-    },
-    {
-      "title": "MercadoLibre profit beats forecasts, but third straight decline dents shares - Reuters",
-      "description": "MercadoLibre profit beats forecasts, but third straight decline dents shares &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 23:23:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFRkMnJTWlZLT19MaVcydlhlQ3NkUklRS1UxMjJwTzY0dWVRbkoyeFc0ejF5QmVfcmItUDNkMjJsQXJMbUlWdFRXNEppcnk4bkswTFNGd3JydDhEd0VDRlVELWI2TzJldWx6ellLbHdnNnJGT0s4TjlZLW9ZeERlMlhfX0s1dFhia0FHbEdBYzlxbmQ1X0txU1pCMGFEZUxDTXVjNVFfUFFSdlBXZ2x3azNELTFvRTg?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
-      "description": "Etsy announced the layoffs along with second-quarter earnings.",
-      "publication_date": "Wed, 05 Aug 2026 23:20:15 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
-      "source": "rss"
-    },
-    {
-      "title": "SpaceX draws retail investors despite fall in shares post earnings",
-      "description": "Retail investors bought SpaceX shares on Wednesday after a significant price drop. Individual traders purchased over twenty-two million dollars worth of stock. This buying activity followed the company's first earnings report since its public debut. SpaceX shares experienced a notable decline, falling below one hundred ten dollars. The company reported increased AI revenue and new cloud agreements.",
-      "publication_date": "Wed, 05 Aug 2026 23:16:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
-      "description": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 23:07:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks - Reuters",
-      "description": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 22:38:55 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Newly spun-off Honeywell Aerospace cuts 2026 forecast on supply-chain woes - Reuters",
-      "description": "Newly spun-off Honeywell Aerospace cuts 2026 forecast on supply-chain woes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 22:36:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNclQ0dHVjSWxSTHFkNlFlSlVUMGxHODRCa2g2OVpvbnUya1cyaWNDSGtSME1ra1E0bjBod3BoRk12cmZNUG5jSE9hMEEyX2kyQlhDOFdFSmFrcHVZcHVWaDdXTUNZNlY4Szk1M0tzWHJWdVFEck5sTGEyWkhRRFlhdnFVc2I3czFySkxNOGFNTW5fNDJpd1FyMjRlbmdCd1E0alozNV9KbmlNdExhMFA4ODBlRmJYMmZNa1BYdkFwQ3FSVVZ6WlI1bjlIUmhUN0k?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-      "description": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
-      "publication_date": "Wed, 05 Aug 2026 22:35:26 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-      "source": "rss"
-    },
-    {
-      "title": "Occidental quarterly profit soars to highest since 2022 on oil rally - Reuters",
-      "description": "Occidental quarterly profit soars to highest since 2022 on oil rally &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 22:08:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjBBN2NQeVI2azRMY0lHdTI1RnFkQjdVZ0pIbS1pY3RoaXJ0OGFuQUJITkM5TTFGUVNBbF9Tb2cyMTE2Z2tmX2xxcm1PdU1QUTl5RjF5WVNPWGI0cEdxSFFaZ01BUEs2bi0wYmZEMTQzMF9DVWtFa3RyUGdmMkJGREtHeWlhZFJxczIxWFg4am9yVUV3MWtIcXJkTVFRTXE2dXlYWFY1UFBTN1N6XzFnOUZCRHhDeURTMlpoXw?oc=5",
-      "source": "Reuters"
     }
   ]
 }
