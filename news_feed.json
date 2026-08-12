@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:53:31.958143+00:00",
+  "generated_at": "2026-08-12T16:26:01.536601+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,38 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Indel Money to raise up to Rs 500 crore via public issue of NCDs",
+      "description": "Indel Money plans to raise up to Rs 500 crore through a public issue of non-convertible debentures. The issue will open on August 18 and close on August 31, with an option for early closure. Proceeds will fund onward lending, refinancing existing debt, and general corporate purposes.",
+      "publication_date": "Wed, 12 Aug 2026 21:39:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indel-money-to-raise-up-to-rs-500-crore-via-public-issue-of-ncds/articleshow/133187783.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "description": "Indian markets extended losses as Tata Group stocks tumbled following N Chandrasekaran’s Tata Sons exit, while crude nearing $90 heightened inflation concerns. Sensex fell 188 points and Nifty declined 36 points, with PSU banks and metals outperforming broader market weakness.",
+      "publication_date": "Wed, 12 Aug 2026 21:30:29 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133187725.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US stocks: CoreWeave, Super Micro surge on signs of sustained AI buildout",
+      "description": "CoreWeave and Super Micro have seen their stock prices soar to new heights amid a rising tide of demand for AI infrastructure. CoreWeave has updated its expectations for annual revenue and operating profit, signaling strong market confidence. Similarly, Super Micro's projections for 2027 revenue exceed Wall Street estimates, reflecting robust investment in AI servers and computing capabilities.",
+      "publication_date": "Wed, 12 Aug 2026 21:26:52 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-coreweave-super-micro-surge-on-signs-of-sustained-ai-buildout/articleshow/133187386.cms",
+      "source": "rss"
+    },
+    {
+      "title": "BofA to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
+      "description": "Bank of America is making headlines with its planned acquisition of a substantial 26.5 percent interest in Jio Credit. This deal, involving a preferential allotment of equity shares and warrants, could see its stake grow to 49.9 percent. The investment signifies Bank of America's commitment to strengthening its foothold in India's financial landscape, utilizing local knowledge for enhanced market development.",
+      "publication_date": "Wed, 12 Aug 2026 21:25:10 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/update-1-bofa-to-invest-1-9-billion-for-49-9-stake-in-jio-financial-nbfc-unit/articleshow/133187370.cms",
+      "source": "rss"
+    },
     {
       "title": "Apollo Hospitals Q1 Results: Net profit jumps 38% YoY to Rs 610 crore; revenue rises 21%",
       "description": "Apollo Hospitals reported a 38.4% year-on-year rise in Q1FY27 net profit to ₹610 crore, while revenue grew 20.6% to ₹7,044 crore. EBITDA increased 28.2%, supported by higher healthcare volumes, complex procedures, capacity expansion and strong international patient growth.",
@@ -166,6 +194,34 @@
       "source": "rss"
     },
     {
+      "title": "Trump sued over Truth Social advance access sale",
+      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+      "publication_date": "Wed, 12 Aug 2026 16:20:22 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+      "source": "rss"
+    },
+    {
+      "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
+      "description": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
+      "publication_date": "Wed, 12 Aug 2026 16:17:39 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
+      "source": "rss"
+    },
+    {
+      "title": "Iran says no progress on reviving interim peace deal with US - Reuters",
+      "description": "Iran says no progress on reviving interim peace deal with US &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 16:17:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+      "publication_date": "Wed, 12 Aug 2026 16:02:40 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "source": "rss"
+    },
+    {
       "title": "Tata Motors CV Q1 Results: Net profit soars 83% YoY to Rs 2,560 cr on one-time gain from Tata Capital; revenue jumps 19%",
       "description": "Tata Motors CV Q1 Results: Commercial vehicle major Tata Motors on Wednesday reported a net profit of Rs 2,560 in the first quarter of financial year 2027, marking a jump of 83.3% from Rs 1,397 crore reported in the same period last year.",
       "publication_date": "Wed, 12 Aug 2026 15:57:45 +0530",
@@ -180,6 +236,13 @@
       "source": "rss"
     },
     {
+      "title": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
+      "description": "For investors who suspect Amazon could be range-bound for the next seven weeks, consider a “jade lizard.”",
+      "publication_date": "Wed, 12 Aug 2026 15:53:24 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
+      "source": "rss"
+    },
+    {
       "title": "Investcorp-backed NDR InvIT Trust files draft paper with Sebi for Rs 750 crore IPO",
       "description": "NDR InvIT Trust filed draft papers for a Rs 750 crore IPO to transition from private to public. The funds will support acquiring warehousing assets, aiming to strengthen and diversify its logistics portfolio across major Indian markets.",
       "publication_date": "Wed, 12 Aug 2026 15:46:47 +0530",
@@ -187,31 +250,10 @@
       "source": "rss"
     },
     {
-      "title": "Trump sued over Truth Social advance access sale",
-      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-      "publication_date": "Wed, 12 Aug 2026 15:44:25 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-      "source": "rss"
-    },
-    {
-      "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
-      "description": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
-      "publication_date": "Wed, 12 Aug 2026 15:41:24 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
-      "source": "rss"
-    },
-    {
       "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
       "description": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
       "publication_date": "Wed, 12 Aug 2026 15:37:25 GMT",
       "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-      "source": "rss"
-    },
-    {
-      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-      "publication_date": "Wed, 12 Aug 2026 15:37:19 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
       "source": "rss"
     },
     {
@@ -446,18 +488,18 @@
       "source": "rss"
     },
     {
-      "title": "Iran says no progress on reviving interim peace deal with US - Reuters",
-      "description": "Iran says no progress on reviving interim peace deal with US &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 13:39:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Global Market: Emerging markets draw nearly $19 billion in July as foreign investor outflows ease",
       "description": "Foreign investors returned to emerging markets in July, investing a net $18.8 billion in debt and equities after two months of outflows. Debt attracted $26.7 billion, while equities saw a $7.8 billion outflow. Asia recorded a sharp reversal, led by stronger debt flows, while China remained an exception. Record sovereign debt issuance also highlighted renewed investor appetite.",
       "publication_date": "Wed, 12 Aug 2026 13:38:28 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-emerging-markets-draw-nearly-19-billion-in-july-as-foreign-investor-outflows-ease/articleshow/133175810.cms",
       "source": "rss"
+    },
+    {
+      "title": "PODCAST: Banking on CoreWeave - Reuters",
+      "description": "PODCAST: Banking on CoreWeave &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 13:36:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE1vNXBNamI2ek1BUXE3U2s1VUl0djJybDViWU4zOHU1MVZqRVZJZ2M1blJkakwxOWd3V2d5VkFfMGZDc3NENW1oUW5PM0IyR0NWT2pKbTh4NW5hREREZjdFREQxYWtUZlJKaFdXZjN4ZmJPSnVVQV9ITkFCM2RWR1NyVDI1Rm03VVE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters",
@@ -751,13 +793,6 @@
       "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 10:17:52 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "PODCAST: Banking on CoreWeave - Reuters",
-      "description": "PODCAST: Banking on CoreWeave &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 10:08:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE1vNXBNamI2ek1BUXE3U2s1VUl0djJybDViWU4zOHU1MVZqRVZJZ2M1blJkakwxOWd3V2d5VkFfMGZDc3NENW1oUW5PM0IyR0NWT2pKbTh4NW5hREREZjdFREQxYWtUZlJKaFdXZjN4ZmJPSnVVQV9ITkFCM2RWR1NyVDI1Rm03VVE?oc=5",
       "source": "Reuters"
     },
     {
@@ -1403,41 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 01:38:33 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms",
       "source": "rss"
-    },
-    {
-      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-      "description": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
-      "publication_date": "Wed, 12 Aug 2026 01:20:13 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-      "source": "rss"
-    },
-    {
-      "title": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
-      "description": "Trump says his plane faced 'greater risk' in secret flight change &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 01:20:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Fed’s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
-      "description": "Chicago Fed President Austan Goolsbee has voiced significant worry over soaring inflation, recognizing it as the foremost challenge facing the economy today. While he deems the labor market stable, he doesn't classify it as vigorous. Meanwhile, traders are weighing the possibility of a rate hike in September, and experts expect consumer inflation data to indicate an uptick.",
-      "publication_date": "Wed, 12 Aug 2026 01:15:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-austan-goolsbee-says-inflation-is-the-biggest-problem-on-fed-rate-signal/articleshow/133164860.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock - Reuters",
-      "description": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 00:58:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Dollar slips as in-line CPI tempers rate-hike bets - Reuters",
-      "description": "Dollar slips as in-line CPI tempers rate-hike bets &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 00:57:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-      "source": "Reuters"
     }
   ]
 }
