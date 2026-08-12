@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T09:38:34.883088+00:00",
+  "generated_at": "2026-08-12T09:55:35.026214+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,32 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "₹18K cr bet! Retail investors bet on Infosys, TCS, Reliance & 3 other falling bluechips",
+      "description": "",
+      "publication_date": "Wed, 12 Aug 2026 15:15:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/18k-cr-bet-retail-investors-bet-on-infosys-tcs-reliance-3-other-falling-bluechips/videoshow/133178010.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: European shares subdued as investors assess earnings, geopolitical risks ahead of US inflation data",
+      "description": "European shares traded largely flat as investors assessed mixed corporate earnings, rising oil prices and renewed geopolitical tensions ahead of key U.S. inflation data. Energy stocks led gains, while automobiles and parts declined. Investors remained cautious amid concerns over inflation, global trade and the outlook for interest rates.",
+      "publication_date": "Wed, 12 Aug 2026 14:59:30 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-subdued-as-investors-assess-earnings-geopolitical-risks-ahead-of-us-inflation-data/articleshow/133177703.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Cupid shares jump nearly 9% in two days post Q1 earnings",
+      "description": "Cupid shares gained 8.8% in two days after the company reported a threefold rise in Q1 FY27 net profit to Rs 44 crore, while revenue surged 159% YoY to Rs 155 crore. Strong operating performance, margin expansion and a higher FY27 guidance have strengthened the outlook for the stock.",
+      "publication_date": "Wed, 12 Aug 2026 14:52:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-nearly-9-in-two-days-post-q1-earnings/articleshow/133177435.cms",
+      "source": "rss"
+    },
     {
       "title": "N Chandrasekaran era delivered 3.3X market cap growth. Can Tata stocks keep winning after his exit?",
       "description": "Tata Group’s combined market value has grown 3.3-fold to Rs 22.5 lakh crore since N Chandrasekaran took charge in 2017. With his exit set for February, investors now face a key question: can Tata stocks sustain their strong wealth creation amid leadership uncertainty and growing company-specific challenges?",
@@ -394,6 +415,13 @@
       "description": "European stocks steady ahead of US inflation data; geopolitical risks in focus &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 09:04:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEJrelVuLWNvQVpMQ0FHVXF0aE9vZTZqcklqQUNLSHpCOGxiQkl3Tko1UVJZTHpnVUhUQ0R6RTNWc08yMXRrb2tMNUI1MWpFby1qM1RUWVllYU9NT0x6MzFzQk1tY0U2Q0lCcGhrNUVRYjJtdDVEbVFObndDeFBiVDdmTXdsQW5FV09uRl9aSzFzWVMtVTdkQkFWMFZPdjBzdk1pWA?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Putin says Russia will respond in kind if EU nations seize Russian vessels - Reuters",
+      "description": "Putin says Russia will respond in kind if EU nations seize Russian vessels &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 09:04:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
       "source": "Reuters"
     },
     {
@@ -1409,34 +1437,6 @@
       "description": "Stocks and the Cboe Volatility Index move together only about 20% of the time.",
       "publication_date": "Wed, 05 Aug 2026 19:18:31 GMT",
       "link": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
-      "source": "rss"
-    },
-    {
-      "title": "Israeli military strikes southern Lebanon after evacuation warning to village - Reuters",
-      "description": "Israeli military strikes southern Lebanon after evacuation warning to village &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 19:17:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Why US markets are rising: S&P 500, Dow hit record highs as Mideast hopes offset SpaceX, AMD drag",
-      "description": "Major Wall Street indexes opened higher on Wednesday morning. Hopes for Middle East peace offset declines in SpaceX and AMD shares. These companies' forecasts failed to impress investors, causing their stock prices to fall. The Dow Jones Industrial Average rose 180 points at the open. The S&P 500 and Nasdaq Composite also saw gains.",
-      "publication_date": "Wed, 05 Aug 2026 19:11:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-mideast-hopes-offset-spacex-amd-drag/articleshow/132932841.cms",
-      "source": "rss"
-    },
-    {
-      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
-      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 19:07:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Pidilite Industries among 6 stocks to hit 52-week highs & surge up to 22% in a month",
-      "description": "Sensex rose 152 points to close at 78,581 on Wednesday, with six BSE 100 stocks scaling fresh 52-week highs. TVS Motor, Paytm, JSW Steel, Samvardhana Motherson, Shriram Finance and Pidilite Industries reflected strong momentum, sustained buying interest and improving investor sentiment.",
-      "publication_date": "Wed, 05 Aug 2026 18:52:56 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pidilite-industries-among-6-stocks-to-hit-52-week-highs-amp-surge-up-to-22-in-a-month/slideshow/132932165.cms",
       "source": "rss"
     }
   ]
