@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:06:12.649905+00:00",
+  "generated_at": "2026-08-12T12:53:22.699098+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "article_count": 100
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -39,6 +39,48 @@
     }
   ],
   "articles": [
+    {
+      "title": "Quote of the day by Richard Thaler: \"If we use prediction as the measure of a model, traditional finance makes precisely wrong predictions\"",
+      "description": "Richard Thaler challenges traditional finance’s rational-investor assumption, arguing that psychology, emotions and behavioural biases shape markets. Fear, greed, overconfidence and loss aversion can drive bubbles, volatility and mispricing, making investor behaviour essential to understanding financial markets.",
+      "publication_date": "Wed, 12 Aug 2026 17:56:20 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-richard-thaler-if-we-use-prediction-as-the-measure-of-a-model-traditional-finance-makes-precisely-wrong-predictions/articleshow/133182750.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Market wrap: Bharti Airtel , Hindalco, TCS, M&M top gainers and losers on Nifty and Sensex on Wednesday",
+      "description": "Indian equities extended losses as Middle East tensions, rising crude prices and selling in Tata Group stocks pressured sentiment. Nifty fell 0.15% to 24,435.95, while Sensex declined 0.24%. PSU banks outperformed, but IT stocks remained weak.",
+      "publication_date": "Wed, 12 Aug 2026 17:53:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bharti-airtel-hindalco-tcs-mm-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133182617.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stock futures pare gains after July inflation data",
+      "description": "",
+      "publication_date": "Wed, 12 Aug 2026 17:52:36 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-july-inflation-data-micro-coreweave-chip-stock-price-news-12th-august-2026/liveblog/133182738.cms",
+      "source": "rss"
+    },
+    {
+      "title": "India bonds flat, major move likely only after US inflation data",
+      "description": "Indian government bonds remained mostly stable on Wednesday, with traders eyeing important US inflation statistics expected later that day. The local retail inflation for July edged up to 4.45 percent, while oil prices declined slightly following news of a ceasefire extension. Overnight index swap rates showed little change, reflecting expectations surrounding the upcoming US economic data.",
+      "publication_date": "Wed, 12 Aug 2026 17:44:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-flat-major-move-likely-only-after-us-inflation-data/articleshow/133182539.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Axis Bank raises $300 million via bonds",
+      "description": "Axis Bank has successfully secured USD 300 million from international investors, aimed at bolstering its growth initiatives. With a coupon rate of 5.348 percent, the newly issued senior notes will be listed on the India International Exchange and NSE IFSC. This issuance aligns with all necessary regulatory standards, demonstrating the bank's commitment to growth.",
+      "publication_date": "Wed, 12 Aug 2026 17:42:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-300-million-via-bonds/articleshow/133182507.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Grasim Industries swings to profit in Q1, revenue rises 21% YoY",
+      "description": "Grasim Industries reported strong Q1 FY27 results, with standalone net profit reaching Rs 247 crore and revenue rising 28% YoY. Consolidated net profit jumped 51% to Rs 2,146 crore, driven by robust performance across core and growth businesses.",
+      "publication_date": "Wed, 12 Aug 2026 17:23:08 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/grasim-industries-swings-to-profit-in-q1-revenue-rises-21-yoy/articleshow/133181711.cms",
+      "source": "rss"
+    },
     {
       "title": "Embassy Office Parks REIT to enter Nifty 500, become only investment trust in Nifty Midcap 150",
       "description": "Embassy Office Parks REIT will be included in the Nifty 500 and Nifty Midcap 150 from September 30, 2026, as part of NSE Indices’ latest periodic review. The REIT will also enter several other broad-based indices, potentially increasing its visibility and participation from institutional and passive investors.",
@@ -243,10 +285,38 @@
       "source": "rss"
     },
     {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "description": "The July CPI report matched expectations, and CoreWeave's earnings report shows booming demand for Nvidia chips.",
+      "publication_date": "Wed, 12 Aug 2026 12:50:34 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source": "rss"
+    },
+    {
+      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+      "description": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
+      "publication_date": "Wed, 12 Aug 2026 12:50:08 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "source": "rss"
+    },
+    {
       "title": "Technocraft Ventures IPO allotment likely today, GMP signals over 12% listing gain. How to check status",
       "description": "The Rs 251.88-crore Technocraft Ventures IPO received strong investor interest, with its GMP rising to around 12.74% from 11% earlier, signalling expectations of a positive listing. Investors are likely to learn their allotment status today.",
       "publication_date": "Wed, 12 Aug 2026 12:33:54 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-allotment-likely-today-gmp-signals-over-12-listing-gain-how-to-check-status/articleshow/133174270.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
+      "publication_date": "Wed, 12 Aug 2026 12:28:39 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "rss"
+    },
+    {
+      "title": "'Tougher times ahead': Don't expect blowout returns to continue, CEO of $2.3 trillion fund warns after record first half",
+      "description": "Norway's sovereign wealth fund, the largest of its kind, is an investor in around 1.5% of the world's listed companies.",
+      "publication_date": "Wed, 12 Aug 2026 12:23:06 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-tangen-nbim.html",
       "source": "rss"
     },
     {
@@ -271,10 +341,24 @@
       "source": "rss"
     },
     {
+      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
+      "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
+      "publication_date": "Wed, 12 Aug 2026 12:13:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
+      "source": "rss"
+    },
+    {
       "title": "SpaceX namesake creates confusion on Dalal Street! Indian IT stock skyrockets 23% in 2 days",
       "description": "Blue Cloud Softech Solutions shares surged 23% in two days after its US subsidiary announced a $150 million deal with Malaysia-based SpaceX International. However, the company clarified that the entity has no connection with Elon Musk’s SpaceX. The sharp rally appears to have been driven partly by confusion over the names.",
       "publication_date": "Wed, 12 Aug 2026 12:10:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/spacex-namesake-creates-confusion-on-dalal-street-indian-it-stock-skyrockets-23-in-2-days/articleshow/133173717.cms",
+      "source": "rss"
+    },
+    {
+      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
+      "description": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
+      "publication_date": "Wed, 12 Aug 2026 12:08:39 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
       "source": "rss"
     },
     {
@@ -303,13 +387,6 @@
       "description": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
       "publication_date": "Wed, 12 Aug 2026 12:00:01 GMT",
       "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
-      "source": "rss"
-    },
-    {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-      "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
-      "publication_date": "Wed, 12 Aug 2026 11:58:41 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
       "source": "rss"
     },
     {
@@ -387,13 +464,6 @@
       "description": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.",
       "publication_date": "Wed, 12 Aug 2026 11:00:01 GMT",
       "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-      "source": "rss"
-    },
-    {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-      "publication_date": "Wed, 12 Aug 2026 11:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
       "source": "rss"
     },
     {
@@ -478,13 +548,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 10:01:46 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-12-aug-2026/liveblog/133170214.cms",
-      "source": "rss"
-    },
-    {
-      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-      "description": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
-      "publication_date": "Wed, 12 Aug 2026 10:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
       "source": "rss"
     },
     {
@@ -1374,69 +1437,6 @@
       "description": "Occidental quarterly profit soars to highest since 2022 on oil rally &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 05 Aug 2026 22:08:54 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjBBN2NQeVI2azRMY0lHdTI1RnFkQjdVZ0pIbS1pY3RoaXJ0OGFuQUJITkM5TTFGUVNBbF9Tb2cyMTE2Z2tmX2xxcm1PdU1QUTl5RjF5WVNPWGI0cEdxSFFaZ01BUEs2bi0wYmZEMTQzMF9DVWtFa3RyUGdmMkJGREtHeWlhZFJxczIxWFg4am9yVUV3MWtIcXJkTVFRTXE2dXlYWFY1UFBTN1N6XzFnOUZCRHhDeURTMlpoXw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
-      "description": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
-      "publication_date": "Wed, 05 Aug 2026 21:55:46 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
-      "source": "rss"
-    },
-    {
-      "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
-      "description": "Google shakes up AI leadership as DeepMind chief shifts role &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 21:42:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Mexico investigating tourist hub for cyclospora after UK alert - Reuters",
-      "description": "Mexico investigating tourist hub for cyclospora after UK alert &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 21:32:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVRfejRXX2Q5N2N0UFhKMXdJLUlXbkdSQ0lQNkJrbTY2QTNBeVhNYmRwS0hOei1BQ3Y1azVDa2VxVUZNZlNrbzdhMmtKeW1wM1JGVlR3c0tkazAtb0lPWERCcjlqbTlnM2J1WE5BeWd5R0hadzZ1bDlIOXVXVXZRNVZ2VWVuLXIwdlRYeHNDU0ZkVzhQQ1RqWHNNMTM3UVFJeGVDUjFnejVpZXNwUHpQQ3lCMnNfQl9fU1JYZUZMMEtXMHo1TWtLeTZn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
-      "description": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
-      "publication_date": "Wed, 05 Aug 2026 21:32:34 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
-      "source": "rss"
-    },
-    {
-      "title": "Circle shares fall nearly 4% as revenue miss overshadows quarterly profit beat",
-      "description": "Circle's profits in the second quarter significantly outperformed expectations, attributed to the growing adoption of USDC tokens. The surge in USDC circulation, accompanied by a marked increase in onchain transaction activity, highlighted a positive trend. Despite a dip in the reserve return rate during this period, stronger circulation volumes partially mitigated the effects of reduced yields.",
-      "publication_date": "Wed, 05 Aug 2026 21:30:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/circle-shares-fall-nearly-4-as-revenue-miss-overshadows-quarterly-profit-beat/articleshow/132948385.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "description": "Indian equities ended marginally higher despite sharp swings driven by closing auction session confusion. RBI maintained rates, raised FY27 GDP outlook and lowered inflation forecast. Realty, auto and metal stocks outperformed, while analysts expect Nifty to remain range-bound unless it decisively crosses 24,800.",
-      "publication_date": "Wed, 05 Aug 2026 21:25:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132948002.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Flutter shares plummet on earnings miss and another key leadership change",
-      "description": "FanDuel, Flutter's most important business, has been losing its dominance in market share in the United States.",
-      "publication_date": "Wed, 05 Aug 2026 21:22:56 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
-      "source": "rss"
-    },
-    {
-      "title": "How Disney parks are bucking a travel slowdown",
-      "description": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
-      "publication_date": "Wed, 05 Aug 2026 21:22:36 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
-      "source": "rss"
-    },
-    {
-      "title": "Trading Day: Momentum fizzles, gold sizzles - Reuters",
-      "description": "Trading Day: Momentum fizzles, gold sizzles &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 21:10:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUpRNUR0dUREOGNCc05RdF9OT2hlQjJULU5PSFJPT29wT3lJUElsV1JReE5ocmhhcjNTUmg2UnR0NF9pN0lrRnE4dUVuNGplYlJ4TXozSTYzMGdnd0M5MnpyRmxSTDFFZTEwZWRocTlkQ1pOT25XNVRWXzBrLXcxTGFZRFk3a3A1a3hDUWFkZmJHWGwzc05WY1prOVJJS0NFam9PSmFn?oc=5",
       "source": "Reuters"
     }
   ]
