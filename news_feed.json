@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:52:28.997612+00:00",
+  "generated_at": "2026-08-12T06:08:28.304339+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
@@ -558,6 +558,13 @@
       "source": "rss"
     },
     {
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
+      "publication_date": "Wed, 12 Aug 2026 05:58:30 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "rss"
+    },
+    {
       "title": "Muthoot Fincorp appoints four lead managers for IPO",
       "description": "In a significant move, Muthoot Fincorp has engaged lead managers to facilitate its upcoming ₹3,000-crore initial public offering. The draft prospectus is set to be filed with Sebi this week, with the goal of fortifying the lender's capital backbone and fostering business development. Muthoot's strategy includes broadening its reach into rural and semi-urban markets, alongside solidifying its presence in tier-II and tier-III cities.",
       "publication_date": "Wed, 12 Aug 2026 05:54:22 +0530",
@@ -572,13 +579,6 @@
       "source": "rss"
     },
     {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership",
-      "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
-      "publication_date": "Wed, 12 Aug 2026 05:10:36 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "source": "rss"
-    },
-    {
       "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
       "description": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
       "publication_date": "Wed, 12 Aug 2026 05:00:01 GMT",
@@ -586,11 +586,25 @@
       "source": "rss"
     },
     {
+      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
+      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 04:52:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
       "description": "Progressive Democrats keep their winning streak rolling in Minnesota.",
       "publication_date": "Wed, 12 Aug 2026 04:51:12 GMT",
       "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
       "source": "rss"
+    },
+    {
+      "title": "Libya's state power company says attack on Zawiya substation causes major outage - Reuters",
+      "description": "Libya's state power company says attack on Zawiya substation causes major outage &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 04:47:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRE53czNfQ2tCOTAtMWN2RHNuSWpPLW9aZ0kxUTc0TVVxb3hTM3RyTWRpNHlwT2Zfd2d4NDhkLW93YVRTaEZYcUJWSFY1R0lTaVRSNWR5Wk51YXZpRHYyanRWVFRsX3JEMzdWd3JGbG1KZ2p0Q190LVhQa2tpQWdmcTJqSHpKczQ1clpGS0NUNHN6NVlZSnRTVjF5SldTeWtJM1ZELVgzWjIzdEdDRnRUd3hxM1lxZTNvX2dibkZuN2lQT2NvUl9z?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
@@ -607,8 +621,8 @@
       "source": "rss"
     },
     {
-      "title": "Indian shares open lower as higher crude prices weigh - Reuters",
-      "description": "Indian shares open lower as higher crude prices weigh &nbsp;&nbsp; Reuters",
+      "title": "Indian shares subdued as higher crude prices weigh - Reuters",
+      "description": "Indian shares subdued as higher crude prices weigh &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 02:41:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
       "source": "Reuters"
@@ -633,6 +647,13 @@
       "publication_date": "Wed, 12 Aug 2026 01:20:13 GMT",
       "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
       "source": "rss"
+    },
+    {
+      "title": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
+      "description": "Trump says his plane faced 'greater risk' in secret flight change &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 01:20:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Fed’s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
@@ -1416,27 +1437,6 @@
       "description": "Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup.",
       "publication_date": "Wed, 05 Aug 2026 15:48:39 GMT",
       "link": "https://www.cnbc.com/2026/08/05/tanger-ceo-world-cup-traffic-sales.html",
-      "source": "rss"
-    },
-    {
-      "title": "India's Manipal Health jumps on market debut, valuing hospital chain at $9 billion - Reuters",
-      "description": "India's Manipal Health jumps on market debut, valuing hospital chain at $9 billion &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 15:46:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmdFYUZRNUp2VGQxTUx2alFNb3VTQ1NtUFpnYW1XOHF4YzBvYUE3a2hlSDJONkxWVmkyVXlUejRQYzAwUDhjWnhMeHgydUZNSFNFVHd5THFaazlqV2U0eWJaelJlYmc2ajhCMUhGdG44MElqWHJiSVVxYjctMldNRjNscV9nOGhyZEVEMHN3MVBXTDhNNDlNMUs1c0JRZ0RTbk5UTUY5bHV6LVhHODhCWnJxaV9sUERuTENfOEdURHIweXdiOVZKV3ZrV2hLSHNXaHNsZnB3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Surge in Black Sea attacks adds to strain on global commodity flows - Reuters",
-      "description": "Surge in Black Sea attacks adds to strain on global commodity flows &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 15:28:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXc2emFoSHcyanliMTRrTHZhd2hNRHNGUFl2OEhkOHhXcmw3RFNSQXBkSlJfVW81bXJsRVhBdnMyU09lNWRyRTBIN2NoN2xZLThvWUpINjBaNFZFRHFMQUl3WmMtZUlSNFVOVXotOF9YTXp3VnVQVDhTdXlwVlFRYXh5NFkzU3UxV0YtZFd2blJ6bi04QVZCUDU3ZnkwR2xtTVE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
-      "description": "Disney is considering a free streaming product as advertising takes a bigger role in making streaming profitable.",
-      "publication_date": "Wed, 05 Aug 2026 15:25:55 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
       "source": "rss"
     }
   ]
