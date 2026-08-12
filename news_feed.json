@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T06:08:28.304339+00:00",
+  "generated_at": "2026-08-12T07:58:20.689488+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,13 +35,139 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
     {
+      "title": "CAS chaos: Retail traders call for boycott, declare 'No Trade Day'",
+      "description": "Retail traders are observing a proposed ‘No Trade Day’ on August 12 to protest the newly introduced Closing Auction Session (CAS), higher securities transaction tax and changing market rules. The campaign follows concerns over increased volatility and divergence in closing prices since CAS was introduced.",
+      "publication_date": "Wed, 12 Aug 2026 13:19:49 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-retail-traders-call-for-boycott-declare-no-trade-day/articleshow/133175071.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sebi sees no manipulation in new CAS despite participation concerns",
+      "description": "The Securities and Exchange Board of India has confirmed that no manipulation exists within the newly established closing auction system. This session, which establishes closing stock prices, strives to meet international norms. Since its inception, participation in the closing auction has progressively increased. The regulator is actively considering feedback to amplify market participation. This reform is essential in reducing tracking discrepancies for passive investment funds.",
+      "publication_date": "Wed, 12 Aug 2026 13:14:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-no-manipulation-in-new-cas-despite-participation-concerns/articleshow/133175145.cms",
+      "source": "rss"
+    },
+    {
+      "title": "NALCO, Hindalco gain up to 8% as global aluminium prices hit 7-week high amid Mideast tensions",
+      "description": "NALCO and Hindalco shares rallied sharply on Wednesday as global aluminium prices hit a seven-week high amid Middle East tensions and fresh supply concerns. A production cut at Brazil’s Alunorte refinery, multi-decade-low LME inventories and disrupted Middle East shipments have tightened the market, supporting aluminium prices and Indian producers.",
+      "publication_date": "Wed, 12 Aug 2026 13:03:02 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nalco-hindalco-gain-up-to-8-as-global-aluminium-prices-hit-7-week-high-amid-mideast-tensions/articleshow/133174890.cms",
+      "source": "rss"
+    },
+    {
+      "title": "India bonds hemmed in by oil worries ahead of inflation data",
+      "description": "On Wednesday morning, Indian government bonds exhibited limited fluctuations due to high oil prices and anticipation of inflation data. The market reacted cautiously as hopes for peace in the Middle East dwindled following recent maritime incidents. Investors remain attentive to domestic and US inflation indicators, which will likely influence future interest rate decisions, keeping bond yields tethered amidst global rate anxieties and deposit growth.",
+      "publication_date": "Wed, 12 Aug 2026 12:59:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-hemmed-in-by-oil-worries-ahead-of-inflation-data/articleshow/133174882.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Market Trading Guide: 4 stock picks with strong technical setups for this week",
+      "description": "Four stocks — Amara Raja Energy & Mobility, Kalpataru Projects International, Sumitomo Chemical India and Mangalore Refinery and Petrochemicals — are showing bullish technical setups, with breakouts, improving momentum and supportive moving-average structures pointing to further upside, according to HDFC Securities analysts.",
+      "publication_date": "Wed, 12 Aug 2026 12:55:10 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-4-stock-picks-with-strong-technical-setups-for-this-week/slideshow/133174984.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Technocraft Ventures IPO allotment likely today, GMP signals over 12% listing gain. How to check status",
+      "description": "The Rs 251.88-crore Technocraft Ventures IPO received strong investor interest, with its GMP rising to around 12.74% from 11% earlier, signalling expectations of a positive listing. Investors are likely to learn their allotment status today.",
+      "publication_date": "Wed, 12 Aug 2026 12:33:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-allotment-likely-today-gmp-signals-over-12-listing-gain-how-to-check-status/articleshow/133174270.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dhoot Transmission IPO Day 3: GMP signals strong 29% listing gain. What are analysts saying?",
+      "description": "Dhoot Transmission IPO entered its final day with the issue seeing strong investor interest and a grey market premium of around 29%. Analysts remain positive, with Anand Rathi recommending a long-term subscription and Ventura assigning a Subscribe rating, citing the company’s EV focus, premiumisation strategy and strong customer base.",
+      "publication_date": "Wed, 12 Aug 2026 12:20:27 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-day-3-gmp-signals-strong-29-listing-gain-what-are-analysts-saying/articleshow/133173857.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Behari Lal Engineering IPO opens for subscription, GMP indicates decent listing. Should you apply?",
+      "description": "Behari Lal Engineering’s Rs 302-crore IPO saw solid demand on Wednesday, led by retail investors who booked 70% of their reserved portion. The issue, priced at Rs 271–285 per share, comprises a Rs 93-crore fresh issue and an OFS of 73.2 lakh shares.",
+      "publication_date": "Wed, 12 Aug 2026 12:20:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/behari-lal-engineering-ipo-opens-for-subscription-gmp-indicates-decent-listing-should-you-apply/articleshow/133173869.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Molbio Diagnostics IPO Day 3: GMP hints at 17% listing gain, issue booked nearly 5x. Should you participate?",
+      "description": "Molbio Diagnostics IPO entered its final bidding day with strong demand, with the Rs 939.70-crore issue subscribed 4.91 times. Its GMP has risen to 17.1%, signalling expectations of a strong listing. The IPO comprises a Rs 200-crore fresh issue and a Rs 739.70-crore OFS.",
+      "publication_date": "Wed, 12 Aug 2026 12:16:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-ipo-day-3-gmp-hints-at-17-listing-gain-issue-booked-nearly-5x-should-you-participate/articleshow/133173828.cms",
+      "source": "rss"
+    },
+    {
+      "title": "SpaceX namesake creates confusion on Dalal Street! Indian IT stock skyrockets 23% in 2 days",
+      "description": "Blue Cloud Softech Solutions shares surged 23% in two days after its US subsidiary announced a $150 million deal with Malaysia-based SpaceX International. However, the company clarified that the entity has no connection with Elon Musk’s SpaceX. The sharp rally appears to have been driven partly by confusion over the names.",
+      "publication_date": "Wed, 12 Aug 2026 12:10:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/spacex-namesake-creates-confusion-on-dalal-street-indian-it-stock-skyrockets-23-in-2-days/articleshow/133173717.cms",
+      "source": "rss"
+    },
+    {
+      "title": "LEAP India IPO allotment likely today, GMP signals over 8% listing gain. How to check status",
+      "description": "The Rs 2,480-crore LEAP India IPO is likely to see allotment today after receiving strong investor demand, with the issue subscribed 8.38 times. QIBs led the bidding with 16.84x subscription, followed by NIIs at 12.64x and retail investors at 1.71x. Meanwhile, the IPO’s GMP signals an estimated 8.8% listing premium.",
+      "publication_date": "Wed, 12 Aug 2026 12:07:25 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-ipo-allotment-likely-today-gmp-signals-over-8-listing-gain-how-to-check-status/articleshow/133173462.cms",
+      "source": "rss"
+    },
+    {
+      "title": "ideaForge Technology shares drop over 9% in two days. JM Financial downgrades rating",
+      "description": "ideaForge Technology shares fell 9.5% over two days after JM Financial downgraded the stock to Add from Buy, citing valuation concerns following a sharp run-up despite strong long-term prospects. The brokerage expects order inflows to remain weak in FY27 before recovering in FY28 and FY29, while execution momentum and operating leverage could support significant revenue and margin growth.",
+      "publication_date": "Wed, 12 Aug 2026 12:02:02 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-shares-drop-over-9-in-two-days-jm-financial-downgrades-rating/articleshow/133173401.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Supermicro tops earnings expectations, stock jumps on strong AI-driven outlook",
+      "description": "",
+      "publication_date": "Wed, 12 Aug 2026 11:49:34 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/supermicro-tops-earnings-expectations-stock-jumps-on-strong-ai-driven-outlook/slideshow/133173310.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Chandrasekaran steps down as chairman of Tata Sons ahead of AGM on August 18",
+      "description": "",
+      "publication_date": "Wed, 12 Aug 2026 11:48:55 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/chandrasekaran-steps-down-as-chairman-of-tata-sons-ahead-of-agm-on-august-18/videoshow/133174268.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US July CPI seen rising moderately, Fed rate outlook in focus",
+      "description": "US consumer prices are expected to have risen modestly in July, potentially easing market expectations of a Federal Reserve rate hike this year. However, inflation remains above the Fed’s target, with Middle East tensions and oil-price uncertainty keeping upside risks elevated.",
+      "publication_date": "Wed, 12 Aug 2026 11:31:53 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-july-cpi-seen-rising-moderately-fed-rate-outlook-in-focus/articleshow/133172346.cms",
+      "source": "rss"
+    },
+    {
+      "title": "TD Power Systems shares rally over 12% after Q1 profit jumps 72% YoY to Rs 86 crore",
+      "description": "TD Power Systems shares surged after the company reported a strong Q1FY27 performance. Profit after tax rose 72% YoY to Rs 86 crore, while revenue and EBITDA jumped 71% and 72%, respectively, driven by robust operational growth.",
+      "publication_date": "Wed, 12 Aug 2026 11:27:17 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/td-power-systems-shares-rally-over-12-after-q1-profit-jumps-72-yoy-to-rs-86-crore/articleshow/133172316.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: China stocks rise as tech shares lead gains ahead of US CPI",
+      "description": "Chinese stocks edged higher as technology shares led gains, helping offset investor caution over geopolitical tensions and the upcoming US inflation data. Improving technology sentiment and greater clarity around China’s policy environment supported the mainland market, while Hong Kong stocks declined. Investors now await US inflation data for clues on the Federal Reserve’s rate path and global market direction.",
+      "publication_date": "Wed, 12 Aug 2026 11:21:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rise-as-tech-shares-lead-gains-ahead-of-us-cpi/articleshow/133172233.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Finolex Cables shares jump 10% on strong Q1 performance; revenue crosses Rs 2,000 crore mark",
+      "description": "Finolex Cables shares rose sharply on Wednesday after the company reported a 52.6% YoY rise in Q1 FY27 net profit to Rs 208.2 crore. Revenue surged 44.3% to Rs 2,013.15 crore, crossing the Rs 2,000-crore mark, while EBITDA rose 79% and margins expanded amid strong operational performance.",
+      "publication_date": "Wed, 12 Aug 2026 11:16:36 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/finolex-cables-shares-jump-10-on-strong-q1-performance-revenue-crosses-rs-2000-crore-mark/articleshow/133172179.cms",
+      "source": "rss"
+    },
+    {
       "title": "TCS, other Tata stocks fall up to 4% as N Chandrasekaran resigns",
-      "description": "Shares of Tata Group companies declined this morning.",
+      "description": "Shares of Tata Group companies fell, primarily driven by TCS. N Chandrasekaran stepped down as Tata Sons chairman ahead of the scheduled AGM on August 18, yet he will continue in his role until February 2027. His exit raises questions about the upcoming board meeting, particularly regarding the influence of Tata Trusts, which holds the majority stake.",
       "publication_date": "Wed, 12 Aug 2026 11:10:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-other-tata-stocks-fall-up-to-4-as-n-chandrasekaran-resigns/articleshow/133172060.cms",
       "source": "rss"
@@ -93,6 +219,13 @@
       "description": "Norway’s $2.3 trillion sovereign wealth fund held a 0.05% stake in SpaceX worth $1.22 billion as of June 30, marking its first public disclosure of an investment in the private space company. The fund also holds major stakes in Nvidia, Apple, Alphabet and Microsoft.",
       "publication_date": "Wed, 12 Aug 2026 10:02:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-norway-sovereign-fund-reveals-stake-in-musks-spacex/articleshow/133170032.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Price Movement Analysis",
+      "description": "",
+      "publication_date": "Wed, 12 Aug 2026 10:01:46 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-12-aug-2026/liveblog/133170214.cms",
       "source": "rss"
     },
     {
@@ -173,7 +306,7 @@
       "source": "rss"
     },
     {
-      "title": "HDFC Life Share Price Live Updates: HDFC Life's Current Trading Status",
+      "title": "HDFC Life Share Price Live Updates: HDFC Life's Current Valuation",
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:55:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-updates-12-aug-2026/liveblog/133169018.cms",
@@ -187,10 +320,17 @@
       "source": "rss"
     },
     {
-      "title": "Titan Company Share Price Live Updates: Titan Company reports a decrease in stock price",
+      "title": "Titan Company Share Price Live Updates: Titan Company experiences a drop in stock value",
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:42:29 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-today-live-12-aug-2026/liveblog/133168885.cms",
+      "source": "rss"
+    },
+    {
+      "title": "ONGC Share Price Live Updates: ONGC News",
+      "description": "",
+      "publication_date": "Wed, 12 Aug 2026 08:41:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-today-live-12-aug-2026/liveblog/133168863.cms",
       "source": "rss"
     },
     {
@@ -222,21 +362,21 @@
       "source": "rss"
     },
     {
-      "title": "UPL Share Price Live Updates: UPL Experiences Positive Price Breakout",
+      "title": "UPL Share Price Live Updates: UPL's Market Update",
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:29:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-today-live-12-aug-2026/liveblog/133168661.cms",
       "source": "rss"
     },
     {
-      "title": "Nestle India Share Price Live Updates: Nestle India Financial Snapshot",
+      "title": "Nestle India Share Price Live Updates: Nestle India Stock Performance",
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:28:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-stock-price-live-updates-12-aug-2026/liveblog/133168639.cms",
       "source": "rss"
     },
     {
-      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital Stock Details",
+      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Market Performance",
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:27:44 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-12-aug-2026/liveblog/133168632.cms",
@@ -481,6 +621,13 @@
       "source": "rss"
     },
     {
+      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+      "description": "Progressive Democrats keep their winning streak rolling in Minnesota.",
+      "publication_date": "Wed, 12 Aug 2026 07:40:42 GMT",
+      "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "source": "rss"
+    },
+    {
       "title": "Gold firms below 10-week high as markets brace for US CPI data",
       "description": "Gold prices experienced a notable increase on Wednesday as market participants anticipated essential inflation data. Worries about oil-induced inflation, stemming from unrest in the Middle East, kept the markets on edge. In light of recent job reports, traders lowered their predictions for a potential Federal Reserve rate hike next month. Furthermore, the Indian markets regulator is considering the extension of rules for vault managers handling bullion.",
       "publication_date": "Wed, 12 Aug 2026 07:36:36 +0530",
@@ -502,11 +649,32 @@
       "source": "rss"
     },
     {
+      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
+      "description": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
+      "publication_date": "Wed, 12 Aug 2026 07:20:31 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+      "source": "rss"
+    },
+    {
       "title": "Oil rises as doubts over US-Iran deal heighten supply concerns",
       "description": "Oil prices increased Wednesday morning due to Middle East supply worries. Attacks on ships fueled concerns about disruptions in vital shipping lanes. Hopes for a US-Iran peace deal began to fade, impacting market sentiment. US crude inventories unexpectedly rose, which could ease supply tightness concerns. Disruptions to Middle East oil supplies are expected to persist through 2027.",
       "publication_date": "Wed, 12 Aug 2026 07:18:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-doubts-over-us-iran-deal-heighten-supply-concerns/articleshow/133167806.cms",
       "source": "rss"
+    },
+    {
+      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+      "description": "The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.",
+      "publication_date": "Wed, 12 Aug 2026 07:01:56 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+      "source": "rss"
+    },
+    {
+      "title": "Russia's Novorossiysk grain terminal halts operations after Ukrainian drone attack, industry source says - Reuters",
+      "description": "Russia's Novorossiysk grain terminal halts operations after Ukrainian drone attack, industry source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 07:01:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONm1OVFhKdVF3WHJaSlZsaTAwVzI4WmV5eDFhZjctdUxxZ0twOVgxNXFsbVoyU3NfYmg2aWNMdklRTlRnWDJOYWoyOTlfUTBkOUo5Sjd1T3lqUUZUOVZQbDRmV0d6UDRRSUdHWGN0RmY5TEJXN29vU1NVbGJTUGYwNzQ0amNIMGR4N3hud3BFOG9OMmsxZmxJQ2lBNVdPU3FpRjYxUHROOE01d2ZVWVpwUnBVZ0s3LUk?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Shiprocket raises Rs 727 crore from anchor investors ahead of IPO launch",
@@ -527,6 +695,13 @@
       "description": "Asian markets showed cautious optimism as crude oil prices experienced slight increases, with eyes on potential agreements in the Middle East. Technology stocks thrived, particularly CoreWeave, which soared following an upgraded forecast. Investors are navigating between geopolitical uncertainties and the Federal Reserve's interest rate strategies, with significant US inflation data looming ahead. Meanwhile, gold prices dipped from a recent two-month high amid ongoing conflict concerns.",
       "publication_date": "Wed, 12 Aug 2026 06:32:32 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-today-asian-stocks-mixed-oil-extends-gains/articleshow/133167545.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
+      "publication_date": "Wed, 12 Aug 2026 06:30:07 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
       "source": "rss"
     },
     {
@@ -558,13 +733,6 @@
       "source": "rss"
     },
     {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-      "description": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
-      "publication_date": "Wed, 12 Aug 2026 05:58:30 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "source": "rss"
-    },
-    {
       "title": "Muthoot Fincorp appoints four lead managers for IPO",
       "description": "In a significant move, Muthoot Fincorp has engaged lead managers to facilitate its upcoming ₹3,000-crore initial public offering. The draft prospectus is set to be filed with Sebi this week, with the goal of fortifying the lender's capital backbone and fostering business development. Muthoot's strategy includes broadening its reach into rural and semi-urban markets, alongside solidifying its presence in tier-II and tier-III cities.",
       "publication_date": "Wed, 12 Aug 2026 05:54:22 +0530",
@@ -577,6 +745,13 @@
       "publication_date": "Wed, 12 Aug 2026 05:30:09 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-lock-in-expiry-could-bring-7-6-billion-of-shares-to-d-street/articleshow/133167350.cms",
       "source": "rss"
+    },
+    {
+      "title": "Hormuz shipping traffic falls to one-week low amid hostilities - Reuters",
+      "description": "Hormuz shipping traffic falls to one-week low amid hostilities &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 05:18:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1dzT200SXd2Z1ZNMmhKMEN1b1NITFZ5WGRCcU00Zm1KOUd4dC1sU0lERk1SNk5SaExMUlFBc1hzbmQ4YTJQNm15elZ6eUJCRlMzYzZabV9WTGNtWkFpQy02elVaeXhvQmRMSG5oRzgxWFc1b2Faa1hUNGJtV3pZbDZfMzJzMnJWdVM0UU9jMXVKbEpuWTVZSlhkMENxdGRfTFRCLVRqbjhSVXdkQ3lYb2RKYw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
@@ -593,25 +768,25 @@
       "source": "Reuters"
     },
     {
-      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-      "description": "Progressive Democrats keep their winning streak rolling in Minnesota.",
-      "publication_date": "Wed, 12 Aug 2026 04:51:12 GMT",
-      "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-      "source": "rss"
-    },
-    {
       "title": "Libya's state power company says attack on Zawiya substation causes major outage - Reuters",
       "description": "Libya's state power company says attack on Zawiya substation causes major outage &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 04:47:50 GMT",
+      "publication_date": "Wed, 12 Aug 2026 04:10:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRE53czNfQ2tCOTAtMWN2RHNuSWpPLW9aZ0kxUTc0TVVxb3hTM3RyTWRpNHlwT2Zfd2d4NDhkLW93YVRTaEZYcUJWSFY1R0lTaVRSNWR5Wk51YXZpRHYyanRWVFRsX3JEMzdWd3JGbG1KZ2p0Q190LVhQa2tpQWdmcTJqSHpKczQ1clpGS0NUNHN6NVlZSnRTVjF5SldTeWtJM1ZELVgzWjIzdEdDRnRUd3hxM1lxZTNvX2dibkZuN2lQT2NvUl9z?oc=5",
       "source": "Reuters"
     },
     {
-      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-      "description": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
-      "publication_date": "Wed, 12 Aug 2026 03:37:00 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-      "source": "rss"
+      "title": "US consumer prices likely increased moderately in July as gasoline prices eased - Reuters",
+      "description": "US consumer prices likely increased moderately in July as gasoline prices eased &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 04:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRldtaThWM1FpYkltN1NKWUM2a2ttQV93LUZXWnJPWGFFeDExUGdGRlhZSDZnZHk5NVM1Z1k2LV9WLVgyTzZISVBTVnBWZVVESUJwa0F6cVVFLV9Wb1JmemRvX3FVRGFMTXRrc2RsaUdMYm8xVmZUS2I3QnJpcWNsWWtFdTAzcVBJNDNxTFJuNEZmNDlRdG9uLWNzQVJiQTlDT3lEQjZEaGgwWkVFX3FkWjRzVUpPSHUwMnc?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "US military operations killed 153 civilians in 2025, official says, citing Pentagon assessment - Reuters",
+      "description": "US military operations killed 153 civilians in 2025, official says, citing Pentagon assessment &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 03:34:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEtUb1g4Rnk4OS05dUNyRjZlMFFkRnAxYjhhMUhWcWI4bC1GdmJEOTZmd3BQalppUXQ4VDdDZThuMnFmcVI2SDNtdE95N1pId1ZlTGVUQVc0TzJZQWVtc1paZzNKV012d3dXNUlRcEtPWmplNDJUaVhRX2pnWUVZN19xRkYwN3R6NjFuSVJ0RUxpUHdPTHU1d3M0VTRHQnA5aW56aXMzLVgyRG9FRFZ3X1hHRmhxdTltTkp5YnlrYm16ZEI3YWUteGtBaVQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
@@ -632,6 +807,13 @@
       "description": "Oil, gold prices rise as geopolitical tensions mount before CPI &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 02:19:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Drones kill child, hit enterprises in Russia's Black Sea port of Novorossiysk, mayor says - Reuters",
+      "description": "Drones kill child, hit enterprises in Russia's Black Sea port of Novorossiysk, mayor says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 01:50:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjdHV1FOZTRQMUpIMS1PME52VGlXWXJPTmppZl9IVnkyeEhHQkFnTVBfVWlrc3oyaGw3RDlDb0dfN3Jndmx6cUY1eXVNQmdzbFRzcy1aNWZqdUJoZE9POGFQbUFWR2U5MmhWT0QzV2RPOTBHdEd5ZmtrMGNSb2doYk1MalVxaXFfdGRSVURlVnZUdkNHMTlLZ2VpNHlvaFdpTWR1MzQxdVlnUHdIS1dpLWJpaDZfOHBCeGg3dWJ3?oc=5",
       "source": "Reuters"
     },
     {
@@ -665,7 +847,7 @@
     {
       "title": "Oil rises as doubts over US-Iran deal heighten supply concerns - Reuters",
       "description": "Oil rises as doubts over US-Iran deal heighten supply concerns &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 00:59:47 GMT",
+      "publication_date": "Wed, 12 Aug 2026 00:58:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
       "source": "Reuters"
     },
@@ -1255,188 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 05 Aug 2026 17:55:49 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-deal-crude-oil-fed-rate-hike-inflation-amd-spacex-nvidia-chip-stock-price-news-5th-august-2026/liveblog/132927004.cms",
-      "source": "rss"
-    },
-    {
-      "title": "MV Electrosystems, Juniper Green Energy shares to list tomorrow. Here's what GMP signals ahead of debut",
-      "description": "MV Electrosystems and Juniper Green Energy will debut on the exchanges on August 6 with contrasting listing expectations. MV Electrosystems commands a strong grey market premium after robust IPO demand, while Juniper Green Energy’s modest premium reflects limited listing gains despite healthy institutional interest.",
-      "publication_date": "Wed, 05 Aug 2026 17:53:29 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-juniper-green-energy-shares-to-list-tomorrow-heres-what-gmp-signals-ahead-of-debut/articleshow/132926600.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US services activity stays strong in July, input costs rise - Reuters",
-      "description": "US services activity stays strong in July, input costs rise &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 17:50:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFdYYVhsa01nR042T0FHMFlaV081VkFtcTU3MExTM0RING00OTV3dUZVQWJ0eU5QcUtHNVkzS05oV2doR0xQUC1ZajdWd0NnbV9MV25VeGc4Rkh6UTNBRi01T1BJM0EtdWtTSHR0bHQ0RWJBcGMzRnpfZ0VHTWFjMjBGeHpqT2JQMjlmV3d1bk5tRktZVm5qbWw3X05ka1E?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Suncor not ready to speed output growth, CEO says, despite government's pro-oil stance - Reuters",
-      "description": "Suncor not ready to speed output growth, CEO says, despite government's pro-oil stance &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 17:34:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUG5QZzZ6WGlNbzZ6bmVqOXoxcTNveUQ0dFdHZWlsbzVzamNXbjhUZ013eml5STFDREtNaWN4ZFZpN2Z5VllvX2VIQ2k4bzZpUEcwcmc5cUtaMlVBMThmbkxUZGVKWlhhcl9CdmxSeUs3NV9TVXFSeEd0WkVJSkpoYjNua2VpLUFuWWVkLTFiUUh2MVlQcEtvSXRhSHUzT1cwMjN3elAtdHVYNW50VmI5RGNnT1lNN05kTkhTMUIwSVhYdXhTU3hUMUxiU2RJQQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Ukraine's Zelenskiy says he spoke to NATO head Rutte about securing interceptors - Reuters",
-      "description": "Ukraine's Zelenskiy says he spoke to NATO head Rutte about securing interceptors &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 17:15:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUUFjUmxBRnF1MFlqVDcwRjdUa0hhMERkX0ZKSmRGUnlFLU5UeVd4cE1JRG9TQnFPdTFvbzE1bzdmS0hKdHJaajh2THRSemluNXRqcEJnLVVHN3hFZ0N2MHhmUkhPck5COVlEbkM5WHhJTEhQdWswMkVRZmNqZlNZeEI4QV9XVFhINEwwYnN0ZEtOZWxxbHVCbVlTempHVlk4M2NnRkozcE9QNzV5T0NKS1JNMUt2d3Ftd2ZDS24yUGpiMHdfMXFXeHJ2Y3ZFTnZ1Ui1zdGFn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US upstream oil and gas second-quarter dealmaking dives on volatility - Reuters",
-      "description": "US upstream oil and gas second-quarter dealmaking dives on volatility &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 17:06:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcC1IbklSbF9lSXFHVFlhR2tWcC1MOU84Z01nQm9IbXp0bXlGTFZBUzhJZUNsaTRxVUJSLU9pTlppZkxzT1JIS0dEOGluWVlqaXpJMHVTU0ZKdDJxaVVwallJY2E2SkpnMWlwV0FFYlRRbU5PMWVXTW1FVmVUOTV0MnpjeVRuQktiUnBmNWZDb1RjVjRyaE0yTlMyUjgyYjQ1SHpMbjVMSlpGNnFXYkktbEQyNUE3dw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
-      "description": "The upstart salad chain aimed to take on Sweetgreen and expanded rapidly under the ownership of Volt Investment.",
-      "publication_date": "Wed, 05 Aug 2026 17:05:49 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
-      "source": "rss"
-    },
-    {
-      "title": "Dangote has 'strong intent' for South Africa listing after Nigeria IPO - JSE - Reuters",
-      "description": "Dangote has 'strong intent' for South Africa listing after Nigeria IPO - JSE &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 17:03:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHVyMVRkZ0FUS3V0ZlJBeDctUnBLa3RITTl6UVNuTk42LVpiQVVUcjVMZjEtTVNwTW9BeWtKZ0wweUdXRTl1czU2NmVKLUVxUHY4Z2ppTVY4SzhJOUFYS1lKVnIyUDQ0TFBIV2FjeXR5bHlncUN4anNDMWpzTVJ4VHNDLVZkMXhTaXRxZllUSzlhOVQyZy1RUmtuNExUMzJJMHRQaG1LajBwc2NVWXFsWWx0VnFQcW1lTGlMRw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
-      "description": "Roundhill Investments' DRAM became a blockbuster ETF in record time on the memory trade. It's back with a new fund targeting another AI tech theme: photonics.",
-      "publication_date": "Wed, 05 Aug 2026 16:56:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/chip-stocks-ai-investments-memory-dram.html",
-      "source": "rss"
-    },
-    {
-      "title": "French men get suspended jail sentences over livestreamed death - Reuters",
-      "description": "French men get suspended jail sentences over livestreamed death &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 16:56:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHZCU1RKZGJuS3ZvbEJzellPaUVvNTVtUTdiSlBQTy1CbE9XSmIzWUxncnlQMDdrX0FMdE15NzJMMEc3bS1KcFdaTEFyUmw3ZFdfcjZYWGQyVE0xbE1fVnpPdXpoZjhxZnMzZzUxMDg2c2lQOEwzQk5MR2RjdU1fVTREOVRzbERVdFl6V1h5dUUzaVZKT2dJTndzejlwQXZnYVJBYncwUmQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "RBI upper-layer NBFC list to come out soon",
-      "description": "The Reserve Bank of India will soon release a list of upper-layer NBFCs. New principle-based regulations will classify these financial companies into different layers. Companies in the upper layer will be required to publicly list their shares. Tata Sons may be included on this upcoming list of NBFCs. The central bank has not published this specific list since January 2025.",
-      "publication_date": "Wed, 05 Aug 2026 16:56:14 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-upper-layer-nbfc-list-to-come-out-soon/articleshow/132978765.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC - Reuters",
-      "description": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 16:44:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Quote of the day by Paul Tudor Jones: \"Failure will give you a tattoo that will stay with you your whole life, and sometimes it’s a really good thing\"",
-      "description": "Paul Tudor Jones said failure leaves lasting lessons that strengthen judgment, resilience and decision-making. He urged investors and professionals to embrace setbacks as learning opportunities, arguing that long-term success often comes from adapting, persisting and making wiser choices after mistakes.",
-      "publication_date": "Wed, 05 Aug 2026 16:43:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-paul-tudor-jones-failure-will-give-you-a-tattoo-that-will-stay-with-you-your-whole-life-and-sometimes-its-a-really-good-thing/articleshow/132920490.cms",
-      "source": "rss"
-    },
-    {
-      "title": "European shares mark a fresh record close as earnings offset Mideast uncertainty - Reuters",
-      "description": "European shares mark a fresh record close as earnings offset Mideast uncertainty &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 16:40:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUlFVTNYbXNFT1FlRmx0WFMwZi13VkN5R2FsbEZpWFVvUWJ2X3kwWk43OXFWZk0xeTdJWXp2Mng4WjVTNzhSdUlwdGJjV05kSUNRYmxlQUw3T3J3YkhCb1E3MFNIX1cxOXUwc0tmRlFpQ0Y1anBZc0xCZ2wxUmVXc1JZSnpZeXFFVmxURVc5RGFXY2JiZEpLU3o3Zk9hYWVRRFZ4bnR0OUJLWEZacEN6aE9kbUVTd0xE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "FTSE 100 rises, led by Glencore, Next earnings; banks slide - Reuters",
-      "description": "FTSE 100 rises, led by Glencore, Next earnings; banks slide &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 16:38:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3RCb2poSVI4ZDNOcG90cFVTQzlnUmRoVmkzM3F0dktUbzhyUGpPMnd5Z3doVWlwVXAwb09nWWJSYjF2T1Y2SXFic3E4b0lIZ3BIek80bU5Rd1RNbnpHRTVVaUpWNXhSRy0zdnNLV1d3dDhGRVFldTBudEwtWExJc25lWTQtcXRkM052dmRsaE5yTFFwM09ud2tVaHlPcXh6?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US stock market could ride earnings strength to more gains after S&P 500 hits record - Reuters",
-      "description": "US stock market could ride earnings strength to more gains after S&P 500 hits record &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 16:35:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDhYYlFmZ3FHcjh0dS1TQ2Z3ampQM2tjSmZha3pHMzhVelB5Q0xzTE8zVThKM1haMFVuTWlpNkFXUHA3WlRORjE0NFhBcExMS1hWeVRIbUtxU3RmbEI2NS1FNmNtamhnZXY5QXlUa1FGN1FMRWc4cF9PMVVJM0pfeEFWQmJfY291UFVtLWFiN292QzMzQjNRQWFmY0RIeDBLQlZKS1dPbEZUMDVidHI3d1RSNkVqYjhlX2Y0Z295M3hDb0k?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "LIC OFS gets strong response from retail investors, subscribed 1.82 times the base size",
-      "description": "LIC’s retail offer for sale attracted strong investor interest, with the base retail issue subscribed 1.82 times. The government’s 6.5% stake sale follows robust institutional demand and will help the insurer move closer to Sebi’s minimum public shareholding requirement.",
-      "publication_date": "Wed, 05 Aug 2026 16:35:07 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lic-ofs-gets-strong-response-from-retail-investors-subscribed-1-82-times-the-base-size/articleshow/132919785.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Market wrap: Shriram Finance, Grasim, TCS among top gainers and losers on Nifty and Sensex on Wednesday",
-      "description": "Indian benchmark indices ended marginally higher on Wednesday, with the Sensex rising 152 points and the Nifty closing above 24,600. Market volatility eased as India VIX fell 1.5% to 12. Stock-specific action dominated trade, while investors remained focused on earnings, global cues and upcoming macroeconomic developments.",
-      "publication_date": "Wed, 05 Aug 2026 16:32:38 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-shriram-finance-grasim-tcs-among-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/132918514.cms",
-      "source": "rss"
-    },
-    {
-      "title": "SpaceX attracts retail buyers after post-earnings share slide - Reuters",
-      "description": "SpaceX attracts retail buyers after post-earnings share slide &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 16:30:58 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1NSdU9aQnBlR0J4a2tHWnRKMkhBUW5lLUlxd0U5SWNEMHNLRkVHV2N2a0pHdE50aGhYZ1lNSUQtWWdJMmtKNHhpaEc2dnlQNnJBd0JHRHBGRk0wUjEwdThnSm9MS2QxNzdoU0RCamlBQ0JZOVVXQk5XX2dxQzdxNDlFRG5EdzF0akNVRHNZRGY2UldUM1R1WnZwdGxCQ2Fwa1o4b2xQZ2FxdzJ3YWc0Sl9QM21mQ1Jnb2NFbQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says - Reuters",
-      "description": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 05 Aug 2026 16:29:20 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXZPbkhCTjRpQkNteVlfOVVkTkR4eGpFUFJTZmZySE5WQW1MakpaR1NUVEtXM0VucEpRbml6dUk1R2lsbE5vN3V5M0dHTHZad2JXUEsyUTlvVXFQU0hpNnE5Z3h4d0NMSE9OcXNocHRJQ1Q0eXV6M0phX05BeDFJblF1eDBpRGY2YzNGVHBCT21ISmRUSXhQc2V4dW9SeklwUkY5dmpsTWdzQWNHY2ZLX3NTNXNOeVhOejFRWUN2bURYYS1vOW9URmJR?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
-      "description": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
-      "publication_date": "Wed, 05 Aug 2026 16:18:29 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
-      "source": "rss"
-    },
-    {
-      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-      "description": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
-      "publication_date": "Wed, 05 Aug 2026 16:17:55 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
-      "source": "rss"
-    },
-    {
-      "title": "SpaceX moon crash is a perfect metaphor for rocket maker’s share price, analysts say",
-      "description": "Parts of a SpaceX rocket reportedly crashed into the moon on Wednesday",
-      "publication_date": "Wed, 05 Aug 2026 16:17:35 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/spacex-moon-crash-share-price-elon-musk.html",
-      "source": "rss"
-    },
-    {
-      "title": "Rupee hits one-month closing high as oil slide outweighs RBI pause",
-      "description": "On Wednesday, the Indian rupee climbed to its highest point in a month, bolstered by a dip in crude oil prices that fueled early gains. Although the Reserve Bank of India's decision to maintain rates restricted further growth, analysts pointed out that immediate support lies around 94.75 with resistance levels at 95.60. Additionally, FX inflows and a weakening dollar contributed positively to the rupee's overall sentiment.",
-      "publication_date": "Wed, 05 Aug 2026 16:02:15 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-one-month-closing-high-as-oil-slide-outweighs-rbi-pause/articleshow/132916592.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sensex rises 152 points, Nifty closes above 24,600 as market trims gains. What lies ahead?",
-      "description": "Indian equity benchmarks Sensex and Nifty ended higher on Wednesday after the RBI MPC maintained interest rates and raised the FY27 GDP growth outlook. Despite early upswings, markets trimmed gains due to rising crude prices and West Asia tensions. Auto and realty stocks outperformed, while IT shares faced selling pressure.",
-      "publication_date": "Wed, 05 Aug 2026 15:55:21 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-152-points-nifty-closes-above-24600-as-market-trims-gains-what-lies-ahead/articleshow/132915892.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-      "description": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
-      "publication_date": "Wed, 05 Aug 2026 15:55:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
-      "source": "rss"
-    },
-    {
-      "title": "Tanger CEO says World Cup drove up traffic, sales this summer",
-      "description": "Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup.",
-      "publication_date": "Wed, 05 Aug 2026 15:48:39 GMT",
-      "link": "https://www.cnbc.com/2026/08/05/tanger-ceo-world-cup-traffic-sales.html",
       "source": "rss"
     }
   ]
