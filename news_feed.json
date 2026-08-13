@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:19:04.334878+00:00",
+  "generated_at": "2026-08-13T15:29:17.515536+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -278,6 +278,13 @@
       "source": "rss"
     },
     {
+      "title": "UK, Italy among states considered to verify Hezbollah disarmament, sources say - Reuters",
+      "description": "UK, Italy among states considered to verify Hezbollah disarmament, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 20:15:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlhKaU95Z1hCOXBZNk1iSDh2NHU1ZElNNGUzcVFlV0liRmVfT0huNy1NdGRodXNwVFZyd0FieHJSakV0Rl95cXhwS3FIWUlqNklMbW1jZGNSMHl5WEVmbnNTRmhRMUxWcXdfZklseF9Ta1kzVFlzTFktbVJvV2lkaXFCYWRzV1FNU01hUkt6VV9JUTBjbmE2QVdmTmdHT1phM2E0cEluallfNGoyYk41bE5kX1ZSZVZKTjlsUDVxa2VBdTZfWmU4?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters",
       "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 20:14:01 GMT",
@@ -353,6 +360,13 @@
       "publication_date": "Wed, 12 Aug 2026 19:06:35 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-q1-profit-jumps-7-as-us-tariff-pressure-eases/articleshow/133184564.cms",
       "source": "rss"
+    },
+    {
+      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
+      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 19:06:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "U.S. budget deficit surged in July to highest level since March 2021",
@@ -1013,6 +1027,13 @@
       "source": "rss"
     },
     {
+      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
+      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 11:59:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Scorching heat is straining Europe's nuclear power supplies — and prompting drastic measures",
       "description": "Heat and drought are curbing nuclear output across Europe, with Romania facing a possible reactor shutdown and France reducing generation.",
       "publication_date": "Wed, 12 Aug 2026 11:55:43 GMT",
@@ -1102,6 +1123,13 @@
       "publication_date": "Wed, 12 Aug 2026 10:36:54 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/senco-gold-shares-fall-over-8-after-q1-results-what-squeezed-profitability/articleshow/133171068.cms",
       "source": "rss"
+    },
+    {
+      "title": "US consumer prices likely increased moderately in July as gasoline prices eased - Reuters",
+      "description": "US consumer prices likely increased moderately in July as gasoline prices eased &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 10:33:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRldtaThWM1FpYkltN1NKWUM2a2ttQV93LUZXWnJPWGFFeDExUGdGRlhZSDZnZHk5NVM1Z1k2LV9WLVgyTzZISVBTVnBWZVVESUJwa0F6cVVFLV9Wb1JmemRvX3FVRGFMTXRrc2RsaUdMYm8xVmZUS2I3QnJpcWNsWWtFdTAzcVBJNDNxTFJuNEZmNDlRdG9uLWNzQVJiQTlDT3lEQjZEaGgwWkVFX3FkWjRzVUpPSHUwMnc?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Wall St futures tick up heading into July inflation data - Reuters",
@@ -1409,34 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:17:35 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-updates-12-aug-2026/liveblog/133168402.cms",
-      "source": "rss"
-    },
-    {
-      "title": "HCL Tech Share Price Live Updates: HCL Tech's Trading Performance",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:15:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-12-aug-2026/liveblog/133168365.cms",
-      "source": "rss"
-    },
-    {
-      "title": "JSW Steel Share Price Live Updates: JSW Steel's Current Market Position",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:11:52 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-live-updates-12-aug-2026/liveblog/133168313.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Current Trading Status",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:11:35 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-12-aug-2026/liveblog/133168308.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Divis Labs Share Price Live Updates: Divis Labs Stock Performance",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:11:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-today-live-12-aug-2026/liveblog/133168304.cms",
       "source": "rss"
     }
   ]
