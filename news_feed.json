@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:20:29.472280+00:00",
+  "generated_at": "2026-08-13T03:06:03.322290+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -173,13 +173,6 @@
       "source": "rss"
     },
     {
-      "title": "Trump says US has 'total control' over Strait of Hormuz - Reuters",
-      "description": "Trump says US has 'total control' over Strait of Hormuz &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 21:27:49 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "US stocks: CoreWeave, Super Micro surge on signs of sustained AI buildout",
       "description": "CoreWeave and Super Micro have seen their stock prices soar to new heights amid a rising tide of demand for AI infrastructure. CoreWeave has updated its expectations for annual revenue and operating profit, signaling strong market confidence. Similarly, Super Micro's projections for 2027 revenue exceed Wall Street estimates, reflecting robust investment in AI servers and computing capabilities.",
       "publication_date": "Wed, 12 Aug 2026 21:26:52 +0530",
@@ -227,6 +220,13 @@
       "publication_date": "Wed, 12 Aug 2026 20:51:07 GMT",
       "link": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
       "source": "rss"
+    },
+    {
+      "title": "American Airlines shakes up leadership as CEO faces pressure to close profit gap - Reuters",
+      "description": "American Airlines shakes up leadership as CEO faces pressure to close profit gap &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 20:44:48 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU5YU2c5OTNqWnJQcXBzN3ViMERuSWdOMTNuMnhSb1F1dUI3bTdCdGxZNUxYN3dJX0N5QlNhSFBwbVdyMmRFTWdwbHhXZ2RQbUtwRkZ3TEgtckd0SFRnVHRQUkd2VHM0OGhKeHBpbGFXZEhkS0J6dzRJVjd6cXZKc19pU0xHbTVLV0JGV0JZY2ptckhvYVFNWnkxdzlUdUxwM2ROanNkYjZSMnRCblBkclBLa3R6dF8talN3?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Top US refiners see profits soar, step up investor rewards - Reuters",
@@ -320,6 +320,13 @@
       "source": "rss"
     },
     {
+      "title": "Vietnam considers second LNG term contract after deal with Shell, document shows - Reuters",
+      "description": "Vietnam considers second LNG term contract after deal with Shell, document shows &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 19:10:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2p3SURVQ2hPVk1mVjgyN1Vkbjl1U1BHV3BPUEJuVWR5TWE1NFRIX2tLZ1h6dHJwRTVIbC1FVW1vRnhJRjhkQnVBalVHcWFXVTdkX01vTjA3SFR0b1lRMlNiX3RXXzZmQ0FMcGZaU05lV3UwSEZPSnVrQmp6ZDlwd2VlQ2NWMkluMUlybHlKb25yZEVaWUtYQWcyODBYVXRWeWk4SVJDSllnTmNtLU1aOFhjNXowaTlTR2l3NFh4cnFXZmZCYU9vVzRjcw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "MCX, NISM launch centre to strengthen India’s commodity market skills",
       "description": "MCX and NISM have signed an MoU to establish the MCX-NISM Centre for Commodity Markets, focusing on professional training, research, investor awareness and academic engagement. The initiative aims to strengthen expertise in commodity derivatives, risk management, compliance and responsible participation.",
       "publication_date": "Wed, 12 Aug 2026 19:09:27 +0530",
@@ -332,13 +339,6 @@
       "publication_date": "Wed, 12 Aug 2026 19:06:35 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-q1-profit-jumps-7-as-us-tariff-pressure-eases/articleshow/133184564.cms",
       "source": "rss"
-    },
-    {
-      "title": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
-      "description": "Dollar gains, yen slips as US CPI meets expectations &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 19:00:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "U.S. budget deficit surged in July to highest level since March 2021",
@@ -423,6 +423,13 @@
       "publication_date": "Wed, 12 Aug 2026 17:14:09 GMT",
       "link": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
       "source": "rss"
+    },
+    {
+      "title": "Fed expected to leave rates unchanged next month after soft inflation data - Reuters",
+      "description": "Fed expected to leave rates unchanged next month after soft inflation data &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 17:09:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2NNM1hicnFuakczck9zME1UVXVFV2hjLVFzbkJMY1NaT3JUcWlfcDN3Rko0RU1iSFEzS3VQaGJibEo5S05icjFXN09POFE0dGFYS3pjTlMxa0hKSnJ2SjdaVDJRZXNIR3h5dTZvTkgxalowRndaeUttbHc0OFZvbmJGcXJ3UnhxYVZrSGdfbmllVXYzMmRUQ2VrMUE2eGJwa1VDdEJCM01fVlp6b1U0?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Israel's military says it targeted a Hamas commander planning attacks in Gaza - Reuters",
@@ -621,6 +628,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Trump says US has 'total control' over Strait of Hormuz - Reuters",
+      "description": "Trump says US has 'total control' over Strait of Hormuz &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 14:39:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Mortgage rates finally stop rising, causing demand to trickle back",
       "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
       "publication_date": "Wed, 12 Aug 2026 14:28:39 GMT",
@@ -689,6 +703,13 @@
       "publication_date": "Wed, 12 Aug 2026 13:59:17 GMT",
       "link": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
       "source": "rss"
+    },
+    {
+      "title": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation - Reuters",
+      "description": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 13:57:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHhnY3hNVEUwNHV3VnA0WGtlZnRlN1NkeEdaejNXdW1KaTQwN3NCbzV0c2Q2cF9pX2oyRnNCWG1TZjhyZ0lNTHBiTFZhSjNsdkhHUDhVcWRNQUYxQjdQamlEVmxTRExzZlJoMExMSHFoVWZXT3VOTV9hZ1JLbkd4SjMybUdROUxzenkxSGJXeHE4NVFINVI5Mlk3STlabndYVWMwY3dlV0RjdmdNRzVBbVBJR29CZnF2b2p6bEdvdG9IUlM0LUE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Why did market fall today? N Chandra’s exit among 3 factors behind 188-pt Sensex slide; Nifty below 24,450",
@@ -1416,27 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:02:09 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-today-live-12-aug-2026/liveblog/133168210.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Asian Paints Share Price Live Updates: Asian Paints trades below its 20-day EMA",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:01:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-12-aug-2026/liveblog/133168202.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ showcases a beta of 1.2368 over six months",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:01:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-today-live-12-aug-2026/liveblog/133168197.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Ardee Industries IPO set to debut today; 27% GMP points to strong listing gains",
-      "description": "The strong GMP comes after an impressive subscription response. The IPO, which was open from August 5 to August 7, was subscribed a staggering 133.66 times overall, reflecting robust investor appetite across categories.",
-      "publication_date": "Wed, 12 Aug 2026 08:00:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-set-to-debut-today-27-gmp-points-to-strong-listing-gains/articleshow/133168112.cms",
       "source": "rss"
     }
   ]
