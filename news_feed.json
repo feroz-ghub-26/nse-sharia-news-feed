@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T19:34:01.020452+00:00",
+  "generated_at": "2026-08-13T19:53:01.705264+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -789,6 +789,13 @@
       "source": "rss"
     },
     {
+      "title": "Norway wealth fund posts record $184 billion profit in first half of 2026 - Reuters",
+      "description": "Norway wealth fund posts record $184 billion profit in first half of 2026 &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 13:49:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHFOUndUSGhkUDVOYXRlcXNzUkZUazF1cHBHa2o0OEx1Ylh5Rk9lU1ZYMzM5ZW5obmtDS2MtcGdkUEpHREszYWlVSUsxM241RVR2dE1MYUs4emFySnpYS3VwdjRMRXBieWl0aXpxQVE5OTdweHVIMjlIbTUzVVFwXzh6b0Y0RC14Z0JuTDY4VkZDdTRlZVVVLUNvUlo2RVp0V0xfOWk3Um8?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Global Market: Japanese bond yields rise as traders price September BOJ rate hike",
       "description": "Japanese government bond yields rose on Wednesday as markets increasingly priced in a September Bank of Japan rate hike. The benchmark 10-year yield climbed to 2.85%, while the two-year yield hit its highest level since 1995. Higher oil prices added to inflation concerns, while investors awaited U.S. inflation data for clues on the Federal Reserve’s policy path.",
       "publication_date": "Wed, 12 Aug 2026 13:48:48 +0530",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 08:17:51 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-livestock-price-today-live-updates-12-aug-2026/liveblog/133168407.cms",
       "source": "rss"
-    },
-    {
-      "title": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
-      "description": "Iran to join BRICS development bank soon, central bank governor says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 08:07:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
-      "source": "Reuters"
     }
   ]
 }
