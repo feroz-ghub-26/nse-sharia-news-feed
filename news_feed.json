@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:49:07.229313+00:00",
+  "generated_at": "2026-08-13T17:27:31.616697+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -45,13 +45,6 @@
       "publication_date": "Wed, 12 Aug 2026 23:50:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVlRQ21jRDhrZnlKVmJmNXlDbXhlREw5SWNWN2JWV1RpX0o5aXppSVE0MmxlZmhkRVQ2Q01rQ0xIejVDNVFqcUFTTjYzVGJRMnJ6ZkZhTU02S2I4bERpVFAwV3lWeXVjTEIxZnVRTFkzNldpZVRxTFZLNVJkWXd4Q2tBV3V1MDZnWnRKQVpCbGNHMnF0eU5FQmF0WFhWenZKOUt0ZERMcDVXQnY3UTBzc1d4OEpDVDVTaWJpZVFtMlVxbUg1TWtVZm5wSQ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
-      "description": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
-      "publication_date": "Wed, 12 Aug 2026 23:49:23 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
-      "source": "rss"
     },
     {
       "title": "US stocks: Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year",
@@ -367,6 +360,13 @@
       "publication_date": "Wed, 12 Aug 2026 19:06:35 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-q1-profit-jumps-7-as-us-tariff-pressure-eases/articleshow/133184564.cms",
       "source": "rss"
+    },
+    {
+      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
+      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 19:06:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "U.S. budget deficit surged in July to highest level since March 2021",
@@ -852,13 +852,6 @@
       "source": "Reuters"
     },
     {
-      "title": "PODCAST: Banking on CoreWeave - Reuters",
-      "description": "PODCAST: Banking on CoreWeave &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 13:36:22 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE1vNXBNamI2ek1BUXE3U2s1VUl0djJybDViWU4zOHU1MVZqRVZJZ2M1blJkakwxOWd3V2d5VkFfMGZDc3NENW1oUW5PM0IyR0NWT2pKbTh4NW5hREREZjdFREQxYWtUZlJKaFdXZjN4ZmJPSnVVQV9ITkFCM2RWR1NyVDI1Rm03VVE?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Chinese tech giant Tencent sees spending surge, defends potential 'superior' AI returns",
       "description": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
       "publication_date": "Wed, 12 Aug 2026 13:31:54 GMT",
@@ -1200,6 +1193,13 @@
       "publication_date": "Wed, 12 Aug 2026 09:48:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/zydus-lifesciences-shares-drop-3-after-q1-earnings-heres-why-nuvama-upgraded-rating-hiked-target/articleshow/133169721.cms",
       "source": "rss"
+    },
+    {
+      "title": "PODCAST: Banking on CoreWeave - Reuters",
+      "description": "PODCAST: Banking on CoreWeave &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 09:47:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE1vNXBNamI2ek1BUXE3U2s1VUl0djJybDViWU4zOHU1MVZqRVZJZ2M1blJkakwxOWd3V2d5VkFfMGZDc3NENW1oUW5PM0IyR0NWT2pKbTh4NW5hREREZjdFREQxYWtUZlJKaFdXZjN4ZmJPSnVVQV9ITkFCM2RWR1NyVDI1Rm03VVE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Global Market: Japan stocks muted as investors await US CPI report",
