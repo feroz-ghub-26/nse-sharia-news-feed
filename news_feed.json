@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:54:25.812799+00:00",
+  "generated_at": "2026-08-13T13:54:47.660729+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 1
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -922,13 +922,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Saudi Arabia bets on defensive alliances to deter slide into war - Reuters",
-      "description": "Saudi Arabia bets on defensive alliances to deter slide into war &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 12:36:16 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUJNN3lBY1A1eGV5XzhJYWlFc2lHRkY2eEI2Q2x1UzdaMkY2dWFRSGc5blZJWERQVkFuZTZOV2FDMHlmNXdPRGJrcllPNzVueGl6NlF5RlRSbHFUNkZVUlZGR0F2ODY5VWtfLVlrQW0tLUVZUlo2Q1dHanR1N3U3QjUyZGxwcFlSRjh6ak5MSTlmdXdKLUtvTVpLTkRsaUZkZldMY1BqRldLb0xhendvZFh3?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Technocraft Ventures IPO allotment likely today, GMP signals over 12% listing gain. How to check status",
       "description": "The Rs 251.88-crore Technocraft Ventures IPO received strong investor interest, with its GMP rising to around 12.74% from 11% earlier, signalling expectations of a positive listing. Investors are likely to learn their allotment status today.",
       "publication_date": "Wed, 12 Aug 2026 12:33:54 +0530",
@@ -936,10 +929,10 @@
       "source": "rss"
     },
     {
-      "title": "Libya's state power company says attack on Zawiya substation causes major outage - Reuters",
-      "description": "Libya's state power company says attack on Zawiya substation causes major outage &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 12:23:31 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRE53czNfQ2tCOTAtMWN2RHNuSWpPLW9aZ0kxUTc0TVVxb3hTM3RyTWRpNHlwT2Zfd2d4NDhkLW93YVRTaEZYcUJWSFY1R0lTaVRSNWR5Wk51YXZpRHYyanRWVFRsX3JEMzdWd3JGbG1KZ2p0Q190LVhQa2tpQWdmcTJqSHpKczQ1clpGS0NUNHN6NVlZSnRTVjF5SldTeWtJM1ZELVgzWjIzdEdDRnRUd3hxM1lxZTNvX2dibkZuN2lQT2NvUl9z?oc=5",
+      "title": "Saudi Arabia bets on defensive alliances to deter slide into war - Reuters",
+      "description": "Saudi Arabia bets on defensive alliances to deter slide into war &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 12:33:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUJNN3lBY1A1eGV5XzhJYWlFc2lHRkY2eEI2Q2x1UzdaMkY2dWFRSGc5blZJWERQVkFuZTZOV2FDMHlmNXdPRGJrcllPNzVueGl6NlF5RlRSbHFUNkZVUlZGR0F2ODY5VWtfLVlrQW0tLUVZUlo2Q1dHanR1N3U3QjUyZGxwcFlSRjh6ak5MSTlmdXdKLUtvTVpLTkRsaUZkZldMY1BqRldLb0xhendvZFh3?oc=5",
       "source": "Reuters"
     },
     {
@@ -1438,6 +1431,13 @@
       "publication_date": "Wed, 12 Aug 2026 08:11:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-today-live-12-aug-2026/liveblog/133168304.cms",
       "source": "rss"
+    },
+    {
+      "title": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
+      "description": "Iran to join BRICS development bank soon, central bank governor says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 08:07:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
+      "source": "Reuters"
     }
   ]
 }
