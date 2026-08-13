@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:34:19.071014+00:00",
+  "generated_at": "2026-08-13T00:05:42.805756+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -40,10 +40,24 @@
   ],
   "articles": [
     {
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "description": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
+      "publication_date": "Wed, 12 Aug 2026 23:49:23 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "source": "rss"
+    },
+    {
       "title": "US stocks: Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year",
       "description": "Copper foil producer Londian Wason has officially launched on the NYSE, reaching a remarkable valuation of more than two billion dollars. The firm raised ninety-four million dollars through an expanded offering ahead of its stock market debut. This is particularly noteworthy, as it represents the biggest Chinese IPO in the U.S. in over a year.",
       "publication_date": "Wed, 12 Aug 2026 23:42:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-londian-wason-valued-at-2-billion-biggest-chinese-debut-in-new-york-in-over-a-year/articleshow/133190804.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+      "description": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+      "publication_date": "Wed, 12 Aug 2026 23:41:02 GMT",
+      "link": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
       "source": "rss"
     },
     {
@@ -52,6 +66,20 @@
       "publication_date": "Wed, 12 Aug 2026 23:31:21 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms",
       "source": "rss"
+    },
+    {
+      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 23:19:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - Reuters",
+      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 23:13:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
@@ -65,13 +93,6 @@
       "description": "Ford said on Wednesday that it will be increasing production of its Lincoln cars in the U.S. beginning in 2030.",
       "publication_date": "Wed, 12 Aug 2026 22:36:44 GMT",
       "link": "https://www.cnbc.com/2026/08/12/ford-lincoln-us-china.html",
-      "source": "rss"
-    },
-    {
-      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
-      "description": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
-      "publication_date": "Wed, 12 Aug 2026 22:18:58 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
       "source": "rss"
     },
     {
@@ -136,13 +157,6 @@
       "publication_date": "Wed, 12 Aug 2026 21:20:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1qZERoWkltdjF1bTJRWTZQaTJ6NVI1YVBVcVBQLXhuaFBoZ2o2bW9tNTlMR3VFNDlPSHdTUlZ6WkkzR1RkbXpMV1VYZUJRdk1Tano3emJQSGVVdUtlT3FWMWFrVjg3bFZlbUQzNlZuWDJ6M19pb0pjcDRoWjdoZW1iVk04MGRDd0RRSkZpUVJFaDZxem5JWE5SaXFfMVZBZmxub00xdk11SGZ3TFJuNzItSW9IaDB0dzBlVGp2R014eUZj?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
-      "description": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
-      "publication_date": "Wed, 12 Aug 2026 21:18:35 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-      "source": "rss"
     },
     {
       "title": "Apollo Hospitals Q1 Results: Net profit jumps 38% YoY to Rs 610 crore; revenue rises 21%",
@@ -229,13 +243,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 19:59:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Iran says no progress on reviving interim peace deal with US - Reuters",
       "description": "Iran says no progress on reviving interim peace deal with US &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 19:58:02 GMT",
@@ -255,13 +262,6 @@
       "publication_date": "Wed, 12 Aug 2026 19:43:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pilani-investment-to-sell-1-7-million-ultratech-cement-shares-for-1908-crore/articleshow/133185360.cms",
       "source": "rss"
-    },
-    {
-      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - Reuters",
-      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 19:37:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Sebi lowers stress testing limit for commodity derivatives",
@@ -390,11 +390,11 @@
       "source": "rss"
     },
     {
-      "title": "Israel's military says it targeted a Hamas commander planning attacks in Gaza - reuters.com",
-      "description": "Israel's military says it targeted a Hamas commander planning attacks in Gaza &nbsp;&nbsp; reuters.com",
+      "title": "Israel's military says it targeted a Hamas commander planning attacks in Gaza - Reuters",
+      "description": "Israel's military says it targeted a Hamas commander planning attacks in Gaza &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 17:08:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUk51TkRwcXdfMzk0VGlTSW5zeENZQnVLaXktNVpMQzFzMGJYazBQbFk3YlZrNmdDaW5kWjlnQ25IT1pVekljNl93X0dsUEUxREZicF9FUm1qYzZMaEcxa2tOU0dQV3E5bC1kMGI5bVBaQWI1TVZvVng1VGZDSDMzdDcyVDkwNVNoNW5aVUZKYUk5NFdlMjJZeDBhWVVaS2ZTdmQ0QWpNZnF0UFd3M1RjZ3NGbUVzXzRldGRpeklUMGZ0Y2c?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
@@ -751,6 +751,13 @@
       "description": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 13:14:13 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Russia's Orenburg region brings in fuel rationing after Ukrainian refinery strike, governor says - Reuters",
+      "description": "Russia's Orenburg region brings in fuel rationing after Ukrainian refinery strike, governor says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 13:10:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNldSMHViVlZPX3V6eG5TaGQtNG5xRjlvVURlRXBQZU01Tnc5QXJGR2lOS21Bd1RNaHppck8wQ0gzT2NjRmxPQ2JlUkFub2UwUUdsVU9NZlJVc0hfQURLVnpMMDM5dHUzMWtDZTd0aGNUbFNhM2MxY2wxQnY0Q1paRFUxWE9veHVnUmd5U3dncGhjVlZEaGM5VjVkXzktMGdpOXZJcHVsWUJrbWctZU1Vejg5Y2p3cEdxWlI0SzM3QW1hdjVWVXdkZA?oc=5",
       "source": "Reuters"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "U.S. bond yields are surging to unprecedented levels, putting the Trump administration in a tough spot. While President Trump pushes for lower interest rates, Treasury Secretary Bessent prioritizes managing inflation and bond yields. Faced with competing pressures, the Federal Reserve must decide between boosting rates to maintain price stability or decreasing them, risking inflation.",
       "publication_date": "Wed, 12 Aug 2026 07:46:49 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yield-curve-twists-expose-trumps-and-bessents-rate-dilemma/articleshow/133167994.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil Price Today (August 12): Crude oil reclaims $90 again after fresh attacks on ships. What are experts saying?",
-      "description": "Brent crude futures were up 72 cents, or 0.81%, at $89.63, while US West Texas Intermediate (WTI) crude gained 71 cents, or 0.85%, to $83.91.",
-      "publication_date": "Wed, 12 Aug 2026 07:45:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-12-crude-oil-reclaims-90-again-after-fresh-attacks-on-ships-what-are-experts-saying/articleshow/133168024.cms",
       "source": "rss"
     }
   ]
