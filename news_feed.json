@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T10:59:29.902713+00:00",
+  "generated_at": "2026-08-13T11:51:52.494275+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
@@ -79,6 +79,13 @@
       "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 23:13:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Global EV sales rise in July as Europe offsets weakness in China and North America - Reuters",
+      "description": "Global EV sales rise in July as Europe offsets weakness in China and North America &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 23:12:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUWJNS21tWXhVV085U2s4MWY5M1M5ODFZT1I3NWlfU1JMeE50YlpIdHlNaTBMNkViS0s0d21JYTQ2QVdYcmU4N3JxNFgwVndoQWxidDQwUzZjN282eDdRekpUeTh0WWZsUzh1VEdYWkVKdDRrQnZ1UDZTcGZxeFc3MzBEYmhOVGlFVnJMRkV1dHFrSXNCYjd4Z1FFTERqdWZIaFkxT3FyS21aeUJzdm1TOGNSTnpCc2kwSUo0RjdJSHgyNGdheHdMYVJzT3NSLTAx?oc=5",
       "source": "Reuters"
     },
     {
@@ -150,6 +157,13 @@
       "publication_date": "Wed, 12 Aug 2026 22:00:38 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms",
       "source": "rss"
+    },
+    {
+      "title": "Braskem eyes out-of-court restructuring as early as this month, sources say - Reuters",
+      "description": "Braskem eyes out-of-court restructuring as early as this month, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 21:51:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSjNzd0EwS1JJWVVJaGZXck5JbkhtemZiaG5ON09XQWRhZEFiMWdjSU9ISmxqSnFGZWNiN2ptaHV1WjZMYmxGLU9pUnVJU0EwZS10ZUpiZWwwRzlHaEVPczNIeVpuaEdvazM4cVppWF9IaDY0RHJ2c3AzQzd1N1hnMjd3QVhWS3p5X2VUMWZXRWt6djU4X0hBWTFJN0lheFplb1MyMmswMWptX1NhWlU0RzE2czRNa2NveGs5UQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Indel Money to raise up to Rs 500 crore via public issue of NCDs",
@@ -1423,20 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:11:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-today-live-12-aug-2026/liveblog/133168304.cms",
-      "source": "rss"
-    },
-    {
-      "title": "HDFC Bank Share Price Live Updates: HDFC Bank Stock Details",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:10:39 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-live-updates-12-aug-2026/liveblog/133168295.cms",
-      "source": "rss"
-    },
-    {
-      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank Stock Details",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:10:22 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-12-aug-2026/liveblog/133168289.cms",
       "source": "rss"
     }
   ]
