@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:52:48.084221+00:00",
+  "generated_at": "2026-08-13T18:26:38.226697+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -360,13 +360,6 @@
       "publication_date": "Wed, 12 Aug 2026 19:06:35 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-q1-profit-jumps-7-as-us-tariff-pressure-eases/articleshow/133184564.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
-      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 19:06:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "U.S. budget deficit surged in July to highest level since March 2021",
@@ -845,13 +838,6 @@
       "source": "rss"
     },
     {
-      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
-      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 13:37:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Chinese tech giant Tencent sees spending surge, defends potential 'superior' AI returns",
       "description": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
       "publication_date": "Wed, 12 Aug 2026 13:31:54 GMT",
@@ -1032,6 +1018,13 @@
       "publication_date": "Wed, 12 Aug 2026 12:02:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-shares-drop-over-9-in-two-days-jm-financial-downgrades-rating/articleshow/133173401.cms",
       "source": "rss"
+    },
+    {
+      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
+      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 11:59:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Scorching heat is straining Europe's nuclear power supplies — and prompting drastic measures",
@@ -1438,6 +1431,13 @@
       "publication_date": "Wed, 12 Aug 2026 08:17:51 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-livestock-price-today-live-updates-12-aug-2026/liveblog/133168407.cms",
       "source": "rss"
+    },
+    {
+      "title": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
+      "description": "Iran to join BRICS development bank soon, central bank governor says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 08:07:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
+      "source": "Reuters"
     }
   ]
 }
