@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:54:47.660729+00:00",
+  "generated_at": "2026-08-13T14:19:04.334878+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -936,6 +936,13 @@
       "source": "Reuters"
     },
     {
+      "title": "U.S. storms cut power to 540,000 Midwest homes and businesses - Reuters",
+      "description": "U.S. storms cut power to 540,000 Midwest homes and businesses &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 12:28:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmJKN3g3blZMR2kza3YzdTcyM1hsdEV6cUFJQmxmTTRMejIyRGM2cl80UnJnVTBKQVdlZmNCYVRPMDM1c2E3SmZJYWZEUm9iem1mTjBvV0JzbExjaDNxVWNIZ3lzZ2hsVjdKazd2Y2Ftd0sxTXBqZS1jc3FPQVhNZkFidV9sREloUjdvTkdZNThfQTRCcXBiT2Rlci1ycjg3Rk1vaEF1bjFYSUZUVnJ4TFdwa1ZTTFlqMUE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "'Tougher times ahead': Don't expect blowout returns to continue, CEO of $2.3 trillion fund warns after record first half",
       "description": "Norway's sovereign wealth fund, the largest of its kind, is an investor in around 1.5% of the world's listed companies.",
       "publication_date": "Wed, 12 Aug 2026 12:23:06 GMT",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 08:11:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-today-live-12-aug-2026/liveblog/133168304.cms",
       "source": "rss"
-    },
-    {
-      "title": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
-      "description": "Iran to join BRICS development bank soon, central bank governor says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 08:07:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
-      "source": "Reuters"
     }
   ]
 }
