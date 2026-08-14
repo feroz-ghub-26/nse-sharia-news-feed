@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:05:12.306686+00:00",
+  "generated_at": "2026-08-14T04:00:28.040530+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -593,6 +593,20 @@
       "source": "rss"
     },
     {
+      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
+      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 16:07:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
+      "description": "Dollar gains, yen slips as US CPI meets expectations &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 16:03:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Tata Motors CV Q1 Results: Net profit soars 83% YoY to Rs 2,560 cr on one-time gain from Tata Capital; revenue jumps 19%",
       "description": "Tata Motors CV Q1 Results: Commercial vehicle major Tata Motors on Wednesday reported a net profit of Rs 2,560 in the first quarter of financial year 2027, marking a jump of 83.3% from Rs 1,397 crore reported in the same period last year.",
       "publication_date": "Wed, 12 Aug 2026 15:57:45 +0530",
@@ -695,6 +709,13 @@
       "description": "Syria receives first shipments at pier previously used by Russia &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 14:47:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1F6QTROOWFGelRhMi1TN1N2T2luTk1EWnAwRElTb196c2tSYW5JalhXQzktM0RXRkNFa1VfeUYtVjBnNERXTFJBSjFNRkQ4eVBaS3JqZ2w5M1VhbUdxZHpnZGdVLVdhWWZ3S3VRbUlvYXM2RTV3d0lYeEg0cnR4LXg4c2FUeE82YjZ3N08wXzFRT0VKWnNYZXpobFBaRnlJa2V1WnBTZXZpMUNqbzRLYXBvdjg2QQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - Reuters",
+      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 12 Aug 2026 14:45:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
       "source": "Reuters"
     },
     {
@@ -1416,27 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:25:37 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-12-aug-2026/liveblog/133168597.cms",
-      "source": "rss"
-    },
-    {
-      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cem. Stock Details",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:25:03 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-12-aug-2026/liveblog/133168505.cms",
-      "source": "rss"
-    },
-    {
-      "title": "TKMS sees increased demand from Middle East following Iran war - Reuters",
-      "description": "TKMS sees increased demand from Middle East following Iran war &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 08:23:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1RWelRIclZrZEZHSldHVXVuZFJkb1FWcmNkZFRJZGV1UTFXa25ncnBqbjB6dk9vRWRRNDI4QzlHU3NvcE5ybjBUdWxEcDFkNGUzZ3JJYU55WUZnNl9NT1FNcWNkSlFNSW9FWktjZ3pYVkd4N3habThScWViVHVtenAxbkFEejdBdmNydjJ2UWxfM25NNlRDMk5jUk11amcwaE5YTldaWjgtbTlaX0cxeDlNdUFweGJoQm1HNw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Horizon Industrial Parks sets IPO price band at Rs 57-60 for Rs 2,600 crore issue. Check key dates",
-      "description": "Horizon Industrial Parks has set the price band for its Rs 2,600-crore IPO at Rs 57-60 per share. The IPO will open on August 17 and close on August 19, with the company planning to use most of the proceeds to repay or prepay debt.",
-      "publication_date": "Wed, 12 Aug 2026 08:21:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/horizon-industrial-parks-sets-ipo-price-band-at-rs-57-60-for-rs-2600-crore-issue-check-key-dates/articleshow/133168395.cms",
       "source": "rss"
     }
   ]
