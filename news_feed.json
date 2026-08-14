@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:52:20.709759+00:00",
+  "generated_at": "2026-08-14T11:39:25.835032+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,17 +34,17 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
     {
-      "title": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap - Reuters",
-      "description": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap &nbsp;&nbsp; Reuters",
+      "title": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap - reuters.com",
+      "description": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 23:50:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVlRQ21jRDhrZnlKVmJmNXlDbXhlREw5SWNWN2JWV1RpX0o5aXppSVE0MmxlZmhkRVQ2Q01rQ0xIejVDNVFqcUFTTjYzVGJRMnJ6ZkZhTU02S2I4bERpVFAwV3lWeXVjTEIxZnVRTFkzNldpZVRxTFZLNVJkWXd4Q2tBV3V1MDZnWnRKQVpCbGNHMnF0eU5FQmF0WFhWenZKOUt0ZERMcDVXQnY3UTBzc1d4OEpDVDVTaWJpZVFtMlVxbUg1TWtVZm5wSQ?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "US stocks: Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year",
@@ -68,18 +68,18 @@
       "source": "rss"
     },
     {
-      "title": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - Reuters",
-      "description": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' &nbsp;&nbsp; Reuters",
+      "title": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - reuters.com",
+      "description": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 23:29:17 GMT",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUNwdDR2X2Z6TlJ2NDZ5VVVESGN1bHdOU3RHSVY5aGJSdmJldVZ6YVh5ZDVNNUxJMFpValdCa0dKSFJBLUZzeTdEU1pmcmhMVjAtQzBFdm91QW1JZERManNpTlMtbzBEaVhnZTRybjF1YkxVVVBtLWE0Vk4xOW9NWWhJU19yUUdLYy1MNHpDTTFjb3F0ajMtZHl1THdCSG00NjFNQTgtUzZpNG1DN0cwWi1lR2VNdWJvQjBkNHYtSy1GcVRLQ3hYTXJVQ2ZZZW8?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - Reuters",
-      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia &nbsp;&nbsp; Reuters",
+      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - reuters.com",
+      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 23:13:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Global EV sales rise in July as Europe offsets weakness in China and North America - Reuters",
@@ -229,11 +229,11 @@
       "source": "rss"
     },
     {
-      "title": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
-      "description": "Iranian photojournalist faces 15 years in prison over images, reporting &nbsp;&nbsp; Reuters",
+      "title": "Iranian photojournalist faces 15 years in prison over images, reporting - reuters.com",
+      "description": "Iranian photojournalist faces 15 years in prison over images, reporting &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 21:04:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "'If I go, you go, right?': Traveling on the presidential plane—without Trump - Reuters",
@@ -257,18 +257,18 @@
       "source": "Reuters"
     },
     {
-      "title": "Top US refiners see profits soar, step up investor rewards - Reuters",
-      "description": "Top US refiners see profits soar, step up investor rewards &nbsp;&nbsp; Reuters",
+      "title": "Top US refiners see profits soar, step up investor rewards - reuters.com",
+      "description": "Top US refiners see profits soar, step up investor rewards &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 20:24:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2FVR1ZIejBlNVBEMzQ5S2x1UHpjOHVldkJ1eEU1eVE4QkNGYVU1Z25GZloxaHJWUm1XejJpbHEwTlg4M0FkYkFCbVpSa2hDb3BRYUxpT3FwdlM4Z1psY0RYWWVGYnItQzBlWEpHeTF4Q2dMS2txOUhpQlQzcVgyQU9Ra2lGUVFMTGdMbnRCNWZfLVFybXkxUFlVQzZ6Nko3YlRPa25qZTF0Ny1fYmc?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "US budget deficit widens in July on higher outlays, negative tariff receipts - Reuters",
-      "description": "US budget deficit widens in July on higher outlays, negative tariff receipts &nbsp;&nbsp; Reuters",
+      "title": "US budget deficit widens in July on higher outlays, negative tariff receipts - reuters.com",
+      "description": "US budget deficit widens in July on higher outlays, negative tariff receipts &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 20:17:29 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUJ0U0RwQ2U2OHRKX1JZX1daaUdjR0ZMZWM5a0x3VndUUzJ0RFRTMTQ4ZHA1blZIYlVNWTZOeTUwa2QxcGQtVGpCRXN0WlJqNW1abl9wMnptY2hTSDA2VHUzNVFBLWVsTnRDYzZYQjBQS2VnZ2VBVVRNVHQwQTJiQ2dxSF92cHlFSENDQ1psZF9rM3plUE5mTzZtUWR0U1d0ZlZ3Z3NZRXBOX2ZQSGZXUTlKNkpHMHZ0amdoUg?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Shein's slowing growth tests investor appetite ahead of Hong Kong IPO",
@@ -292,11 +292,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters",
-      "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster &nbsp;&nbsp; Reuters",
+      "title": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - reuters.com",
+      "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 20:14:01 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "IndiQube Spaces Q1 revenue jumps 37% to record Rs 428 crore",
@@ -383,18 +383,18 @@
       "source": "reuters.com"
     },
     {
-      "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters",
-      "description": "Saudi Red Sea oil exports go dark as Houthi attack threat grows &nbsp;&nbsp; Reuters",
+      "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - reuters.com",
+      "description": "Saudi Red Sea oil exports go dark as Houthi attack threat grows &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 18:49:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGFZQ2Vnb3RrVVF5MGpzQzlrckRvMHM2bmtQRFFEdUdra2QxdEcwMEVTQk1GUDFBS25MS2Rmb05uZkd4Znp4aElvSEtFVzNXY1dtYUNHNmpWODhUSTFVRDc1a0VMR3NTVTlmNndDRlBnVWlfOFpZSXFRY01EUDh6WGJQb2xHY0daZGIwbzI3VWpfallqckphSVpIcHl0VkdqM3VyaUJUS1B4QVM5MXJZY0Rn?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Along the path of totality: best photos from the eclipse - Reuters",
-      "description": "Along the path of totality: best photos from the eclipse &nbsp;&nbsp; Reuters",
+      "title": "Along the path of totality: best photos from the eclipse - reuters.com",
+      "description": "Along the path of totality: best photos from the eclipse &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 18:48:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmxGY0NZeUNJUFJ1dnNoTG9NdWtfYXRyS3lUS1hmTDMzd3RZR0N3VDVoQm53ckEwZjJOenVXcTF6Uy1sZ3pvRkw3RXBfcEs2QjlGRXpIYU9EV3AxZ0xWc1Fkd0dENV9Ec3dxUTBrWkdESTlvVlJLSGlZYjkyWXhtdmZ5RnI0SU53WTB1aw?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Along the path of totality: best photos from the eclipse - Reuters",
@@ -411,11 +411,11 @@
       "source": "rss"
     },
     {
-      "title": "Chad anti-corruption inspectors detained, assaulted at state oil firm, authority says - Reuters",
-      "description": "Chad anti-corruption inspectors detained, assaulted at state oil firm, authority says &nbsp;&nbsp; Reuters",
+      "title": "Chad anti-corruption inspectors detained, assaulted at state oil firm, authority says - reuters.com",
+      "description": "Chad anti-corruption inspectors detained, assaulted at state oil firm, authority says &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 18:32:22 GMT",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2pGSkl2OFVWMTJUaVltQ2xpRS1SWGo2WTBEaGhSdHZKZ3lnaTdRMWptWGxEdnRkc2NWbUt3U1VYbV9NVlFVYkE1RGNGZ1htVWx3a2FHdTdSZklRYzlWbTdIQll5cnJ6cnJ4X3RfZzI4TTB4dlhrYkdhdmZmbzNZdHpzQnMzbEoxMGppYm82b0tLNEc0RloxbW5zZ1dMUk5UbUUxcEJYZTJ4MVJVNkhJckloZXFBZl9Bd0xEUDNaVm15NHJHSWhIQw?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "The S&P paces to snap a 2-day skid, and Goldman beefs up its asset management unit",
@@ -488,11 +488,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Israel's military says it targeted a Hamas commander planning attacks in Gaza - Reuters",
-      "description": "Israel's military says it targeted a Hamas commander planning attacks in Gaza &nbsp;&nbsp; Reuters",
+      "title": "Israel's military says it targeted a Hamas commander planning attacks in Gaza - reuters.com",
+      "description": "Israel's military says it targeted a Hamas commander planning attacks in Gaza &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 17:08:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUk51TkRwcXdfMzk0VGlTSW5zeENZQnVLaXktNVpMQzFzMGJYazBQbFk3YlZrNmdDaW5kWjlnQ25IT1pVekljNl93X0dsUEUxREZicF9FUm1qYzZMaEcxa2tOU0dQV3E5bC1kMGI5bVBaQWI1TVZvVng1VGZDSDMzdDcyVDkwNVNoNW5aVUZKYUk5NFdlMjJZeDBhWVVaS2ZTdmQ0QWpNZnF0UFd3M1RjZ3NGbUVzXzRldGRpeklUMGZ0Y2c?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
@@ -502,11 +502,11 @@
       "source": "rss"
     },
     {
-      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; Reuters",
+      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - reuters.com",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 16:58:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
@@ -530,11 +530,11 @@
       "source": "rss"
     },
     {
-      "title": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
-      "description": "Trump says his plane faced 'greater risk' in secret flight change &nbsp;&nbsp; Reuters",
+      "title": "Trump says his plane faced 'greater risk' in secret flight change - reuters.com",
+      "description": "Trump says his plane faced 'greater risk' in secret flight change &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 16:34:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
@@ -544,11 +544,11 @@
       "source": "rss"
     },
     {
-      "title": "European stocks ease from record highs as investors weigh earnings, Middle East risks - Reuters",
-      "description": "European stocks ease from record highs as investors weigh earnings, Middle East risks &nbsp;&nbsp; Reuters",
+      "title": "European stocks ease from record highs as investors weigh earnings, Middle East risks - reuters.com",
+      "description": "European stocks ease from record highs as investors weigh earnings, Middle East risks &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 16:32:29 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEJrelVuLWNvQVpMQ0FHVXF0aE9vZTZqcklqQUNLSHpCOGxiQkl3Tko1UVJZTHpnVUhUQ0R6RTNWc08yMXRrb2tMNUI1MWpFby1qM1RUWVllYU9NT0x6MzFzQk1tY0U2Q0lCcGhrNUVRYjJtdDVEbVFObndDeFBiVDdmTXdsQW5FV09uRl9aSzFzWVMtVTdkQkFWMFZPdjBzdk1pWA?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "TCS shares tumble 4%, wipe out Rs 35,000 crore after N Chandrasekaran resigns. What should investors do?",
@@ -558,11 +558,11 @@
       "source": "rss"
     },
     {
-      "title": "US Gulf of Mexico oil and gas lease sale attracts $82.7 million in high bids - Reuters",
-      "description": "US Gulf of Mexico oil and gas lease sale attracts $82.7 million in high bids &nbsp;&nbsp; Reuters",
+      "title": "US Gulf of Mexico oil and gas lease sale attracts $82.7 million in high bids - reuters.com",
+      "description": "US Gulf of Mexico oil and gas lease sale attracts $82.7 million in high bids &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 16:29:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHRnTHhIVk9WTzB6bXlKN1dCM2VweVUxNVgzRHhNaEE5VUx4SmxIS2ZRQk8xZDlrbWk3LUJPMl93bDFXc0s1R1loQXl0MS0zQWxMREJCc1Q3eVF6Ykc3YXFBMkoybzc0Nm92U0dsU0QzZnJMU1B3N1JvRDlMZmtnZlBCTTlrQnhwQnhtUXNPOU9TVHZDeTRMVjhuUnBZZGQzWmpELWtXeWhGaWNOUEE?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
@@ -600,18 +600,18 @@
       "source": "rss"
     },
     {
-      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
-      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand &nbsp;&nbsp; Reuters",
+      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - reuters.com",
+      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 16:07:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
-      "description": "Dollar gains, yen slips as US CPI meets expectations &nbsp;&nbsp; Reuters",
+      "title": "Dollar gains, yen slips as US CPI meets expectations - reuters.com",
+      "description": "Dollar gains, yen slips as US CPI meets expectations &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 16:03:57 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Tata Motors CV Q1 Results: Net profit soars 83% YoY to Rs 2,560 cr on one-time gain from Tata Capital; revenue jumps 19%",
@@ -635,11 +635,11 @@
       "source": "rss"
     },
     {
-      "title": "U.S. crude inventories rise by most in 3.5 years as exports slump - Reuters",
-      "description": "U.S. crude inventories rise by most in 3.5 years as exports slump &nbsp;&nbsp; Reuters",
+      "title": "U.S. crude inventories rise by most in 3.5 years as exports slump - reuters.com",
+      "description": "U.S. crude inventories rise by most in 3.5 years as exports slump &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 15:52:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjM2aE5yRXh3eEZaZVVMQWVZTXZ1NlY0WHZPcW84emhST0VNYjBmY2lkakhRU2RMbXp2MjBfRlBDT2d5LWdGMUplVThhd01jR1VLci03ZGtjUXAxbS1hTHFLQi1aMnpkSzg4RlFJUWhDOXo4WUFVM2l5a1FkaFdsN2pnYUVMRnVfdUZxY0daOGNxMmQwb0FGRzlpLUhMeGhuZHVscldDQy1oTXR5U1E?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Ship recycler GMS buys two sanctions-hit tankers from US government - Reuters",
@@ -656,11 +656,11 @@
       "source": "rss"
     },
     {
-      "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus - Reuters",
-      "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; Reuters",
+      "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus - reuters.com",
+      "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 15:30:39 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Bitcoin near $64,000 as crypto markets turn cautious ahead of US CPI. Here is what expert say",
@@ -712,25 +712,25 @@
       "source": "rss"
     },
     {
-      "title": "Syria receives first shipments at pier previously used by Russia - Reuters",
-      "description": "Syria receives first shipments at pier previously used by Russia &nbsp;&nbsp; Reuters",
+      "title": "Syria receives first shipments at pier previously used by Russia - reuters.com",
+      "description": "Syria receives first shipments at pier previously used by Russia &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 14:47:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1F6QTROOWFGelRhMi1TN1N2T2luTk1EWnAwRElTb196c2tSYW5JalhXQzktM0RXRkNFa1VfeUYtVjBnNERXTFJBSjFNRkQ4eVBaS3JqZ2w5M1VhbUdxZHpnZGdVLVdhWWZ3S3VRbUlvYXM2RTV3d0lYeEg0cnR4LXg4c2FUeE82YjZ3N08wXzFRT0VKWnNYZXpobFBaRnlJa2V1WnBTZXZpMUNqbzRLYXBvdjg2QQ?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - Reuters",
-      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
+      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - reuters.com",
+      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 14:45:39 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Trump says US has 'total control' over Strait of Hormuz - Reuters",
-      "description": "Trump says US has 'total control' over Strait of Hormuz &nbsp;&nbsp; Reuters",
+      "title": "Trump says US has 'total control' over Strait of Hormuz - reuters.com",
+      "description": "Trump says US has 'total control' over Strait of Hormuz &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 14:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Mortgage rates finally stop rising, causing demand to trickle back",
@@ -789,11 +789,11 @@
       "source": "rss"
     },
     {
-      "title": "EU, 26 countries condemn Iran's executions of protesters - Reuters",
-      "description": "EU, 26 countries condemn Iran's executions of protesters &nbsp;&nbsp; Reuters",
+      "title": "EU, 26 countries condemn Iran's executions of protesters - reuters.com",
+      "description": "EU, 26 countries condemn Iran's executions of protesters &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 14:13:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ltMHdDSEFsNmlFUlJGbXVPWmhpUWp2U01YaEV1cGloSk9hT2ttWENpRmg1VjVrOE0xWXhac2dSQk5xZDFaUk5XY0NPWmtjdWZ5c2wyRDVHQUxRc0JHOTFQTnk3MlFNbWFzaE1LMldIdWNWUHVkU0dzbXNtYUo4dGs2MDRoVlBsaUtLTkdxZVRaTTdvbGpwUXR2NDB3bVZGRUNwU2FlVng?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Nigeria's EV ambitions run into reality of weak electricity supply - Reuters",
@@ -838,11 +838,11 @@
       "source": "rss"
     },
     {
-      "title": "Rhine water level falls to new lows, halting sailings at chokepoint - Reuters",
-      "description": "Rhine water level falls to new lows, halting sailings at chokepoint &nbsp;&nbsp; Reuters",
+      "title": "Rhine water level falls to new lows, halting sailings at chokepoint - reuters.com",
+      "description": "Rhine water level falls to new lows, halting sailings at chokepoint &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 13:51:14 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlo4aW5qcFdqUWhGUDktamtXZVBocm51NkkwY3N3UEJMYnBIN2U2ZWViNlNNMFhud1Azc3NFVi1fZk5xd1U5dzdnWmRZMGFkQ0NGdzhKVEQzZ2ZiZmRoUFg4Wjg0N2QyVWo5U2Z2TnlxV29wTnk2dk9MTlAzS0ItYmRnRkVzSW9UcnVQY0RBYjI0RV9SYl80aWlWVUpXNDIySXZ6VE8xbFRKbWNtdmVZdldOck84cnBL?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Pratilipi to start IPO banker talks in September, eyes October appointment",
@@ -866,11 +866,11 @@
       "source": "rss"
     },
     {
-      "title": "Slim gains for Gulf bourses capped by lack of progress to end Iran war - Reuters",
-      "description": "Slim gains for Gulf bourses capped by lack of progress to end Iran war &nbsp;&nbsp; Reuters",
+      "title": "Slim gains for Gulf bourses capped by lack of progress to end Iran war - reuters.com",
+      "description": "Slim gains for Gulf bourses capped by lack of progress to end Iran war &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 13:48:27 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHFycUUyMGRQZzF6Y3FVb1lhNHYwNEozamlRcUlrZHBjM3Z4Z0QwTG9xZkFsLUVhT2JvbHpmRUZ1RTE0LWNGM2dWUDlCUlh3Uk83N1Y3b1ptRWh3c3Z1UzMwQVNXU3BRN1ZfaUptQXBPcUFRWGE0dHRjRjJfSktyZUszdDRuWVpZZlFoci00ZkE1VGViTTlFQzlOSXNuYUVuOVlMejM0N0lPNUNsT0dXb0tLTHFrdw?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Miss just 5 best days of Nifty and lose big: How 21-year data from 2005-2026 shows cost of timing the market",
@@ -880,11 +880,11 @@
       "source": "rss"
     },
     {
-      "title": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - Reuters",
-      "description": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says &nbsp;&nbsp; Reuters",
+      "title": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - reuters.com",
+      "description": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 13:45:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "VIEW Market shrugs off in-line July CPI report - Reuters",
@@ -915,11 +915,11 @@
       "source": "rss"
     },
     {
-      "title": "Iran says no progress on reviving interim peace deal with US - Reuters",
-      "description": "Iran says no progress on reviving interim peace deal with US &nbsp;&nbsp; Reuters",
+      "title": "Iran says no progress on reviving interim peace deal with US - reuters.com",
+      "description": "Iran says no progress on reviving interim peace deal with US &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 13:20:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "CAS chaos: Retail traders call for boycott, declare 'No Trade Day'",
@@ -943,11 +943,11 @@
       "source": "rss"
     },
     {
-      "title": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says - Reuters",
-      "description": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says &nbsp;&nbsp; Reuters",
+      "title": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says - reuters.com",
+      "description": "US must return to interim deal, no ceasefire extension talks, senior Iranian source says &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 13:14:13 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Russia's Orenburg region brings in fuel rationing after Ukrainian refinery strike, governor says - Reuters",
@@ -992,11 +992,11 @@
       "source": "Reuters"
     },
     {
-      "title": "F-16 aircraft crashes in training flight in Turkey, defence ministry says - Reuters",
-      "description": "F-16 aircraft crashes in training flight in Turkey, defence ministry says &nbsp;&nbsp; Reuters",
+      "title": "F-16 aircraft crashes in training flight in Turkey, defence ministry says - reuters.com",
+      "description": "F-16 aircraft crashes in training flight in Turkey, defence ministry says &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 12:38:22 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXdCZ01PTGIxTWJuWmVlM3l6d3lROVl1Znl3Y195dGJfQzFSTHlOenZXX2dYR0dSZkJhQzg1VkJaQUlBT01uZkhjUHJhUDVrNDJsMzJHbFJmZExCSTl3cVhJMk9jN2pVSGtxQThkODBvZ21maVVFd0pMWjFkQU5qT1FzZlhBTWZBTWFWa3laZVJXbW9UcVppU0pHbEM2SVpmNmhvYUd1b29HWF9L?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Technocraft Ventures IPO allotment likely today, GMP signals over 12% listing gain. How to check status",
@@ -1006,11 +1006,11 @@
       "source": "rss"
     },
     {
-      "title": "Saudi Arabia bets on defensive alliances to deter slide into war - Reuters",
-      "description": "Saudi Arabia bets on defensive alliances to deter slide into war &nbsp;&nbsp; Reuters",
+      "title": "Saudi Arabia bets on defensive alliances to deter slide into war - reuters.com",
+      "description": "Saudi Arabia bets on defensive alliances to deter slide into war &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 12:33:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUJNN3lBY1A1eGV5XzhJYWlFc2lHRkY2eEI2Q2x1UzdaMkY2dWFRSGc5blZJWERQVkFuZTZOV2FDMHlmNXdPRGJrcllPNzVueGl6NlF5RlRSbHFUNkZVUlZGR0F2ODY5VWtfLVlrQW0tLUVZUlo2Q1dHanR1N3U3QjUyZGxwcFlSRjh6ak5MSTlmdXdKLUtvTVpLTkRsaUZkZldMY1BqRldLb0xhendvZFh3?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "German cabinet approves plan to grant more powers to spy services - Reuters",
@@ -1055,11 +1055,11 @@
       "source": "rss"
     },
     {
-      "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
-      "description": "OPEC further lowers 2026 global oil demand growth forecast &nbsp;&nbsp; Reuters",
+      "title": "OPEC further lowers 2026 global oil demand growth forecast - reuters.com",
+      "description": "OPEC further lowers 2026 global oil demand growth forecast &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 12:12:46 GMT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGtBOHhHeFZVQ0xfdlpxYWtxd1Y4VUVEMFFFMlUxakNMd29IeThMN1RxeVlEbHJpMk8xN0RzakdZWEZxUWFHOGVDSXNRTEM4WjYzcW13TkVSbHBPT1c5VEdCM1A0cFJNVG5fd19yeDlRLTJNYjJYbjVVN1lLRmtQZk5oMW85MXkwNzBhaHNuQUR1Z0RnbHI4RHduQ3dRdFMyOXdvYzZEUmRkVjV6ZXVZ?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "SpaceX namesake creates confusion on Dalal Street! Indian IT stock skyrockets 23% in 2 days",
@@ -1097,11 +1097,11 @@
       "source": "rss"
     },
     {
-      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - Reuters",
-      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; Reuters",
+      "title": "Ukraine halts strikes on tankers using Russian port at US request, FT says - reuters.com",
+      "description": "Ukraine halts strikes on tankers using Russian port at US request, FT says &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 12 Aug 2026 11:59:13 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkZkYzMtVVN3NE53N0Zpbk8xV3hlVjJFLUU0c1p2S291LW03Y05IRG11ZFA4QVZQZUJFSHFiT1hNaFgzTkdkbHc4Ri1HbEx3MzVyQkpYMHo3dGY0aURzam5zX1piSzhQZGFYUzczWUVEVTYzZDdVRGQ2OEp3aTVoZUE5dlBsODN3NWxBdWJyVXJkajdmc3BJZDlmWkszUl9hU0dmcEpCZm1ER0twSkE?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Scorching heat is straining Europe's nuclear power supplies — and prompting drastic measures",
