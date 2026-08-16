@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:51:53.412435+00:00",
+  "generated_at": "2026-08-16T06:28:10.040804+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1006,13 +1006,6 @@
       "source": "rss"
     },
     {
-      "title": "Saudi Arabia bets on defensive alliances to deter slide into war - Reuters",
-      "description": "Saudi Arabia bets on defensive alliances to deter slide into war &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 12:33:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUJNN3lBY1A1eGV5XzhJYWlFc2lHRkY2eEI2Q2x1UzdaMkY2dWFRSGc5blZJWERQVkFuZTZOV2FDMHlmNXdPRGJrcllPNzVueGl6NlF5RlRSbHFUNkZVUlZGR0F2ODY5VWtfLVlrQW0tLUVZUlo2Q1dHanR1N3U3QjUyZGxwcFlSRjh6ak5MSTlmdXdKLUtvTVpLTkRsaUZkZldMY1BqRldLb0xhendvZFh3?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "German cabinet approves plan to grant more powers to spy services - Reuters",
       "description": "German cabinet approves plan to grant more powers to spy services &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 12:31:46 GMT",
@@ -1437,6 +1430,13 @@
       "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
       "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
       "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+      "source": "rss"
+    },
+    {
+      "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
+      "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
+      "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
+      "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
       "source": "rss"
     }
   ]
