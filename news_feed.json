@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T20:15:20.028079+00:00",
+  "generated_at": "2026-08-18T20:46:53.196428+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
+      "description": "Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses. Investors pivoted from growth-focused sectors to safer bets like healthcare. Additionally, oil prices rose amidst geopolitical instability and changes in military strategies.",
+      "publication_date": "Wed, 19 Aug 2026 01:39:53 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
+      "source": "rss"
+    },
     {
       "title": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap - Reuters",
       "description": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap &nbsp;&nbsp; Reuters",
@@ -1430,13 +1437,6 @@
       "description": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
       "publication_date": "Wed, 12 Aug 2026 07:20:31 GMT",
       "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-      "source": "rss"
-    },
-    {
-      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
-      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
-      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
-      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
       "source": "rss"
     }
   ]
