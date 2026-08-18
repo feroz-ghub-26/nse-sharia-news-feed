@@ -32,6 +32,10 @@ class RefreshNewsFeedTest(unittest.TestCase):
         self.assertEqual(len(articles), 1)
         self.assertIn("Iran threatens to hit Gulf states", articles[0]["title"])
         self.assertEqual(articles[0]["source"], "Reuters")
+        self.assertEqual(
+            articles[0]["publication_date"],
+            "2026-03-24T10:00:00+00:00",
+        )
 
     def test_failed_source_is_reported_without_dropping_successful_items(self) -> None:
         feeds = ["https://dead.example/rss", "https://working.example/rss"]
@@ -67,6 +71,33 @@ class RefreshNewsFeedTest(unittest.TestCase):
 
         self.assertEqual(articles[0]["description"], "Fresh metadata")
         self.assertEqual(articles[0]["source"], "Reuters")
+
+    def test_mixed_timezones_sort_by_real_utc_time(self) -> None:
+        articles = refresh_news_feed.merge_articles(
+            [],
+            [
+                {
+                    "title": "Earlier IST",
+                    "description": "",
+                    "publication_date": "Wed, 12 Aug 2026 23:42:12 +0530",
+                    "link": "https://example.com/earlier",
+                    "source": "rss",
+                },
+                {
+                    "title": "Later GMT",
+                    "description": "",
+                    "publication_date": "Wed, 12 Aug 2026 19:00:00 GMT",
+                    "link": "https://example.com/later",
+                    "source": "rss",
+                },
+            ],
+        )
+
+        self.assertEqual(articles[0]["title"], "Later GMT")
+        self.assertEqual(
+            articles[0]["publication_date"],
+            "2026-08-12T19:00:00+00:00",
+        )
 
 
 if __name__ == "__main__":
