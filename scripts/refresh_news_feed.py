@@ -8,6 +8,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from collections import OrderedDict
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
 
@@ -48,6 +49,28 @@ def clean_text(value: str) -> str:
     return value.strip()
 
 
+def normalize_publication_date(value: str) -> str:
+    """Return one sortable UTC ISO-8601 representation for every feed."""
+    candidate = (value or "").strip()
+    if not candidate:
+        return datetime.now(timezone.utc).isoformat()
+
+    parsed: datetime | None = None
+    try:
+        parsed = datetime.fromisoformat(candidate.replace("Z", "+00:00"))
+    except ValueError:
+        try:
+            parsed = parsedate_to_datetime(candidate)
+        except (TypeError, ValueError, OverflowError):
+            parsed = None
+
+    if parsed is None:
+        return datetime.now(timezone.utc).isoformat()
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc).isoformat()
+
+
 def extract_tag(source: str, tag: str) -> str:
     match = re.search(
         rf"<{tag}(?: [^>]*)?>([\s\S]*?)</{tag}>",
@@ -78,7 +101,7 @@ def parse_rss(xml_text: str) -> list[dict[str, str]]:
             {
                 "title": title,
                 "description": description,
-                "publication_date": pub_date or datetime.now(timezone.utc).isoformat(),
+                "publication_date": normalize_publication_date(pub_date),
                 "link": link,
                 "source": source or "rss",
             }
@@ -142,8 +165,9 @@ def load_existing(path: Path) -> list[dict[str, str]]:
             {
                 "title": title,
                 "description": str(item.get("description", "")).strip(),
-                "publication_date": str(item.get("publication_date", "")).strip()
-                or datetime.now(timezone.utc).isoformat(),
+                "publication_date": normalize_publication_date(
+                    str(item.get("publication_date", ""))
+                ),
                 "link": str(item.get("link", "")).strip(),
                 "source": str(item.get("source", "rss")).strip() or "rss",
             }
@@ -160,7 +184,11 @@ def merge_articles(existing: Iterable[dict[str, str]], fresh: Iterable[dict[str,
             key = (item.get("link") or item.get("title") or "").strip().lower()
             if not key:
                 continue
-            merged[key] = item
+            normalized = dict(item)
+            normalized["publication_date"] = normalize_publication_date(
+                normalized.get("publication_date", "")
+            )
+            merged[key] = normalized
 
     add(existing)
     add(fresh)
