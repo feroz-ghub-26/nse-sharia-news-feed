@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T19:19:27.698460+00:00",
+  "generated_at": "2026-08-19T19:47:55.870409+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "article_count": 100
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -100,6 +100,20 @@
       "description": "Marvell shares surged 8% after securing a Google agreement to develop custom AI chips and related technologies. Google received a warrant for up to 58.97 million shares worth about $12.18 billion, strengthening Marvell’s position in AI infrastructure.",
       "publication_date": "Wed, 19 Aug 2026 19:49:49 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/marvell-shares-jump-8-after-chipmaker-hands-google-option-to-buy-12-2-billion-stake/articleshow/133351073.cms",
+      "source": "rss"
+    },
+    {
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "description": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+      "publication_date": "Wed, 19 Aug 2026 19:44:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "source": "rss"
+    },
+    {
+      "title": "Marvell's stock pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+      "publication_date": "Wed, 19 Aug 2026 19:44:04 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
       "source": "rss"
     },
     {
@@ -240,13 +254,6 @@
       "description": "Indian equities extended losses for a seventh session, with Nifty falling 0.32% and Sensex 0.42% ahead of US FOMC minutes. IT stocks gained, but broader markets weakened. Analysts flagged 24,000 as crucial Nifty support amid persistent sell-on-rallies sentiment.",
       "publication_date": "Wed, 19 Aug 2026 17:42:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hcl-tech-sun-pharma-power-grid-bajaj-finance-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133347947.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-      "publication_date": "Wed, 19 Aug 2026 17:34:35 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
       "source": "rss"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "Hormuz traffic slows as uncertainty over waterway persists &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 03:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Indian central bank likely intervenes to shield rupee from oil strain, traders say - Reuters",
-      "description": "Indian central bank likely intervenes to shield rupee from oil strain, traders say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 03:32:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHVOeHdQRXVmbHgxLVhUOXdSNlFLSFlXSVBFZUxSSVQwOUR4WjhlaW9ZRE9fQUZTbjQ1b1VJbWpMLTNpQ1RYdXF5cmZ5QjhIYXJNN0R5UWlGQTlKdmZjV1ZZNUotR0NNWWJOWGVxM0EyTkNJeXFsX0J6d1dITlZwNTI5WDRrWjV0Y1lZM3ZpdU9WNjlObGNSVXRvbzVzUUo3cloyN0FBNUl0a3JVWUIwQVg3bVRNTWRwTmw4WnB3?oc=5",
       "source": "Reuters"
     }
   ]
