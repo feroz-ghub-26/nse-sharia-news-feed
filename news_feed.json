@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:58:22.250374+00:00",
+  "generated_at": "2026-08-19T02:14:45.064120+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,39 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 1
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "Gold inches higher, focus on Fed minutes",
+      "description": "Gold prices edged up slightly during the early Asian trading session, buoyed by a retreat in U.S. Treasury yields from their recent highs. Market players are now looking ahead to the Federal Reserve's meeting minutes for guidance on upcoming policies. Other precious metals displayed mixed trends in the market as key economic data is set to be released throughout the day.",
+      "publication_date": "Wed, 19 Aug 2026 07:29:17 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited",
+      "description": "The U.S. dollar slipped against leading currencies on Wednesday, influenced by a decline in treasury yields from their recent highs. Investors are keenly awaiting the Federal Reserve's minutes, anticipating guidance on interest rate trends. The euro and sterling gained ground slightly as they approached critical inflation reports. Additionally, oil prices surged to nearly three-week peaks amid escalating tensions in the Middle East.",
+      "publication_date": "Wed, 19 Aug 2026 07:26:21 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-drifts-near-multi-month-lows-as-treasury-yields-ease-fed-minutes-awaited/articleshow/133335227.cms",
+      "source": "rss"
+    },
+    {
+      "title": "CCI approves Prudential Corporation’s acquisition of stake in Bharti Life Insurance",
+      "description": "The Competition Commission of India has approved Prudential Corporation of India’s acquisition of certain equity shareholding in Bharti Life Insurance Company. The transaction is still subject to other applicable regulatory and statutory approvals.",
+      "publication_date": "Wed, 19 Aug 2026 07:26:10 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cci-approves-prudential-corporations-acquisition-of-stake-in-bharti-life-insurance/articleshow/133335115.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Oil edges up on uncertainty over exports through Hormuz",
+      "description": "Oil prices climbed for a fourth day due to supply uncertainty. Investors weighed conflicting messages from Tehran and Washington on the Strait of Hormuz. Iraq approved new export routes to avoid the critical waterway amid the ongoing conflict. Chinese shipping giants stopped using Hormuz and Bab al-Mandeb straits. US crude and distillate inventories fell last week while gasoline stocks rose.",
+      "publication_date": "Wed, 19 Aug 2026 07:24:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms",
+      "source": "rss"
+    },
     {
       "title": "Milky Mist Dairy Foods lists at 18% premium to issue price",
       "description": "Mumbai-based Milky Mist Dairy Foods made a strong debut on the NSE, listing at ₹165—17.9% above its issue price of ₹140. The stock climbed further to close at the day’s high of ₹181.50, valuing the company at ₹13,972.66 crore at the close.",
@@ -1409,34 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:55:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-updates-12-aug-2026/liveblog/133169018.cms",
-      "source": "rss"
-    },
-    {
-      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
-      "description": "The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.",
-      "publication_date": "Wed, 12 Aug 2026 08:45:20 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
-      "source": "rss"
-    },
-    {
-      "title": "LTIMindtree Share Price Live Updates: LTIMindtree Market Overview",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:44:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-12-aug-2026/liveblog/133168915.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Titan Company Share Price Live Updates: Titan Company experiences a drop in stock value",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:42:29 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-today-live-12-aug-2026/liveblog/133168885.cms",
-      "source": "rss"
-    },
-    {
-      "title": "ONGC Share Price Live Updates: ONGC News",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:41:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-today-live-12-aug-2026/liveblog/133168863.cms",
       "source": "rss"
     }
   ]
