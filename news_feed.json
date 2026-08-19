@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:19:05.944365+00:00",
+  "generated_at": "2026-08-19T11:48:13.714004+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
@@ -257,6 +257,27 @@
       "source": "rss"
     },
     {
+      "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
+      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+      "publication_date": "Wed, 19 Aug 2026 11:41:43 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
+      "title": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
+      "description": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 11:40:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUkzcjBJVHphRWJDcFhBSjFzaVZoS0VpblpPRzNLT0VrajJPZUoyZXFBa1JQV25Va3ZEODhIbVp0bU5zb2RDLUN5MlI2TjRkX0FkaFV4aGlLNTBRQl9JSDNoMF9GNnZFYWk5X08xMUtnLVFjN3l2UktNQjQ5eWJwVGVVbU9lUGpKNHJZd1p0TU1DT0o2eDlVVlU2cGNwdlc1X3loc3NmTVZTeUh5N1pjR3liajFlVEN6c1RTckhaVkFwWF95THY5WkpB?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "UAE severs trade with Iran after reported missile strike",
+      "description": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
+      "publication_date": "Wed, 19 Aug 2026 11:27:32 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+      "source": "rss"
+    },
+    {
       "title": "HG Infra Engineering shares jump over 8% after receiving LoI from REC",
       "description": "HG Infra Engineering shares rose after the company received a letter of intent from REC Power Development and Consultancy for constructing two 220/132/33 kV AIS substations and associated transmission lines in Uttar Pradesh.",
       "publication_date": "Wed, 19 Aug 2026 11:25:14 +0530",
@@ -320,6 +341,13 @@
       "source": "rss"
     },
     {
+      "title": "US stock futures steady after tech slump; investors focus on Middle East tensions - Reuters",
+      "description": "US stock futures steady after tech slump; investors focus on Middle East tensions &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 10:48:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold?",
       "description": "Milky Mist shares hit another 10% upper circuit on Wednesday, taking their gains to 42.5% from the IPO price of Rs 140. Analysts remain positive on the company’s strong foothold in value-added dairy products, improving margins and growth prospects, but caution that valuations are elevated. Existing investors have been advised to hold and accumulate on meaningful dips.",
       "publication_date": "Wed, 19 Aug 2026 10:48:20 +0530",
@@ -327,10 +355,10 @@
       "source": "rss"
     },
     {
-      "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
-      "description": "Target posted better-than-expected second-quarter sales and raised its full-year outlook.",
-      "publication_date": "Wed, 19 Aug 2026 10:45:39 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "description": "Lowe's reported mixed results as the retailer said it continued to see pressure in home improvement spending.",
+      "publication_date": "Wed, 19 Aug 2026 10:45:20 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -453,13 +481,6 @@
       "source": "rss"
     },
     {
-      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
-      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 09:27:31 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Britannia Share Price Live Updates: Britannia's Daily Price Change",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 09:25:12 +0530",
@@ -549,20 +570,6 @@
       "publication_date": "Wed, 19 Aug 2026 08:55:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-19-aug-2026/liveblog/133336399.cms",
       "source": "rss"
-    },
-    {
-      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
-      "description": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
-      "publication_date": "Wed, 19 Aug 2026 08:51:29 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-      "source": "rss"
-    },
-    {
-      "title": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
-      "description": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 08:45:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUkzcjBJVHphRWJDcFhBSjFzaVZoS0VpblpPRzNLT0VrajJPZUoyZXFBa1JQV25Va3ZEODhIbVp0bU5zb2RDLUN5MlI2TjRkX0FkaFV4aGlLNTBRQl9JSDNoMF9GNnZFYWk5X08xMUtnLVFjN3l2UktNQjQ5eWJwVGVVbU9lUGpKNHJZd1p0TU1DT0o2eDlVVlU2cGNwdlc1X3loc3NmTVZTeUh5N1pjR3liajFlVEN6c1RTckhaVkFwWF95THY5WkpB?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Financial Snapshot",
@@ -943,6 +950,13 @@
       "source": "rss"
     },
     {
+      "title": "Syria arrests Assad-era officer who fled Austria after conviction - Reuters",
+      "description": "Syria arrests Assad-era officer who fled Austria after conviction &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 07:04:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFdHNUNhNTdobjNvWFFXbXcwNjdOYmpqb2JQYUR4dFhiRnJWOHIzaE5JX05qeWZzekJPazZCRlFpVmRIOENCNHkwYmlOVlROb0NjbWlRSHUxX0tGaVI3Y3RSbURVazRhaXVIVXNPcEVoTkdhem1qVHItLTdFUjR4d1FHZWc4UFZVWnhGeGlHR0NFbFJTRk1Ha3NmelhEWG42V3Ytb1BNZ2s4ZnhmemkwUXVpUUxDbkVjeV9F?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
       "description": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
       "publication_date": "Wed, 19 Aug 2026 06:55:57 GMT",
@@ -955,6 +969,13 @@
       "publication_date": "Wed, 19 Aug 2026 06:45:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-foods-lists-at-18-premium-to-issue-price/articleshow/133334885.cms",
       "source": "rss"
+    },
+    {
+      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
+      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 06:44:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
@@ -1062,8 +1083,8 @@
       "source": "Reuters"
     },
     {
-      "title": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention - Reuters",
-      "description": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention &nbsp;&nbsp; Reuters",
+      "title": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard - Reuters",
+      "description": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 02:16:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
       "source": "Reuters"
@@ -1417,27 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 19:32:16 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-lowers-stress-testing-limit-for-commodity-derivatives/articleshow/133185205.cms",
       "source": "rss"
-    },
-    {
-      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-      "description": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
-      "publication_date": "Wed, 12 Aug 2026 19:15:54 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-      "source": "rss"
-    },
-    {
-      "title": "Why US stocks are rising: Nasdaq leads Wall Street higher as AI stocks rally, inflation supports Fed pause",
-      "description": "US stock markets rallied on Wednesday, with the Nasdaq taking the lead in gains. Encouraging earnings reports from AI infrastructure companies provided a notable boost to technology stocks. Inflation data matched expectations, fostering confidence that the Federal Reserve may opt to maintain current interest rates. Meanwhile, the fluctuating situation in the Middle East continued to play a significant role in influencing market sentiment.",
-      "publication_date": "Wed, 12 Aug 2026 19:15:08 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Vietnam considers second LNG term contract after deal with Shell, document shows - Reuters",
-      "description": "Vietnam considers second LNG term contract after deal with Shell, document shows &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 19:10:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2p3SURVQ2hPVk1mVjgyN1Vkbjl1U1BHV3BPUEJuVWR5TWE1NFRIX2tLZ1h6dHJwRTVIbC1FVW1vRnhJRjhkQnVBalVHcWFXVTdkX01vTjA3SFR0b1lRMlNiX3RXXzZmQ0FMcGZaU05lV3UwSEZPSnVrQmp6ZDlwd2VlQ2NWMkluMUlybHlKb25yZEVaWUtYQWcyODBYVXRWeWk4SVJDSllnTmNtLU1aOFhjNXowaTlTR2l3NFh4cnFXZmZCYU9vVzRjcw?oc=5",
-      "source": "Reuters"
     }
   ]
 }
