@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T00:51:43.638002+00:00",
+  "generated_at": "2026-08-19T01:58:22.250374+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,13 +34,48 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 1
     }
   ],
   "articles": [
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
+      "title": "Milky Mist Dairy Foods lists at 18% premium to issue price",
+      "description": "Mumbai-based Milky Mist Dairy Foods made a strong debut on the NSE, listing at ₹165—17.9% above its issue price of ₹140. The stock climbed further to close at the day’s high of ₹181.50, valuing the company at ₹13,972.66 crore at the close.",
+      "publication_date": "Wed, 19 Aug 2026 06:45:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-foods-lists-at-18-premium-to-issue-price/articleshow/133334885.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
+      "description": "Gaja Alternative Asset Management plans a ₹450 crore IPO to fund investments and repay loans. The company's promoter stake will decrease to fifty-four percent after the offering. Its business model relies on fund performance and is subject to regulatory changes. Revenue and net profit have shown growth in recent fiscal years. The firm's valuation aligns with other listed asset management companies.",
+      "publication_date": "Wed, 19 Aug 2026 06:35:13 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/returns-speak-a-lot-for-gaja-alternative-asset-management-as-funding-stays-a-risky-bet/articleshow/133334804.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market Today: Asian equities decline as chip selloff extends",
+      "description": "Asian stock markets witnessed a downturn as semiconductor shares plummeted sharply. The rise in bond yields and escalating oil prices contributed to a bearish market sentiment. Investors pulled away from growth stocks, driven by concerns over inflation and mounting debts. Additionally, geopolitical unrest heightened market pressures, with the ongoing tensions in the Middle East exacerbating worries about potential energy shocks.",
+      "publication_date": "Wed, 19 Aug 2026 06:24:07 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-decline-as-chip-selloff-extends/articleshow/133334774.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Retail trading in high-yield corporate bonds gains momentum",
+      "description": "Online platforms now offer retail investors access to corporate bonds. These securities provide mid-teen yields with low minimum investments. Retail investors are increasingly participating in the corporate bond market. This trend is driven by flat equity markets and regulatory changes. Online platforms and reduced face values ease investor access to debt.",
+      "publication_date": "Wed, 19 Aug 2026 06:22:43 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/rising-interest-in-retail-trading-of-high-yield-corporate-bonds-reflects-shifting-investor-strategies-in-a-changing-market/articleshow/133334749.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
+      "description": "Indian markets faced pressure as the Nifty declined for a sixth consecutive trading session. Rising oil prices and ongoing West Asia conflict kept traders cautious throughout the day. The Nifty closed lower, reflecting broader market weakness and investor concerns. Domestic institutional investors provided some buying support, while FPIs also bought shares. Technical indicators suggest a period of consolidation for the indices in the near term.",
+      "publication_date": "Wed, 19 Aug 2026 06:12:37 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
+      "source": "rss"
+    },
+    {
+      "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
       "description": "The Nifty index continued its decline for a sixth consecutive session this week. Elevated crude oil prices and global tensions are impacting market sentiment negatively. Analysts anticipate continued pressure on Indian equities in the immediate future. Foreign and domestic institutional investors showed net buying activity on Tuesday. The Indian rupee closed slightly weaker due to oil prices and bond yields.",
       "publication_date": "Wed, 19 Aug 2026 06:00:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133328000.cms",
@@ -61,10 +96,38 @@
       "source": "rss"
     },
     {
+      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+      "description": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+      "publication_date": "Wed, 19 Aug 2026 01:57:05 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
+      "description": "One country appears to be the best place to hedge market impact from severe El Niño shocks to global food supply chains, according to Bank of America.",
+      "publication_date": "Wed, 19 Aug 2026 01:49:04 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
+      "source": "rss"
+    },
+    {
       "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
       "description": "Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses. Investors pivoted from growth-focused sectors to safer bets like healthcare. Additionally, oil prices rose amidst geopolitical instability and changes in military strategies.",
       "publication_date": "Wed, 19 Aug 2026 01:39:53 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
+      "source": "rss"
+    },
+    {
+      "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
+      "description": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
+      "publication_date": "Wed, 19 Aug 2026 01:37:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+      "source": "rss"
+    },
+    {
+      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+      "description": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
+      "publication_date": "Wed, 19 Aug 2026 01:34:22 GMT",
+      "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
       "source": "rss"
     },
     {
@@ -1374,69 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:41:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-today-live-12-aug-2026/liveblog/133168863.cms",
-      "source": "rss"
-    },
-    {
-      "title": "HUL Share Price Live Updates: HUL's Current Market Price",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:40:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-live-updates-12-aug-2026/liveblog/133168840.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Treasury yields are little changed as investors await key inflation data",
-      "description": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — was largely flat at 4.682%.",
-      "publication_date": "Wed, 12 Aug 2026 08:31:12 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html",
-      "source": "rss"
-    },
-    {
-      "title": "Tata Consumer Share Price Live Updates: Tata Consumer Stock Details",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:30:22 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-updates-12-aug-2026/liveblog/133168682.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Trading Status",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:30:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-12-aug-2026/liveblog/133168678.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hindalco Share Price Live Updates: Hindalco's Stock Shows Strong Performance",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:29:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-live-updates-12-aug-2026/liveblog/133168670.cms",
-      "source": "rss"
-    },
-    {
-      "title": "UPL Share Price Live Updates: UPL's Market Update",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:29:02 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-today-live-12-aug-2026/liveblog/133168661.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Two grain terminals at Russia's Novorossiysk halt work after Ukrainian attack, sources say - Reuters",
-      "description": "Two grain terminals at Russia's Novorossiysk halt work after Ukrainian attack, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 08:28:49 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONm1OVFhKdVF3WHJaSlZsaTAwVzI4WmV5eDFhZjctdUxxZ0twOVgxNXFsbVoyU3NfYmg2aWNMdklRTlRnWDJOYWoyOTlfUTBkOUo5Sjd1T3lqUUZUOVZQbDRmV0d6UDRRSUdHWGN0RmY5TEJXN29vU1NVbGJTUGYwNzQ0amNIMGR4N3hud3BFOG9OMmsxZmxJQ2lBNVdPU3FpRjYxUHROOE01d2ZVWVpwUnBVZ0s3LUk?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nestle India Share Price Live Updates: Nestle India Stock Performance",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:28:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-stock-price-live-updates-12-aug-2026/liveblog/133168639.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Market Performance",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:27:44 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-12-aug-2026/liveblog/133168632.cms",
       "source": "rss"
     }
   ]
