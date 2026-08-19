@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:32:26.435722+00:00",
+  "generated_at": "2026-08-19T08:01:22.766031+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,31 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "BSE shares bounce 2% after 5-session losing streak. Here’s why Jefferies, Nuvama advise caution",
+      "description": "BSE shares face fresh pressure after Nuvama and Jefferies downgraded the stock, citing headwinds from the Closing Auction Session, RBI’s bank guarantee norms and limited scope for further market share gains. Nuvama cut its target price to Rs 3,240, while Jefferies lowered its target to Rs 2,940.",
+      "publication_date": "Wed, 19 Aug 2026 13:07:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-bounce-2-after-5-session-losing-streak-heres-why-jefferies-nuvama-advise-caution/articleshow/133341155.cms",
+      "source": "rss"
+    },
+    {
+      "title": "India stocks top Indonesia as Asia’s least-favoured in BofA poll",
+      "description": "India has replaced Indonesia as Asia’s least-preferred stock market among fund managers surveyed by Bank of America, with 32% of respondents net underweight on Indian equities. Lack of clear AI exposure, weak growth, high valuations and limited reforms emerged as key concerns, even as improving earnings and renewed foreign inflows provide some support.",
+      "publication_date": "Wed, 19 Aug 2026 13:02:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sebi reviewing IPO rules for smaller companies and delisting norms: Tuhin Kanta Pandey",
+      "description": "The Securities and Exchange Board of India (SEBI) is actively analyzing new frameworks for small company IPOs and delisting procedures. In a move to bolster global fund management operations from Indian turf, proposed enhancements to portfolio manager regulations aim to strengthen onshore trading strategies. Furthermore, the SEBI head announced that the innovative closing auction session will effectively pinpoint manipulative practices, assuring the public that severe repercussions await any detected violations.",
+      "publication_date": "Wed, 19 Aug 2026 12:47:46 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-reviewing-ipo-rules-for-smaller-companies-and-delisting-norms-tuhin-kanta-pandey/articleshow/133340819.cms",
+      "source": "rss"
+    },
     {
       "title": "Shiprocket shares soar 10% after bumper market debut, rally 48% from IPO price. Time to buy or sell?",
       "description": "Shiprocket shares extended their post-listing rally, after making a strong debut at a 35% premium to the IPO price. The stock touched Rs 144, taking its gains from the issue price to over 48%. Analysts advised allotted investors to book some profits, while fresh investors should wait for dips.",
@@ -131,6 +152,13 @@
       "source": "rss"
     },
     {
+      "title": "Cipla Share Price Live Updates: Cipla's Recent Performance",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 10:04:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-updates-19-aug-2026/liveblog/133337495.cms",
+      "source": "rss"
+    },
+    {
       "title": "US housing market weakens as AI boom drives factory output",
       "description": "US housing activity weakened sharply in July, with single-family homebuilding hitting a more than three-and-a-half-year low as high mortgage rates and economic uncertainty weighed on demand. In contrast, factory output rose, supported by strong AI-related investment and demand for high-tech equipment and semiconductor production.",
       "publication_date": "Wed, 19 Aug 2026 09:51:18 +0530",
@@ -180,7 +208,7 @@
       "source": "rss"
     },
     {
-      "title": "Sunshine Pictures IPO Day 2: GMP signals 21% listing gain, issue subscribed 4.33x. Should you apply",
+      "title": "Sunshine Pictures IPO Day 2: GMP signals 21% listing gain, issue subscribed 4.33x. Should you apply?",
       "description": "Sunshine Pictures IPO has captured the attention of investors on its second bidding day, showcasing impressive demand. Reports indicate it is trading at a notable premium in the grey market. The initial day brought in significant subscriptions, particularly from retail investors. The proceeds from this IPO are aimed at enhancing the company's working capital. Share allotment is scheduled for August 21, leading up to a market debut on August 25.",
       "publication_date": "Wed, 19 Aug 2026 09:23:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunshine-pictures-ipo-day-2-gmp-signals-21-listing-gain-issue-subscribed-4-33x-should-you-apply/articleshow/133336728.cms",
@@ -208,8 +236,15 @@
       "source": "rss"
     },
     {
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Recent Stock Performance",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 09:16:02 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-19-aug-2026/liveblog/133336665.cms",
+      "source": "rss"
+    },
+    {
       "title": "Horizon Industrial Parks IPO Day 3: Check GMP, subscription status and key details — Should you subscribe?",
-      "description": "Horizon Industrial Parks IPO enters its final bidding day with 24% subscription after Day 2 and a modest 2% grey market premium. The Rs 2,600 crore issue is entirely a fresh issue and primarily targets debt reduction. Despite strong FY26 income growth, widening losses remain a concern, while India’s expanding logistics sector offers long-term growth potential.",
+      "description": "Horizon Industrial Parks IPO GMP Today: Horizon Industrial Parks IPO enters its final bidding day with 24% subscription after Day 2 and a modest 2% grey market premium. The Rs 2,600 crore issue is entirely a fresh issue and primarily targets debt reduction. Despite strong FY26 income growth, widening losses remain a concern, while India’s expanding logistics sector offers long-term growth potential.",
       "publication_date": "Wed, 19 Aug 2026 09:11:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/horizon-industrial-parks-ipo-day-3-check-gmp-subscription-status-and-key-details-should-you-subscribe/articleshow/133336557.cms",
       "source": "rss"
@@ -649,6 +684,13 @@
       "source": "rss"
     },
     {
+      "title": "Japan says US sanctions on ICC, President Akane 'very unfortunate' - Reuters",
+      "description": "Japan says US sanctions on ICC, President Akane 'very unfortunate' &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 06:44:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
       "description": "Gaja Alternative Asset Management plans a ₹450 crore IPO to fund investments and repay loans. The company's promoter stake will decrease to fifty-four percent after the offering. Its business model relies on fund performance and is subject to regulatory changes. Revenue and net profit have shown growth in recent fiscal years. The firm's valuation aligns with other listed asset management companies.",
       "publication_date": "Wed, 19 Aug 2026 06:35:13 +0530",
@@ -698,25 +740,25 @@
       "source": "rss"
     },
     {
-      "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - reuters.com",
-      "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment &nbsp;&nbsp; reuters.com",
+      "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
+      "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 05:19:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Pictures of the Day | August 18, 2026 - reuters.com",
-      "description": "Pictures of the Day | August 18, 2026 &nbsp;&nbsp; reuters.com",
+      "title": "Pictures of the Day | August 18, 2026 - Reuters",
+      "description": "Pictures of the Day | August 18, 2026 &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 04:11:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Hormuz traffic slows as uncertainty over waterway persists - reuters.com",
-      "description": "Hormuz traffic slows as uncertainty over waterway persists &nbsp;&nbsp; reuters.com",
+      "title": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
+      "description": "Hormuz traffic slows as uncertainty over waterway persists &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 03:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
@@ -733,18 +775,18 @@
       "source": "Reuters"
     },
     {
-      "title": "Indian shares subdued on higher crude, Treasury yields - reuters.com",
-      "description": "Indian shares subdued on higher crude, Treasury yields &nbsp;&nbsp; reuters.com",
+      "title": "Indian shares subdued on higher crude, Treasury yields - Reuters",
+      "description": "Indian shares subdued on higher crude, Treasury yields &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 02:30:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWNtWG9kcFBGcENWOTI3QlhQMWtvaDhydE12OVJVbWJuN1Naclk1UGlGVWJHVEJjU2NLdXBCUThjNzlSRTd6MVBpLVFzUzVldlpRZkZWZ1dIeFJsVGdmMlQxZGFmRnBrM1JNTF9QSzBRV25wS2JNRDZ5ekw5eThjUmphYzMwQXdkeWxRV1MzWnBaWEhWZzItcDFSWFNZQjJLY0dJeUFST2VQY1BmTEx4SDJiVVY4UXI4?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention - reuters.com",
-      "description": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention &nbsp;&nbsp; reuters.com",
+      "title": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention - Reuters",
+      "description": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 02:16:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
@@ -789,11 +831,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Oil extends climb on prolonged Hormuz export uncertainty - reuters.com",
-      "description": "Oil extends climb on prolonged Hormuz export uncertainty &nbsp;&nbsp; reuters.com",
+      "title": "Oil extends climb on prolonged Hormuz export uncertainty - Reuters",
+      "description": "Oil extends climb on prolonged Hormuz export uncertainty &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 00:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap - Reuters",
@@ -1395,48 +1437,6 @@
       "description": "For investors who suspect Amazon could be range-bound for the next seven weeks, consider a “jade lizard.”",
       "publication_date": "Wed, 12 Aug 2026 15:53:24 GMT",
       "link": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
-      "source": "rss"
-    },
-    {
-      "title": "U.S. crude inventories rise by most in 3.5 years as exports slump - Reuters",
-      "description": "U.S. crude inventories rise by most in 3.5 years as exports slump &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 15:52:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjM2aE5yRXh3eEZaZVVMQWVZTXZ1NlY0WHZPcW84emhST0VNYjBmY2lkakhRU2RMbXp2MjBfRlBDT2d5LWdGMUplVThhd01jR1VLci03ZGtjUXAxbS1hTHFLQi1aMnpkSzg4RlFJUWhDOXo4WUFVM2l5a1FkaFdsN2pnYUVMRnVfdUZxY0daOGNxMmQwb0FGRzlpLUhMeGhuZHVscldDQy1oTXR5U1E?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Ship recycler GMS buys two sanctions-hit tankers from US government - Reuters",
-      "description": "Ship recycler GMS buys two sanctions-hit tankers from US government &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 15:49:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVE9SN2ZuYm53OFFkb05FcG8yQm1OdUxNelVIcWRaUWJ0YThjdWRlbk4xUFk0YWg4T2hzb0h2ZXh1N2dncDFnaEg1NWZlNHZ0M0dON19SRlN1cWVDNWtRVUZjZVRaVjhNSFRJODdKV1pxMFdXakZtMzV6dmhlWW9Nd085cVRpck00VjBaS0drN19JT29ZV3hQUXZJWXZhd3kwN3N2Tkp3MDBYQ04ycWQ4TmVrZk4?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Investcorp-backed NDR InvIT Trust files draft paper with Sebi for Rs 750 crore IPO",
-      "description": "NDR InvIT Trust filed draft papers for a Rs 750 crore IPO to transition from private to public. The funds will support acquiring warehousing assets, aiming to strengthen and diversify its logistics portfolio across major Indian markets.",
-      "publication_date": "Wed, 12 Aug 2026 15:46:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investcorp-backed-ndr-invit-trust-files-draft-paper-with-sebi-for-rs-750-crore-ipo/articleshow/133179051.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus - reuters.com",
-      "description": "Higher oil, fall in Tata stocks drag Indian shares lower; inflation data in focus &nbsp;&nbsp; reuters.com",
-      "publication_date": "Wed, 12 Aug 2026 15:30:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzU1RG9ES2Uycy1MN0ZfZzR5V2lwd0NuaGZ2QVJsRVMxMmp0YkFQNElpUXd1cTU1RUtLWkU5Y0dmNnhsSU5jbWVYaFpfYTA2bHhrYVN1ODZKc1FtMkFFM0liNXc5U0lodzU3TEE0dDNGV3plOHdkTUE3MGxVdmxGSHZhVDhvdEhIQ001LU5uN3ZxS3dxUWNNWWRkd3hMdjVBQ2tzZl9xVDM?oc=5",
-      "source": "reuters.com"
-    },
-    {
-      "title": "Bitcoin near $64,000 as crypto markets turn cautious ahead of US CPI. Here is what expert say",
-      "description": "Bitcoin hovered near $64,000 as investors remained cautious ahead of US CPI data, with the broader crypto market largely subdued. Analysts flagged weak short-term momentum below key resistance levels, while Ethereum showed relative strength. Bitcoin’s immediate support lies around $63,000–$63,200, with sustained buying above $64,500 needed to signal a stronger recovery.",
-      "publication_date": "Wed, 12 Aug 2026 15:24:43 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64000-as-crypto-markets-turn-cautious-ahead-of-us-cpi-here-is-what-expert-say/articleshow/133178203.cms",
-      "source": "rss"
-    },
-    {
-      "title": "AI’s costly build-out complicates the Fed’s inflation fight",
-      "description": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
-      "publication_date": "Wed, 12 Aug 2026 15:23:12 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "source": "rss"
     }
   ]
