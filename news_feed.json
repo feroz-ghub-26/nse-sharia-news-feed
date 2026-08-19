@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:01:20.917430+00:00",
+  "generated_at": "2026-08-19T19:19:27.698460+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 49
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
+      "description": "Federal Reserve policymakers expressed concern over inflation at their last meeting. Many officials indicated a rate hike would be necessary if inflation persists. The Fed held interest rates steady, but three dissented in favor of an increase. Discussions also covered potential overhauls of the Fed's operational procedures. Investors anticipate potential rate hikes later this year.",
+      "publication_date": "Wed, 19 Aug 2026 23:55:33 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms",
+      "source": "rss"
+    },
     {
       "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
       "description": "The US Treasury will double its buyback operations for long-dated government debt. This move aims to provide liquidity and ease rising bond yields for investors. The increased buybacks will apply to securities maturing between ten and thirty years. This action follows a sharp bond selloff which pushed yields higher. The Treasury seeks to manage market pressures and borrowing costs effectively.",
@@ -124,6 +131,13 @@
       "source": "rss"
     },
     {
+      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+      "description": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
+      "publication_date": "Wed, 19 Aug 2026 19:02:50 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+      "source": "rss"
+    },
+    {
       "title": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "publication_date": "Wed, 19 Aug 2026 18:58:48 GMT",
@@ -145,11 +159,11 @@
       "source": "rss"
     },
     {
-      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-      "description": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
-      "publication_date": "Wed, 19 Aug 2026 18:06:04 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-      "source": "rss"
+      "title": "South Korean container ship will test Arctic route to Europe amid Western concern - Reuters",
+      "description": "South Korean container ship will test Arctic route to Europe amid Western concern &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 18:52:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMV96VDN2NnFUYzU4cjBWOTdTTm1lOHZNalNSQXVmcGxCV1gtdVR5R3FxSTltWWFRajJOdDAtUGdXdTFvZ2lidHVpeVZJdGpjN1dpdXI5SUdSUFpzTEdfajIyWFJCbUVkYWwzcGhoRlhNVUs1YW9pckIxOUFKV1ZpSzBab2w5WURWaV91bXh1NnpEdzNBd1ZUbk43QUdNY0VoRTFSb3Z4bE1QMUJHcnUxRXV4WENWT3BId2hMSlRsZUF2WGIt?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Escorts Kubota announces Rs 2,000 cr investment on new plant in UP",
@@ -187,7 +201,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Inflation concerns rose at Fed's July meeting, raised rate hike demands; US stocks rise",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks regain ground as bond yields ease; healthcare stocks rally",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 17:54:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-rate-hike-moderna-nvidia-micron-sandisk-chip-stock-price-news-19th-august-2026/liveblog/133348429.cms",
@@ -1423,20 +1437,6 @@
       "description": "Indian central bank likely intervenes to shield rupee from oil strain, traders say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 03:32:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHVOeHdQRXVmbHgxLVhUOXdSNlFLSFlXSVBFZUxSSVQwOUR4WjhlaW9ZRE9fQUZTbjQ1b1VJbWpMLTNpQ1RYdXF5cmZ5QjhIYXJNN0R5UWlGQTlKdmZjV1ZZNUotR0NNWWJOWGVxM0EyTkNJeXFsX0J6d1dITlZwNTI5WDRrWjV0Y1lZM3ZpdU9WNjlObGNSVXRvbzVzUUo3cloyN0FBNUl0a3JVWUIwQVg3bVRNTWRwTmw4WnB3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
-      "description": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
-      "publication_date": "Wed, 19 Aug 2026 03:18:57 GMT",
-      "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-      "source": "rss"
-    },
-    {
-      "title": "Global yields fall after US Treasury boosts debt buybacks - Reuters",
-      "description": "Global yields fall after US Treasury boosts debt buybacks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 02:51:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
       "source": "Reuters"
     }
   ]
