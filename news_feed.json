@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:44:37.416569+00:00",
+  "generated_at": "2026-08-19T00:51:43.638002+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "The Nifty index continued its decline for a sixth consecutive session this week. Elevated crude oil prices and global tensions are impacting market sentiment negatively. Analysts anticipate continued pressure on Indian equities in the immediate future. Foreign and domestic institutional investors showed net buying activity on Tuesday. The Indian rupee closed slightly weaker due to oil prices and bond yields.",
+      "publication_date": "Wed, 19 Aug 2026 06:00:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133328000.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Stocks in news: ONGC, BPCL, RailTel Corporation, Exide Industries and Lohia Corp",
+      "description": "The Indian stock market experienced a downward trend for the sixth consecutive session on Tuesday, influenced by rising oil prices and soaring global bond yields. Key companies like ONGC and BPCL will attract attention due to recent corporate developments. More newsworthy, RailTel Corporation and Compucom Software have landed significant contracts with government bodies. Additionally, Lohia Corp and others are expected to report their first-quarter earnings today.",
+      "publication_date": "Wed, 19 Aug 2026 06:00:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ongc-bpcl-railtel-corporation-exide-industries-and-lohia-corp/articleshow/133327591.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Strong IPO gains stoke FOMO fears, set grey market abuzz",
+      "description": "The unofficial grey market shows increased activity with rising share prices. Recent strong IPO listings have boosted investor confidence and expectations for future gains. Several upcoming initial public offerings are experiencing significant grey market premiums. This heightened investor appetite is driven by recent successful stock market debuts. Companies are now pricing their offerings more conservatively to ensure strong subscriptions.",
+      "publication_date": "Wed, 19 Aug 2026 05:40:27 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms",
+      "source": "rss"
+    },
     {
       "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
       "description": "Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses. Investors pivoted from growth-focused sectors to safer bets like healthcare. Additionally, oil prices rose amidst geopolitical instability and changes in military strategies.",
@@ -1416,27 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 12 Aug 2026 08:27:44 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-12-aug-2026/liveblog/133168632.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:27:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-12-aug-2026/liveblog/133168625.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services experiences a minor price drop",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 08:26:56 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-12-aug-2026/liveblog/133168615.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-      "description": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
-      "publication_date": "Wed, 12 Aug 2026 07:20:31 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
       "source": "rss"
     }
   ]
