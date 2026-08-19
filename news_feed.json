@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:20:24.469440+00:00",
+  "generated_at": "2026-08-19T17:48:28.788896+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
@@ -166,6 +166,13 @@
       "source": "rss"
     },
     {
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
+      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+      "publication_date": "Wed, 19 Aug 2026 17:48:08 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "source": "rss"
+    },
+    {
       "title": "Lenskart Solutions among 4 stocks to hit 52-week highs & surge up to 25% in a month",
       "description": "Four BSE 200 stocks—GlaxoSmithKline Pharmaceuticals, Lenskart Solutions, Bosch and Samvardhana Motherson International—hit fresh 52-week highs despite Sensex weakness. The stocks gained 18%-24% over the past month, signalling strong investor interest and positive momentum.",
       "publication_date": "Wed, 19 Aug 2026 17:46:01 +0530",
@@ -180,11 +187,53 @@
       "source": "rss"
     },
     {
+      "title": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+      "publication_date": "Wed, 19 Aug 2026 17:34:35 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+      "source": "rss"
+    },
+    {
       "title": "Tech holds the crown, but defensive positioning grows: BofA survey",
       "description": "Technology remains investors’ top choice, but Asia fund managers are turning defensive, with 59% hedging AI downside through value, cyclical and defensive sectors. Asia ex-Japan optimism rose, while Japan exposure remains concentrated in banks and semiconductors amid policy expectations and weaker semiconductor sentiment.",
       "publication_date": "Wed, 19 Aug 2026 17:33:40 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-holds-the-crown-but-defensive-positioning-grows-bofa-securities-asia-fm-survey/articleshow/133347742.cms",
       "source": "rss"
+    },
+    {
+      "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
+      "description": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.",
+      "publication_date": "Wed, 19 Aug 2026 17:25:05 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
+      "source": "rss"
+    },
+    {
+      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+      "publication_date": "Wed, 19 Aug 2026 17:22:29 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
+      "title": "US, Canada trade negotiators meet after Trump sets new tariff deadline - Reuters",
+      "description": "US, Canada trade negotiators meet after Trump sets new tariff deadline &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 17:09:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
+      "description": "Tony Donatell turned an empty storefront next to a gas station into a sophisticated speakeasy, The Farmer's Cellar. Inside, it's still the \"roaring twenties.\"",
+      "publication_date": "Wed, 19 Aug 2026 17:05:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
+      "source": "rss"
+    },
+    {
+      "title": "Wall St recovers as yields ease; Moderna lifts healthcare stocks - Reuters",
+      "description": "Wall St recovers as yields ease; Moderna lifts healthcare stocks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 16:44:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
@@ -292,24 +341,10 @@
       "source": "rss"
     },
     {
-      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-      "publication_date": "Wed, 19 Aug 2026 15:09:51 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-      "source": "rss"
-    },
-    {
       "title": "Swiggy to see $400 million outflows after Indian-owned status? Jefferies explains why",
       "description": "Swiggy is moving closer to becoming an Indian-owned and controlled company (IOCC), a move that could enable an inventory-led model for Instamart and potentially improve margins. However, Jefferies expects the shift to trigger passive outflows of over $400 million from MSCI and FTSE indices due to foreign ownership limits. The brokerage retained its Buy rating with a target price of Rs 435.",
       "publication_date": "Wed, 19 Aug 2026 15:02:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-to-see-400-million-outflows-after-indian-owned-status-jefferies-explains-why/articleshow/133343604.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-      "publication_date": "Wed, 19 Aug 2026 15:00:48 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -369,25 +404,11 @@
       "source": "rss"
     },
     {
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
-      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-      "publication_date": "Wed, 19 Aug 2026 14:12:04 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-      "source": "rss"
-    },
-    {
       "title": "Car dealerships are relying more on parts and service for profits",
       "description": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
       "publication_date": "Wed, 19 Aug 2026 14:06:23 GMT",
       "link": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
       "source": "rss"
-    },
-    {
-      "title": "Wall St up after tech selloff as yields retreat; Moderna surges - Reuters",
-      "description": "Wall St up after tech selloff as yields retreat; Moderna surges &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 13:59:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here’s why",
@@ -1417,27 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 01:39:53 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
       "source": "rss"
-    },
-    {
-      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-      "description": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
-      "publication_date": "Wed, 19 Aug 2026 01:34:22 GMT",
-      "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-      "source": "rss"
-    },
-    {
-      "title": "Dollar softens as bond market steadies ahead of Fed minutes - reuters.com",
-      "description": "Dollar softens as bond market steadies ahead of Fed minutes &nbsp;&nbsp; reuters.com",
-      "publication_date": "Wed, 19 Aug 2026 01:31:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkQwN2c5MVlJbi1FREYxMXBtbGMtWWliU2tWZnF3ZjhvdmY3U0RUSG5Dbk5hX183aXBxelVUbWJKV2pXSzZDMF84Y3NLcmFsa3hDUkZ2NEg0RTZSdVdvR0UzMXpYbVlmY2duT2tuaUc5WTFLak15VkVMMDlCVTN2cDZkZGV5SG03VnhRRWVOVHZGWEpRckJveVpEa08xT1BvcEJtSEhubE9KVmJ4SUw4LVJiY0lhbHVzX1FKZ0lMZnRGcDA?oc=5",
-      "source": "reuters.com"
-    },
-    {
-      "title": "Energy producer Santos beats H1 profit estimates, sees second-half output rising - Reuters",
-      "description": "Energy producer Santos beats H1 profit estimates, sees second-half output rising &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 01:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTmFFWjRHVlNBWnZSNFNVdExFdXdzTUdvdHY2bkxCMlBwTWZZQzlNcXY4NWlsMVZGVGNDZW5XdWczVDV2aS1FX0dTSkVWRFFoc3RISHhYVGhMVmViQ1M1NzB1LTZfZG95NDJ6NzBER2xtWngzWVdTQ0k3WlVDUXM1dndjalhWSURBdUw5RE50aUtWcmZDZnhuLUhWWkxNSXdzdUFxV0hDcHhGZUdTVHNTY0xRdWk2bDc0ekNiNnlEWnZzRzFBeTFGTDNB?oc=5",
-      "source": "Reuters"
     }
   ]
 }
