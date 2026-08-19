@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:40:03.286336+00:00",
+  "generated_at": "2026-08-19T04:06:04.353182+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,67 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US in no talks with Iran. What lies ahead?",
+      "description": "Crude oil prices edged closer to $92 a barrel on August 19 as escalating Middle East tensions and diplomatic stalemates between the US and Iran stoked global supply worries. Analysts at Goldman Sachs and JPMorgan warn Brent could spike past $110 if Strait of Hormuz shipping disruptions persist.",
+      "publication_date": "Wed, 19 Aug 2026 09:19:59 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Samsung, SK Hynix lead KOSPI rout amid global risk-off mood",
+      "description": "Kospi plunged 4.65% as rising global bond yields and Middle East tensions triggered heavy selling in semiconductor shares. Samsung Electronics and SK Hynix led losses, while foreign investors sold 1.47 trillion won. Despite the sharp decline, the Kospi remains up 55.43% in 2026, underscoring strong year-to-date gains.",
+      "publication_date": "Wed, 19 Aug 2026 09:16:10 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-lead-kospi-rout-amid-global-risk-off-mood/articleshow/133336626.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Horizon Industrial Parks IPO Day 3: Check GMP, subscription status and key details — Should you subscribe?",
+      "description": "Horizon Industrial Parks IPO enters its final bidding day with 24% subscription after Day 2 and a modest 2% grey market premium. The Rs 2,600 crore issue is entirely a fresh issue and primarily targets debt reduction. Despite strong FY26 income growth, widening losses remain a concern, while India’s expanding logistics sector offers long-term growth potential.",
+      "publication_date": "Wed, 19 Aug 2026 09:11:15 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/horizon-industrial-parks-ipo-day-3-check-gmp-subscription-status-and-key-details-should-you-subscribe/articleshow/133336557.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Stocks to buy: 5 midcap and chemical stocks with up to 25% upside potential",
+      "description": "Axis Securities has pinpointed five promising stocks that savvy investors should consider for purchase. Each of these companies possesses robust earnings potential and solid growth trajectories. Navin Fluorine International and VA Tech Wabag are highlighted for their potential long-term gains, while Jubilant Ingrevia and Mold-Tek Packaging also offer appealing investment options. Rounding out the recommendation is Aarti Industries, a solid choice for those looking to enhance their portfolios.",
+      "publication_date": "Wed, 19 Aug 2026 09:08:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-5-midcap-and-chemical-stocks-with-up-to-25-upside-potential/slideshow/133336612.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bosch among 4 F&O stocks with a sharp rise in futures open interest",
+      "description": "Four NSE F&O stocks recorded rising futures open interest on August 18, with KFin Technologies, Bosch, Sona BLW Precision Forgings and Voltas showing notable increases.",
+      "publication_date": "Wed, 19 Aug 2026 09:06:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bosch-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/133336657.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Symbiotec Pharmalab sets price band for Rs 1,757 crore IPO, to open on August 24",
+      "description": "Symbiotec Pharmalab will launch its ₹1,757-crore IPO from August 24–27, 2026, with a price band of ₹938–988 per share. The minimum bid is 15 shares, requiring an investment of ₹14,820 at the upper price band. The IPO is expected to list on BSE and NSE on September 1, with allotment likely on August 28. At the upper band, the issue values the company at a steep 52 times FY26 diluted EPS.",
+      "publication_date": "Wed, 19 Aug 2026 09:04:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-sets-price-band-for-rs-1757-crore-ipo-to-open-on-august-24/articleshow/133336512.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Strong Q1 results spark stock-picking rush: 50 top ideas for investors to buy",
+      "description": "The impressive earnings reported in the first quarter have led brokerages to unveil fresh stock-picking avenues. Investors are encouraged to seek out firms showcasing strong earnings and solid financial fundamentals. A collective effort from various brokerages has resulted in the identification of fifty prime stock options, covering diverse industries such as banking, automotive, and defense. The market is now pivoting towards an earnings-led cycle with an emphasis on quality companies.",
+      "publication_date": "Wed, 19 Aug 2026 09:01:55 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/strong-q1-results-spark-stock-picking-rush-50-top-ideas-for-investors-to-buy/articleshow/133336468.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Action Construction Equipment among 4 stocks flashing bullish signals, indicating possible uptrend",
+      "description": "Four Nifty500 stocks surged over 5% on August 18, triggering StockEdge’s White Marubozu bullish scanner, signalling strong buying momentum and sustained investor interest across these stocks.",
+      "publication_date": "Wed, 19 Aug 2026 08:56:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/action-construction-equipment-among-4-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/133336455.cms",
+      "source": "rss"
+    },
     {
       "title": "Rupee may slip on oil, risk-off mood; RBI once again expected to ride to rescue",
       "description": "The Indian rupee is likely to experience a lower opening on Wednesday amidst climbing oil prices and increasing U.S. Treasury yields. The sentiment in the market is further influenced by the Reserve Bank of India's swap facility announcement. In an effort to bolster the currency, the central bank is selling dollars daily. Market participants are closely monitoring any intervention near the 95.80-96.00 range.",
@@ -68,10 +124,59 @@
       "source": "rss"
     },
     {
+      "title": "Axis Bank Share Price Live Updates: Positive Momentum for Axis Bank as it Exceeds 20-Day SMA",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:31:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-19-aug-2026/liveblog/133336063.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Breaks Above 20-Day SMA, Signaling Positive Momentum",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:31:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-today-live-19-aug-2026/liveblog/133336048.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Asian Paints Share Price Live Updates: Asian Paints Experiences Price Decline",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:30:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-updates-19-aug-2026/liveblog/133336017.cms",
+      "source": "rss"
+    },
+    {
       "title": "Tube Investments among 5 stocks showing bullish RSI upswing",
       "description": "On August 18, five Nifty500 stocks that gained over 3% were identified using the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI value crosses above 50 from below, indicating strengthening price momentum and potential upward movement in the stocks.",
       "publication_date": "Wed, 19 Aug 2026 08:29:34 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tube-investments-among-5-stocks-showing-bullish-rsi-upswing/slideshow/133336078.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer Trading Below Key Support Level",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:26:36 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-19-aug-2026/liveblog/133335960.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bharti Airtel Share Price Live Updates: Negative Price Movement for Bharti Airtel",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:25:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-today-live-19-aug-2026/liveblog/133335935.cms",
+      "source": "rss"
+    },
+    {
+      "title": "UPL Share Price Live Updates: UPL's Price Decline Continues",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:16:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-19-aug-2026/liveblog/133335801.cms",
+      "source": "rss"
+    },
+    {
+      "title": "LTIMindtree Share Price Live Updates: Weekly Performance: LTIMindtree Falls 5.93%",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:10:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-19-aug-2026/liveblog/133335698.cms",
       "source": "rss"
     },
     {
@@ -117,7 +222,7 @@
       "source": "rss"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: GIFT Nifty signals a muted start; Asian shares trade lower",
+      "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex drops 100 pts, Nifty below 24,150; Bajaj twins, M&M top laggards",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 07:29:17 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ongc-bpcl-share-price-19-august-2026/liveblog/133335256.cms",
@@ -1332,111 +1437,6 @@
       "description": "Heat and drought are curbing nuclear output across Europe, with Romania facing a possible reactor shutdown and France reducing generation.",
       "publication_date": "Wed, 12 Aug 2026 11:55:43 GMT",
       "link": "https://www.cnbc.com/2026/08/12/europe-heat-drought-nuclear-power.html",
-      "source": "rss"
-    },
-    {
-      "title": "Supermicro tops earnings expectations, stock jumps on strong AI-driven outlook",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 11:49:34 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/supermicro-tops-earnings-expectations-stock-jumps-on-strong-ai-driven-outlook/slideshow/133173310.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Chandrasekaran steps down as chairman of Tata Sons ahead of AGM on August 18",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 11:48:55 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/chandrasekaran-steps-down-as-chairman-of-tata-sons-ahead-of-agm-on-august-18/videoshow/133174268.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US July CPI seen rising moderately, Fed rate outlook in focus",
-      "description": "US consumer prices are expected to have risen modestly in July, potentially easing market expectations of a Federal Reserve rate hike this year. However, inflation remains above the Fed’s target, with Middle East tensions and oil-price uncertainty keeping upside risks elevated.",
-      "publication_date": "Wed, 12 Aug 2026 11:31:53 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-july-cpi-seen-rising-moderately-fed-rate-outlook-in-focus/articleshow/133172346.cms",
-      "source": "rss"
-    },
-    {
-      "title": "TD Power Systems shares rally over 12% after Q1 profit jumps 72% YoY to Rs 86 crore",
-      "description": "TD Power Systems shares surged after the company reported a strong Q1FY27 performance. Profit after tax rose 72% YoY to Rs 86 crore, while revenue and EBITDA jumped 71% and 72%, respectively, driven by robust operational growth.",
-      "publication_date": "Wed, 12 Aug 2026 11:27:17 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/td-power-systems-shares-rally-over-12-after-q1-profit-jumps-72-yoy-to-rs-86-crore/articleshow/133172316.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: China stocks rise as tech shares lead gains ahead of US CPI",
-      "description": "Chinese stocks edged higher as technology shares led gains, helping offset investor caution over geopolitical tensions and the upcoming US inflation data. Improving technology sentiment and greater clarity around China’s policy environment supported the mainland market, while Hong Kong stocks declined. Investors now await US inflation data for clues on the Federal Reserve’s rate path and global market direction.",
-      "publication_date": "Wed, 12 Aug 2026 11:21:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rise-as-tech-shares-lead-gains-ahead-of-us-cpi/articleshow/133172233.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Finolex Cables shares jump 10% on strong Q1 performance; revenue crosses Rs 2,000 crore mark",
-      "description": "Finolex Cables shares rose sharply on Wednesday after the company reported a 52.6% YoY rise in Q1 FY27 net profit to Rs 208.2 crore. Revenue surged 44.3% to Rs 2,013.15 crore, crossing the Rs 2,000-crore mark, while EBITDA rose 79% and margins expanded amid strong operational performance.",
-      "publication_date": "Wed, 12 Aug 2026 11:16:36 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/finolex-cables-shares-jump-10-on-strong-q1-performance-revenue-crosses-rs-2000-crore-mark/articleshow/133172179.cms",
-      "source": "rss"
-    },
-    {
-      "title": "TCS, other Tata stocks fall up to 4% as N Chandrasekaran resigns",
-      "description": "Shares of Tata Group companies fell, primarily driven by TCS. N Chandrasekaran stepped down as Tata Sons chairman ahead of the scheduled AGM on August 18, yet he will continue in his role until February 2027. His exit raises questions about the upcoming board meeting, particularly regarding the influence of Tata Trusts, which holds the majority stake.",
-      "publication_date": "Wed, 12 Aug 2026 11:10:56 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-other-tata-stocks-fall-up-to-4-as-n-chandrasekaran-resigns/articleshow/133172060.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US Stock Market: Treasury yields pare gains as Iran comments dampen hopes for Strait of Hormuz deal",
-      "description": "US Treasury yields pared gains as hopes for a U.S.-Iran agreement faded after Tehran indicated the Strait of Hormuz would remain closed unless Washington met its demands. Markets are now awaiting July CPI data for clues on Federal Reserve policy, with any upside surprise potentially putting renewed pressure on Treasury yields.",
-      "publication_date": "Wed, 12 Aug 2026 10:55:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-treasury-yields-pare-gains-as-iran-comments-dampen-hopes-for-strait-of-hormuz-deal/articleshow/133171566.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dr Agarwals Health shares fall 7% after Rs 2,065-crore block deal; Hyperion Investments, Claymore likely sellers",
-      "description": "Dr Agarwals Health Care shares dropped on Wednesday after a Rs 2,065-crore block deal involving 4.07 crore shares. Hyperion Investments and Claymore Investments were likely sellers, according to term sheet details. The block deal came after the company reported a 44.6% YoY rise in Q1 FY27 profit to Rs 55 crore.",
-      "publication_date": "Wed, 12 Aug 2026 10:48:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-agarwals-health-shares-fall-7-after-rs-2065-crore-block-deal-hyperion-investments-claymore-likely-sellers/articleshow/133171383.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
-      "description": "The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consumption.",
-      "publication_date": "Wed, 12 Aug 2026 10:47:20 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
-      "source": "rss"
-    },
-    {
-      "title": "MCX shares rise 2% as JPMorgan upgrades, raises target price after this Sebi proposal",
-      "description": "Shares of Multi Commodity Exchange (MCX) rose more than 2% after Sebi proposed widening foreign portfolio investors’ access to physically settled non-agricultural commodity derivatives. JPMorgan upgraded MCX to ‘Overweight ’, and Jefferies retained a ‘Buy’ rating, citing the potential for higher trading volumes and earnings.",
-      "publication_date": "Wed, 12 Aug 2026 10:40:52 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-rise-2-as-jpmorgan-upgrades-raises-target-price-after-this-sebi-proposal/articleshow/133171178.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Senco Gold shares fall over 8% after Q1 results. What squeezed profitability?",
-      "description": "Senco Gold shares fell 8.16% after the company reported mixed Q1 FY27 results. While consolidated revenue surged 67% YoY to Rs 3,056 crore, PAT declined 3% to Rs 101 crore. EBITDA rose 16% to Rs 213 crore, but margins contracted sharply amid promotional discounting, lower gold prices and customs duty changes, weighing on profitability and investor sentiment.",
-      "publication_date": "Wed, 12 Aug 2026 10:36:54 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/senco-gold-shares-fall-over-8-after-q1-results-what-squeezed-profitability/articleshow/133171068.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Wall St futures tick up heading into July inflation data - Reuters",
-      "description": "Wall St futures tick up heading into July inflation data &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 10:24:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Lenskart, Delhivery, among 10 stocks with highest increase in DII holdings in Q1. See full list",
-      "description": "In August, Axis Direct introduces 44 stock recommendations, advocating a buy-on-dips approach. The banking, capital goods, and realty sectors exhibit promising technical patterns for investors. Additionally, consumer durables, healthcare, power, and auto sectors are projected to perform well. However, a selective caution is suggested for FMCG, metals, and oil & gas stocks as the brokerage predicts sustained momentum across various key market areas.",
-      "publication_date": "Wed, 12 Aug 2026 10:23:03 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-delhivery-among-10-stocks-with-highest-increase-in-dii-holdings-in-q1-see-full-list/slideshow/133170949.cms",
-      "source": "rss"
-    },
-    {
-      "title": "44 bullish & bearish stock picks across sectors for August by Axis Direct",
-      "description": "In August, Axis Direct introduces 44 stock recommendations, advocating a buy-on-dips approach. The banking, capital goods, and realty sectors exhibit promising technical patterns for investors. Additionally, consumer durables, healthcare, power, and auto sectors are projected to perform well. However, a selective caution is suggested for FMCG, metals, and oil & gas stocks as the brokerage predicts sustained momentum across various key market areas.",
-      "publication_date": "Wed, 12 Aug 2026 10:04:39 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/44-bullish-amp-bearish-stock-picks-across-sectors-for-august-by-axis-direct/slideshow/133170643.cms",
       "source": "rss"
     }
   ]
