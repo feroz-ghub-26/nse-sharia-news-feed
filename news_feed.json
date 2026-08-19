@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:04:42.471186+00:00",
+  "generated_at": "2026-08-19T14:26:08.339941+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,17 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
+    {
+      "title": "Target Corp shares rise 5% as sales rebound and profit doubles in Q2",
+      "description": "Target shares jumped 5% after second-quarter sales rose 5.3%, comparable sales increased 3.8% and traffic climbed 3.6%. Digital sales grew 8.7%, while EPS doubled to $4.11, boosted by tariff refunds, with underlying earnings still rising 20%.",
+      "publication_date": "Wed, 19 Aug 2026 19:34:17 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/target-corp-shares-rise-5-as-sales-rebound-and-profit-doubles-in-q2/articleshow/133350806.cms",
+      "source": "rss"
+    },
     {
       "title": "Rs 3 crore to Rs 4,925 crore: Sebi order gives details on Dhenu Buildcon market cap surge",
       "description": "Sebi’s interim order alleges Dhenu Buildcon routed Rs 1,000 crore through connected entities as loans, later converting Rs 840 crore into equity. Despite negligible revenue, its market cap surged to Rs 4,925 crore. The regulator ordered restrictions while investigations continue.",
@@ -96,7 +103,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks open higher as yields ease after tech-led selloff; earnings in focus",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks edge higher as yields ease after tech-led selloff; earnings in focus",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 17:54:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-rate-hike-moderna-nvidia-micron-sandisk-chip-stock-price-news-19th-august-2026/liveblog/133348429.cms",
@@ -215,10 +222,38 @@
       "source": "rss"
     },
     {
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+      "description": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+      "publication_date": "Wed, 19 Aug 2026 14:22:38 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+      "source": "rss"
+    },
+    {
+      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+      "publication_date": "Wed, 19 Aug 2026 14:22:20 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
+      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+      "publication_date": "Wed, 19 Aug 2026 14:21:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
       "title": "Indian Bank raises $400 million for four years",
       "description": "Indian Bank raised $400 million through a four-year overseas funding programme via its GIFT City branch, joining Indian lenders tapping global debt markets. Banks are accelerating dollar bond issuances following regulatory changes to the concessional swap window for FCNR deposits. Axis, ICICI, Federal, IDFC First, Kotak Mahindra and Yes Bank are also active.",
       "publication_date": "Wed, 19 Aug 2026 14:20:45 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-400-million-for-four-years/articleshow/133342708.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
+      "description": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
+      "publication_date": "Wed, 19 Aug 2026 14:18:35 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
       "source": "rss"
     },
     {
@@ -229,17 +264,17 @@
       "source": "rss"
     },
     {
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
       "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-      "publication_date": "Wed, 19 Aug 2026 13:48:47 GMT",
+      "publication_date": "Wed, 19 Aug 2026 14:12:04 GMT",
       "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
       "source": "rss"
     },
     {
-      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-      "publication_date": "Wed, 19 Aug 2026 13:43:39 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "title": "Car dealerships are relying more on parts and service for profits",
+      "description": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
+      "publication_date": "Wed, 19 Aug 2026 14:06:23 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
       "source": "rss"
     },
     {
@@ -275,13 +310,6 @@
       "description": "Mutual funds aggressively bought shares in 58 companies in July 2026. A secondary filter highlights eight top-performing stocks that saw additions of over one crore shares alongside gains between 9% and 76%, driven by institutional buying and strong market momentum across sectors.",
       "publication_date": "Wed, 19 Aug 2026 13:31:34 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-july-26-rally-up-to-76/slideshow/133342058.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-      "description": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-      "publication_date": "Wed, 19 Aug 2026 13:30:22 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
       "source": "rss"
     },
     {
@@ -373,13 +401,6 @@
       "description": "Fixed income market watchers ascribe a run that began in June to a number of variables.",
       "publication_date": "Wed, 19 Aug 2026 12:31:07 GMT",
       "link": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
-      "source": "rss"
-    },
-    {
-      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-      "publication_date": "Wed, 19 Aug 2026 12:24:19 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -492,20 +513,6 @@
       "description": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
       "publication_date": "Wed, 19 Aug 2026 11:08:03 GMT",
       "link": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
-      "source": "rss"
-    },
-    {
-      "title": "Car dealerships are relying more on parts and service for profits",
-      "description": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
-      "publication_date": "Wed, 19 Aug 2026 11:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
-      "source": "rss"
-    },
-    {
-      "title": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
-      "description": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
-      "publication_date": "Wed, 19 Aug 2026 11:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
       "source": "rss"
     },
     {
@@ -1132,6 +1139,13 @@
       "source": "rss"
     },
     {
+      "title": "South African rand firms as softer inflation points to easing price pressures - Reuters",
+      "description": "South African rand firms as softer inflation points to easing price pressures &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 06:29:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzRJdUkxNHJHMXNrSlZLdEstTUZnM045M1N3eXFNLV9zUGRvTGt2T0w2LXZpQzFwMVdZWVFSOFpwMFVtRGEzbzl4cXl5Qm5CX1dFa1dUZ3JjcDVBRXg0NVZHYU5iSDRjWTh5UDZaRzU3eUZNZGVMeXhjNWppTVFmN0ozTWh0MEdLOUdtY2h5U1oxOU5YWVBVVmhOWEdBcloydmZxbFZ1R3g?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Global Market Today: Asian equities decline as chip selloff extends",
       "description": "Asian stock markets witnessed a downturn as semiconductor shares plummeted sharply. The rise in bond yields and escalating oil prices contributed to a bearish market sentiment. Investors pulled away from growth stocks, driven by concerns over inflation and mounting debts. Additionally, geopolitical unrest heightened market pressures, with the ongoing tensions in the Middle East exacerbating worries about potential energy shocks.",
       "publication_date": "Wed, 19 Aug 2026 06:24:07 +0530",
@@ -1423,20 +1437,6 @@
       "description": "Nebius shares jumped nearly 22% after the AI cloud provider beat revenue estimates, driven by surging infrastructure demand, larger contracts and higher prices. Core AI cloud revenue increased sixfold, while major customer deals and capacity commitments highlighted strong future growth.",
       "publication_date": "Wed, 12 Aug 2026 22:00:38 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Braskem eyes out-of-court restructuring as early as this month, sources say - Reuters",
-      "description": "Braskem eyes out-of-court restructuring as early as this month, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 21:51:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSjNzd0EwS1JJWVVJaGZXck5JbkhtemZiaG5ON09XQWRhZEFiMWdjSU9ISmxqSnFGZWNiN2ptaHV1WjZMYmxGLU9pUnVJU0EwZS10ZUpiZWwwRzlHaEVPczNIeVpuaEdvazM4cVppWF9IaDY0RHJ2c3AzQzd1N1hnMjd3QVhWS3p5X2VUMWZXRWt6djU4X0hBWTFJN0lheFplb1MyMmswMWptX1NhWlU0RzE2czRNa2NveGs5UQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Indel Money to raise up to Rs 500 crore via public issue of NCDs",
-      "description": "Indel Money plans to raise up to Rs 500 crore through a public issue of non-convertible debentures. The issue will open on August 18 and close on August 31, with an option for early closure. Proceeds will fund onward lending, refinancing existing debt, and general corporate purposes.",
-      "publication_date": "Wed, 12 Aug 2026 21:39:48 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indel-money-to-raise-up-to-rs-500-crore-via-public-issue-of-ncds/articleshow/133187783.cms",
       "source": "rss"
     }
   ]
