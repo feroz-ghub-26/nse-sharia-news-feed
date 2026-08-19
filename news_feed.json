@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:23:54.794506+00:00",
+  "generated_at": "2026-08-19T15:55:17.361252+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities",
+      "description": "Sebi issued an interim order against Copthall Mauritius and Mansi Share and Stock Broking for manipulative trading during the August 13, 2026, Closing Auction Session. The regulator impounded Rs 3.67 crore in alleged wrongful gains from these two entities.",
+      "publication_date": "Wed, 19 Aug 2026 20:56:52 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
+      "source": "rss"
+    },
     {
       "title": "Goldman Sachs backs D-street debutante Shiprocket, buys over 40 lakh shares",
       "description": "Shiprocket debuted on the NSE at ₹131, a 35% premium, closing at ₹143.10. Goldman Sachs India EQ Portfolio acquired 40.24 lakh shares post-listing. Analysts advise investors to book partial profits while holding remaining shares for long-term growth.",
@@ -198,6 +205,20 @@
       "description": "SK Hynix announced a record 40 trillion won share buyback and cancellation after its stock plunged nearly 50%. South Korea’s Kospi also tumbled amid chipmaker concentration, leveraged ETF risks and rising bond yields, intensifying pressure for shareholder returns.",
       "publication_date": "Wed, 19 Aug 2026 15:45:54 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-koreas-sk-hynix-announces-buyback-after-stock-crashes-50-in-two-months-wipes-off-massive-retail-wealth/articleshow/133344672.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Wall Street analysts just called this healthcare stock a buy — here’s our take",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "publication_date": "Wed, 19 Aug 2026 15:39:52 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/wall-street-analysts-just-called-this-healthcare-stock-a-buy-heres-our-take.html",
+      "source": "rss"
+    },
+    {
+      "title": "UAE severs trade with Iran after reported missile strike",
+      "description": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
+      "publication_date": "Wed, 19 Aug 2026 15:38:26 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
       "source": "rss"
     },
     {
@@ -418,6 +439,13 @@
       "source": "rss"
     },
     {
+      "title": "UAE stocks fall after missile scare; Qatar at over one-year low - Reuters",
+      "description": "UAE stocks fall after missile scare; Qatar at over one-year low &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 13:16:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
       "description": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target may be victim to profit-taking.",
       "publication_date": "Wed, 19 Aug 2026 13:08:48 GMT",
@@ -521,13 +549,6 @@
       "publication_date": "Wed, 19 Aug 2026 11:40:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUkzcjBJVHphRWJDcFhBSjFzaVZoS0VpblpPRzNLT0VrajJPZUoyZXFBa1JQV25Va3ZEODhIbVp0bU5zb2RDLUN5MlI2TjRkX0FkaFV4aGlLNTBRQl9JSDNoMF9GNnZFYWk5X08xMUtnLVFjN3l2UktNQjQ5eWJwVGVVbU9lUGpKNHJZd1p0TU1DT0o2eDlVVlU2cGNwdlc1X3loc3NmTVZTeUh5N1pjR3liajFlVEN6c1RTckhaVkFwWF95THY5WkpB?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "UAE severs trade with Iran after reported missile strike",
-      "description": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
-      "publication_date": "Wed, 19 Aug 2026 11:27:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-      "source": "rss"
     },
     {
       "title": "HG Infra Engineering shares jump over 8% after receiving LoI from REC",
@@ -787,13 +808,6 @@
       "publication_date": "Wed, 19 Aug 2026 08:55:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-19-aug-2026/liveblog/133336399.cms",
       "source": "rss"
-    },
-    {
-      "title": "UAE stocks fall after missile scare - Reuters",
-      "description": "UAE stocks fall after missile scare &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 08:51:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Financial Snapshot",
@@ -1237,11 +1251,25 @@
       "source": "rss"
     },
     {
+      "title": "Swiss voters look set to reject proposal to change neutrality, poll shows - Reuters",
+      "description": "Swiss voters look set to reject proposal to change neutrality, poll shows &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 06:13:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUdTTmNCUm9CMmxUZnZ1c3JzVzRvSXlmVi1uM0pkU1ZzRTF5emR6VmxBbnB4NUM0MlRzRU5KdVBHQ2d1TEVDQy11YW5KYzR0RldQODJrNFJqWTljUlZVSWdLZGNkclJyVmFJdVBUclQyUHIwZmllQjQ1VWJfUWNyS1NnLU1QWkVHU2pnR0J2ZlBZT3lQa3Y5LXoyZmh0UXd4WGctNFc3Yy1pZTZYbll2M2F1S3V3VmZvalZwb2xvWlBmaVE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
       "description": "Indian markets faced pressure as the Nifty declined for a sixth consecutive trading session. Rising oil prices and ongoing West Asia conflict kept traders cautious throughout the day. The Nifty closed lower, reflecting broader market weakness and investor concerns. Domestic institutional investors provided some buying support, while FPIs also bought shares. Technical indicators suggest a period of consolidation for the indices in the near term.",
       "publication_date": "Wed, 19 Aug 2026 06:12:37 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
       "source": "rss"
+    },
+    {
+      "title": "UK inflation picks up after July surge in household energy bills - Reuters",
+      "description": "UK inflation picks up after July surge in household energy bills &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 06:04:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDlHUDNTVHV0SHFvcWN2UEZSQmN3TENFSklmWXJlRjY0ZFBhOU0zcUdwN0JNRE5JNFMtVmxiZTdMeW9ZRFZlSm5lcjhwcTRpd04xanJQMkhhSGQydTVmeGhEZk9VUzlDOEZRak02ZDVMdWNjaHl2VEpPaThuNExYMVl0eGNHdnRWdTVtNFk5NHU?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
@@ -1410,34 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 23:31:21 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms",
       "source": "rss"
-    },
-    {
-      "title": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - Reuters",
-      "description": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 23:29:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUNwdDR2X2Z6TlJ2NDZ5VVVESGN1bHdOU3RHSVY5aGJSdmJldVZ6YVh5ZDVNNUxJMFpValdCa0dKSFJBLUZzeTdEU1pmcmhMVjAtQzBFdm91QW1JZERManNpTlMtbzBEaVhnZTRybjF1YkxVVVBtLWE0Vk4xOW9NWWhJU19yUUdLYy1MNHpDTTFjb3F0ajMtZHl1THdCSG00NjFNQTgtUzZpNG1DN0cwWi1lR2VNdWJvQjBkNHYtSy1GcVRLQ3hYTXJVQ2ZZZW8?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Putin says Russia will start seizing European vessels if its ships targeted - Reuters",
-      "description": "Putin says Russia will start seizing European vessels if its ships targeted &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 23:27:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - Reuters",
-      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 23:13:34 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Global EV sales rise in July as Europe offsets weakness in China and North America - Reuters",
-      "description": "Global EV sales rise in July as Europe offsets weakness in China and North America &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 23:12:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUWJNS21tWXhVV085U2s4MWY5M1M5ODFZT1I3NWlfU1JMeE50YlpIdHlNaTBMNkViS0s0d21JYTQ2QVdYcmU4N3JxNFgwVndoQWxidDQwUzZjN282eDdRekpUeTh0WWZsUzh1VEdYWkVKdDRrQnZ1UDZTcGZxeFc3MzBEYmhOVGlFVnJMRkV1dHFrSXNCYjd4Z1FFTERqdWZIaFkxT3FyS21aeUJzdm1TOGNSTnpCc2kwSUo0RjdJSHgyNGdheHdMYVJzT3NSLTAx?oc=5",
-      "source": "Reuters"
     }
   ]
 }
