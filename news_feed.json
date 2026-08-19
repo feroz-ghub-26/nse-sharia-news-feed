@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:00:25.609358+00:00",
+  "generated_at": "2026-08-19T15:23:54.794506+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,18 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Goldman Sachs backs D-street debutante Shiprocket, buys over 40 lakh shares",
+      "description": "Shiprocket debuted on the NSE at ₹131, a 35% premium, closing at ₹143.10. Goldman Sachs India EQ Portfolio acquired 40.24 lakh shares post-listing. Analysts advise investors to book partial profits while holding remaining shares for long-term growth.",
+      "publication_date": "Wed, 19 Aug 2026 20:27:56 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms",
+      "source": "rss"
+    },
     {
       "title": "BSE looks to launch MSCI-linked futures and options in India",
       "description": "BSE has partnered with MSCI to explore futures and options contracts linked to MSCI indexes in India, subject to regulatory approvals. The move could broaden BSE’s derivatives offerings, strengthen index-based investing and provide investors additional tools to hedge India exposure.",
@@ -215,10 +222,38 @@
       "source": "rss"
     },
     {
+      "title": "We're booking a five-fold profit on one of drug stock's rally to record highs",
+      "description": "This trim doesn't reflect any change in our positive long-term view.",
+      "publication_date": "Wed, 19 Aug 2026 15:14:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/were-booking-a-five-fold-profit-on-one-of-drug-stocks-rally-to-record-highs.html",
+      "source": "rss"
+    },
+    {
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+      "description": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+      "publication_date": "Wed, 19 Aug 2026 15:12:28 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+      "source": "rss"
+    },
+    {
+      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+      "publication_date": "Wed, 19 Aug 2026 15:09:51 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+      "source": "rss"
+    },
+    {
       "title": "Swiggy to see $400 million outflows after Indian-owned status? Jefferies explains why",
       "description": "Swiggy is moving closer to becoming an Indian-owned and controlled company (IOCC), a move that could enable an inventory-led model for Instamart and potentially improve margins. However, Jefferies expects the shift to trigger passive outflows of over $400 million from MSCI and FTSE indices due to foreign ownership limits. The brokerage retained its Buy rating with a target price of Rs 435.",
       "publication_date": "Wed, 19 Aug 2026 15:02:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-to-see-400-million-outflows-after-indian-owned-status-jefferies-explains-why/articleshow/133343604.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+      "publication_date": "Wed, 19 Aug 2026 15:00:48 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -250,13 +285,6 @@
       "source": "rss"
     },
     {
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-      "description": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-      "publication_date": "Wed, 19 Aug 2026 14:30:33 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-      "source": "rss"
-    },
-    {
       "title": "BlackRock, Capital Group anchor IDFC FIRST Bank’s maiden $500 million global bond",
       "description": "IDFC FIRST Bank raised $500 million through its maiden international bond issuance, marking its entry into global debt markets. The three-year senior notes, due in 2029, carry a 5.625% coupon and attracted major investors including BlackRock, Capital Group and AllianceBernstein. The fundraising diversifies the bank’s funding base and supports its long-term growth ambitions.",
       "publication_date": "Wed, 19 Aug 2026 14:28:25 +0530",
@@ -268,13 +296,6 @@
       "description": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
       "publication_date": "Wed, 19 Aug 2026 14:25:12 GMT",
       "link": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-      "source": "rss"
-    },
-    {
-      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-      "publication_date": "Wed, 19 Aug 2026 14:22:20 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -551,6 +572,13 @@
       "source": "rss"
     },
     {
+      "title": "Oil exports from Russia's western ports drop 15% below plan, traders say - Reuters",
+      "description": "Oil exports from Russia's western ports drop 15% below plan, traders say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 11:06:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnNQRkdUeXFaU0pmU1RDeGc1V0szVWlSZGliQUUzOGxCVzFJSWdwbWRMZ003S1BxRTQ2M19COUhCLW96SlQ4Qi1lYWo0aC1Gbk9GNVIzZ2ZTSk04cTJfNDc1cmxZM3ViNmZnNk5JY2FiNUdUSFByV0xxYS1KUG40UnQ3MmRkMDBndURCa0ppMlpTTDNJbjFydUVpRm12NThWY2xNVHRxNWNhSHU3VWlZVUZEUFFGVlE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold?",
       "description": "Milky Mist shares hit another 10% upper circuit on Wednesday, taking their gains to 42.5% from the IPO price of Rs 140. Analysts remain positive on the company’s strong foothold in value-added dairy products, improving margins and growth prospects, but caution that valuations are elevated. Existing investors have been advised to hold and accumulate on meaningful dips.",
       "publication_date": "Wed, 19 Aug 2026 10:48:20 +0530",
@@ -759,6 +787,13 @@
       "publication_date": "Wed, 19 Aug 2026 08:55:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-today-live-19-aug-2026/liveblog/133336399.cms",
       "source": "rss"
+    },
+    {
+      "title": "UAE stocks fall after missile scare - Reuters",
+      "description": "UAE stocks fall after missile scare &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 08:51:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Financial Snapshot",
@@ -1402,41 +1437,6 @@
       "description": "Global EV sales rise in July as Europe offsets weakness in China and North America &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 12 Aug 2026 23:12:12 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUWJNS21tWXhVV085U2s4MWY5M1M5ODFZT1I3NWlfU1JMeE50YlpIdHlNaTBMNkViS0s0d21JYTQ2QVdYcmU4N3JxNFgwVndoQWxidDQwUzZjN282eDdRekpUeTh0WWZsUzh1VEdYWkVKdDRrQnZ1UDZTcGZxeFc3MzBEYmhOVGlFVnJMRkV1dHFrSXNCYjd4Z1FFTERqdWZIaFkxT3FyS21aeUJzdm1TOGNSTnpCc2kwSUo0RjdJSHgyNGdheHdMYVJzT3NSLTAx?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
-      "description": "Novo Nordisk CEO defended the company's decision to sue rival Eli Lilly over its weight-loss drug advertising.",
-      "publication_date": "Wed, 12 Aug 2026 22:53:21 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/novo-nordisk-ceo-defends-lawsuit-against-eli-lilly.html",
-      "source": "rss"
-    },
-    {
-      "title": "TPG, Temasek sell 13% stake in Dr Agarwals Health Care for Rs 2,008 crore",
-      "description": "Global investors TPG and Temasek sold nearly thirteen percent of Dr Agarwals Health Care. They collectively offloaded over four crore equity shares for two thousand eight crore rupees. Several mutual funds and investment firms purchased a significant stake in the eye care chain. This stake sale occurred after the company reported strong quarterly financial results. Dr Agarwals Health Care shares saw a decline following the large block deal.",
-      "publication_date": "Wed, 12 Aug 2026 22:51:51 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tpg-temasek-sell-13-stake-in-dr-agarwals-health-care-for-rs-2008-crore/articleshow/133195383.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-      "publication_date": "Wed, 12 Aug 2026 22:49:44 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
-      "source": "rss"
-    },
-    {
-      "title": "Ford says it's increasing Lincoln production in the U.S. in 2030",
-      "description": "Ford said on Wednesday that it will be increasing production of its Lincoln cars in the U.S. beginning in 2030.",
-      "publication_date": "Wed, 12 Aug 2026 22:36:44 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/ford-lincoln-us-china.html",
-      "source": "rss"
-    },
-    {
-      "title": "US consumer inflation mild in July, economy still not out of the woods - Reuters",
-      "description": "US consumer inflation mild in July, economy still not out of the woods &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 22:27:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
       "source": "Reuters"
     }
   ]
