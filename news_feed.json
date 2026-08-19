@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:21:35.014477+00:00",
+  "generated_at": "2026-08-19T10:53:46.142284+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,32 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard",
+      "description": "On Wednesday, the Indian rupee hit its lowest point since late July, primarily due to high oil prices and sustained demand for the dollar. Despite this, the Reserve Bank of India's interventions helped to temper the rupee's fall. The escalating crude oil costs have contributed negatively to its value, as investors eagerly anticipate upcoming policy review minutes from both the RBI and the Federal Reserve.",
+      "publication_date": "Wed, 19 Aug 2026 15:52:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-three-week-low-traders-wary-about-fall-to-96/usd-as-rbi-stands-guard/articleshow/133344824.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Oil India vs ONGC vs OMCs: What JM Financial’s $80 Brent call means for oil stocks",
+      "description": "Brent crude may stay near eighty dollars a barrel for twelve months. Analysts favor Oil India and ONGC due to expected earnings growth. Oil India's refinery capacity expansion will drive future output increases. Oil marketing companies face pressure from lower integrated gross margins. Valuation and earnings concerns persist for HPCL, BPCL, and IOCL.",
+      "publication_date": "Wed, 19 Aug 2026 15:50:10 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-vs-ongc-vs-omcs-what-jm-financials-80-brent-call-means-for-oil-stocks/articleshow/133344751.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Why rising Treasury yields are becoming a growing risk for the US economy",
+      "description": "A sell-off in U.S. Treasuries has pushed yields higher, raising borrowing costs for households, companies and the federal government. Higher yields could pressure mortgages, corporate investment, asset valuations and government debt servicing. Investors are watching inflation, energy risks, Federal Reserve policy, Treasury supply and foreign demand for signs of prolonged market pressure.",
+      "publication_date": "Wed, 19 Aug 2026 15:47:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-rising-treasury-yields-are-becoming-a-growing-risk-for-the-us-economy/articleshow/133344713.cms",
+      "source": "rss"
+    },
     {
       "title": "South Korea’s SK Hynix announces buyback after stock crashes 50% in two months, wipes off massive retail wealth",
       "description": "SK Hynix announced a record 40 trillion won share buyback and cancellation after its stock plunged nearly 50%. South Korea’s Kospi also tumbled amid chipmaker concentration, leveraged ETF risks and rising bond yields, intensifying pressure for shareholder returns.",
@@ -257,6 +278,13 @@
       "source": "rss"
     },
     {
+      "title": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
+      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+      "publication_date": "Wed, 19 Aug 2026 10:49:31 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "source": "rss"
+    },
+    {
       "title": "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold?",
       "description": "Milky Mist shares hit another 10% upper circuit on Wednesday, taking their gains to 42.5% from the IPO price of Rs 140. Analysts remain positive on the company’s strong foothold in value-added dairy products, improving margins and growth prospects, but caution that valuations are elevated. Existing investors have been advised to hold and accumulate on meaningful dips.",
       "publication_date": "Wed, 19 Aug 2026 10:48:20 +0530",
@@ -264,10 +292,24 @@
       "source": "rss"
     },
     {
+      "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
+      "description": "Target posted better-than-expected second-quarter sales and raised its full-year outlook.",
+      "publication_date": "Wed, 19 Aug 2026 10:45:39 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
       "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
       "description": "CLSA downgraded several large IT stocks and cut their target prices amid continued AI-related concerns, while retaining a bullish view on select mid-tier IT companies. The brokerage said Q1 earnings were mixed across Indian IT and global peers, but expects AI-driven volumes to eventually offset pricing deflation by FY30.",
       "publication_date": "Wed, 19 Aug 2026 10:36:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-crash-ahead-clsa-downgrades-tcs-infosys-wipro-other-stocks-revises-target-prices-heres-why/articleshow/133337948.cms",
+      "source": "rss"
+    },
+    {
+      "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+      "description": "Chinese AI firms have reportedly accessed advanced Nvidia computing power overseas, testing U.S. export controls. Lawmakers weigh closing the cloud-access gap.",
+      "publication_date": "Wed, 19 Aug 2026 10:32:51 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
       "source": "rss"
     },
     {
@@ -289,13 +331,6 @@
       "description": "Persistently high US Treasury auction yields are raising the cost of refinancing government debt and funding future deficits as investors demand greater compensation to absorb rising borrowing needs. Recent 10-year and 30-year auctions saw yields hit multi-year highs, though resilient demand suggests there is no broad buyer strike. The key concern for Washington is the growing cost of servicing a large and persistent fiscal deficit.",
       "publication_date": "Wed, 19 Aug 2026 10:09:33 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/high-treasury-yields-put-us-fiscal-outlook-under-spotlight/articleshow/133337550.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Target is set to report earnings before the bell. Here's what to expect",
-      "description": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
-      "publication_date": "Wed, 19 Aug 2026 10:06:56 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -388,6 +423,13 @@
       "publication_date": "Wed, 19 Aug 2026 09:28:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-day-3-gmp-indicates-20-premium-subscribed-3-07x-should-you-subscribe/articleshow/133336766.cms",
       "source": "rss"
+    },
+    {
+      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
+      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 09:27:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Britannia Share Price Live Updates: Britannia's Daily Price Change",
@@ -486,6 +528,13 @@
       "publication_date": "Wed, 19 Aug 2026 08:51:29 GMT",
       "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
       "source": "rss"
+    },
+    {
+      "title": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
+      "description": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 08:45:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUkzcjBJVHphRWJDcFhBSjFzaVZoS0VpblpPRzNLT0VrajJPZUoyZXFBa1JQV25Va3ZEODhIbVp0bU5zb2RDLUN5MlI2TjRkX0FkaFV4aGlLNTBRQl9JSDNoMF9GNnZFYWk5X08xMUtnLVFjN3l2UktNQjQ5eWJwVGVVbU9lUGpKNHJZd1p0TU1DT0o2eDlVVlU2cGNwdlc1X3loc3NmTVZTeUh5N1pjR3liajFlVEN6c1RTckhaVkFwWF95THY5WkpB?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Financial Snapshot",
@@ -878,13 +927,6 @@
       "publication_date": "Wed, 19 Aug 2026 06:45:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-foods-lists-at-18-premium-to-issue-price/articleshow/133334885.cms",
       "source": "rss"
-    },
-    {
-      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
-      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 06:44:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
@@ -1396,48 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 18:51:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXBwRjdlNHNyV1lJVkx3cy03Mjc0R2VSV3dsa1ZhMGN2V2pBNGNINGZsS2JXNTJBYXE0eWJPTHhhRk8yaGNsMXI3OC1ybFIwSlJPdjdTMUw5bkFqWWcxamFxRk84WGVjeUZvNGx6cEwyVEo4NUZYZ3NLRzVXSGZrM09hcFI0cEMtTnYwNTlaV0JJbDhUU3VEbk43cWctOXBvUVppSXM3SF9sV3BuUTFKd1VGalBsQ3h4Sm5B?oc=5",
       "source": "reuters.com"
-    },
-    {
-      "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters",
-      "description": "Saudi Red Sea oil exports go dark as Houthi attack threat grows &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 18:49:34 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGFZQ2Vnb3RrVVF5MGpzQzlrckRvMHM2bmtQRFFEdUdra2QxdEcwMEVTQk1GUDFBS25MS2Rmb05uZkd4Znp4aElvSEtFVzNXY1dtYUNHNmpWODhUSTFVRDc1a0VMR3NTVTlmNndDRlBnVWlfOFpZSXFRY01EUDh6WGJQb2xHY0daZGIwbzI3VWpfallqckphSVpIcHl0VkdqM3VyaUJUS1B4QVM5MXJZY0Rn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Along the path of totality: best photos from the eclipse - Reuters",
-      "description": "Along the path of totality: best photos from the eclipse &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 18:48:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmxGY0NZeUNJUFJ1dnNoTG9NdWtfYXRyS3lUS1hmTDMzd3RZR0N3VDVoQm53ckEwZjJOenVXcTF6Uy1sZ3pvRkw3RXBfcEs2QjlGRXpIYU9EV3AxZ0xWc1Fkd0dENV9Ec3dxUTBrWkdESTlvVlJLSGlZYjkyWXhtdmZ5RnI0SU53WTB1aw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Along the path of totality: best photos from the eclipse - Reuters",
-      "description": "Along the path of totality: best photos from the eclipse &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 18:48:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNUjU5blZBanZhX0tWLWc4LWlrSXdULXY5ZFdjSmZ3TGF0YnJGUlhXUjJUYjJTMmdEV1YtMzNtQ1hEcmZTX2N3Q0dOUVlrNnF5NHBSVlVrS1BYc0VwS09lVmRoWWx0cW5nVlhsdW1LeS1YRnpWVkpNX2tKRmVXTUpCaTk2ZVVyYVIyQ0VfWGczamhzOWltbTlKMUtVcHJBUE53OUJZdWc5a2FNTVBHYy1NTjRZaWhHMk5SekkzR0lEUjBZMzVxVGRCUzVpeVJ1UkR5T3E3OUtabXB4ZTNhelpZN0Y5UHhvSnV4V25lcmRvRGRJb2dqSnJjN3BTakV1VzNSOTNpck1uSUpRdnNseGliZVlnQVJOeTd5YXZQamhsQWxlZ1RCalVsVzlkQUE2MDYzVUh3LUstVXRQYjhpVm5iakpMajBvRDRxb1d0ZHlKODNPLW1CeWVHcXV1YWpmSmhiVTIzNm0yamlzWHRicXdKcF9nMFA0RVVDM3dYRUUtS2prdjY3Rm9R?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
-      "description": "Intel on Wednesday revealed CEO Lip-Bu Tan as a big buyer in the massive stock sale that the company announced this week.",
-      "publication_date": "Wed, 12 Aug 2026 18:38:29 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/ceo-of-intel-just-gave-jim-cramer-one-more-reason-to-call-it-his-favorite-stock.html",
-      "source": "rss"
-    },
-    {
-      "title": "Chad anti-corruption inspectors detained, assaulted at state oil firm, authority says - Reuters",
-      "description": "Chad anti-corruption inspectors detained, assaulted at state oil firm, authority says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 18:32:22 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2pGSkl2OFVWMTJUaVltQ2xpRS1SWGo2WTBEaGhSdHZKZ3lnaTdRMWptWGxEdnRkc2NWbUt3U1VYbV9NVlFVYkE1RGNGZ1htVWx3a2FHdTdSZklRYzlWbTdIQll5cnJ6cnJ4X3RfZzI4TTB4dlhrYkdhdmZmbzNZdHpzQnMzbEoxMGppYm82b0tLNEc0RloxbW5zZ1dMUk5UbUUxcEJYZTJ4MVJVNkhJckloZXFBZl9Bd0xEUDNaVm15NHJHSWhIQw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "The S&P paces to snap a 2-day skid, and Goldman beefs up its asset management unit",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "publication_date": "Wed, 12 Aug 2026 18:13:44 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/the-sp-paces-to-snap-a-2-day-skid-and-goldman-beefs-up-its-asset-management-unit.html",
-      "source": "rss"
     }
   ]
 }
