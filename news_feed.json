@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T19:47:55.870409+00:00",
+  "generated_at": "2026-08-19T20:19:11.607334+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -82,10 +82,73 @@
       "source": "rss"
     },
     {
+      "title": "Moderna stock soars 177%, Merck jumps 12% after cancer vaccine shows promise in late-stage trial",
+      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+      "publication_date": "Wed, 19 Aug 2026 20:13:50 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "source": "rss"
+    },
+    {
       "title": "BSE looks to launch MSCI-linked futures and options in India",
       "description": "BSE has partnered with MSCI to explore futures and options contracts linked to MSCI indexes in India, subject to regulatory approvals. The move could broaden BSE’s derivatives offerings, strengthen index-based investing and provide investors additional tools to hedge India exposure.",
       "publication_date": "Wed, 19 Aug 2026 20:13:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+      "description": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
+      "publication_date": "Wed, 19 Aug 2026 20:10:14 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+      "source": "rss"
+    },
+    {
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "description": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+      "publication_date": "Wed, 19 Aug 2026 20:07:09 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "source": "rss"
+    },
+    {
+      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+      "description": "Longer-term U.S. Treasury yields pulled back on Wednesday after the Treasury Department announced an upscaled buyback operation of the nation's debt.",
+      "publication_date": "Wed, 19 Aug 2026 20:03:44 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+      "source": "rss"
+    },
+    {
+      "title": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
+      "description": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 20:03:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
+      "description": "Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed",
+      "publication_date": "Wed, 19 Aug 2026 20:02:32 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
+      "source": "rss"
+    },
+    {
+      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+      "publication_date": "Wed, 19 Aug 2026 20:01:53 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+      "source": "rss"
+    },
+    {
+      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+      "publication_date": "Wed, 19 Aug 2026 20:00:17 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
+      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+      "publication_date": "Wed, 19 Aug 2026 20:00:13 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -103,17 +166,10 @@
       "source": "rss"
     },
     {
-      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-      "description": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
-      "publication_date": "Wed, 19 Aug 2026 19:44:25 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-      "source": "rss"
-    },
-    {
-      "title": "Marvell's stock pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-      "publication_date": "Wed, 19 Aug 2026 19:44:04 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+      "description": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+      "publication_date": "Wed, 19 Aug 2026 19:49:28 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
       "source": "rss"
     },
     {
@@ -145,11 +201,11 @@
       "source": "rss"
     },
     {
-      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-      "description": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
-      "publication_date": "Wed, 19 Aug 2026 19:02:50 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-      "source": "rss"
+      "title": "UN's Guterres seriously concerned by US sanctions on ICC - Reuters",
+      "description": "UN's Guterres seriously concerned by US sanctions on ICC &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 19:06:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzJVT2ZyZXROaVlVMktRWGNLUEJ6b0ZBYnphR3lBZGxCN3BYWk55emhLeVl0VkVPQ0ZHSFdKSThHcUNhazlpOHFzbEJ0U01hdDhITUFZaFNJSlFJSmZDQlF2TE50RmctcGllbU9fMGtYa0VGRnJBOUJTZ01yUGF1SzFNeDJ4eDhSZS05NGNuN1M5eHRGUnFUZWF3?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
@@ -157,6 +213,13 @@
       "publication_date": "Wed, 19 Aug 2026 18:58:48 GMT",
       "link": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
       "source": "rss"
+    },
+    {
+      "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
+      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 18:57:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
@@ -177,6 +240,20 @@
       "description": "South Korean container ship will test Arctic route to Europe amid Western concern &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 18:52:42 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMV96VDN2NnFUYzU4cjBWOTdTTm1lOHZNalNSQXVmcGxCV1gtdVR5R3FxSTltWWFRajJOdDAtUGdXdTFvZ2lidHVpeVZJdGpjN1dpdXI5SUdSUFpzTEdfajIyWFJCbUVkYWwzcGhoRlhNVUs1YW9pckIxOUFKV1ZpSzBab2w5WURWaV91bXh1NnpEdzNBd1ZUbk43QUdNY0VoRTFSb3Z4bE1QMUJHcnUxRXV4WENWT3BId2hMSlRsZUF2WGIt?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
+      "description": "Wall St rises as yields ease, Moderna lifts healthcare stocks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 18:46:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Canadian negotiators head home to finalize trade deal with US, avert tariffs - Reuters",
+      "description": "Canadian negotiators head home to finalize trade deal with US, avert tariffs &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 18:42:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -229,20 +306,6 @@
       "source": "rss"
     },
     {
-      "title": "US, Canada trade negotiators meet after Trump sets new tariff deadline - Reuters",
-      "description": "US, Canada trade negotiators meet after Trump sets new tariff deadline &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:49:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
-      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-      "publication_date": "Wed, 19 Aug 2026 17:48:08 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-      "source": "rss"
-    },
-    {
       "title": "Lenskart Solutions among 4 stocks to hit 52-week highs & surge up to 25% in a month",
       "description": "Four BSE 200 stocks—GlaxoSmithKline Pharmaceuticals, Lenskart Solutions, Bosch and Samvardhana Motherson International—hit fresh 52-week highs despite Sensex weakness. The stocks gained 18%-24% over the past month, signalling strong investor interest and positive momentum.",
       "publication_date": "Wed, 19 Aug 2026 17:46:01 +0530",
@@ -255,6 +318,13 @@
       "publication_date": "Wed, 19 Aug 2026 17:42:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hcl-tech-sun-pharma-power-grid-bajaj-finance-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133347947.cms",
       "source": "rss"
+    },
+    {
+      "title": "Israeli airstrike kills nine Palestinians at Gaza police station, medics say - Reuters",
+      "description": "Israeli airstrike kills nine Palestinians at Gaza police station, medics say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 17:40:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHQxTVdDZDFBWlVVb2FyWXBaaC14cE5nZnIwdFN4Z3plZW5XUjdISFR3dEctVW5nRzF6T21QblV5N3NoMTRMWXVqSWxLdGtZT01kcVZQcWE0S3lJTGpSX2Q3Snh6Z3VQaVhZSVZsUTlWblZncGZGUnhxVTJYUm4zSC02VHdUMlFEUFMwR3BOU3RaVzc0X2gxWnEtcFB3VkZpbGZGcUgtNWlXdDBzN0xRS05FUnlOaEwzQm1uNnlKWm1Iekxi?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Tech holds the crown, but defensive positioning grows: BofA survey",
@@ -271,20 +341,6 @@
       "source": "rss"
     },
     {
-      "title": "EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
-      "description": "EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:24:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-      "publication_date": "Wed, 19 Aug 2026 17:22:29 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-      "source": "rss"
-    },
-    {
       "title": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
       "description": "Tony Donatell turned an empty storefront next to a gas station into a sophisticated speakeasy, The Farmer's Cellar. Inside, it's still the \"roaring twenties.\"",
       "publication_date": "Wed, 19 Aug 2026 17:05:01 GMT",
@@ -292,25 +348,11 @@
       "source": "rss"
     },
     {
-      "title": "Wall St recovers as yields ease; Moderna lifts healthcare stocks - Reuters",
-      "description": "Wall St recovers as yields ease; Moderna lifts healthcare stocks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 16:44:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants - Reuters",
       "description": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 16:41:28 GMT",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-      "description": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
-      "publication_date": "Wed, 19 Aug 2026 16:40:21 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-      "source": "rss"
     },
     {
       "title": "Shiprocket shares make strong debut: Stock lists at 35% premium over IPO price at Rs 131",
@@ -404,24 +446,10 @@
       "source": "rss"
     },
     {
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-      "description": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-      "publication_date": "Wed, 19 Aug 2026 15:12:28 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-      "source": "rss"
-    },
-    {
       "title": "Swiggy to see $400 million outflows after Indian-owned status? Jefferies explains why",
       "description": "Swiggy is moving closer to becoming an Indian-owned and controlled company (IOCC), a move that could enable an inventory-led model for Instamart and potentially improve margins. However, Jefferies expects the shift to trigger passive outflows of over $400 million from MSCI and FTSE indices due to foreign ownership limits. The brokerage retained its Buy rating with a target price of Rs 435.",
       "publication_date": "Wed, 19 Aug 2026 15:02:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-to-see-400-million-outflows-after-indian-owned-status-jefferies-explains-why/articleshow/133343604.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-      "publication_date": "Wed, 19 Aug 2026 14:58:26 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
       "source": "rss"
     },
     {
@@ -551,6 +579,13 @@
       "source": "rss"
     },
     {
+      "title": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks - Reuters",
+      "description": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 13:19:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzI2TkFmY3IyRERGdEZtZGtpVGpnN2JScWFpdWdaYjBQczIwSTlBa0daaENLall3b0JONGswUTRqbnNiaVpWVmtTZmFnamJoblJ1ZzRzMEpFaWREb25na2hzR2tVTFRabk81TjVGLWVrdVktUVQtdVJNZUwyWkNFQVU4ZGFhRmpUazZzWjgyV0E2dFd4RFpsV2tUSUc1TGtBSmZiT1lEdWhuVHpDQ0pIUzFDdnVnTm9o?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "India rate panel signals impending hikes, eyes inflation path for timing - Reuters",
       "description": "India rate panel signals impending hikes, eyes inflation path for timing &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 13:18:39 GMT",
@@ -598,13 +633,6 @@
       "publication_date": "Wed, 19 Aug 2026 12:47:46 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-reviewing-ipo-rules-for-smaller-companies-and-delisting-norms-tuhin-kanta-pandey/articleshow/133340819.cms",
       "source": "rss"
-    },
-    {
-      "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 12:32:16 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
@@ -1410,34 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 06:00:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ongc-bpcl-railtel-corporation-exide-industries-and-lohia-corp/articleshow/133327591.cms",
       "source": "rss"
-    },
-    {
-      "title": "Strong IPO gains stoke FOMO fears, set grey market abuzz",
-      "description": "The unofficial grey market shows increased activity with rising share prices. Recent strong IPO listings have boosted investor confidence and expectations for future gains. Several upcoming initial public offerings are experiencing significant grey market premiums. This heightened investor appetite is driven by recent successful stock market debuts. Companies are now pricing their offerings more conservatively to ensure strong subscriptions.",
-      "publication_date": "Wed, 19 Aug 2026 05:40:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms",
-      "source": "rss"
-    },
-    {
-      "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
-      "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 05:19:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Pictures of the Day | August 18, 2026 - Reuters",
-      "description": "Pictures of the Day | August 18, 2026 &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 04:11:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
-      "description": "Hormuz traffic slows as uncertainty over waterway persists &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 03:39:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
-      "source": "Reuters"
     }
   ]
 }
