@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:38:14.439872+00:00",
+  "generated_at": "2026-08-19T14:04:42.471186+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,32 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Rs 3 crore to Rs 4,925 crore: Sebi order gives details on Dhenu Buildcon market cap surge",
+      "description": "Sebi’s interim order alleges Dhenu Buildcon routed Rs 1,000 crore through connected entities as loans, later converting Rs 840 crore into equity. Despite negligible revenue, its market cap surged to Rs 4,925 crore. The regulator ordered restrictions while investigations continue.",
+      "publication_date": "Wed, 19 Aug 2026 19:18:37 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-3-crore-to-rs-4925-crore-sebi-order-gives-details-on-dhenu-buildcon-market-cap-surge/articleshow/133350443.cms",
+      "source": "rss"
+    },
+    {
+      "title": "SanDisk shares soar 3,400% in one year. Can the rally sustain its momentum?",
+      "description": "US stock futures edged higher after a tech-led selloff, as investors monitored Iran tensions and key retail earnings for clues on consumer health.",
+      "publication_date": "Wed, 19 Aug 2026 19:15:56 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sandisk-shares-soar-3400-in-one-year-can-the-rally-sustain-its-momentum/articleshow/133350419.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US stocks: US market opens up after tech-led slump as yields ease; earnings watched",
+      "description": "Major Wall Street indexes opened higher on Wednesday, recovering from a prior session's slump. Government bond yields retreated from multi-decade highs, aiding the market's recovery. Investors assessed a slew of corporate updates following the previous trading day. The Dow Jones Industrial Average rose 120 points at the open. The S&P 500 and Nasdaq Composite also saw gains in early trading.",
+      "publication_date": "Wed, 19 Aug 2026 19:14:25 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-up-after-tech-led-slump-as-yields-ease-earnings-watched/articleshow/133350322.cms",
+      "source": "rss"
+    },
     {
       "title": "Escorts Kubota announces Rs 2,000 cr investment on new plant in UP",
       "description": "Escorts Kubota has announced a substantial investment of Rs 2,000 crore for a cutting-edge manufacturing facility in Uttar Pradesh. This new plant is set to manufacture tractors, farm implements, and construction equipment for international markets. This initiative is aligned with Kubota Corporation's strategy for expansion and establishing manufacturing hubs, significantly enhancing production capacity. Funding will be sourced from share proceeds and internal resources.",
@@ -75,7 +96,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures steady after tech rout; Iran tensions, retail earnings in focus",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks open higher as yields ease after tech-led selloff; earnings in focus",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 17:54:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-rate-hike-moderna-nvidia-micron-sandisk-chip-stock-price-news-19th-august-2026/liveblog/133348429.cms",
@@ -208,10 +229,38 @@
       "source": "rss"
     },
     {
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+      "publication_date": "Wed, 19 Aug 2026 13:48:47 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "source": "rss"
+    },
+    {
+      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+      "publication_date": "Wed, 19 Aug 2026 13:43:39 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
+      "title": "Wall St opens up after tech-led slump as yields ease; earnings watched - Reuters",
+      "description": "Wall St opens up after tech-led slump as yields ease; earnings watched &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 13:39:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here’s why",
       "description": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing weaker wagon and wheelset sales, margin pressure and slower execution, while maintaining a positive view on the company’s long-term wheel manufacturing opportunity.",
       "publication_date": "Wed, 19 Aug 2026 13:39:20 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-price-for-jupiter-wagons-maintains-underperform-after-q1-earnings-heres-why/articleshow/133341991.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Hedge funds are about to jump into prediction markets in a big way",
+      "description": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
+      "publication_date": "Wed, 19 Aug 2026 13:38:44 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
       "source": "rss"
     },
     {
@@ -292,13 +341,6 @@
       "source": "rss"
     },
     {
-      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-      "publication_date": "Wed, 19 Aug 2026 13:08:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-      "source": "rss"
-    },
-    {
       "title": "BSE shares bounce 2% after 5-session losing streak. Here’s why Jefferies, Nuvama advise caution",
       "description": "BSE shares face fresh pressure after Nuvama and Jefferies downgraded the stock, citing headwinds from the Closing Auction Session, RBI’s bank guarantee norms and limited scope for further market share gains. Nuvama cut its target price to Rs 3,240, while Jefferies lowered its target to Rs 2,940.",
       "publication_date": "Wed, 19 Aug 2026 13:07:00 +0530",
@@ -313,18 +355,18 @@
       "source": "rss"
     },
     {
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
-      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-      "publication_date": "Wed, 19 Aug 2026 12:57:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-      "source": "rss"
-    },
-    {
       "title": "Sebi reviewing IPO rules for smaller companies and delisting norms: Tuhin Kanta Pandey",
       "description": "The Securities and Exchange Board of India (SEBI) is actively analyzing new frameworks for small company IPOs and delisting procedures. In a move to bolster global fund management operations from Indian turf, proposed enhancements to portfolio manager regulations aim to strengthen onshore trading strategies. Furthermore, the SEBI head announced that the innovative closing auction session will effectively pinpoint manipulative practices, assuring the public that severe repercussions await any detected violations.",
       "publication_date": "Wed, 19 Aug 2026 12:47:46 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-reviewing-ipo-rules-for-smaller-companies-and-delisting-norms-tuhin-kanta-pandey/articleshow/133340819.cms",
       "source": "rss"
+    },
+    {
+      "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
+      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 12:32:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
@@ -369,13 +411,6 @@
       "source": "rss"
     },
     {
-      "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 12:01:20 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Treasury yields pull back from multi-year highs ahead of FOMC minutes",
       "description": "Treasury yields eased on Wednesday from multi-year highs seen in the previous day, as a sell-off at the long end of the curve eased investor jitters.",
       "publication_date": "Wed, 19 Aug 2026 12:01:13 GMT",
@@ -402,13 +437,6 @@
       "publication_date": "Wed, 19 Aug 2026 11:45:24 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slide-as-semiconductor-and-robotics-shares-tumble/articleshow/133339210.cms",
       "source": "rss"
-    },
-    {
-      "title": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus - Reuters",
-      "description": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 11:43:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Britain's energy price cap to hit three-year high in October, Cornwall Insight says - Reuters",
@@ -1409,34 +1437,6 @@
       "description": "Indel Money plans to raise up to Rs 500 crore through a public issue of non-convertible debentures. The issue will open on August 18 and close on August 31, with an option for early closure. Proceeds will fund onward lending, refinancing existing debt, and general corporate purposes.",
       "publication_date": "Wed, 12 Aug 2026 21:39:48 +0530",
       "link": "https://economictimes.indiatimes.com/markets/bonds/indel-money-to-raise-up-to-rs-500-crore-via-public-issue-of-ncds/articleshow/133187783.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-      "description": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
-      "publication_date": "Wed, 12 Aug 2026 21:37:18 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-      "source": "rss"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "description": "Indian markets extended losses as Tata Group stocks tumbled following N Chandrasekaran’s Tata Sons exit, while crude nearing $90 heightened inflation concerns. Sensex fell 188 points and Nifty declined 36 points, with PSU banks and metals outperforming broader market weakness.",
-      "publication_date": "Wed, 12 Aug 2026 21:30:29 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133187725.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US stocks: CoreWeave, Super Micro surge on signs of sustained AI buildout",
-      "description": "CoreWeave and Super Micro have seen their stock prices soar to new heights amid a rising tide of demand for AI infrastructure. CoreWeave has updated its expectations for annual revenue and operating profit, signaling strong market confidence. Similarly, Super Micro's projections for 2027 revenue exceed Wall Street estimates, reflecting robust investment in AI servers and computing capabilities.",
-      "publication_date": "Wed, 12 Aug 2026 21:26:52 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-coreweave-super-micro-surge-on-signs-of-sustained-ai-buildout/articleshow/133187386.cms",
-      "source": "rss"
-    },
-    {
-      "title": "BofA to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
-      "description": "Bank of America is making headlines with its planned acquisition of a substantial 26.5 percent interest in Jio Credit. This deal, involving a preferential allotment of equity shares and warrants, could see its stake grow to 49.9 percent. The investment signifies Bank of America's commitment to strengthening its foothold in India's financial landscape, utilizing local knowledge for enhanced market development.",
-      "publication_date": "Wed, 12 Aug 2026 21:25:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/update-1-bofa-to-invest-1-9-billion-for-49-9-stake-in-jio-financial-nbfc-unit/articleshow/133187370.cms",
       "source": "rss"
     }
   ]
