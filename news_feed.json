@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:53:45.308404+00:00",
+  "generated_at": "2026-08-19T06:31:41.208789+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: Chinese stocks slide as semiconductor and robotics shares tumble",
+      "description": "Chinese stocks tumbled on Wednesday as semiconductor and robotics shares came under heavy selling pressure, with weak corporate earnings and concerns over the broader economy weighing on sentiment. The CSI300 fell 2.4%, while the Shanghai Composite dropped 2%. Hong Kong shares edged higher. Meanwhile, humanoid robot maker Unitree surged nearly 500% in its Shanghai debut, drawing strong investor interest.",
+      "publication_date": "Wed, 19 Aug 2026 11:45:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slide-as-semiconductor-and-robotics-shares-tumble/articleshow/133339210.cms",
+      "source": "rss"
+    },
+    {
+      "title": "HG Infra Engineering shares jump over 8% after receiving LoI from REC",
+      "description": "HG Infra Engineering shares rose after the company received a letter of intent from REC Power Development and Consultancy for constructing two 220/132/33 kV AIS substations and associated transmission lines in Uttar Pradesh.",
+      "publication_date": "Wed, 19 Aug 2026 11:25:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hg-infra-engineering-shares-jump-over-8-after-receiving-loi-from-rec/articleshow/133338862.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Cerebras stock tumbles: Will CS-4 revive the AI chipmaker?",
+      "description": "Cerebras shares fell 12.7% amid valuation and profitability concerns, while its new CS-4 AI accelerator aims to challenge Nvidia. Investors await evidence of scalable adoption and sustainable growth.",
+      "publication_date": "Wed, 19 Aug 2026 11:11:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cerebras-stock-tumbles-will-cs-4-revive-the-ai-chipmaker/slideshow/133338829.cms",
+      "source": "rss"
+    },
     {
       "title": "L&T Technology Services shares jump 3% after bagging $75 million deal",
       "description": "L&T Technology Services shares gained up to 3.3% after the engineering services company secured a five-year deal worth more than $75 million from a leading global technology enterprise. The mandate spans product engineering, software development, testing, digital engineering, and a dedicated Engineering Center. Technically, the stock remains in neutral territory, with short-term momentum improving but the longer-term trend awaiting confirmation.",
@@ -124,6 +145,13 @@
       "source": "rss"
     },
     {
+      "title": "Britannia Share Price Live Updates: Current Trading Status of Britannia",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 09:25:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-19-aug-2026/liveblog/133336876.cms",
+      "source": "rss"
+    },
+    {
       "title": "Sunshine Pictures IPO Day 2: GMP signals 21% listing gain, issue subscribed 4.33x. Should you apply",
       "description": "Sunshine Pictures IPO has captured the attention of investors on its second bidding day, showcasing impressive demand. Reports indicate it is trading at a notable premium in the grey market. The initial day brought in significant subscriptions, particularly from retail investors. The proceeds from this IPO are aimed at enhancing the company's working capital. Share allotment is scheduled for August 21, leading up to a market debut on August 25.",
       "publication_date": "Wed, 19 Aug 2026 09:23:22 +0530",
@@ -135,6 +163,13 @@
       "description": "Crude oil prices edged closer to $92 a barrel on August 19 as escalating Middle East tensions and diplomatic stalemates between the US and Iran stoked global supply worries. Analysts at Goldman Sachs and JPMorgan warn Brent could spike past $110 if Strait of Hormuz shipping disruptions persist.",
       "publication_date": "Wed, 19 Aug 2026 09:19:59 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
+      "source": "rss"
+    },
+    {
+      "title": "JSW Steel Share Price Live Updates: Systematix Shares & Stock Issues New Recommendation for JSW Steel",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 09:16:59 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-live-updates-19-aug-2026/liveblog/133336681.cms",
       "source": "rss"
     },
     {
@@ -215,6 +250,13 @@
       "source": "rss"
     },
     {
+      "title": "Infosys Share Price Live Updates: Latest Infosys Stock Price",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 08:40:27 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-updates-19-aug-2026/liveblog/133336206.cms",
+      "source": "rss"
+    },
+    {
       "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Struggles Below Support Level",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:40:07 +0530",
@@ -236,7 +278,7 @@
       "source": "rss"
     },
     {
-      "title": "HUL Share Price Live Updates: HUL's Price Movement Signals Weakness",
+      "title": "HUL Share Price Live Updates: HUL Experiences New 52-Week Low",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:36:06 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-19-aug-2026/liveblog/133336135.cms",
@@ -257,7 +299,7 @@
       "source": "rss"
     },
     {
-      "title": "Hindalco Share Price Live Updates: Hindalco's Stock Sees a Minor Weekly Drop",
+      "title": "Hindalco Share Price Live Updates: Hindalco's New Target Price Set by Systematix",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:34:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-updates-19-aug-2026/liveblog/133336100.cms",
@@ -632,6 +674,13 @@
       "description": "Indian shares subdued on higher crude, Treasury yields &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 02:30:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWNtWG9kcFBGcENWOTI3QlhQMWtvaDhydE12OVJVbWJuN1Naclk1UGlGVWJHVEJjU2NLdXBCUThjNzlSRTd6MVBpLVFzUzVldlpRZkZWZ1dIeFJsVGdmMlQxZGFmRnBrM1JNTF9QSzBRV25wS2JNRDZ5ekw5eThjUmphYzMwQXdkeWxRV1MzWnBaWEhWZzItcDFSWFNZQjJLY0dJeUFST2VQY1BmTEx4SDJiVVY4UXI4?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention - Reuters",
+      "description": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 02:16:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
       "source": "Reuters"
     },
     {
@@ -1389,55 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 14:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-      "publication_date": "Wed, 12 Aug 2026 14:28:39 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
-      "source": "rss"
-    },
-    {
-      "title": "N Chandrasekaran era delivered 3.3X market cap growth. Can Tata stocks keep winning after his exit?",
-      "description": "Tata Group’s combined market value has grown 3.3-fold to Rs 22.5 lakh crore since N Chandrasekaran took charge in 2017. With his exit set for February, investors now face a key question: can Tata stocks sustain their strong wealth creation amid leadership uncertainty and growing company-specific challenges?",
-      "publication_date": "Wed, 12 Aug 2026 14:28:14 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/n-chandrasekaran-era-delivered-3-3x-market-cap-growth-can-tata-stocks-keep-winning-after-his-exit/articleshow/133176756.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "description": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
-      "publication_date": "Wed, 12 Aug 2026 14:27:35 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "source": "rss"
-    },
-    {
-      "title": "Ashish Kacholia, Vijay Kedia beat Nifty in Q1, portfolios swell up to 40%",
-      "description": "India’s superstar investors outperformed the Nifty in Q1 FY27, with portfolio values rising as much as 40%. Ashish Dhawan led the pack with a nearly 40% gain, followed by Ashish Kacholia and Hemendra Kothari. Vijay Kedia, Akash Bhansali and other marquee investors also posted strong gains, even as the broader market remained cautious amid heightened volatility.",
-      "publication_date": "Wed, 12 Aug 2026 14:23:08 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-vijay-kedia-beat-nifty-in-q1-portfolios-swell-up-to-40/articleshow/133176614.cms",
-      "source": "rss"
-    },
-    {
-      "title": "HAL Q1 Results: Net profit rises 15% YoY to Rs 1,590 crore, revenue up 14%",
-      "description": "HAL Shares Q1 Results : Hindustan Aeronautics reported an impressive fifteen percent increase in net profit for the first quarter, showcasing robust financial health. Alongside, the company observed a fourteen percent year-on-year rise in operational revenue for the April-June period of the fiscal year twenty twenty-seven. Released on a Wednesday, the findings revealed that HAL shares experienced slight gains following this promising report.",
-      "publication_date": "Wed, 12 Aug 2026 14:20:59 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hal-q1-results-net-profit-rises-15-yoy-to-rs-1590-crore-revenue-up-14/articleshow/133176650.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-      "description": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
-      "publication_date": "Wed, 12 Aug 2026 14:20:10 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
-      "source": "rss"
-    },
-    {
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "description": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
-      "publication_date": "Wed, 12 Aug 2026 14:14:10 GMT",
-      "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-      "source": "rss"
     }
   ]
 }
