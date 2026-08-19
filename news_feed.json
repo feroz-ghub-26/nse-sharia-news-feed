@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:23:36.449951+00:00",
+  "generated_at": "2026-08-19T19:01:20.917430+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,15 +30,22 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 50
+      "article_count": 49
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
+      "description": "The US Treasury will double its buyback operations for long-dated government debt. This move aims to provide liquidity and ease rising bond yields for investors. The increased buybacks will apply to securities maturing between ten and thirty years. This action follows a sharp bond selloff which pushed yields higher. The Treasury seeks to manage market pressures and borrowing costs effectively.",
+      "publication_date": "Wed, 19 Aug 2026 23:44:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-to-double-long-dated-debt-buybacks-to-battle-surging-yields/articleshow/133356002.cms",
+      "source": "rss"
+    },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
       "description": "Indian equities extended losses for a seventh session as rising oil prices and US-Iran tensions heightened risk aversion. Nifty fell to 24,078, while Sensex declined 326 points. Analysts flagged 24,000-24,050 as crucial support, with weak breadth favouring bears.",
@@ -117,17 +124,24 @@
       "source": "rss"
     },
     {
-      "title": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
-      "description": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,' \" prosecutors said.",
-      "publication_date": "Wed, 19 Aug 2026 18:07:40 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
+      "title": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "publication_date": "Wed, 19 Aug 2026 18:58:48 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
       "source": "rss"
     },
     {
       "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
       "description": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-      "publication_date": "Wed, 19 Aug 2026 18:07:21 GMT",
+      "publication_date": "Wed, 19 Aug 2026 18:54:50 GMT",
       "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "source": "rss"
+    },
+    {
+      "title": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
+      "description": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,'\" prosecutors said.",
+      "publication_date": "Wed, 19 Aug 2026 18:54:04 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
       "source": "rss"
     },
     {
@@ -173,7 +187,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks gain as yields ease after tech-led selloff; earnings in focus",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Inflation concerns rose at Fed's July meeting, raised rate hike demands; US stocks rise",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 17:54:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-rate-hike-moderna-nvidia-micron-sandisk-chip-stock-price-news-19th-august-2026/liveblog/133348429.cms",
@@ -261,6 +275,13 @@
       "description": "Wall St recovers as yields ease; Moderna lifts healthcare stocks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 16:44:02 GMT",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants - Reuters",
+      "description": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 16:41:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1416,27 +1437,6 @@
       "description": "Global yields fall after US Treasury boosts debt buybacks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 02:51:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Trump pauses 50% tariffs on goods from Canada, says two sides have a deal - Reuters",
-      "description": "Trump pauses 50% tariffs on goods from Canada, says two sides have a deal &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 02:33:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT190OW5VSmgxa3lud1N6Zm9zbUxGUXpMMEEyRXc4R0M5S3RNMld4YXh4ZjRxc2lNcm9TQ0JOcXVjY0tVYnBveHN6RWcwcXZ3dkxoajNzV3VXNFl1TGFvV1dIaTJUT05vQ1pnRmpkRlFRWmxvUzF2X2d0RUg3STRBQmZWaGVWenhtdzVsS1NtdTJ6b0NyUVk2UUwwNFRfam5DWUp4dEcydUtRQQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "India's Nifty logs longest losing streak in 11 months on higher crude, Treasury yields - Reuters",
-      "description": "India's Nifty logs longest losing streak in 11 months on higher crude, Treasury yields &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 02:30:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWNtWG9kcFBGcENWOTI3QlhQMWtvaDhydE12OVJVbWJuN1Naclk1UGlGVWJHVEJjU2NLdXBCUThjNzlSRTd6MVBpLVFzUzVldlpRZkZWZ1dIeFJsVGdmMlQxZGFmRnBrM1JNTF9QSzBRV25wS2JNRDZ5ekw5eThjUmphYzMwQXdkeWxRV1MzWnBaWEhWZzItcDFSWFNZQjJLY0dJeUFST2VQY1BmTEx4SDJiVVY4UXI4?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard - Reuters",
-      "description": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 02:16:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
       "source": "Reuters"
     }
   ]
