@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:26:28.555466+00:00",
+  "generated_at": "2026-08-19T09:56:53.221299+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,25 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Swiggy to see $400 million outflows after Indian-owned status? Jefferies explains why",
+      "description": "Swiggy is moving closer to becoming an Indian-owned and controlled company (IOCC), a move that could enable an inventory-led model for Instamart and potentially improve margins. However, Jefferies expects the shift to trigger passive outflows of over $400 million from MSCI and FTSE indices due to foreign ownership limits. The brokerage retained its Buy rating with a target price of Rs 435.",
+      "publication_date": "Wed, 19 Aug 2026 15:02:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-to-see-400-million-outflows-after-indian-owned-status-jefferies-explains-why/articleshow/133343604.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sebi to soon roll out AI rules with a ‘kill switch’ for stock market",
+      "description": "Sebi will soon issue guidelines for responsible AI and machine learning use in India’s securities market, with mandatory safeguards including a “kill switch”, human oversight and data controls. Chairman Tuhin Kanta Pandey said the framework will balance innovation with investor protection as AI adoption expands across surveillance, risk assessment, fraud detection and investor servicing, while ensuring accountability among regulated entities.",
+      "publication_date": "Wed, 19 Aug 2026 14:43:35 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms",
+      "source": "rss"
+    },
     {
       "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
       "description": "Behari Lal Engineering shares surged 14% after making a strong market debut, listing at a 63% premium to the IPO price. Brokerages remain positive, citing strong investor appetite and reasonable valuations, though they advise investors to book partial profits after the sharp listing gains. Here’s what SBI Securities and Swastika Investmart recommend on the stock.",
@@ -250,7 +264,7 @@
       "source": "rss"
     },
     {
-      "title": "Cipla Share Price Live Updates: Cipla's Recent Performance",
+      "title": "Cipla Share Price Live Updates: Cipla's Current Financial Snapshot",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 10:04:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-updates-19-aug-2026/liveblog/133337495.cms",
@@ -271,6 +285,13 @@
       "source": "rss"
     },
     {
+      "title": "World’s largest olive oil company pops over 15% as rivals circle in takeover battle",
+      "description": "Shares of Spain's Deoleo jumped on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
+      "publication_date": "Wed, 19 Aug 2026 09:48:27 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+      "source": "rss"
+    },
+    {
       "title": "D-Street’s CAS turmoil clouds BSE’s growth outlook",
       "description": "BSE shares have experienced a significant downturn this month following the launch of a new closing auction session. Since this change on August third, trading volumes and options activity have considerably dropped, raising concerns among analysts who have downgraded their outlook on the stock. The exchange is grappling with new funding rules and possible fee changes, but some analysts remain optimistic about a turnover rebound by October.",
       "publication_date": "Wed, 19 Aug 2026 09:43:31 +0530",
@@ -285,10 +306,24 @@
       "source": "rss"
     },
     {
-      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Stock Update: Gains and Returns",
+      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Price Movement Today",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 09:38:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-19-aug-2026/liveblog/133337038.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dollar risks are mounting. Here’s what could weaken the greenback",
+      "description": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
+      "publication_date": "Wed, 19 Aug 2026 09:32:56 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+      "source": "rss"
+    },
+    {
+      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "description": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
+      "publication_date": "Wed, 19 Aug 2026 09:30:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
       "source": "rss"
     },
     {
@@ -306,8 +341,8 @@
       "source": "rss"
     },
     {
-      "title": "Lalithaa Jewellery Mart IPO Day 3: GMP indicates 20% premium, Subscribed 3.07x; should you subscribe?",
-      "description": "Lalithaa Jewellery IPO GMP: Lalithaa Jewellery Mart IPO enters its third and final day of bidding on August 19, 2026, commanding a 20 per cent grey market premium. Subscribed 3.07 times on Day 2, analysts highlight its strong South India expansion, attractive P/E valuation, and impressive FY26 financial performance for long-term investors.",
+      "title": "Lalithaa Jewellery Mart IPO Day 3: Subscribed 28.89x so far; GMP signals 20% premium. Should you subscribe?",
+      "description": "Amid strong investor interest, the Lalithaa Jewellery Mart IPO has captured attention on its last day of bidding. With notable oversubscription across all categories, the grey market premium is on the rise, reflecting a positive outlook for its market debut. The funds raised are earmarked for retail expansion and enhancing inventory, positioning Lalithaa Jewellery Mart advantageously within the growing organised jewellery sector.",
       "publication_date": "Wed, 19 Aug 2026 09:28:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-day-3-gmp-indicates-20-premium-subscribed-3-07x-should-you-subscribe/articleshow/133336766.cms",
       "source": "rss"
@@ -352,13 +387,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 09:16:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-19-aug-2026/liveblog/133336665.cms",
-      "source": "rss"
-    },
-    {
-      "title": "World’s largest olive oil company pops over 15% as rivals circle in takeover battle",
-      "description": "Shares of Spain's Deoleo jumped nearly 16% on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
-      "publication_date": "Wed, 19 Aug 2026 09:14:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
       "source": "rss"
     },
     {
@@ -418,13 +446,6 @@
       "source": "rss"
     },
     {
-      "title": "Bond selloff slows, oil climbs further - Reuters",
-      "description": "Bond selloff slows, oil climbs further &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 08:49:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Financial Snapshot",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:41:52 +0530",
@@ -465,6 +486,13 @@
       "publication_date": "Wed, 19 Aug 2026 08:39:28 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-incs-blockbuster-q1-earnings-may-not-last-as-3-key-tailwinds-fade-in-h2/articleshow/133336153.cms",
       "source": "rss"
+    },
+    {
+      "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - reuters.com",
+      "description": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base &nbsp;&nbsp; reuters.com",
+      "publication_date": "Wed, 19 Aug 2026 08:37:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
+      "source": "reuters.com"
     },
     {
       "title": "Shankesh Jewellers IPO Day 2: GMP, subscription status. Should you subscribe?",
@@ -796,13 +824,6 @@
       "source": "rss"
     },
     {
-      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
-      "description": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
-      "publication_date": "Wed, 19 Aug 2026 07:06:09 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-      "source": "rss"
-    },
-    {
       "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
       "description": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
       "publication_date": "Wed, 19 Aug 2026 06:55:57 GMT",
@@ -817,11 +838,11 @@
       "source": "rss"
     },
     {
-      "title": "Japan criticises U.S. over 'unfortunate' sanctions on ICC - Reuters",
-      "description": "Japan criticises U.S. over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
+      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - reuters.com",
+      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 06:44:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
@@ -873,18 +894,18 @@
       "source": "rss"
     },
     {
-      "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
-      "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment &nbsp;&nbsp; Reuters",
+      "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - reuters.com",
+      "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 05:19:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Pictures of the Day | August 18, 2026 - Reuters",
-      "description": "Pictures of the Day | August 18, 2026 &nbsp;&nbsp; Reuters",
+      "title": "Pictures of the Day | August 18, 2026 - reuters.com",
+      "description": "Pictures of the Day | August 18, 2026 &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 04:11:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Target is set to report earnings before the bell. Here's what to expect",
@@ -894,18 +915,18 @@
       "source": "rss"
     },
     {
-      "title": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
-      "description": "Hormuz traffic slows as uncertainty over waterway persists &nbsp;&nbsp; Reuters",
+      "title": "Hormuz traffic slows as uncertainty over waterway persists - reuters.com",
+      "description": "Hormuz traffic slows as uncertainty over waterway persists &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 03:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Indian central bank likely intervenes to shield rupee from oil strain, traders say - Reuters",
-      "description": "Indian central bank likely intervenes to shield rupee from oil strain, traders say &nbsp;&nbsp; Reuters",
+      "title": "Indian central bank likely intervenes to shield rupee from oil strain, traders say - reuters.com",
+      "description": "Indian central bank likely intervenes to shield rupee from oil strain, traders say &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 03:32:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHVOeHdQRXVmbHgxLVhUOXdSNlFLSFlXSVBFZUxSSVQwOUR4WjhlaW9ZRE9fQUZTbjQ1b1VJbWpMLTNpQ1RYdXF5cmZ5QjhIYXJNN0R5UWlGQTlKdmZjV1ZZNUotR0NNWWJOWGVxM0EyTkNJeXFsX0J6d1dITlZwNTI5WDRrWjV0Y1lZM3ZpdU9WNjlObGNSVXRvbzVzUUo3cloyN0FBNUl0a3JVWUIwQVg3bVRNTWRwTmw4WnB3?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
@@ -915,6 +936,13 @@
       "source": "rss"
     },
     {
+      "title": "Bond selloff slows, oil climbs further - reuters.com",
+      "description": "Bond selloff slows, oil climbs further &nbsp;&nbsp; reuters.com",
+      "publication_date": "Wed, 19 Aug 2026 02:51:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
+      "source": "reuters.com"
+    },
+    {
       "title": "Trump pauses 50% tariffs on goods from Canada, says two sides have a deal - Reuters",
       "description": "Trump pauses 50% tariffs on goods from Canada, says two sides have a deal &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 02:33:35 GMT",
@@ -922,18 +950,18 @@
       "source": "Reuters"
     },
     {
-      "title": "Indian shares subdued on higher crude, Treasury yields - Reuters",
-      "description": "Indian shares subdued on higher crude, Treasury yields &nbsp;&nbsp; Reuters",
+      "title": "Indian shares subdued on higher crude, Treasury yields - reuters.com",
+      "description": "Indian shares subdued on higher crude, Treasury yields &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 02:30:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWNtWG9kcFBGcENWOTI3QlhQMWtvaDhydE12OVJVbWJuN1Naclk1UGlGVWJHVEJjU2NLdXBCUThjNzlSRTd6MVBpLVFzUzVldlpRZkZWZ1dIeFJsVGdmMlQxZGFmRnBrM1JNTF9QSzBRV25wS2JNRDZ5ekw5eThjUmphYzMwQXdkeWxRV1MzWnBaWEhWZzItcDFSWFNZQjJLY0dJeUFST2VQY1BmTEx4SDJiVVY4UXI4?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
-      "title": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention - Reuters",
-      "description": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention &nbsp;&nbsp; Reuters",
+      "title": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention - reuters.com",
+      "description": "Indian rupee volatility bets sink to seven-month low on sustained RBI intervention &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 02:16:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
@@ -978,11 +1006,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Oil extends climb on prolonged Hormuz export uncertainty - Reuters",
-      "description": "Oil extends climb on prolonged Hormuz export uncertainty &nbsp;&nbsp; Reuters",
+      "title": "Oil hits three-week high on uncertainty over Hormuz - reuters.com",
+      "description": "Oil hits three-week high on uncertainty over Hormuz &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 19 Aug 2026 00:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "South Korea's SK Shipping to become Asia's largest LNG carrier operator in H-Line asset swap - Reuters",
@@ -1410,34 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 17:44:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-flat-major-move-likely-only-after-us-inflation-data/articleshow/133182539.cms",
       "source": "rss"
-    },
-    {
-      "title": "Axis Bank raises $300 million via bonds",
-      "description": "Axis Bank has successfully secured USD 300 million from international investors, aimed at bolstering its growth initiatives. With a coupon rate of 5.348 percent, the newly issued senior notes will be listed on the India International Exchange and NSE IFSC. This issuance aligns with all necessary regulatory standards, demonstrating the bank's commitment to growth.",
-      "publication_date": "Wed, 12 Aug 2026 17:42:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-300-million-via-bonds/articleshow/133182507.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Grasim Industries swings to profit in Q1, revenue rises 21% YoY",
-      "description": "Grasim Industries reported strong Q1 FY27 results, with standalone net profit reaching Rs 247 crore and revenue rising 28% YoY. Consolidated net profit jumped 51% to Rs 2,146 crore, driven by robust performance across core and growth businesses.",
-      "publication_date": "Wed, 12 Aug 2026 17:23:08 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/grasim-industries-swings-to-profit-in-q1-revenue-rises-21-yoy/articleshow/133181711.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Here are five key takeaways from the July CPI inflation report",
-      "description": "Readings for July on the prices consumers pay for goods and services came in pretty much on target.",
-      "publication_date": "Wed, 12 Aug 2026 17:14:09 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed expected to leave rates unchanged next month after soft inflation data - Reuters",
-      "description": "Fed expected to leave rates unchanged next month after soft inflation data &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 17:09:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2NNM1hicnFuakczck9zME1UVXVFV2hjLVFzbkJMY1NaT3JUcWlfcDN3Rko0RU1iSFEzS3VQaGJibEo5S05icjFXN09POFE0dGFYS3pjTlMxa0hKSnJ2SjdaVDJRZXNIR3h5dTZvTkgxalowRndaeUttbHc0OFZvbmJGcXJ3UnhxYVZrSGdfbmllVXYzMmRUQ2VrMUE2eGJwa1VDdEJCM01fVlp6b1U0?oc=5",
-      "source": "Reuters"
     }
   ]
 }
