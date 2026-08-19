@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:02:43.386481+00:00",
+  "generated_at": "2026-08-19T09:26:28.555466+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,39 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
+      "description": "Behari Lal Engineering shares surged 14% after making a strong market debut, listing at a 63% premium to the IPO price. Brokerages remain positive, citing strong investor appetite and reasonable valuations, though they advise investors to book partial profits after the sharp listing gains. Here’s what SBI Securities and Swastika Investmart recommend on the stock.",
+      "publication_date": "Wed, 19 Aug 2026 14:41:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-rally-14-after-stellar-debut-what-are-brokerages-saying/articleshow/133343201.cms",
+      "source": "rss"
+    },
+    {
+      "title": "BlackRock, Capital Group anchor IDFC FIRST Bank’s maiden $500 million global bond",
+      "description": "IDFC FIRST Bank raised $500 million through its maiden international bond issuance, marking its entry into global debt markets. The three-year senior notes, due in 2029, carry a 5.625% coupon and attracted major investors including BlackRock, Capital Group and AllianceBernstein. The fundraising diversifies the bank’s funding base and supports its long-term growth ambitions.",
+      "publication_date": "Wed, 19 Aug 2026 14:28:25 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-capital-group-anchor-idfc-first-banks-maiden-500-million-global-bond/articleshow/133342921.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Indian Bank raises $400 million for four years",
+      "description": "Indian Bank raised $400 million through a four-year overseas funding programme via its GIFT City branch, joining Indian lenders tapping global debt markets. Banks are accelerating dollar bond issuances following regulatory changes to the concessional swap window for FCNR deposits. Axis, ICICI, Federal, IDFC First, Kotak Mahindra and Yes Bank are also active.",
+      "publication_date": "Wed, 19 Aug 2026 14:20:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-400-million-for-four-years/articleshow/133342708.cms",
+      "source": "rss"
+    },
+    {
+      "title": "IDFC First Bank raises $500 million through maiden overseas bond issue",
+      "description": "IDFC First Bank raised $500 million through its first international bond issuance, marking its entry into global debt markets. The three-year bonds carry a 5.625% coupon and mature in 2029. Backed by an investment-grade S&P rating, the issue attracted major global investors, diversifying the bank’s funding sources and supporting long-term expansion.",
+      "publication_date": "Wed, 19 Aug 2026 14:16:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/idfc-first-bank-raises-500-million-through-maiden-overseas-bond-issue/articleshow/133342583.cms",
+      "source": "rss"
+    },
     {
       "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here’s why",
       "description": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing weaker wagon and wheelset sales, margin pressure and slower execution, while maintaining a positive view on the company’s long-term wheel manufacturing opportunity.",
@@ -285,7 +313,7 @@
       "source": "rss"
     },
     {
-      "title": "Britannia Share Price Live Updates: Current Trading Status of Britannia",
+      "title": "Britannia Share Price Live Updates: Britannia's Daily Price Change",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 09:25:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-19-aug-2026/liveblog/133336876.cms",
@@ -320,10 +348,17 @@
       "source": "rss"
     },
     {
-      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Recent Stock Performance",
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Recent Price Trends",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 09:16:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-19-aug-2026/liveblog/133336665.cms",
+      "source": "rss"
+    },
+    {
+      "title": "World’s largest olive oil company pops over 15% as rivals circle in takeover battle",
+      "description": "Shares of Spain's Deoleo jumped nearly 16% on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
+      "publication_date": "Wed, 19 Aug 2026 09:14:32 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
       "source": "rss"
     },
     {
@@ -383,11 +418,11 @@
       "source": "rss"
     },
     {
-      "title": "World’s largest olive oil company pops over 17% as rivals circle in takeover battle",
-      "description": "Shares of Spain's Deoleo jumped nearly 16% on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
-      "publication_date": "Wed, 19 Aug 2026 08:49:30 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
-      "source": "rss"
+      "title": "Bond selloff slows, oil climbs further - Reuters",
+      "description": "Bond selloff slows, oil climbs further &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 08:49:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Financial Snapshot",
@@ -840,7 +875,7 @@
     {
       "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
       "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 05:19:44 GMT",
+      "publication_date": "Wed, 19 Aug 2026 05:19:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
       "source": "Reuters"
     },
@@ -852,10 +887,24 @@
       "source": "Reuters"
     },
     {
+      "title": "Target is set to report earnings before the bell. Here's what to expect",
+      "description": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
+      "publication_date": "Wed, 19 Aug 2026 04:01:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "source": "rss"
+    },
+    {
       "title": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
       "description": "Hormuz traffic slows as uncertainty over waterway persists &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 03:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Indian central bank likely intervenes to shield rupee from oil strain, traders say - Reuters",
+      "description": "Indian central bank likely intervenes to shield rupee from oil strain, traders say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 03:32:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHVOeHdQRXVmbHgxLVhUOXdSNlFLSFlXSVBFZUxSSVQwOUR4WjhlaW9ZRE9fQUZTbjQ1b1VJbWpMLTNpQ1RYdXF5cmZ5QjhIYXJNN0R5UWlGQTlKdmZjV1ZZNUotR0NNWWJOWGVxM0EyTkNJeXFsX0J6d1dITlZwNTI5WDRrWjV0Y1lZM3ZpdU9WNjlObGNSVXRvbzVzUUo3cloyN0FBNUl0a3JVWUIwQVg3bVRNTWRwTmw4WnB3?oc=5",
       "source": "Reuters"
     },
     {
@@ -864,13 +913,6 @@
       "publication_date": "Wed, 19 Aug 2026 03:18:57 GMT",
       "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
       "source": "rss"
-    },
-    {
-      "title": "Bond selloff slows, oil climbs further - Reuters",
-      "description": "Bond selloff slows, oil climbs further &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 02:51:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Trump pauses 50% tariffs on goods from Canada, says two sides have a deal - Reuters",
@@ -1396,48 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 17:09:12 GMT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2NNM1hicnFuakczck9zME1UVXVFV2hjLVFzbkJMY1NaT3JUcWlfcDN3Rko0RU1iSFEzS3VQaGJibEo5S05icjFXN09POFE0dGFYS3pjTlMxa0hKSnJ2SjdaVDJRZXNIR3h5dTZvTkgxalowRndaeUttbHc0OFZvbmJGcXJ3UnhxYVZrSGdfbmllVXYzMmRUQ2VrMUE2eGJwa1VDdEJCM01fVlp6b1U0?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Israel's military says it targeted a Hamas commander planning attacks in Gaza - Reuters",
-      "description": "Israel's military says it targeted a Hamas commander planning attacks in Gaza &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 17:08:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUk51TkRwcXdfMzk0VGlTSW5zeENZQnVLaXktNVpMQzFzMGJYazBQbFk3YlZrNmdDaW5kWjlnQ25IT1pVekljNl93X0dsUEUxREZicF9FUm1qYzZMaEcxa2tOU0dQV3E5bC1kMGI5bVBaQWI1TVZvVng1VGZDSDMzdDcyVDkwNVNoNW5aVUZKYUk5NFdlMjJZeDBhWVVaS2ZTdmQ0QWpNZnF0UFd3M1RjZ3NGbUVzXzRldGRpeklUMGZ0Y2c?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-      "publication_date": "Wed, 12 Aug 2026 16:59:49 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-      "source": "rss"
-    },
-    {
-      "title": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-      "description": "Credible missile threat led to secret aircraft switch for Trump, source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 16:58:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
-      "description": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
-      "publication_date": "Wed, 12 Aug 2026 16:48:53 GMT",
-      "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
-      "source": "rss"
-    },
-    {
-      "title": "About 1,200 people evacuated from coastal wildfire in northern France - Reuters",
-      "description": "About 1,200 people evacuated from coastal wildfire in northern France &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 16:44:03 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkhNbWMxaUdiZUpPWWc1V28zazhjUWo0Und6dy1Qb2ZpckNFQTJSZEk2NzBRaGpjZmt0Y2ZYcmhZRTNjV0VmQkU1OTZDeWZ4ejMwSHVQSXVsenJ1V25mQTd1MlliZ3gtQ3BmX19lcldUX1BRN3FZUEdJY3BXQUdyX1doZXBkQ2ppUjJhNS1FM3BVUEkydnRXX0ZzTS1xN184M3RxalJfT19ENmx1bnNKXzFWWkI5TVhJ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Embassy Office Parks REIT to enter Nifty 500, becomes only investment trust in Nifty Midcap 150",
-      "description": "Embassy Office Parks REIT will be included in the Nifty 500 and Nifty Midcap 150 from September 30, 2026, as part of NSE Indices’ latest periodic review. The REIT will also enter several other broad-based indices, potentially increasing its visibility and participation from institutional and passive investors.",
-      "publication_date": "Wed, 12 Aug 2026 16:36:32 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/embassy-office-parks-reit-to-enter-nifty-500-become-only-investment-trust-in-nifty-midcap-150/articleshow/133180478.cms",
-      "source": "rss"
     }
   ]
 }
