@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:48:28.788896+00:00",
+  "generated_at": "2026-08-19T18:23:36.449951+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
@@ -117,6 +117,27 @@
       "source": "rss"
     },
     {
+      "title": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
+      "description": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,' \" prosecutors said.",
+      "publication_date": "Wed, 19 Aug 2026 18:07:40 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
+      "source": "rss"
+    },
+    {
+      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "description": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+      "publication_date": "Wed, 19 Aug 2026 18:07:21 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "source": "rss"
+    },
+    {
+      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+      "description": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
+      "publication_date": "Wed, 19 Aug 2026 18:06:04 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+      "source": "rss"
+    },
+    {
       "title": "Escorts Kubota announces Rs 2,000 cr investment on new plant in UP",
       "description": "Escorts Kubota has announced a substantial investment of Rs 2,000 crore for a cutting-edge manufacturing facility in Uttar Pradesh. This new plant is set to manufacture tractors, farm implements, and construction equipment for international markets. This initiative is aligned with Kubota Corporation's strategy for expansion and establishing manufacturing hubs, significantly enhancing production capacity. Funding will be sourced from share proceeds and internal resources.",
       "publication_date": "Wed, 19 Aug 2026 18:05:46 +0530",
@@ -152,7 +173,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks edge higher as yields ease after tech-led selloff; earnings in focus",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks gain as yields ease after tech-led selloff; earnings in focus",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 17:54:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-rate-hike-moderna-nvidia-micron-sandisk-chip-stock-price-news-19th-august-2026/liveblog/133348429.cms",
@@ -164,6 +185,13 @@
       "publication_date": "Wed, 19 Aug 2026 17:53:44 +0530",
       "link": "https://economictimes.indiatimes.com/markets/bonds/oil-pain-pins-india-bonds-in-range-rbi-minutes-to-give-next-cue/articleshow/133348325.cms",
       "source": "rss"
+    },
+    {
+      "title": "US, Canada trade negotiators meet after Trump sets new tariff deadline - Reuters",
+      "description": "US, Canada trade negotiators meet after Trump sets new tariff deadline &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 17:49:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
@@ -208,18 +236,18 @@
       "source": "rss"
     },
     {
+      "title": "EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
+      "description": "EXCLUSIVE: Mossad director, Syria foreign minister discussed Turkish military deployments before strikes, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 17:24:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
       "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
       "publication_date": "Wed, 19 Aug 2026 17:22:29 GMT",
       "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
       "source": "rss"
-    },
-    {
-      "title": "US, Canada trade negotiators meet after Trump sets new tariff deadline - Reuters",
-      "description": "US, Canada trade negotiators meet after Trump sets new tariff deadline &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:09:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
@@ -569,13 +597,6 @@
       "description": "Unitree shares surged nearly six-fold in their Shanghai debut, marking a landmark listing for China’s rapidly expanding robotics industry. The strong debut reflects investor enthusiasm for humanoid and quadruped robots as Beijing prioritises robotics as a strategic technology sector, though questions remain over commercial adoption and growing US restrictions.",
       "publication_date": "Wed, 19 Aug 2026 12:05:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-unitree-shares-soar-nearly-six-fold-in-shanghai-debut-as-robotics-boom-gains-momentum/articleshow/133339716.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Treasury yields pull back from multi-year highs ahead of FOMC minutes",
-      "description": "Treasury yields eased on Wednesday from multi-year highs seen in the previous day, as a sell-off at the long end of the curve eased investor jitters.",
-      "publication_date": "Wed, 19 Aug 2026 12:01:13 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
       "source": "rss"
     },
     {
@@ -1391,8 +1412,8 @@
       "source": "rss"
     },
     {
-      "title": "Global bonds rally on signs of support for US Treasury market - Reuters",
-      "description": "Global bonds rally on signs of support for US Treasury market &nbsp;&nbsp; Reuters",
+      "title": "Global yields fall after US Treasury boosts debt buybacks - Reuters",
+      "description": "Global yields fall after US Treasury boosts debt buybacks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 02:51:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
       "source": "Reuters"
@@ -1417,27 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 02:16:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-      "description": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-      "publication_date": "Wed, 19 Aug 2026 01:57:05 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-      "source": "rss"
-    },
-    {
-      "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
-      "description": "One country appears to be the best place to hedge market impact from severe El Niño shocks to global food supply chains, according to Bank of America.",
-      "publication_date": "Wed, 19 Aug 2026 01:49:04 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
-      "source": "rss"
-    },
-    {
-      "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
-      "description": "Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses. Investors pivoted from growth-focused sectors to safer bets like healthcare. Additionally, oil prices rose amidst geopolitical instability and changes in military strategies.",
-      "publication_date": "Wed, 19 Aug 2026 01:39:53 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
-      "source": "rss"
     }
   ]
 }
