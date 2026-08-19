@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:31:41.208789+00:00",
+  "generated_at": "2026-08-19T07:13:19.996548+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,31 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
+    {
+      "title": "Shiprocket shares soar 10% after bumper market debut, rally 48% from IPO price. Time to buy or sell?",
+      "description": "Shiprocket shares extended their post-listing rally, after making a strong debut at a 35% premium to the IPO price. The stock touched Rs 144, taking its gains from the issue price to over 48%. Analysts advised allotted investors to book some profits, while fresh investors should wait for dips.",
+      "publication_date": "Wed, 19 Aug 2026 12:10:15 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-soar-10-after-bumper-market-debut-rally-48-from-ipo-price-time-to-buy-or-sell/articleshow/133339815.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Unitree shares soar nearly six-fold in Shanghai debut as robotics boom gains momentum",
+      "description": "Unitree shares surged nearly six-fold in their Shanghai debut, marking a landmark listing for China’s rapidly expanding robotics industry. The strong debut reflects investor enthusiasm for humanoid and quadruped robots as Beijing prioritises robotics as a strategic technology sector, though questions remain over commercial adoption and growing US restrictions.",
+      "publication_date": "Wed, 19 Aug 2026 12:05:22 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-unitree-shares-soar-nearly-six-fold-in-shanghai-debut-as-robotics-boom-gains-momentum/articleshow/133339716.cms",
+      "source": "rss"
+    },
+    {
+      "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
+      "description": "City gas distributor stocks rallied after the government approved an incentive scheme to accelerate domestic PNG connections from September 1. Mahanagar Gas, IGL, Adani Total Gas rose as the scheme aims to expand active piped gas connections and promote cleaner, safer and affordable cooking fuel.",
+      "publication_date": "Wed, 19 Aug 2026 12:01:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-mgl-adani-total-gas-shares-rally-up-to-6-as-govt-boosts-domestic-png-push/articleshow/133339597.cms",
+      "source": "rss"
+    },
     {
       "title": "Global Market: Chinese stocks slide as semiconductor and robotics shares tumble",
       "description": "Chinese stocks tumbled on Wednesday as semiconductor and robotics shares came under heavy selling pressure, with weak corporate earnings and concerns over the broader economy weighing on sentiment. The CSI300 fell 2.4%, while the Shanghai Composite dropped 2%. Hong Kong shares edged higher. Meanwhile, humanoid robot maker Unitree surged nearly 500% in its Shanghai debut, drawing strong investor interest.",
@@ -121,6 +142,13 @@
       "description": "BSE shares have experienced a significant downturn this month following the launch of a new closing auction session. Since this change on August third, trading volumes and options activity have considerably dropped, raising concerns among analysts who have downgraded their outlook on the stock. The exchange is grappling with new funding rules and possible fee changes, but some analysts remain optimistic about a turnover rebound by October.",
       "publication_date": "Wed, 19 Aug 2026 09:43:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-streets-cas-turmoil-clouds-bses-growth-outlook/articleshow/133336997.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Stock Update: Gains and Returns",
+      "description": "",
+      "publication_date": "Wed, 19 Aug 2026 09:38:26 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-19-aug-2026/liveblog/133337038.cms",
       "source": "rss"
     },
     {
@@ -229,7 +257,7 @@
       "source": "rss"
     },
     {
-      "title": "Kotak Bank Share Price Live Updates: Kotak Bank Falls Below Key Moving Average",
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Financial Snapshot",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:41:52 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-19-aug-2026/liveblog/133336239.cms",
@@ -306,14 +334,14 @@
       "source": "rss"
     },
     {
-      "title": "Axis Bank Share Price Live Updates: Positive Momentum for Axis Bank as it Exceeds 20-Day SMA",
+      "title": "Axis Bank Share Price Live Updates: Axis Bank's Market Update",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:31:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-19-aug-2026/liveblog/133336063.cms",
       "source": "rss"
     },
     {
-      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Breaks Above 20-Day SMA, Signaling Positive Momentum",
+      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Sees Minor Drop in Price",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:31:01 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-today-live-19-aug-2026/liveblog/133336048.cms",
@@ -355,7 +383,7 @@
       "source": "rss"
     },
     {
-      "title": "HCL Tech Share Price Live Updates: HCL Tech Stock Details",
+      "title": "HCL Tech Share Price Live Updates: HCL Tech's Market Position: Current Trends",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:26:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-19-aug-2026/liveblog/133335956.cms",
@@ -586,6 +614,27 @@
       "source": "rss"
     },
     {
+      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+      "description": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
+      "publication_date": "Wed, 19 Aug 2026 07:08:19 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+      "source": "rss"
+    },
+    {
+      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "description": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
+      "publication_date": "Wed, 19 Aug 2026 07:06:09 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+      "source": "rss"
+    },
+    {
+      "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "description": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
+      "publication_date": "Wed, 19 Aug 2026 06:55:57 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+      "source": "rss"
+    },
+    {
       "title": "Milky Mist Dairy Foods lists at 18% premium to issue price",
       "description": "Mumbai-based Milky Mist Dairy Foods made a strong debut on the NSE, listing at ₹165—17.9% above its issue price of ₹140. The stock climbed further to close at the day’s high of ₹181.50, valuing the company at ₹13,972.66 crore at the close.",
       "publication_date": "Wed, 19 Aug 2026 06:45:12 +0530",
@@ -640,6 +689,13 @@
       "publication_date": "Wed, 19 Aug 2026 05:40:27 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms",
       "source": "rss"
+    },
+    {
+      "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
+      "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 05:19:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Pictures of the Day | August 18, 2026 - Reuters",
@@ -1382,62 +1438,6 @@
       "publication_date": "Wed, 12 Aug 2026 15:23:12 GMT",
       "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
       "source": "rss"
-    },
-    {
-      "title": "Marksans Pharma shares rally over 9% after Q1 profit spikes 174% YoY to Rs 159 crore",
-      "description": "Marksans Pharma shares surged after Q1FY27 profit jumped 174% YoY to Rs 159 crore. Revenue rose 35.6% to Rs 841 crore, while EBITDA hit a record Rs 213 crore, driven by strong growth in its UK and Europe formulation businesses.",
-      "publication_date": "Wed, 12 Aug 2026 15:22:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/marksans-pharma-shares-rally-over-9-after-q1-profit-spikes-174-yoy-to-rs-159-crore/articleshow/133178142.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: Euro zone bond yields dip ahead of US CPI, heavy debt supply",
-      "description": "Euro zone government bond prices edged higher as investors remained cautious ahead of key U.S. inflation data and a heavy pipeline of new bond supply. Renewed tensions in the Middle East and rising oil prices added to inflation concerns, while German Bund yields eased. Markets also remained focused on upcoming bond auctions and the outlook for interest rates.",
-      "publication_date": "Wed, 12 Aug 2026 15:19:57 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-dip-ahead-of-us-cpi-heavy-debt-supply/articleshow/133178019.cms",
-      "source": "rss"
-    },
-    {
-      "title": "₹18K cr bet! Retail investors bet on Infosys, TCS, Reliance & 3 other falling bluechips",
-      "description": "",
-      "publication_date": "Wed, 12 Aug 2026 15:15:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/18k-cr-bet-retail-investors-bet-on-infosys-tcs-reliance-3-other-falling-bluechips/videoshow/133178010.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: European shares subdued as investors assess earnings, geopolitical risks ahead of US inflation data",
-      "description": "European shares traded largely flat as investors assessed mixed corporate earnings, rising oil prices and renewed geopolitical tensions ahead of key U.S. inflation data. Energy stocks led gains, while automobiles and parts declined. Investors remained cautious amid concerns over inflation, global trade and the outlook for interest rates.",
-      "publication_date": "Wed, 12 Aug 2026 14:59:30 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-subdued-as-investors-assess-earnings-geopolitical-risks-ahead-of-us-inflation-data/articleshow/133177703.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Cupid shares jump nearly 9% in two days post Q1 earnings",
-      "description": "Cupid shares gained 8.8% in two days after the company reported a threefold rise in Q1 FY27 net profit to Rs 44 crore, while revenue surged 159% YoY to Rs 155 crore. Strong operating performance, margin expansion and a higher FY27 guidance have strengthened the outlook for the stock.",
-      "publication_date": "Wed, 12 Aug 2026 14:52:14 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-nearly-9-in-two-days-post-q1-earnings/articleshow/133177435.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Syria receives first shipments at pier previously used by Russia - Reuters",
-      "description": "Syria receives first shipments at pier previously used by Russia &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 14:47:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1F6QTROOWFGelRhMi1TN1N2T2luTk1EWnAwRElTb196c2tSYW5JalhXQzktM0RXRkNFa1VfeUYtVjBnNERXTFJBSjFNRkQ4eVBaS3JqZ2w5M1VhbUdxZHpnZGdVLVdhWWZ3S3VRbUlvYXM2RTV3d0lYeEg0cnR4LXg4c2FUeE82YjZ3N08wXzFRT0VKWnNYZXpobFBaRnlJa2V1WnBTZXZpMUNqbzRLYXBvdjg2QQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Indian rupee nudges up on RBI intervention; investors eye inflation data - Reuters",
-      "description": "Indian rupee nudges up on RBI intervention; investors eye inflation data &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 14:45:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Trump says US has 'total control' over Strait of Hormuz - Reuters",
-      "description": "Trump says US has 'total control' over Strait of Hormuz &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 12 Aug 2026 14:39:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
-      "source": "Reuters"
     }
   ]
 }
