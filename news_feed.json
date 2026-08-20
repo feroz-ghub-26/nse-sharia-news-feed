@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:51:35.352813+00:00",
+  "generated_at": "2026-08-20T01:57:34.434766+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
+      "status": "empty",
       "article_count": 0
     }
   ],
@@ -54,32 +54,11 @@
       "source": "rss"
     },
     {
-      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
-      "description": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
-      "publication_date": "Wed, 19 Aug 2026 23:52:55 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "source": "rss"
-    },
-    {
       "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
       "description": "The US Treasury will double its buyback operations for long-dated government debt. This move aims to provide liquidity and ease rising bond yields for investors. The increased buybacks will apply to securities maturing between ten and thirty years. This action follows a sharp bond selloff which pushed yields higher. The Treasury seeks to manage market pressures and borrowing costs effectively.",
       "publication_date": "Wed, 19 Aug 2026 23:44:57 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-to-double-long-dated-debt-buybacks-to-battle-surging-yields/articleshow/133356002.cms",
       "source": "rss"
-    },
-    {
-      "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
-      "description": "US could cut key tariffs as part of proposed Canada deal, source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 23:14:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
-      "description": "Wall St rises as yields ease, Moderna lifts healthcare stocks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 22:58:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
@@ -474,6 +453,13 @@
       "source": "rss"
     },
     {
+      "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
+      "description": "US could cut key tariffs as part of proposed Canada deal, source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 16:19:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Hedge funds are about to jump into prediction markets in a big way",
       "description": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
       "publication_date": "Wed, 19 Aug 2026 16:04:12 GMT",
@@ -864,6 +850,13 @@
       "publication_date": "Wed, 19 Aug 2026 10:36:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-crash-ahead-clsa-downgrades-tcs-infosys-wipro-other-stocks-revises-target-prices-heres-why/articleshow/133337948.cms",
       "source": "rss"
+    },
+    {
+      "title": "US stock futures steady after tech slump; investors focus on Middle East tensions - Reuters",
+      "description": "US stock futures steady after tech slump; investors focus on Middle East tensions &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 10:36:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
@@ -1438,6 +1431,13 @@
       "publication_date": "Wed, 19 Aug 2026 07:24:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms",
       "source": "rss"
+    },
+    {
+      "title": "Kenya Airways says its fuel cost up 72% due to Middle East conflict - Reuters",
+      "description": "Kenya Airways says its fuel cost up 72% due to Middle East conflict &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 07:22:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5",
+      "source": "Reuters"
     }
   ]
 }
