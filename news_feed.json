@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:05:50.629761+00:00",
+  "generated_at": "2026-08-20T04:30:08.871181+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -409,6 +409,13 @@
       "publication_date": "Wed, 19 Aug 2026 17:33:40 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-holds-the-crown-but-defensive-positioning-grows-bofa-securities-asia-fm-survey/articleshow/133347742.cms",
       "source": "rss"
+    },
+    {
+      "title": "Trump says he plans to meet with North Korea's Kim this year - Reuters",
+      "description": "Trump says he plans to meet with North Korea's Kim this year &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 17:26:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjlyRG93Zk1yZ01NcGdqcVlhN2JDWDFfRndXM1VvSEF4UmExQ3NMVkJFcTRIYkdSSGNYR1UwRnU5cUUxa3QwMHl2MWFVQmswdVlqbUxvNU9GOXpiU3VJTktyLXktMk9BMVQwNGVTYW5VZUlQVEJYNlFtdHlUSE80aEtvRldkM2FHYVBaSXEyVHZVbzdNc1pWOHIyMDU5Z0tBMW90QQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 07:29:17 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ongc-bpcl-share-price-19-august-2026/liveblog/133335256.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited",
-      "description": "The U.S. dollar slipped against leading currencies on Wednesday, influenced by a decline in treasury yields from their recent highs. Investors are keenly awaiting the Federal Reserve's minutes, anticipating guidance on interest rate trends. The euro and sterling gained ground slightly as they approached critical inflation reports. Additionally, oil prices surged to nearly three-week peaks amid escalating tensions in the Middle East.",
-      "publication_date": "Wed, 19 Aug 2026 07:26:21 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-drifts-near-multi-month-lows-as-treasury-yields-ease-fed-minutes-awaited/articleshow/133335227.cms",
       "source": "rss"
     }
   ]
