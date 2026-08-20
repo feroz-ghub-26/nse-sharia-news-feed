@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:51:00.213758+00:00",
+  "generated_at": "2026-08-20T12:33:43.471399+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -731,6 +731,13 @@
       "publication_date": "Wed, 19 Aug 2026 13:08:48 GMT",
       "link": "https://www.cnbc.com/2026/08/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
       "source": "rss"
+    },
+    {
+      "title": "At least 23 die as bus and truck collide in Brazil's Parana, police say - Reuters",
+      "description": "At least 23 die as bus and truck collide in Brazil's Parana, police say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 13:08:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGdIWFhycWN0VGkzbnV1Rm5YLWc4OFFrT01JeHo0dHFuMmd5S0Zzd0tLUGV5Nmd3S3JoNFQ3THZzUlF4c19HaUZETnh6X0E0cnlhV2hQWmw5b09VVkpYck9JUUltQld2TGdwTV9Uamhkc3ZqMmxFXzUwVl9JUk15SllhSldGc1FLbHg0bWhXc2tuYUZ4bUpCRWJNb0hzM3YxTVZSeDRHcmZXZGM?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "BSE shares bounce 2% after 5-session losing streak. Here’s why Jefferies, Nuvama advise caution",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 07:32:17 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/slideshow/133335353.cms",
       "source": "rss"
-    },
-    {
-      "title": "Indian steel mills face margin squeeze as global coking coal prices rise - Reuters",
-      "description": "Indian steel mills face margin squeeze as global coking coal prices rise &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 07:25:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWZBZEdfTUhtUGtsMUxVNDBycnZ0SzczRThRSU9TOEk2SzQ5MFRYU0wzX1BMWnJ2U18zUHF5RW52RTY0dXpfSldYU1BTbjRoM2d4dDgyVHRNZGxPX0NyR19BazBvMkVHU3gwYTdkLVJjV2dXQ0hYeTBYMWJaemViODJqcEY1NW5TQ216M0gxdklJemNoY090QkVzbFBLQlhJMkFSbl90cDhuczE5d0tvMkxQUVdYa0Jp?oc=5",
-      "source": "Reuters"
     }
   ]
 }
