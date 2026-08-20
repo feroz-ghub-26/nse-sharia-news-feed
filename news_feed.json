@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:26:39.500232+00:00",
+  "generated_at": "2026-08-20T15:57:35.795418+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,18 +34,11 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
-    {
-      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-      "description": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
-      "publication_date": "Wed, 19 Aug 2026 23:57:47 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-      "source": "rss"
-    },
     {
       "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
       "description": "Federal Reserve policymakers expressed concern over inflation at their last meeting. Many officials indicated a rate hike would be necessary if inflation persists. The Fed held interest rates steady, but three dissented in favor of an increase. Discussions also covered potential overhauls of the Fed's operational procedures. Investors anticipate potential rate hikes later this year.",
@@ -1437,6 +1430,13 @@
       "description": "Indian steel mills face margin squeeze as global coking coal prices rise &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 07:25:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWZBZEdfTUhtUGtsMUxVNDBycnZ0SzczRThRSU9TOEk2SzQ5MFRYU0wzX1BMWnJ2U18zUHF5RW52RTY0dXpfSldYU1BTbjRoM2d4dDgyVHRNZGxPX0NyR19BazBvMkVHU3gwYTdkLVJjV2dXQ0hYeTBYMWJaemViODJqcEY1NW5TQ216M0gxdklJemNoY090QkVzbFBLQlhJMkFSbl90cDhuczE5d0tvMkxQUVdYa0Jp?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Kenya Airways says its fuel cost up 72% due to Middle East conflict - Reuters",
+      "description": "Kenya Airways says its fuel cost up 72% due to Middle East conflict &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 07:22:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5",
       "source": "Reuters"
     }
   ]
