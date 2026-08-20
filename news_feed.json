@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:57:34.434766+00:00",
+  "generated_at": "2026-08-20T02:13:25.666429+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -264,6 +264,13 @@
       "source": "rss"
     },
     {
+      "title": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots - Reuters",
+      "description": "EXCLUSIVE: Chery's robot unit eyes IPO, targets overseas market for police robots &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 19:37:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWR2cnpULThpZHY0Um43bzk3ZWcxVVNhVTltMVJhbkFhUWpvS3lUb1ROVWd3RmszSzhKMlpGOHUtZ1ZuZmsyemxDbDh4c2lBWG9HNVloSEhTOFFzcVhWTmRob1lmenhCUzBUb1B2SENQckhUemdMWTkxY2Y0eW1UQmVCeDBHMnUzY2R2emJfc3JKbFZDek1BeWtDdGtTZEJpRHZhd3BNN3MzVkF0cDRJVS15X3RYcmlSc1hRY2NGTHJ5YXNhRE5saXF3?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Target Corp shares rise 5% as sales rebound and profit doubles in Q2",
       "description": "Target shares jumped 5% after second-quarter sales rose 5.3%, comparable sales increased 3.8% and traffic climbed 3.6%. Digital sales grew 8.7%, while EPS doubled to $4.11, boosted by tariff refunds, with underlying earnings still rising 20%.",
       "publication_date": "Wed, 19 Aug 2026 19:34:17 +0530",
@@ -451,6 +458,13 @@
       "publication_date": "Wed, 19 Aug 2026 16:32:11 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-shares-make-strong-debut-stock-lists-at-35-premium-over-ipo-price-at-rs-131/videoshow/133346168.cms",
       "source": "rss"
+    },
+    {
+      "title": "NEWSLETTER: A conflict on autopilot? - Reuters",
+      "description": "NEWSLETTER: A conflict on autopilot? &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 16:32:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVLU1hck1lTnZYbmRWSWFMTS10cFJTSl9DZWpLMEtydlFWT3FvUTBsckQyN0xhRTFwaG9lVWZfaTVNVldabGMyTXhGRU9zTUZlV1dJSGNLUElKS3plSVF5a0pQUEhjS1cydDcwWVZlOXZLVnFDWXdfRGs5Slc?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
@@ -1424,20 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 07:26:10 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/cci-approves-prudential-corporations-acquisition-of-stake-in-bharti-life-insurance/articleshow/133335115.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil edges up on uncertainty over exports through Hormuz",
-      "description": "Oil prices climbed for a fourth day due to supply uncertainty. Investors weighed conflicting messages from Tehran and Washington on the Strait of Hormuz. Iraq approved new export routes to avoid the critical waterway amid the ongoing conflict. Chinese shipping giants stopped using Hormuz and Bab al-Mandeb straits. US crude and distillate inventories fell last week while gasoline stocks rose.",
-      "publication_date": "Wed, 19 Aug 2026 07:24:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Kenya Airways says its fuel cost up 72% due to Middle East conflict - Reuters",
-      "description": "Kenya Airways says its fuel cost up 72% due to Middle East conflict &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 07:22:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5",
-      "source": "Reuters"
     }
   ]
 }
