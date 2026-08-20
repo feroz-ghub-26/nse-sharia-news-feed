@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:29:00.083886+00:00",
+  "generated_at": "2026-08-20T19:09:44.704719+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 1
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -859,6 +859,13 @@
       "source": "rss"
     },
     {
+      "title": "Explainer: What you need to know about Iceland's EU referendum - Reuters",
+      "description": "Explainer: What you need to know about Iceland's EU referendum &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 11:11:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejVGZkttNW9EaEpIbTlKeEVTSlZnTFRicmp2T2JEMUlUbXJNY2VkQ3BnWS1nZ2NtSjVFM283QTYyWnBVZkM0bG9OYlZoSEp2TnNWZEtOdGRaMEhSc3RPOHJtZG9CVmtaNF96TFFMQ1RKRFpJV0RBaE0xaFdteWg3WFF6V25JMFpRLXl6WDFHYlJfQVk?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Vijay Kedia buys Rs 33 crore stake in Zaggle Prepaid Ocean Services via bulk deal, stock skyrockets 17%",
       "description": "Zaggle Prepaid Ocean Services shares surged after Kedia Securities, owned by investor Vijay Kedia, acquired 20 lakh shares, or a 1.48% stake, through a bulk deal at Rs 164.72 apiece. The purchase came a day after the stock fell 20% following weak Q1 FY27 earnings.",
       "publication_date": "Wed, 19 Aug 2026 11:09:48 +0530",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 07:55:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-set-to-debut-today-gmp-signals-47-premium-ahead-of-listing/articleshow/133335450.cms",
       "source": "rss"
-    },
-    {
-      "title": "Indian steel mills face margin squeeze as global coking coal prices rise - Reuters",
-      "description": "Indian steel mills face margin squeeze as global coking coal prices rise &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 07:25:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWZBZEdfTUhtUGtsMUxVNDBycnZ0SzczRThRSU9TOEk2SzQ5MFRYU0wzX1BMWnJ2U18zUHF5RW52RTY0dXpfSldYU1BTbjRoM2d4dDgyVHRNZGxPX0NyR19BazBvMkVHU3gwYTdkLVJjV2dXQ0hYeTBYMWJaemViODJqcEY1NW5TQ216M0gxdklJemNoY090QkVzbFBLQlhJMkFSbl90cDhuczE5d0tvMkxQUVdYa0Jp?oc=5",
-      "source": "Reuters"
     }
   ]
 }
