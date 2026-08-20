@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:44:39.629913+00:00",
+  "generated_at": "2026-08-20T00:51:35.352813+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -40,10 +40,24 @@
   ],
   "articles": [
     {
+      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "description": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
+      "publication_date": "Wed, 19 Aug 2026 23:57:47 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+      "source": "rss"
+    },
+    {
       "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
       "description": "Federal Reserve policymakers expressed concern over inflation at their last meeting. Many officials indicated a rate hike would be necessary if inflation persists. The Fed held interest rates steady, but three dissented in favor of an increase. Discussions also covered potential overhauls of the Fed's operational procedures. Investors anticipate potential rate hikes later this year.",
       "publication_date": "Wed, 19 Aug 2026 23:55:33 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+      "description": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
+      "publication_date": "Wed, 19 Aug 2026 23:52:55 GMT",
+      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
       "source": "rss"
     },
     {
@@ -54,11 +68,11 @@
       "source": "rss"
     },
     {
-      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
-      "description": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
-      "publication_date": "Wed, 19 Aug 2026 23:25:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "source": "rss"
+      "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
+      "description": "US could cut key tariffs as part of proposed Canada deal, source says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 23:14:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
@@ -68,25 +82,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-      "description": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
-      "publication_date": "Wed, 19 Aug 2026 22:39:40 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-      "source": "rss"
-    },
-    {
       "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 22:34:33 GMT",
       "link": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
       "source": "rss"
-    },
-    {
-      "title": "US could cut key tariffs as part of proposed Canada deal, source says - Reuters",
-      "description": "US could cut key tariffs as part of proposed Canada deal, source says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 22:08:41 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRyZExVRkFxVGJqQkpSZk83d1pCbkQ1elJqVURZSjl6TTEyZUZtdURWYWhMRldiTWpiRUFXWW1nSExxeE10cXJWMndsbl9QLXJwVDZqVTllUTNUV2s2M3pJZ3U5WExpbHh4MHpYNGE5OXpMeGU0cFlUVEdwM3IwdmtNbHRYOE5hSFRzWDF6ODBLczdqbDllaTRlamRySDlLREFqNi1UTnJuTk9uZFFmUQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
@@ -131,6 +131,13 @@
       "source": "rss"
     },
     {
+      "title": "SC rejects GST department review plea, telecom firms get relief on tower tax credit",
+      "description": "The Supreme Court rejected a review petition from the GST Department. This decision confirms telecom towers are movable property for tax credit. Bharti Airtel and Indus Tower received significant relief from this ruling. The court found no error in its previous order regarding tax eligibility. This reaffirms the principle of allowing credit for business inputs.",
+      "publication_date": "Wed, 19 Aug 2026 21:12:09 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sc-rejects-gst-department-review-plea-telecom-firms-get-relief-on-tower-tax-credit/articleshow/133361313.cms",
+      "source": "rss"
+    },
+    {
       "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
       "description": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
       "publication_date": "Wed, 19 Aug 2026 21:05:31 GMT",
@@ -142,6 +149,13 @@
       "description": "Sebi issued an interim order against Copthall Mauritius and Mansi Share and Stock Broking for manipulative trading during the August 13, 2026, Closing Auction Session. The regulator impounded Rs 3.67 crore in alleged wrongful gains from these two entities.",
       "publication_date": "Wed, 19 Aug 2026 20:56:52 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
+      "source": "rss"
+    },
+    {
+      "title": "RBI deputy governor Murmu calls for focus on meaningful financial inclusion",
+      "description": "Banks must measure financial inclusion by effective usage and informed decisions. Technology shifts and consumer behavior necessitate responsive banking systems. Digital inclusion deepens, and AI helps recognize capability across diverse groups. Institutions need skilled people to challenge models and oversee external providers. Prudence requires pooled intelligence and credible alternatives for system resilience.",
+      "publication_date": "Wed, 19 Aug 2026 20:50:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-deputy-governor-murmu-calls-for-focus-on-meaningful-financial-inclusion/articleshow/133361306.cms",
       "source": "rss"
     },
     {
@@ -163,6 +177,13 @@
       "description": "Shiprocket debuted on the NSE at ₹131, a 35% premium, closing at ₹143.10. Goldman Sachs India EQ Portfolio acquired 40.24 lakh shares post-listing. Analysts advise investors to book partial profits while holding remaining shares for long-term growth.",
       "publication_date": "Wed, 19 Aug 2026 20:27:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms",
+      "source": "rss"
+    },
+    {
+      "title": "RBI MPC puts Q3 rate hike in play if inflation risks show up big",
+      "description": "Indian monetary policy makers may tighten rates in the third quarter if inflation risks materialize. Higher food and fuel prices could lead to broad-based inflation, prompting action. Inflation is projected to peak at 5.9% in Q3 2026-27, signaling potential policy shifts. The central bank remains watchful of global economic turbulence and its domestic impact. Monetary response is warranted if inflation expectations become de-anchored or persistent.",
+      "publication_date": "Wed, 19 Aug 2026 20:15:22 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mpc-flags-possibility-of-policy-tightening/articleshow/133361277.cms",
       "source": "rss"
     },
     {
@@ -1417,27 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 07:24:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-up-on-uncertainty-over-exports-through-hormuz/articleshow/133335197.cms",
       "source": "rss"
-    },
-    {
-      "title": "Kenya Airways says its fuel cost up 72% due to Middle East conflict - Reuters",
-      "description": "Kenya Airways says its fuel cost up 72% due to Middle East conflict &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 07:22:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-      "description": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
-      "publication_date": "Wed, 19 Aug 2026 07:20:10 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-      "source": "rss"
-    },
-    {
-      "title": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas - Reuters",
-      "description": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 07:11:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmZvWi1pSnAyOW9WZ0lLdkhfcDZvVXNPODFDRE9OYjVvYXJ1MmJzNFN5Z1FJNDgyNzFRR05pNHlValB2RFZuT3lmSVU4UEFkNUdSaEQ0RXBUZ2c0enpCRzlOZWJVUERyTGxlYUplTnY5YVNYekNZMXdqQWtsM1lLUWI1WGxHd0V6d183MGxVQkpqdFpDUmRVZjloNFVyWnRWSU9J?oc=5",
-      "source": "Reuters"
     }
   ]
 }
