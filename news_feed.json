@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:54:37.648604+00:00",
+  "generated_at": "2026-08-20T18:29:00.083886+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 1
     }
   ],
   "articles": [
@@ -184,13 +184,6 @@
       "description": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
       "publication_date": "Wed, 19 Aug 2026 20:10:14 GMT",
       "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-      "source": "rss"
-    },
-    {
-      "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-      "description": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
-      "publication_date": "Wed, 19 Aug 2026 20:10:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
       "source": "rss"
     },
     {
@@ -950,6 +943,13 @@
       "source": "rss"
     },
     {
+      "title": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard - Reuters",
+      "description": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 10:06:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Cipla Share Price Live Updates: Cipla's Current Financial Snapshot",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 10:04:18 +0530",
@@ -1004,13 +1004,6 @@
       "publication_date": "Wed, 19 Aug 2026 09:38:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-19-aug-2026/liveblog/133337038.cms",
       "source": "rss"
-    },
-    {
-      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
-      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 09:32:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
@@ -1438,6 +1431,13 @@
       "publication_date": "Wed, 19 Aug 2026 07:55:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-set-to-debut-today-gmp-signals-47-premium-ahead-of-listing/articleshow/133335450.cms",
       "source": "rss"
+    },
+    {
+      "title": "Indian steel mills face margin squeeze as global coking coal prices rise - Reuters",
+      "description": "Indian steel mills face margin squeeze as global coking coal prices rise &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 07:25:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWZBZEdfTUhtUGtsMUxVNDBycnZ0SzczRThRSU9TOEk2SzQ5MFRYU0wzX1BMWnJ2U18zUHF5RW52RTY0dXpfSldYU1BTbjRoM2d4dDgyVHRNZGxPX0NyR19BazBvMkVHU3gwYTdkLVJjV2dXQ0hYeTBYMWJaemViODJqcEY1NW5TQ216M0gxdklJemNoY090QkVzbFBLQlhJMkFSbl90cDhuczE5d0tvMkxQUVdYa0Jp?oc=5",
+      "source": "Reuters"
     }
   ]
 }
