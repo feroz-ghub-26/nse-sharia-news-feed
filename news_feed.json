@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:26:32.999509+00:00",
+  "generated_at": "2026-08-21T19:05:27.231708+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -248,6 +248,13 @@
       "publication_date": "Wed, 19 Aug 2026 20:02:32 GMT",
       "link": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
       "source": "rss"
+    },
+    {
+      "title": "Global yields fall after US Treasury boosts debt buybacks - Reuters",
+      "description": "Global yields fall after US Treasury boosts debt buybacks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 20:02:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:26:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-19-aug-2026/liveblog/133335956.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Nestle India Share Price Live Updates: Nestle India Price and Returns",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:26:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-19-aug-2026/liveblog/133335952.cms",
       "source": "rss"
     }
   ]
