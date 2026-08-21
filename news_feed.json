@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:54:41.072986+00:00",
+  "generated_at": "2026-08-21T02:06:30.839687+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
+      "status": "empty",
       "article_count": 0
     }
   ],
@@ -747,6 +747,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Nigeria reforms helped to avert economic collapse, finance minister says - Reuters",
+      "description": "Nigeria reforms helped to avert economic collapse, finance minister says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 13:16:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNEdIQlJzcjZQcWMySmVDNHY0YTlsTGplZkJJc1NMNkVoazRsMGpvNDdTUXJELS1NVGM3S25Dbm5LV1lzSFFWRjZNZlQzUDJMRThrNVFuenlpeVhOU2ZVTmVsWkRGYXU4eTZZNTZ2cU9NNDZGVkJOWV9RSGRGaWV1Y2FlWXVrTlFBU0ZEMnJVZjJNQjFNbFZjQThCam9uMjhKb2YxR3M1N2hNQ0R6ck9ucE82bmJtaE95?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
       "description": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target may be victim to profit-taking.",
       "publication_date": "Wed, 19 Aug 2026 13:08:48 GMT",
@@ -1046,6 +1053,13 @@
       "publication_date": "Wed, 19 Aug 2026 09:38:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-19-aug-2026/liveblog/133337038.cms",
       "source": "rss"
+    },
+    {
+      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
+      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 09:32:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
@@ -1423,20 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:10:24 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-19-aug-2026/liveblog/133335698.cms",
-      "source": "rss"
-    },
-    {
-      "title": "TCS Share Price Live Updates: TCS Stock Details",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:10:06 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-today-live-19-aug-2026/liveblog/133335692.cms",
-      "source": "rss"
-    },
-    {
-      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank Stock Details",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:01:28 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-19-aug-2026/liveblog/133335605.cms",
       "source": "rss"
     }
   ]
