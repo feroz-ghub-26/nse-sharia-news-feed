@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:55:49.799417+00:00",
+  "generated_at": "2026-08-21T11:19:02.384769+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
@@ -458,13 +458,6 @@
       "publication_date": "Wed, 19 Aug 2026 17:05:01 GMT",
       "link": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
       "source": "rss"
-    },
-    {
-      "title": "South Korean container ship will test Arctic route to Europe amid Western concern - Reuters",
-      "description": "South Korean container ship will test Arctic route to Europe amid Western concern &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:04:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMV96VDN2NnFUYzU4cjBWOTdTTm1lOHZNalNSQXVmcGxCV1gtdVR5R3FxSTltWWFRajJOdDAtUGdXdTFvZ2lidHVpeVZJdGpjN1dpdXI5SUdSUFpzTEdfajIyWFJCbUVkYWwzcGhoRlhNVUs1YW9pckIxOUFKV1ZpSzBab2w5WURWaV91bXh1NnpEdzNBd1ZUbk43QUdNY0VoRTFSb3Z4bE1QMUJHcnUxRXV4WENWT3BId2hMSlRsZUF2WGIt?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Turkey is ready to search for oil and gas in Syria, Turkish minister says - Reuters",
@@ -1069,13 +1062,6 @@
       "source": "rss"
     },
     {
-      "title": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard - Reuters",
-      "description": "Indian rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 10:06:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekN4bnVjekROQ2ZnTXlhbFR4M0VVdmRaTmlmNnh0d21vakFWWHVMNHlOQmQzcnFSRTFZOUNIak9sSndHb3lNM0tXT2xuM1JJTGV4QlR6MXU0c0h1XzVIMTI2LXhNS2lCTnNJVVVBUXUyRFFDYmh5cklMbXZzOW9QTXR6aXRKTWtOSFFTdU9tN21WQkFibFdqT0JPLUc0enBfdWlpcjFEaEJ4Y3BDWHpVOENCakR5aUY5SDNsSA?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Cipla Share Price Live Updates: Cipla's Current Financial Snapshot",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 10:04:18 +0530",
@@ -1437,6 +1423,20 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:20:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-today-live-19-aug-2026/liveblog/133335863.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
+      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
+      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
+      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+      "source": "rss"
+    },
+    {
+      "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
+      "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
+      "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
+      "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
       "source": "rss"
     }
   ]
