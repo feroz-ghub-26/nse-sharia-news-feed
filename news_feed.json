@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:31:00.448193+00:00",
+  "generated_at": "2026-08-21T05:02:38.707129+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -845,6 +845,13 @@
       "source": "rss"
     },
     {
+      "title": "Luxury tour agency &Beyond confirms helicopter carrying its guests crashed in Kenya - Reuters",
+      "description": "Luxury tour agency &Beyond confirms helicopter carrying its guests crashed in Kenya &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 12:04:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXlrTGRvaHBCYmNFblYzMjFOUUlfS1l5clR5c25OTTdjV0l5N1RBdDJsMnRQUFVzWl9tSTl1SXlvRjFYUG9Scktiajl5ZWdBczlRSVcybUYxUFNWcUJ2a2lGS2NqelZtNWtiek5hWVdXWmx5Wk9RR1BzTUxhUEI0TkNvbThoQkFNMjZDbE1FQ0hKRTdYMGliVVBNdnFhTGZGV1JfeEh2U3pENGNkTmlMRjNnY1dNUmxrZ0ZwbERHVFo1ZEhyZUY0?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
       "description": "City gas distributor stocks rallied after the government approved an incentive scheme to accelerate domestic PNG connections from September 1. Mahanagar Gas, IGL, Adani Total Gas rose as the scheme aims to expand active piped gas connections and promote cleaner, safer and affordable cooking fuel.",
       "publication_date": "Wed, 19 Aug 2026 12:01:01 +0530",
@@ -962,6 +969,13 @@
       "publication_date": "Wed, 19 Aug 2026 10:48:20 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-shares-hit-another-10-upper-circuit-rallying-43-from-ipo-price-should-you-buy-sell-or-hold/articleshow/133338174.cms",
       "source": "rss"
+    },
+    {
+      "title": "Defense contractor Lyntris, shareholders raise about $298 million in downsized US IPO​ - Reuters",
+      "description": "Defense contractor Lyntris, shareholders raise about $298 million in downsized US IPO​ &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 10:40:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFpxLVh5TTU0NE5TeGFNdTBOdVNxV0RZa0hTZHdIM2d4NkIwdjFQOEFmSnZ6bGQ5dkVZRnJDVnFiWWNkQ1R5R0hHbGhfUVpsQUQzY1FmeTM0bzRCSWR0TGV0LXZjOHFITkN0c09YRGJOcUwwM1hMa2p2SEpobkRMSEtNTHlqdjU4T1BERUMzbUIxckM2MnlrMDNTZF81d2xOTGhWUHU0ck1kekpVcEVTSXd0a1JvY3gtUG5ORm43aThkUkZIZ0FyRzVjZ05hZExsWlNMTmItY0t4Rnc?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
@@ -1423,20 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:16:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-today-live-updates-19-aug-2026/liveblog/133335802.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Stock Details",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:11:37 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-19-aug-2026/liveblog/133335728.cms",
-      "source": "rss"
-    },
-    {
-      "title": "NTPC Share Price Live Updates: NTPC's Stock Price Analysis",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:11:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-live-19-aug-2026/liveblog/133335721.cms",
       "source": "rss"
     }
   ]
