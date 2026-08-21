@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:22:13.063052+00:00",
+  "generated_at": "2026-08-21T10:55:49.799417+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
@@ -383,6 +383,13 @@
       "source": "rss"
     },
     {
+      "title": "Zambian opposition leader to try to overturn election result in court - Reuters",
+      "description": "Zambian opposition leader to try to overturn election result in court &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 17:55:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHBUQkRNU25jNi1iTXIzUF9IZ0J6cXpZWlRyRGxJOU1EWFpBUTdyakpmSUhIT1BualdCRi0wOXZtZTRqUkExRk5CWXpYV0NPYTM3b01wSG42bE5DM1A0Qy14TzM2c1E3U09saXBmZTM5SHA5eEttUzlxU0dLelJydVlnWkZWNVMtc2ZxSlNSQkJMZ3ZtR3UySTdQUlN4aHlyc0RyNWpmaTV1ZjFBQ0hUSDM0Tjh5M3VlR0E?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market closes higher as yields ease, healthcare shares rally",
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 17:54:31 +0530",
@@ -681,6 +688,13 @@
       "description": "Russia and Ukraine swap 103 prisoners of war each &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 13:56:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2ptaDA1a1o5dFNSbkxnVE9ZWFg1WnYwXzBUVEJvSGtEbTVSVmcwRVBrVnFGM1VvWUQxOC13cTVDOWhmb2d0UW9BdHYyZzFHTHpXZDg5alE3R2NScTM5RkJEZGZWX1NnWFdzdG9aV2gzZnlHd1VDMm1DR25EajFkckY5Z3ZKWndCN2owbA?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Fish, ships and sovereignty: Iceland weighs its European future - Reuters",
+      "description": "Fish, ships and sovereignty: Iceland weighs its European future &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 13:47:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWoyNk5nSjFYSk5hRlZkZmg5VlR6VmRER3Q0YjlqSHBoeUphR0NGOVdxWVFKWmxMQlJIbkFMWDF5MlJoZ0c4dW5YTEF2MmtnZVhSRWF5cWNEQ3dsUlF3NU9FRGpKajZLcWhURmZnY1ZYejNrWlRMR0hrdWRYR3Z2ZmEyOUZOUktRTXdYM25iR2w3amtPODFzQ0lXdnRKMExl?oc=5",
       "source": "Reuters"
     },
     {
@@ -1423,20 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:20:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-today-live-19-aug-2026/liveblog/133335863.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra Stock Details",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:20:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-19-aug-2026/liveblog/133335854.cms",
-      "source": "rss"
-    },
-    {
-      "title": "HDFC Life Share Price Live Updates: HDFC Life's Current Market Price",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:20:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-today-live-19-aug-2026/liveblog/133335853.cms",
       "source": "rss"
     }
   ]
