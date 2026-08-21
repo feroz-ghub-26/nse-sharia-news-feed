@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:24:12.433019+00:00",
+  "generated_at": "2026-08-21T16:59:41.682096+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -65,6 +65,13 @@
       "description": "Russian strikes kill 17 in Ukraine, Zelenskiy says lack of Patriots costing lives &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 22:08:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "China drove global electric truck, bus sales above half a million in 2025 - Reuters",
+      "description": "China drove global electric truck, bus sales above half a million in 2025 &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 22:05:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXg4WDNOc05kdU1aVkhraEJMOVNhdHJpZHdRa0pmTGpMUnlnMXhwVEM0QWRERU1adDkzRldyLWN0UEtBN1VBQzVKQ3BxMnE4R1pqUXY5XzhreFRxdVJqN1psM3phWmpsSVZLR0gtc2lTN183UWlPa0MxOEJYODhJck90enVMd3QycnJNTmRjOVliWVR3N0NPTjVFUWMxZnZLUlpjNmQ1dmd2OW15Ul9YdGk0QUlzZw?oc=5",
       "source": "Reuters"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:25:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-19-aug-2026/liveblog/133335939.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Bharti Airtel Share Price Live Updates: Negative Price Movement for Bharti Airtel",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:25:06 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-today-live-19-aug-2026/liveblog/133335935.cms",
       "source": "rss"
     }
   ]
