@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:06:30.839687+00:00",
+  "generated_at": "2026-08-21T02:20:23.314483+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -478,6 +478,13 @@
       "description": "NEWSLETTER: A conflict on autopilot? &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 16:32:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVLU1hck1lTnZYbmRWSWFMTS10cFJTSl9DZWpLMEtydlFWT3FvUTBsckQyN0xhRTFwaG9lVWZfaTVNVldabGMyTXhGRU9zTUZlV1dJSGNLUElKS3plSVF5a0pQUEhjS1cydDcwWVZlOXZLVnFDWXdfRGs5Slc?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Lyntris valued at $1.8 billion after shares fall in New York debut - Reuters",
+      "description": "Lyntris valued at $1.8 billion after shares fall in New York debut &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 16:20:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmxQeEdYRkxrSmxqbUs5UVAzQXpYdU12ekItbV9TRDEwX0FlVVRPa1ZkY2Jpem8tYVB3Q09wWldvMXNadUMzNWc0YndPYWJncTF4by0wTTRDaVJBYW9YRWhXYWRkYzRWR29IRnNERFV4TFdtbVVvNWh6aGJCN3dXR0k0Z3ZnbUZpUTVQQTluVWJnSFpsbHdaVm9TWjFZZDF1Ujg4MER0OXNpVG5veUY3bg?oc=5",
       "source": "Reuters"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:10:42 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-19-aug-2026/liveblog/133335708.cms",
-      "source": "rss"
-    },
-    {
-      "title": "LTIMindtree Share Price Live Updates: Weekly Performance: LTIMindtree Falls 5.93%",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:10:24 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-19-aug-2026/liveblog/133335698.cms",
       "source": "rss"
     }
   ]
