@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:59:41.682096+00:00",
+  "generated_at": "2026-08-21T17:21:48.900927+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -290,6 +290,13 @@
       "publication_date": "Wed, 19 Aug 2026 19:34:17 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/target-corp-shares-rise-5-as-sales-rebound-and-profit-doubles-in-q2/articleshow/133350806.cms",
       "source": "rss"
+    },
+    {
+      "title": "Liberia's former vice president charged in probe of transnational drug ring, government says - Reuters",
+      "description": "Liberia's former vice president charged in probe of transnational drug ring, government says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 19 Aug 2026 19:22:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXhONjZyY0NWRDh5QURHVFFlY21abnB2MUdjS3diUW5jODRrcXY2WEZSZnJHTGluN2hleE53cDBIQ3JURFlDSXhsb0RuQXJtMk5QaEwzajd1UWRPRDVVeU1qeW8wanhILWUtS0VDdDBIX1JNcE43dnlTVEtCQ2lmRU1KNUdlY2t5NHVwOW1QVW15OVlQQ2F2bTNRZk5kOEdhcEtlcHR1ZEtrN0NmMVNWZGt0R3d0OVhhWDk3WGlIZExWNnM?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Rs 3 crore to Rs 4,925 crore: Sebi order gives details on Dhenu Buildcon market cap surge",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:26:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-19-aug-2026/liveblog/133335952.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Grasim Inds Share Price Live Updates: Grasim Inds. Stock Details",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:25:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-19-aug-2026/liveblog/133335939.cms",
       "source": "rss"
     }
   ]
