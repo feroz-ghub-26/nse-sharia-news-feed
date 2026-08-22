@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:51:38.207734+00:00",
+  "generated_at": "2026-08-22T01:56:35.974701+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,11 +1433,11 @@
       "source": "rss"
     },
     {
-      "title": "Iran threatens military response to US sanctions - Reuters",
-      "description": "Iran threatens military response to US sanctions &nbsp;&nbsp; Reuters",
-      "publication_date": "Thu, 20 Aug 2026 23:59:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
-      "source": "Reuters"
+      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
+      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
+      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
+      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+      "source": "rss"
     }
   ]
 }
