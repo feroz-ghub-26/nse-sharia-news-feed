@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:21:13.725409+00:00",
+  "generated_at": "2026-08-23T03:28:05.057188+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
@@ -1006,13 +1006,6 @@
       "source": "rss"
     },
     {
-      "title": "Explainer: What you need to know about Iceland's EU referendum - Reuters",
-      "description": "Explainer: What you need to know about Iceland's EU referendum &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 11:11:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejVGZkttNW9EaEpIbTlKeEVTSlZnTFRicmp2T2JEMUlUbXJNY2VkQ3BnWS1nZ2NtSjVFM283QTYyWnBVZkM0bG9OYlZoSEp2TnNWZEtOdGRaMEhSc3RPOHJtZG9CVmtaNF96TFFMQ1RKRFpJV0RBaE0xaFdteWg3WFF6V25JMFpRLXl6WDFHYlJfQVk?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "India's IndiGo reservation platform issues disrupt some bookings, check-in - Reuters",
       "description": "India's IndiGo reservation platform issues disrupt some bookings, check-in &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 11:10:31 GMT",
@@ -1438,6 +1431,13 @@
       "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
       "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
       "source": "rss"
+    },
+    {
+      "title": "India launches rescue operation as bulk carrier sinks off east coast - Reuters",
+      "description": "India launches rescue operation as bulk carrier sinks off east coast &nbsp;&nbsp; Reuters",
+      "publication_date": "Sat, 22 Aug 2026 21:50:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
+      "source": "Reuters"
     }
   ]
 }
