@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:28:05.057188+00:00",
+  "generated_at": "2026-08-23T03:44:05.769426+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
@@ -733,13 +733,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Fish, ships and sovereignty: Iceland weighs its European future - Reuters",
-      "description": "Fish, ships and sovereignty: Iceland weighs its European future &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 13:47:37 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWoyNk5nSjFYSk5hRlZkZmg5VlR6VmRER3Q0YjlqSHBoeUphR0NGOVdxWVFKWmxMQlJIbkFMWDF5MlJoZ0c4dW5YTEF2MmtnZVhSRWF5cWNEQ3dsUlF3NU9FRGpKajZLcWhURmZnY1ZYejNrWlRMR0hrdWRYR3Z2ZmEyOUZOUktRTXdYM25iR2w3amtPODFzQ0lXdnRKMExl?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here’s why",
       "description": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing weaker wagon and wheelset sales, margin pressure and slower execution, while maintaining a positive view on the company’s long-term wheel manufacturing opportunity.",
       "publication_date": "Wed, 19 Aug 2026 13:39:20 +0530",
@@ -1433,11 +1426,18 @@
       "source": "rss"
     },
     {
-      "title": "India launches rescue operation as bulk carrier sinks off east coast - Reuters",
-      "description": "India launches rescue operation as bulk carrier sinks off east coast &nbsp;&nbsp; Reuters",
-      "publication_date": "Sat, 22 Aug 2026 21:50:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
-      "source": "Reuters"
+      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+      "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
+      "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
+      "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
+      "source": "rss"
+    },
+    {
+      "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+      "description": "Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
+      "publication_date": "Wed, 05 Oct 2016 14:00:44 +0530",
+      "link": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
+      "source": "rss"
     }
   ]
 }
