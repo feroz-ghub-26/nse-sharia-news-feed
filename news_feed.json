@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:53:38.978959+00:00",
+  "generated_at": "2026-08-25T20:20:43.922611+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "US stocks today: US stocks close higher as tech rebound puts Nvidia in focus",
+      "description": "US stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence added to economic concerns, with upcoming PCE inflation data and Fed commentary keeping rate expectations in focus.",
+      "publication_date": "Wed, 26 Aug 2026 01:38:36 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
+      "source": "rss"
+    },
     {
       "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
       "description": "Federal Reserve policymakers expressed concern over inflation at their last meeting. Many officials indicated a rate hike would be necessary if inflation persists. The Fed held interest rates steady, but three dissented in favor of an increase. Discussions also covered potential overhauls of the Fed's operational procedures. Investors anticipate potential rate hikes later this year.",
@@ -1430,13 +1437,6 @@
       "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
       "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
       "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
-      "source": "rss"
-    },
-    {
-      "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-      "description": "Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
-      "publication_date": "Wed, 05 Oct 2016 14:00:44 +0530",
-      "link": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
       "source": "rss"
     }
   ]
