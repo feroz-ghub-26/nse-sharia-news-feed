@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:06:28.358484+00:00",
+  "generated_at": "2026-08-26T08:35:12.707267+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,24 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Four regional Fed banks backed rate hike ahead of July decision, minutes show",
+      "description": "Four regional Federal Reserve banks backed a 25-basis-point increase in the discount rate ahead of the July policy meeting, minutes showed. The recommendations highlight divisions within the Fed system as policymakers weigh persistent inflation against signs of economic weakness, with markets closely watching for clues on future interest-rate moves.",
+      "publication_date": "Wed, 26 Aug 2026 13:38:46 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/four-regional-fed-banks-backed-rate-hike-ahead-of-july-decision-minutes-show/articleshow/133534568.cms",
+      "source": "rss"
+    },
+    {
+      "title": "14 midcap stocks crash up to 55% from their peaks. Are you holding any?",
+      "description": "While the Nifty Midcap 150 continues to trade near record levels, several individual midcap stocks have seen sharp declines from their 52-week highs. An analysis of ACE Equity data highlights 14 midcap stocks that have fallen between 30% and 55%, revealing the weakness beneath the index-level resilience.",
+      "publication_date": "Wed, 26 Aug 2026 13:23:16 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-midcap-stocks-crash-up-to-55-from-their-peaks-are-you-holding-any/slideshow/133534547.cms",
+      "source": "rss"
+    },
     {
       "title": "Private credit play: Modulus Alternatives’ third fund crosses Rs 300 crore in first close",
       "description": "Modulus Alternatives has secured over Rs 300 crore in the first close of its third private credit fund, India Credit Opportunities Fund III. The SEBI-registered Category II AIF has a target corpus of Rs 2,000 crore, including a greenshoe option, and will focus on performing credit opportunities across high-growth sectors.",
@@ -264,7 +278,7 @@
       "source": "rss"
     },
     {
-      "title": "Power Grid Share Price Live Updates: Power Grid News",
+      "title": "Power Grid Share Price Live Updates: Power Grid's Market Update",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 09:01:09 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-updates-26-aug-2026/liveblog/133528598.cms",
@@ -306,7 +320,7 @@
       "source": "rss"
     },
     {
-      "title": "Coal India Share Price Live Updates: Coal India Experiences Slight Decrease",
+      "title": "Coal India Share Price Live Updates: Coal India Price and Returns Analysis",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:43:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-live-updates-26-aug-2026/liveblog/133528344.cms",
@@ -348,7 +362,7 @@
       "source": "rss"
     },
     {
-      "title": "Adani Ent Share Price Live Updates: Adani Ent. Stock Details",
+      "title": "Adani Ent Share Price Live Updates: Adani Enterprises Market Performance",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:40:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-26-aug-2026/liveblog/133528310.cms",
@@ -803,18 +817,18 @@
       "source": "Reuters"
     },
     {
+      "title": "Gulf ship traffic via Strait of Hormuz hovers below 10-day average, data shows - Reuters",
+      "description": "Gulf ship traffic via Strait of Hormuz hovers below 10-day average, data shows &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 04:29:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDdXWE5PNU9iQnBXdDRxWVh2U1lNOUtGY0NGMHlIemFBUmRycmdBZ2dac0s5Y090MzJHZlBtbHUwaGpaRDlGcDVEdjdyQlFyXzk1WGdDZC1NME93aE4yVngzSW5Hc2p3SjJPc3d4SnhHSWVKd213ZVNTTTBWTFljb3UtOGJ6cmRYQ2xxMHpHY2xZclNIcVZyVUVRZ2tzRVJuX0JCTEJ4aFJOSnJHVHFGbmFya1l1THVpbDJyekhRSVBoSFlo?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
       "description": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
       "publication_date": "Wed, 26 Aug 2026 04:20:31 GMT",
       "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
       "source": "rss"
-    },
-    {
-      "title": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 03:28:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
@@ -831,8 +845,8 @@
       "source": "Reuters"
     },
     {
-      "title": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes - Reuters",
-      "description": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes &nbsp;&nbsp; Reuters",
+      "title": "World stocks gain as oil slips on Hormuz hopes ahead of Nvidia results - Reuters",
+      "description": "World stocks gain as oil slips on Hormuz hopes ahead of Nvidia results &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 02:17:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
       "source": "Reuters"
@@ -857,6 +871,13 @@
       "publication_date": "Wed, 26 Aug 2026 01:38:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
       "source": "rss"
+    },
+    {
+      "title": "Father of sailor aboard US aircraft carrier freed from immigration detention - Reuters",
+      "description": "Father of sailor aboard US aircraft carrier freed from immigration detention &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 01:32:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmx2MERvUDBBZGx6SUpYTzIwbXd0THJKcy15X3VCNFBVd05xaUNGZ2pSVEtURHIwVlg1aEtzMkdjMnRwSVpWUXcwNFNJZi1CNEtTb1c1NVhhdHhWNDVzZzdMdDJwRlh4MkQ1bURSY2Q0NUwwME0wY0tDR1F5bmk3Q2w3emgwcEdBVFFKeWZ3YW53ZllVRVJWaTdNRnRZWWNkaTlPNkQ5ckJ3aGZma29EZ1EyZDMyMHZReGJ3MzVn?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
@@ -1416,27 +1437,6 @@
       "description": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
       "publication_date": "Wed, 19 Aug 2026 16:04:12 GMT",
       "link": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
-      "source": "rss"
-    },
-    {
-      "title": "Trump says he plans to meet with North Korea's Kim this year - Reuters",
-      "description": "Trump says he plans to meet with North Korea's Kim this year &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 16:02:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjlyRG93Zk1yZ01NcGdqcVlhN2JDWDFfRndXM1VvSEF4UmExQ3NMVkJFcTRIYkdSSGNYR1UwRnU5cUUxa3QwMHl2MWFVQmswdVlqbUxvNU9GOXpiU3VJTktyLXktMk9BMVQwNGVTYW5VZUlQVEJYNlFtdHlUSE80aEtvRldkM2FHYVBaSXEyVHZVbzdNc1pWOHIyMDU5Z0tBMW90QQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard",
-      "description": "On Wednesday, the Indian rupee hit its lowest point since late July, primarily due to high oil prices and sustained demand for the dollar. Despite this, the Reserve Bank of India's interventions helped to temper the rupee's fall. The escalating crude oil costs have contributed negatively to its value, as investors eagerly anticipate upcoming policy review minutes from both the RBI and the Federal Reserve.",
-      "publication_date": "Wed, 19 Aug 2026 15:52:12 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-three-week-low-traders-wary-about-fall-to-96/usd-as-rbi-stands-guard/articleshow/133344824.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil India vs ONGC vs OMCs: What JM Financial’s $80 Brent call means for oil stocks",
-      "description": "Brent crude may stay near eighty dollars a barrel for twelve months. Analysts favor Oil India and ONGC due to expected earnings growth. Oil India's refinery capacity expansion will drive future output increases. Oil marketing companies face pressure from lower integrated gross margins. Valuation and earnings concerns persist for HPCL, BPCL, and IOCL.",
-      "publication_date": "Wed, 19 Aug 2026 15:50:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-vs-ongc-vs-omcs-what-jm-financials-80-brent-call-means-for-oil-stocks/articleshow/133344751.cms",
       "source": "rss"
     }
   ]
