@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:58:17.630496+00:00",
+  "generated_at": "2026-08-26T06:36:11.417041+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,53 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
+      "status": "error",
       "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "Adani Ports or Gujarat Pipavav: Which stock benefits more from Gujarat concession extensions?",
+      "description": "Gujarat’s reported decision to extend port concessions has removed a key overhang for Adani Ports and Gujarat Pipavav. While Pipavav stands to benefit more immediately as its concession expires in 2028, Adani Ports gains longer-term visibility for its Gujarat assets. Brokerages, however, see a sharper valuation risk for Pipavav.",
+      "publication_date": "Wed, 26 Aug 2026 11:51:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-or-gujarat-pipavav-which-stock-benefits-more-from-gujarat-concession-extensions/articleshow/133532117.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: China, Hong Kong stocks rise as AI rebound boosts investor sentiment",
+      "description": "On Wednesday, stocks in China and Hong Kong surged, reflecting a favourable global market environment. Technology and artificial intelligence supply-chain companies attracted significant investor interest. Alibaba shares rose after the company’s chairman purchased additional stock.",
+      "publication_date": "Wed, 26 Aug 2026 11:28:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rise-as-ai-rebound-boosts-investor-sentiment/articleshow/133531612.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Welspun Corp shares drop 6% after CEO, promoter group likely sell stake worth Rs 1,433 crore via block deal",
+      "description": "Welspun Corp shares fell sharply on Wednesday after 63 lakh shares worth Rs 1,433 crore changed hands in a block deal. Promoter group entity Welspun Investments and Commercials and CEO Vipul Mathur were likely sellers. The transaction represented about 2.4% of the company’s outstanding shares and came after a sharp rally.",
+      "publication_date": "Wed, 26 Aug 2026 11:26:38 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-drop-6-after-ceo-promoter-group-likely-sell-stake-worth-rs-1433-crore-via-block-deal/articleshow/133531522.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Cyient shares rocket 8% after investor day, but brokerages see up to 24% downside. Here’s why",
+      "description": "Cyient shares jumped 8% after the IT services company outlined its growth and margin roadmap at its investor day. Management is targeting double-digit revenue growth and EBIT margins above 15% in the near term, while brokerages remained divided on the pace of recovery. Motilal Oswal retained its Sell rating, while Nuvama and PL Capital maintained Hold ratings with higher target prices.",
+      "publication_date": "Wed, 26 Aug 2026 11:23:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-rocket-8-after-investor-day-but-brokerages-see-up-to-24-downside-heres-why/articleshow/133531459.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Vedanta Aluminium at earnings inflection point? Here's why Motilal Oswal sees 21% upside",
+      "description": "Motilal Oswal has reiterated its Buy rating on Vedanta Aluminium Metal with a target price of Rs 540, implying 21% upside. The brokerage expects EBITDA to grow at an 18% CAGR through FY26-28, supported by higher volumes, cost efficiencies, greater value-added production and favourable aluminium market dynamics.",
+      "publication_date": "Wed, 26 Aug 2026 11:20:28 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-at-earnings-inflection-point-heres-why-motilal-oswal-sees-21-upside/articleshow/133531348.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Can Wolfe’s upgrade push Moderna stock higher?",
+      "description": "The stock closed at $158.83, up 14.36% on the day, according to MarketScreener",
+      "publication_date": "Wed, 26 Aug 2026 11:07:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-wolfes-upgrade-push-moderna-stock-higher/slideshow/133531310.cms",
+      "source": "rss"
+    },
     {
       "title": "Pernia’s Pop-Up Studio parent Purple Style Labs sets IPO price band at Rs 546–575; subscription opens August 31",
       "description": "Purple Style Labs, the parent company of Pernia’s Pop-Up Studio, has set its IPO price band at Rs 546-575 per share. The Rs 680-crore issue will open on August 31 and close on September 2. The luxury fashion platform plans to use proceeds for retail expansion, marketing and corporate purposes.",
@@ -152,6 +194,20 @@
       "source": "rss"
     },
     {
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer's Price Movement Signals Weakness",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 09:02:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-today-live-26-aug-2026/liveblog/133528626.cms",
+      "source": "rss"
+    },
+    {
+      "title": "SBI Life Share Price Live Updates: SBI Life's Stock Price Insights",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 09:01:59 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-updates-26-aug-2026/liveblog/133528613.cms",
+      "source": "rss"
+    },
+    {
       "title": "Crorepati investors touch record Rs 10 lakh crore milestone. Which stocks are making them richer?",
       "description": "HNIs’ holdings in NSE-listed stocks surged 22.55% QoQ to a record Rs 9.92 lakh crore by June-end, adding Rs 1.83 lakh crore in three months. Their share of market value rose to 2.12%, the highest since March 2022. However, average ownership by volume fell to 7.19% from 7.31%, suggesting the rise was driven largely by stock price gains and greater exposure to high-value companies rather than fresh buying.",
       "publication_date": "Wed, 26 Aug 2026 08:57:02 +0530",
@@ -166,7 +222,7 @@
       "source": "rss"
     },
     {
-      "title": "HDFC Life Share Price Live Updates: HDFC Life's Current Market Position",
+      "title": "HDFC Life Share Price Live Updates: HDFC Life's stock update",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:45:21 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-today-live-26-aug-2026/liveblog/133528372.cms",
@@ -208,7 +264,7 @@
       "source": "rss"
     },
     {
-      "title": "Infosys Share Price Live Updates: Infosys Stock Details",
+      "title": "Infosys Share Price Live Updates: Infosys stock sees a drop in today's trading",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:41:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133528318.cms",
@@ -264,7 +320,7 @@
       "source": "rss"
     },
     {
-      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement Experiences Positive Price Breakout",
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement trades at Rs 11668.0, showing a positive trend today.",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:27:48 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133528149.cms",
@@ -285,10 +341,24 @@
       "source": "rss"
     },
     {
+      "title": "HCL Tech Share Price Live Updates: HCL Tech Market Movement",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:26:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-live-updates-26-aug-2026/liveblog/133528071.cms",
+      "source": "rss"
+    },
+    {
       "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:26:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-26-aug-2026/liveblog/133528066.cms",
+      "source": "rss"
+    },
+    {
+      "title": "UPL Share Price Live Updates: UPL's Market Update",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:26:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-today-live-26-aug-2026/liveblog/133528063.cms",
       "source": "rss"
     },
     {
@@ -310,6 +380,13 @@
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:25:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-26-aug-2026/liveblog/133528048.cms",
+      "source": "rss"
+    },
+    {
+      "title": "L&T Share Price Live Updates: L&T's Current Market Position",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:25:22 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-26-aug-2026/liveblog/133528049.cms",
       "source": "rss"
     },
     {
@@ -544,6 +621,13 @@
       "source": "rss"
     },
     {
+      "title": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
+      "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.",
+      "publication_date": "Wed, 26 Aug 2026 06:30:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+      "source": "rss"
+    },
+    {
       "title": "Global Market Today: Asian stocks mixed ahead of Nvidia results, oil prices slide",
       "description": "Contracts for the Nasdaq 100 Index dropped 0.3%, and those for the S&P 500 Index edged 0.1% down. MSCI’s Asia Pacific equities gauge was little changed with benchmarks in Japan and South Korea fluctuating between gains and losses.",
       "publication_date": "Wed, 26 Aug 2026 06:25:28 +0530",
@@ -607,6 +691,13 @@
       "source": "rss"
     },
     {
+      "title": "Oil falls as the U.S. pivots to economic pressure on Iran",
+      "description": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
+      "publication_date": "Wed, 26 Aug 2026 04:35:22 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+      "source": "rss"
+    },
+    {
       "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
       "description": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
       "publication_date": "Wed, 26 Aug 2026 04:20:31 GMT",
@@ -653,13 +744,6 @@
       "description": "US stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence added to economic concerns, with upcoming PCE inflation data and Fed commentary keeping rate expectations in focus.",
       "publication_date": "Wed, 26 Aug 2026 01:38:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
-      "description": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
-      "publication_date": "Wed, 26 Aug 2026 01:29:20 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
       "source": "rss"
     },
     {
@@ -1353,90 +1437,6 @@
       "description": "Indian Bank raised $400 million through a four-year overseas funding programme via its GIFT City branch, joining Indian lenders tapping global debt markets. Banks are accelerating dollar bond issuances following regulatory changes to the concessional swap window for FCNR deposits. Axis, ICICI, Federal, IDFC First, Kotak Mahindra and Yes Bank are also active.",
       "publication_date": "Wed, 19 Aug 2026 14:20:45 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-400-million-for-four-years/articleshow/133342708.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
-      "description": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
-      "publication_date": "Wed, 19 Aug 2026 14:18:35 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
-      "source": "rss"
-    },
-    {
-      "title": "IDFC First Bank raises $500 million through maiden overseas bond issue",
-      "description": "IDFC First Bank raised $500 million through its first international bond issuance, marking its entry into global debt markets. The three-year bonds carry a 5.625% coupon and mature in 2029. Backed by an investment-grade S&P rating, the issue attracted major global investors, diversifying the bank’s funding sources and supporting long-term expansion.",
-      "publication_date": "Wed, 19 Aug 2026 14:16:44 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/idfc-first-bank-raises-500-million-through-maiden-overseas-bond-issue/articleshow/133342583.cms",
-      "source": "rss"
-    },
-    {
-      "title": "North Korea's Kim Yo Jong denies Zelenskiy's claim on additional troops deployment - Reuters",
-      "description": "North Korea's Kim Yo Jong denies Zelenskiy's claim on additional troops deployment &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 14:16:24 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVdYa0FOaDJaWWFldTZnOG5melhIVlc5eW9DNkctZGhQVG1xZ20yMHRqVHljcFJrTi1LVjhaSHB5eGpoRm1MWlFjbDhPLTB5NzR2MGFOOHFZSU1KWThIeE02VXNJQzgyUTRUMzM0WnZjQ1h4NXVGUDhQOUdhM2tENWlSS05seUpBbmlnZm1qR3ZZejI0NHlOelVTa2NzSUJuWTJvRVN0U2ZxMVQ3eE41T1RkRFlLd3dHTUdWRm5kaGpNVXp2NTQ1cmVCd3k?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Car dealerships are relying more on parts and service for profits",
-      "description": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
-      "publication_date": "Wed, 19 Aug 2026 14:06:23 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
-      "source": "rss"
-    },
-    {
-      "title": "Russia and Ukraine swap 103 prisoners of war each - Reuters",
-      "description": "Russia and Ukraine swap 103 prisoners of war each &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 13:56:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2ptaDA1a1o5dFNSbkxnVE9ZWFg1WnYwXzBUVEJvSGtEbTVSVmcwRVBrVnFGM1VvWUQxOC13cTVDOWhmb2d0UW9BdHYyZzFHTHpXZDg5alE3R2NScTM5RkJEZGZWX1NnWFdzdG9aV2gzZnlHd1VDMm1DR25EajFkckY5Z3ZKWndCN2owbA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here’s why",
-      "description": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing weaker wagon and wheelset sales, margin pressure and slower execution, while maintaining a positive view on the company’s long-term wheel manufacturing opportunity.",
-      "publication_date": "Wed, 19 Aug 2026 13:39:20 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-price-for-jupiter-wagons-maintains-underperform-after-q1-earnings-heres-why/articleshow/133341991.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hong Kong Exchange posts record profit as AI, tech IPO boom drives fundraising",
-      "description": "Hong Kong Exchanges and Clearing posted record first-half 2026 results, with profit rising 24% to HK$10.6 billion. Strong IPO activity, particularly among technology and AI firms, and record trading volumes drove growth. With 87 listings raising HK$212.4 billion, HKEX is benefiting from Hong Kong’s renewed role as a major capital-raising hub.",
-      "publication_date": "Wed, 19 Aug 2026 13:37:55 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-posts-record-profit-as-ai-tech-ipo-boom-drives-fundraising/articleshow/133341994.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Volume Shocker: MFs added 1 crore+ shares to 8 stocks in July '26; rally up to 76%",
-      "description": "Mutual funds aggressively bought shares in 58 companies in July 2026. A secondary filter highlights eight top-performing stocks that saw additions of over one crore shares alongside gains between 9% and 76%, driven by institutional buying and strong market momentum across sectors.",
-      "publication_date": "Wed, 19 Aug 2026 13:31:34 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-july-26-rally-up-to-76/slideshow/133342058.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: Foreign inflows into major Asian bond markets fall to four-month low in July",
-      "description": "Foreign investment in major Asian bond markets fell to a four-month low in July as investors turned more selective amid geopolitical risks and higher oil prices. India stood out with $3.04 billion in foreign bond inflows, while Malaysia, Thailand and Indonesia saw weaker demand. The broader trend came even as emerging-market debt attracted $26.7 billion globally in July.",
-      "publication_date": "Wed, 19 Aug 2026 13:29:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-inflows-into-major-asian-bond-markets-fall-to-four-month-low-in-july/articleshow/133341777.cms",
-      "source": "rss"
-    },
-    {
-      "title": "France says West Bank violence justifies its sanctions against Israeli minister Ben-Gvir - Reuters",
-      "description": "France says West Bank violence justifies its sanctions against Israeli minister Ben-Gvir &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 13:25:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUR3OE44OC00NjhCMFhWWURWNTRmQ295bUNka1E5TERHMXNOeU9ZLUt6Qm5KRzlYNldRbVctdjVmV29nbWRVOVhlUGo3bnVxRjJRUzdvdFg4c3lzNVNsMEt0ZktVeUVmRjQ4OHNvNHVVTFJhY2w5VEZ1UEJJd1JETWVSYkFoMERCZkEwajJmc1dITHVHS2Jfa0tRTUxkcENoMG1VVDNmTDJscmRYRGpzeFlheV9iSmR0TUd5VE5Na2ZJaFRMbk85bElEdmFqdw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "South African rand firms as softer inflation points to easing price pressures - Reuters",
-      "description": "South African rand firms as softer inflation points to easing price pressures &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 13:25:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzRJdUkxNHJHMXNrSlZLdEstTUZnM045M1N3eXFNLV9zUGRvTGt2T0w2LXZpQzFwMVdZWVFSOFpwMFVtRGEzbzl4cXl5Qm5CX1dFa1dUZ3JjcDVBRXg0NVZHYU5iSDRjWTh5UDZaRzU3eUZNZGVMeXhjNWppTVFmN0ozTWh0MEdLOUdtY2h5U1oxOU5YWVBVVmhOWEdBcloydmZxbFZ1R3g?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Fabrinet stock plunges 19%: Why investors are selling after Q4 beat",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 13:23:29 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fabrinet-stock-plunges-19-why-investors-are-selling-after-q4-beat/slideshow/133341895.cms",
       "source": "rss"
     }
   ]
