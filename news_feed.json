@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T15:58:52.758597+00:00",
+  "generated_at": "2026-08-26T16:12:29.830219+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -138,6 +138,20 @@
       "source": "rss"
     },
     {
+      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
+      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+      "publication_date": "Wed, 26 Aug 2026 16:11:32 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+      "source": "rss"
+    },
+    {
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+      "publication_date": "Wed, 26 Aug 2026 16:11:05 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "source": "rss"
+    },
+    {
       "title": "M&A deals double, but execution holds the key for investors: Crisil Ratings",
       "description": "India Inc’s annual M&A volumes have more than doubled since fiscal 2017 as companies pursue faster growth, market expansion and new capabilities. Crisil Ratings found two-thirds of major debt-funded acquisitions broadly met expectations, while integration and regulatory challenges hurt others.",
       "publication_date": "Wed, 26 Aug 2026 16:09:19 +0530",
@@ -145,9 +159,9 @@
       "source": "rss"
     },
     {
-      "title": "Fed, NASA and DOJ among victims of China hacker group: Court documents",
+      "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
       "description": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
-      "publication_date": "Wed, 26 Aug 2026 15:48:15 GMT",
+      "publication_date": "Wed, 26 Aug 2026 16:02:47 GMT",
       "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
       "source": "rss"
     },
@@ -156,13 +170,6 @@
       "description": "The Indian stock markets experienced a shift, dropping from earlier gains with both Sensex and Nifty closing lower. Key decliners included Infosys, Bharti Airtel, and L&T. Meanwhile, Kotak Mahindra Bank's shares surged over three percent, contrasting with the mixed performance of broader markets, where small caps thrived while mid caps faced challenges. Interestingly, despite the main indices' downturn, the market breadth showed a favor for advancing stocks.",
       "publication_date": "Wed, 26 Aug 2026 15:41:49 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-183-points-nifty-closes-below-24250-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133537326.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
-      "publication_date": "Wed, 26 Aug 2026 15:38:57 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
       "source": "rss"
     },
     {
@@ -268,13 +275,6 @@
       "description": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
       "publication_date": "Wed, 26 Aug 2026 14:12:55 GMT",
       "link": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-      "source": "rss"
-    },
-    {
-      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-      "publication_date": "Wed, 26 Aug 2026 13:55:02 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
       "source": "rss"
     },
     {
