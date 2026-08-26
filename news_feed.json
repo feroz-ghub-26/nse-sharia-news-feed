@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:33:55.922442+00:00",
+  "generated_at": "2026-08-26T10:04:28.925528+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,17 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: Mexico’s ‘Super Peso’ rally puts exporters under pressure",
+      "description": "Mexico’s peso has emerged as one of the strongest-performing emerging-market currencies in 2026, strengthening past 17 per dollar despite weak growth and US trade tensions. The “super peso” is helping curb import costs and inflation but is hurting exporters, especially firms reliant on US revenues.",
+      "publication_date": "Wed, 26 Aug 2026 15:03:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mexicos-super-peso-rally-puts-exporters-under-pressure/articleshow/133536190.cms",
+      "source": "rss"
+    },
     {
       "title": "Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports",
       "description": "European Central Bank policymakers are increasingly leaning towards a September rate hike as the Iran conflict drives up energy prices and inflation. While inflation is nearing 3% and economic activity remains resilient, officials appear reluctant to signal further tightening beyond September, keeping future decisions dependent on incoming data.",
@@ -222,6 +229,13 @@
       "source": "rss"
     },
     {
+      "title": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
+      "description": "Haidilao shares rose after results showed strong growth in delivery and newer restaurant formats, even as revenue from its core hotpot restaurants declined.",
+      "publication_date": "Wed, 26 Aug 2026 09:35:08 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
+      "source": "rss"
+    },
+    {
       "title": "Sensex rises over 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
       "description": "On Wednesday, Indian stock markets rallied, buoyed by a decrease in oil prices and renewed optimism surrounding the reopening of the Strait of Hormuz, following a resumption of talks with Iran. Both the Sensex and Nifty indices showed positive momentum, with broader market metrics also trending upward, reflecting a hopeful sentiment among investors amid the fluctuating oil landscape.",
       "publication_date": "Wed, 26 Aug 2026 09:26:10 +0530",
@@ -320,11 +334,11 @@
       "source": "rss"
     },
     {
-      "title": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
-      "description": "Haidilao shares rose after results showed strong growth in delivery and newer restaurant formats, even as revenue from its core hotpot restaurants declined.",
-      "publication_date": "Wed, 26 Aug 2026 08:46:34 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
-      "source": "rss"
+      "title": "European shares flat ahead of Nvidia earnings - Reuters",
+      "description": "European shares flat ahead of Nvidia earnings &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 08:46:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1pZeWdGeTdjVWRoOE0zZi1zQzhRVTdhU3g3U3VPV2J4dHVRQWtiRF9CUHlWVGllbFpPYnIyUmc5TDZPVlJrX0lrNDZCME5rcWZEYmN2a1JFY1diVE5oeDk1WEFDNmhIeDZfUmdFMFBBVUh6M1ZibFFvdkNzSDRVc1NEcFdZZmVhRDVjTGtxQWZwd2JDd3hzS1lHalBGUmMwRkZDUTRidDZIQ3lM?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "HDFC Life Share Price Live Updates: HDFC Life's stock update",
@@ -1424,20 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 17:18:24 GMT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say - Reuters",
-      "description": "EXCLUSIVE: Mossad chief, Syrian foreign minister discussed Turkish military deployments before strikes, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:11:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkl0OHlnRWFEd2x4RkNFcloyYWw0UEhZTjU2VW9KUTlsUGlWN1JUelNlYmtmYkRyRFh6b0ttNTF0c3o3SEtLdFFpVGxhRV82VHlBR2F6ZUJtWGd3SWFjcTNySkt2cnNiMnRaRDd2Z3piUlVQa2pVQzVzbXRyREdDSUx2OGNPX25tSFBGcEpzbXJZQzFFWWRQaFhoQWQ0NWlOR1A5V3ExSkVKN0REV0wwMW0yNVRTYm96RzFZOVpVT0lEbkd6U3h3VHBlbw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
-      "description": "Tony Donatell turned an empty storefront next to a gas station into a sophisticated speakeasy, The Farmer's Cellar. Inside, it's still the \"roaring twenties.\"",
-      "publication_date": "Wed, 19 Aug 2026 17:05:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
-      "source": "rss"
     }
   ]
 }
