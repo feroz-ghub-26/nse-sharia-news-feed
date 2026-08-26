@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:32:02.189936+00:00",
+  "generated_at": "2026-08-26T13:48:41.785781+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -152,6 +152,20 @@
       "source": "rss"
     },
     {
+      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+      "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
+      "publication_date": "Wed, 26 Aug 2026 13:46:16 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+      "source": "rss"
+    },
+    {
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+      "publication_date": "Wed, 26 Aug 2026 13:41:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "source": "rss"
+    },
+    {
       "title": "Four regional Fed banks backed rate hike ahead of July decision, minutes show",
       "description": "Four regional Federal Reserve banks backed a 25-basis-point increase in the discount rate ahead of the July policy meeting, minutes showed. The recommendations highlight divisions within the Fed system as policymakers weigh persistent inflation against signs of economic weakness, with markets closely watching for clues on future interest-rate moves.",
       "publication_date": "Wed, 26 Aug 2026 13:38:46 +0530",
@@ -159,10 +173,31 @@
       "source": "rss"
     },
     {
-      "title": "Meta settles social media addiction trial with California, other states",
-      "description": "Meta and coalition of state attorneys general settled a federal trial centering on allegations that the social media giant misrepresented the extent of child-related mental health harms.",
-      "publication_date": "Wed, 26 Aug 2026 13:26:33 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+      "description": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
+      "publication_date": "Wed, 26 Aug 2026 13:35:50 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
+      "source": "rss"
+    },
+    {
+      "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
+      "description": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
+      "publication_date": "Wed, 26 Aug 2026 13:35:18 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
+      "source": "rss"
+    },
+    {
+      "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
+      "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
+      "publication_date": "Wed, 26 Aug 2026 13:32:41 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+      "source": "rss"
+    },
+    {
+      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
+      "publication_date": "Wed, 26 Aug 2026 13:27:35 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
       "source": "rss"
     },
     {
@@ -201,6 +236,13 @@
       "source": "rss"
     },
     {
+      "title": "Aramco offers more oil outside Hormuz with some cargoes heading to China - Reuters",
+      "description": "Aramco offers more oil outside Hormuz with some cargoes heading to China &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 13:17:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
       "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
       "publication_date": "Wed, 26 Aug 2026 13:15:24 GMT",
@@ -212,13 +254,6 @@
       "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
       "publication_date": "Wed, 26 Aug 2026 13:13:53 GMT",
       "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-      "description": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
-      "publication_date": "Wed, 26 Aug 2026 13:08:28 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
       "source": "rss"
     },
     {
@@ -243,17 +278,10 @@
       "source": "rss"
     },
     {
-      "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
-      "description": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
-      "publication_date": "Wed, 26 Aug 2026 13:00:11 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
-      "source": "rss"
-    },
-    {
-      "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
-      "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
-      "publication_date": "Wed, 26 Aug 2026 12:58:56 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+      "title": "10-year Treasury yield is flat after PCE inflation report is mostly as expected",
+      "description": "Treasury yields were broadly flat on Wednesday, as investors assessed the publication of the Federal Reserve's preferred inflation metric.",
+      "publication_date": "Wed, 26 Aug 2026 13:00:34 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
       "source": "rss"
     },
     {
@@ -402,13 +430,6 @@
       "publication_date": "Wed, 26 Aug 2026 09:47:34 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-rise-ahead-of-nvidia-earnings-us-inflation-data/articleshow/133529314.cms",
       "source": "rss"
-    },
-    {
-      "title": "Aramco offers more oil outside Hormuz with some cargoes heading to China - Reuters",
-      "description": "Aramco offers more oil outside Hormuz with some cargoes heading to China &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 09:43:55 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Global Market: KOSPI rises as investors await Nvidia results for AI trade cues",
@@ -1416,27 +1437,6 @@
       "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
       "publication_date": "Wed, 19 Aug 2026 20:00:17 GMT",
       "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-      "source": "rss"
-    },
-    {
-      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-      "description": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-      "publication_date": "Wed, 19 Aug 2026 20:00:13 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-      "source": "rss"
-    },
-    {
-      "title": "Moderna shares soar 159% in a day after cancer vaccine succeeds in late-stage trial",
-      "description": "Moderna shares surged after its personalized mRNA cancer vaccine trial showed positive results. The treatment, combined with Keytruda, reduced melanoma recurrence and spread significantly. This marks the first successful late-stage trial for an mRNA cancer vaccine. The findings offer hope for future growth beyond COVID-19 vaccines. Discussions with regulators are expected within the next few months.",
-      "publication_date": "Wed, 19 Aug 2026 19:56:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Marvell shares jump 8% after chipmaker hands Google option to buy $12.2 billion stake",
-      "description": "Marvell shares surged 8% after securing a Google agreement to develop custom AI chips and related technologies. Google received a warrant for up to 58.97 million shares worth about $12.18 billion, strengthening Marvell’s position in AI infrastructure.",
-      "publication_date": "Wed, 19 Aug 2026 19:49:49 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/marvell-shares-jump-8-after-chipmaker-hands-google-option-to-buy-12-2-billion-stake/articleshow/133351073.cms",
       "source": "rss"
     }
   ]
