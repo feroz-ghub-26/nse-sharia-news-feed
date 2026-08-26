@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:37:16.149264+00:00",
+  "generated_at": "2026-08-26T15:58:52.758597+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,25 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
+      "description": "Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce competition could test investor confidence in its long-term business model.",
+      "publication_date": "Wed, 26 Aug 2026 21:00:49 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-gears-up-for-wall-street-debut-five-things-investors-need-to-know/slideshow/133545308.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Meta shares hit 5% intraday high after $16.68 billion settlement over alleged harm to young users",
+      "description": "Meta shares hit a 4.96% intraday high after the company agreed to pay up to $16.68 billion to settle claims that Facebook and Instagram harmed young users. The settlement covers claims by 29 US states and requires Meta to introduce usage limits and stronger safeguards for children on its platforms.",
+      "publication_date": "Wed, 26 Aug 2026 20:17:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-shares-hit-5-intraday-high-after-16-68-billion-settlement-over-alleged-harm-to-young-users/articleshow/133544340.cms",
+      "source": "rss"
+    },
     {
       "title": "Capital Group sells 1% stake in D-Mart for Rs 2,537 crore",
       "description": "Capital Group divested a 1.04 percent stake in Avenue Supermarts for Rs 2,537 crore. This significant open market transaction involved selling over 67 lakh equity shares of D-Mart's parent company. The shares were offloaded at an average price of Rs 3,750.58 per share. Avenue Supermarts' stock experienced a slight decline following the divestment announcement. The company recently reported an 11.33 percent rise in its June quarter net profit.",
@@ -61,6 +75,13 @@
       "source": "rss"
     },
     {
+      "title": "US stocks today: US stocks subdued as hot inflation lifts rate hike bets ahead of Nvidia results",
+      "description": "US stocks traded flat as investors awaited Nvidia's earnings and assessed hotter-than-expected inflation data. July inflation rose 3.7%, lifting bets on a September Fed rate hike. The Dow slipped 0.04%, while the S&P 500 edged up 0.03% and Nasdaq fell 0.06%, keeping markets cautious.",
+      "publication_date": "Wed, 26 Aug 2026 19:09:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-as-hot-inflation-lifts-rate-hike-bets-ahead-of-nvidia-results/articleshow/133542856.cms",
+      "source": "rss"
+    },
+    {
       "title": "BSE, NSE impose over Rs 59 lakh penalty on NTPC, SJVN, REC for non-compliance",
       "description": "The BSE and NSE have imposed financial penalties exceeding Rs 59 lakh on three public sector power companies: NTPC, REC, and SJVN. The fines are due to violations related to board composition listing regulations. In their defense, the companies argue that the appointment of directors falls under presidential powers. They are currently seeking waivers for these penalties.",
       "publication_date": "Wed, 26 Aug 2026 17:45:29 +0530",
@@ -68,7 +89,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Live Updates: US stocks slip at open after inflation data; Nvidia in focus",
+      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Live Updates: US stocks muted ahead of Nvidia results, hot inflation fuels rate-hike bets",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 17:44:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-us-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-nvidia-earnings-forecast-fed-rate-intuit-adobe-stock-price-news-26th-august-2026/liveblog/133540745.cms",
@@ -124,6 +145,13 @@
       "source": "rss"
     },
     {
+      "title": "Fed, NASA and DOJ among victims of China hacker group: Court documents",
+      "description": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
+      "publication_date": "Wed, 26 Aug 2026 15:48:15 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
+      "source": "rss"
+    },
+    {
       "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
       "description": "The Indian stock markets experienced a shift, dropping from earlier gains with both Sensex and Nifty closing lower. Key decliners included Infosys, Bharti Airtel, and L&T. Meanwhile, Kotak Mahindra Bank's shares surged over three percent, contrasting with the mixed performance of broader markets, where small caps thrived while mid caps faced challenges. Interestingly, despite the main indices' downturn, the market breadth showed a favor for advancing stocks.",
       "publication_date": "Wed, 26 Aug 2026 15:41:49 +0530",
@@ -131,10 +159,24 @@
       "source": "rss"
     },
     {
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+      "publication_date": "Wed, 26 Aug 2026 15:38:57 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "source": "rss"
+    },
+    {
       "title": "Bitcoin consolidates near $79K ahead of US PCE, GDP Data; whales book record $1.2 billion profit in 3 days",
       "description": "Bitcoin traded near $79,000 on Wednesday as traders await key US PCE inflation and GDP data. While the broader trend remains bullish, rising profit-taking and resistance around $82,800–$83,000 could limit near-term gains. Short-term holder whales have booked a record $1.2 billion in profits over three days, adding to market caution.",
       "publication_date": "Wed, 26 Aug 2026 15:23:30 +0530",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-near-79k-ahead-of-us-pce-gdp-data-whales-book-record-1-2-billion-profit-in-3-days/articleshow/133536752.cms",
+      "source": "rss"
+    },
+    {
+      "title": "The post-penny economy: How cash rounding and credit card surcharges are changing what you pay",
+      "description": "More merchants are rounding change for cash purchases to the nearest nickel due to the end of penny production, or adding surcharges to credit card transactions.",
+      "publication_date": "Wed, 26 Aug 2026 15:18:20 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/cash-rounding-credit-card-surcharges-penny-production-ends.html",
       "source": "rss"
     },
     {
@@ -152,6 +194,34 @@
       "source": "rss"
     },
     {
+      "title": "I manage Dolly Parton’s Imagination Library in Cincinnati—the No. 1 lesson she taught me about success",
+      "description": "Cincinnati literacy leader Kristy High reflects on Dolly Parton’s Imagination Library and the lesson Parton's philanthropy taught her about success.",
+      "publication_date": "Wed, 26 Aug 2026 14:56:51 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/the-no-1-lesson-dolly-parton-taught-me-about-success.html",
+      "source": "rss"
+    },
+    {
+      "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
+      "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
+      "publication_date": "Wed, 26 Aug 2026 14:55:22 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+      "source": "rss"
+    },
+    {
+      "title": "We're buying the dip — again — in a retailer not getting credit for addressing weak sales",
+      "description": "Wednesday's decline can be attributed to a downgrade at Jefferies, which we disagree with.",
+      "publication_date": "Wed, 26 Aug 2026 14:48:53 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/were-buying-the-dip-again-in-a-retailer-not-getting-credit-for-addressing-weak-sales.html",
+      "source": "rss"
+    },
+    {
+      "title": "Kremlin says US spy chief met with Russian counterparts during Moscow visit - Reuters",
+      "description": "Kremlin says US spy chief met with Russian counterparts during Moscow visit &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 14:44:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports",
       "description": "European Central Bank policymakers are increasingly leaning towards a September rate hike as the Iran conflict drives up energy prices and inflation. While inflation is nearing 3% and economic activity remains resilient, officials appear reluctant to signal further tightening beyond September, keeping future decisions dependent on incoming data.",
       "publication_date": "Wed, 26 Aug 2026 14:40:35 +0530",
@@ -166,10 +236,10 @@
       "source": "rss"
     },
     {
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
-      "publication_date": "Wed, 26 Aug 2026 14:33:58 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
+      "description": "Paramount Skydance's acquisition of Warner Bros. Discovery is stalled due to an antitrust lawsuit, leaving WBD in limbo during a pivotal moment for media.",
+      "publication_date": "Wed, 26 Aug 2026 14:31:47 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
       "source": "rss"
     },
     {
@@ -226,13 +296,6 @@
       "description": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
       "publication_date": "Wed, 26 Aug 2026 13:35:18 GMT",
       "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
-      "source": "rss"
-    },
-    {
-      "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
-      "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
-      "publication_date": "Wed, 26 Aug 2026 13:32:41 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
       "source": "rss"
     },
     {
@@ -422,13 +485,6 @@
       "description": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 10:32:19 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Kremlin says US spy chief held talks with Russian counterparts during Moscow visit - Reuters",
-      "description": "Kremlin says US spy chief held talks with Russian counterparts during Moscow visit &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 10:29:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
       "source": "Reuters"
     },
     {
@@ -957,6 +1013,13 @@
       "source": "rss"
     },
     {
+      "title": "Seven charts point to tighter energy markets through 2027 - Reuters",
+      "description": "Seven charts point to tighter energy markets through 2027 &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 07:33:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXJWdjZVdHBYREtXcWV5a1NreTdKY3FKNDk2QlB2NWd2RW1ZZ0ZEam5xNDFBbUMzLW5MTVR0TFo1SklfaGFNVG0tNUtFVU1janNkWko4RXc5dm95eWlwLUR1Y0t0V0FwRGdFclBnNjVEeGJnOWhzMVdSY3VIVTVjWkRmLUhZMVVzU3NjVzZocDZITG5leG5aZHlUT1lDcUprVXl6S1p6RTJMVVl6VXlwX2VDLXN6UHJ0RG5xWFlSUmM?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Hindustan Copper OFS opens for retail investors today. Should you apply in the metals major's offer?",
       "description": "The OFS opened for non-retail investors on August 4, and saw strong participation. It now opens for retail investors today. Investors can participate between 9.15 am and 3.30 pm using the separate OFS window on NSE and BSE. A minimum of 10% of the offer size has been reserved for retail investors.",
       "publication_date": "Wed, 26 Aug 2026 07:26:51 +0530",
@@ -1374,69 +1437,6 @@
       "description": "US debt crosses $40 trillion threshold after doubling under Trump and Biden &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 20:17:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3NKYnBaTEJPd09VZndtN19jYWFXX3FIZE1KZV9VSlp0NWxMNmZNbFZYemVWR0RWYnpUOWpQM2w4eWQ1aVQ3UEtCTVc5Y2Ric2lteHdZSmZSdkRKVXRDaTdoVDZNd3I4YUsxMnZLN0tuSkpSd1VmbnNEUEhSOEJKdi1Hd05iMU9MQmQzSVl3YmFCYklzRVFrbVlpcDZEbk54VS1GT3NJZllDeWRSZTl3dEp3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "RBI MPC puts Q3 rate hike in play if inflation risks show up big",
-      "description": "Indian monetary policy makers may tighten rates in the third quarter if inflation risks materialize. Higher food and fuel prices could lead to broad-based inflation, prompting action. Inflation is projected to peak at 5.9% in Q3 2026-27, signaling potential policy shifts. The central bank remains watchful of global economic turbulence and its domestic impact. Monetary response is warranted if inflation expectations become de-anchored or persistent.",
-      "publication_date": "Wed, 19 Aug 2026 20:15:22 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mpc-flags-possibility-of-policy-tightening/articleshow/133361277.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Lebanon hands Assad-era general to Syria in first such transfer since Assad’s fall - Reuters",
-      "description": "Lebanon hands Assad-era general to Syria in first such transfer since Assad’s fall &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 20:14:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWE1rY294d19rVW51c1RpWk1tQUhpdWtvY0ZialJkREZuUFFYQklmLXhsQ19JMmlOM0ZMVzJ6bWdUdXlhSXdadXZ1NVRuWHdxMFVDMUp2a1hIYmM5b0RkSEtGZnJ0OXh5WnBwcm5RcUlDREdBcmYxVkl1Mnp2VlAwSzJXN3RVZXkzTDFWZmZDWmhmRUJONVlrVWFYYUlHSDNsYy1NMkhJWWJaSElXOU9neVNCbkF1bHlpbjQxYWRmUk5ZWGptLVZxeg?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "BSE looks to launch MSCI-linked futures and options in India",
-      "description": "BSE has partnered with MSCI to explore futures and options contracts linked to MSCI indexes in India, subject to regulatory approvals. The move could broaden BSE’s derivatives offerings, strengthen index-based investing and provide investors additional tools to hedge India exposure.",
-      "publication_date": "Wed, 19 Aug 2026 20:13:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-      "description": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
-      "publication_date": "Wed, 19 Aug 2026 20:10:14 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-      "source": "rss"
-    },
-    {
-      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-      "description": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
-      "publication_date": "Wed, 19 Aug 2026 20:07:09 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-      "source": "rss"
-    },
-    {
-      "title": "Trump the builder carves his legacy in stone as pressures mount - Reuters",
-      "description": "Trump the builder carves his legacy in stone as pressures mount &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 20:06:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXpsWnAwT1J2UjI3TFBJdHp6YW5lMW5yQ0dDNzNleFhraTQ0MTFiQkxhQVAxNEtZLWF5T3pEOUt6cGVqemdTMlRBNU9OYkRfV0VlbXFONGVWTXBIZW1JaDFxTktGVDh3SHJXQ1U0Z1liTGhnUjBSTEoyRjJzQnVPX2VFUk82dHc2X2YxTHM4SEVKRUZMdkJOMjNwWE1WSGc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Trump picks White House ally Overton to lead embattled FDA - Reuters",
-      "description": "Trump picks White House ally Overton to lead embattled FDA &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 20:05:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanVmYlVxbkJTQzEzaWkzczNmNHVEeVJGbzkyMnVBQk80UVF1M2JueFoyMUxiNzVub3dvVWdPZm02ekNOQmZVN1ZaMmxMZmk1WnRENlNmMXA4a2F5VHpCODVvZjIxOWp0ZHpVNUlpTFZ1VmxCU0dBc21ReUUwb0FmRG1rWS1ORjZsbEVxQVRoSGZDNUE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-      "description": "Longer-term U.S. Treasury yields pulled back on Wednesday after the Treasury Department announced an upscaled buyback operation of the nation's debt.",
-      "publication_date": "Wed, 19 Aug 2026 20:03:44 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-      "source": "rss"
-    },
-    {
-      "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants - Reuters",
-      "description": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 20:03:42 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
       "source": "Reuters"
     }
   ]
