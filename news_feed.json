@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:22:10.235289+00:00",
+  "generated_at": "2026-08-26T11:54:08.101897+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,32 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "ICICI Prudential AMC shares: Prudential Corporation to divest up to 2% equity, stock up 49% from IPO price",
+      "description": "ICICI Prudential AMC promoter Prudential Corporation Holdings plans to sell up to 2% stake through open-market transactions from August 27 to meet minimum public shareholding requirements. Promoter holding will fall to 85.60% after the proposed sale.",
+      "publication_date": "Wed, 26 Aug 2026 17:10:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-prudential-corporation-to-divest-up-to-2-equity-stock-up-49-from-ipo-price/articleshow/133539621.cms",
+      "source": "rss"
+    },
+    {
+      "title": "TVS Motor among 6 stocks hitting 52-week highs; surge up to 35% in a month",
+      "description": "Six BSE 100 stocks, including TVS Motor, Paytm and Divi’s Laboratories, hit fresh 52-week highs despite a weak Sensex session, with gains reaching 34% over the past month.",
+      "publication_date": "Wed, 26 Aug 2026 16:57:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-among-6-stocks-hitting-52-week-highs-surge-up-to-35-in-a-month/slideshow/133539423.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Ventura initiates coverage on Meesho and LG India, sees up to 35% upside",
+      "description": "Ventura Securities has initiated coverage on Meesho and LG Electronics India with Buy ratings, seeing up to 35% upside. The brokerage expects Meesho to benefit from value-commerce growth and improved monetisation, while LG India could gain from appliance premiumisation, localisation, exports and rising demand for cooling solutions.",
+      "publication_date": "Wed, 26 Aug 2026 16:56:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ventura-initiates-coverage-on-meesho-and-lg-india-sees-up-to-35-upside/articleshow/133539294.cms",
+      "source": "rss"
+    },
     {
       "title": "Quote of the day by Warren Buffett: \"The inescapable fact is that the value of an asset, whatever its character, cannot over the long term grow faster than its earnings do\"",
       "description": "Warren Buffett’s investment philosophy emphasizes that an asset’s long-term value cannot sustainably outpace its earnings. While sentiment and speculation can drive prices temporarily, lasting value creation depends on businesses generating consistent and growing profits that support valuations.",
@@ -180,10 +201,24 @@
       "source": "rss"
     },
     {
+      "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
+      "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
+      "publication_date": "Wed, 26 Aug 2026 11:52:28 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+      "source": "rss"
+    },
+    {
       "title": "Adani Ports or Gujarat Pipavav: Which stock benefits more from Gujarat concession extensions?",
       "description": "Gujarat’s reported decision to extend port concessions has removed a key overhang for Adani Ports and Gujarat Pipavav. While Pipavav stands to benefit more immediately as its concession expires in 2028, Adani Ports gains longer-term visibility for its Gujarat assets. Brokerages, however, see a sharper valuation risk for Pipavav.",
       "publication_date": "Wed, 26 Aug 2026 11:51:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-or-gujarat-pipavav-which-stock-benefits-more-from-gujarat-concession-extensions/articleshow/133532117.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
+      "description": "Mortgage rates rose again last week causing demand for both refinances and purchase loans to drop. Rates climbed to their highest level in three weeks.",
+      "publication_date": "Wed, 26 Aug 2026 11:33:07 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
       "source": "rss"
     },
     {
@@ -222,13 +257,6 @@
       "source": "rss"
     },
     {
-      "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
-      "description": "Mortgage rates rose again last week causing demand for both refinances and purchase loans to drop. Rates rose to their highest level in three weeks.",
-      "publication_date": "Wed, 26 Aug 2026 11:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
-      "source": "rss"
-    },
-    {
       "title": "Pernia’s Pop-Up Studio parent Purple Style Labs sets IPO price band at Rs 546–575; subscription opens August 31",
       "description": "Purple Style Labs, the parent company of Pernia’s Pop-Up Studio, has set its IPO price band at Rs 546-575 per share. The Rs 680-crore issue will open on August 31 and close on September 2. The luxury fashion platform plans to use proceeds for retail expansion, marketing and corporate purposes.",
       "publication_date": "Wed, 26 Aug 2026 10:48:43 +0530",
@@ -241,6 +269,20 @@
       "publication_date": "Wed, 26 Aug 2026 10:39:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-nvidia-earnings-to-test-ai-boom-as-markets-brace-for-sharp-move/articleshow/133530414.cms",
       "source": "rss"
+    },
+    {
+      "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow - Reuters",
+      "description": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 10:32:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Kremlin says US spy chief held talks with Russian counterparts during Moscow visit - Reuters",
+      "description": "Kremlin says US spy chief held talks with Russian counterparts during Moscow visit &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 10:29:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Global Market: Ueda’s Jackson Hole absence puts focus on BOJ’s September rate decision",
@@ -376,7 +418,7 @@
       "source": "rss"
     },
     {
-      "title": "Power Grid Share Price Live Updates: Power Grid's Market Update",
+      "title": "Power Grid Corporation of India Share Price Live Updates: Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 09:01:09 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-updates-26-aug-2026/liveblog/133528598.cms",
@@ -985,8 +1027,8 @@
       "source": "rss"
     },
     {
-      "title": "Indian shares gain as oil slides on Strait of Hormuz reopening hopes - Reuters",
-      "description": "Indian shares gain as oil slides on Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction - Reuters",
+      "description": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 02:18:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
       "source": "Reuters"
@@ -1395,48 +1437,6 @@
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "publication_date": "Wed, 19 Aug 2026 18:58:48 GMT",
       "link": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "description": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-      "publication_date": "Wed, 19 Aug 2026 18:54:50 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "source": "rss"
-    },
-    {
-      "title": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
-      "description": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,'\" prosecutors said.",
-      "publication_date": "Wed, 19 Aug 2026 18:54:04 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
-      "source": "rss"
-    },
-    {
-      "title": "SLB, Formentera working to activate drilling rigs in Venezuela, executives say - Reuters",
-      "description": "SLB, Formentera working to activate drilling rigs in Venezuela, executives say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 18:45:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWGlQZDZDeWwwaHc5X1o5Mmpkck9LWDRteUplR2FDaXg0V3BsQkFhTXE3NEwxMEdtTmdmTDMxUFZXSF83UGlEbTItNnZEd1YwbHk5d0d1T3YxMVo1Sll2Q2ZUZUo2dzdTZnF3TllUMlQ0QVJ3cUMyOUhVMUNEeldMWndVMmxRa3p1ZDg1ampTUmNZQnJLNVZaNHFfUm5UeTAxdW1UcjVkU2M3Zk5YZHljQzFjdHI1ZThBaC1WNlh0OA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Escorts Kubota announces Rs 2,000 cr investment on new plant in UP",
-      "description": "Escorts Kubota has announced a substantial investment of Rs 2,000 crore for a cutting-edge manufacturing facility in Uttar Pradesh. This new plant is set to manufacture tractors, farm implements, and construction equipment for international markets. This initiative is aligned with Kubota Corporation's strategy for expansion and establishing manufacturing hubs, significantly enhancing production capacity. Funding will be sourced from share proceeds and internal resources.",
-      "publication_date": "Wed, 19 Aug 2026 18:05:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/escorts-kubota-announces-rs-2000-cr-investment-on-new-plant-in-up/articleshow/133348729.cms",
-      "source": "rss"
-    },
-    {
-      "title": "L&T buys over 2 cr units of Nxt-Infra Trust for Rs 199 cr",
-      "description": "Larsen & Toubro made a strategic move by purchasing over two crore units of Nxt-Infra Trust for Rs 199 crore via an open market transaction on the NSE. Additionally, A K Capital Finance disposed of more than two crore units of the same trust. This Sebi-registered InvIT, supported by Actis Highway Infra Ltd, saw a substantial rise in share price following the infrastructure powerhouse's acquisition.",
-      "publication_date": "Wed, 19 Aug 2026 18:04:13 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/lt-buys-over-2-cr-units-of-nxt-infra-trust-for-rs-199-cr/articleshow/133348687.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Real estate sector likely to remain resilient despite West Asia crisis: CareEdge",
-      "description": "India's real estate sector is expected to remain broadly resilient despite geopolitical uncertainty arising from the West Asia crisis, with healthy demand, strong developer balance sheets and robust office leasing likely to cushion near-term pressures. However, prolonged elevated crude prices could raise construction costs by 2-3 per cent and weigh on affordable housing and highly leveraged developers, according to a report by CareEdge Ratings.",
-      "publication_date": "Wed, 19 Aug 2026 18:02:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/real-estate-sector-likely-to-remain-resilient-despite-west-asia-crisis-careedge/articleshow/133348620.cms",
       "source": "rss"
     }
   ]
