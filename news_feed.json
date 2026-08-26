@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:09:29.716502+00:00",
+  "generated_at": "2026-08-26T09:33:55.922442+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,24 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports",
+      "description": "European Central Bank policymakers are increasingly leaning towards a September rate hike as the Iran conflict drives up energy prices and inflation. While inflation is nearing 3% and economic activity remains resilient, officials appear reluctant to signal further tightening beyond September, keeping future decisions dependent on incoming data.",
+      "publication_date": "Wed, 26 Aug 2026 14:40:35 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-may-raise-rates-in-september-as-iran-war-fuels-inflation-concerns-reports/articleshow/133535841.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Mold-Tek Packaging board approves 1:1 bonus issue, Rs 3 final dividend",
+      "description": "Mold-Tek Packaging’s board has approved a 1:1 bonus issue and recommended a final dividend of Rs 3 per share for FY26. Under the proposal, shareholders will receive one bonus share of Rs 5 face value for every share held. The company will announce the record date later, while the dividend will be declared at its annual general meeting.",
+      "publication_date": "Wed, 26 Aug 2026 14:38:02 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mold-tek-packaging-board-approves-11-bonus-issue-rs-3-final-dividend/articleshow/133535801.cms",
+      "source": "rss"
+    },
     {
       "title": "Global Market: European shares edge higher as oil prices fall, Nvidia earnings in focus",
       "description": "European shares edged higher as falling oil prices eased bond yields and supported equities, while investors awaited Nvidia’s quarterly results and fresh US inflation data. The STOXX 600 gained 0.1%, with basic resources leading gains, even as energy stocks lagged amid hopes of a reopening of the Strait of Hormuz.",
@@ -264,7 +278,7 @@
       "source": "rss"
     },
     {
-      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's Performance Snapshot",
+      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Market Update",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 09:03:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-26-aug-2026/liveblog/133528634.cms",
@@ -278,7 +292,7 @@
       "source": "rss"
     },
     {
-      "title": "SBI Life Share Price Live Updates: SBI Life's Stock Price Insights",
+      "title": "SBI Life Share Price Live Updates: SBI Life's Price Movement Today",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 09:01:59 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-updates-26-aug-2026/liveblog/133528613.cms",
@@ -303,6 +317,13 @@
       "description": "Raghvendra Nath, MD, Ladder Up Wealth Management, believes equities should form the core of an NRI’s India portfolio, while fixed income and alternative investments can provide diversification.",
       "publication_date": "Wed, 26 Aug 2026 08:51:34 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-10-crore-nri-portfolio-how-raghvendra-nath-would-allocate-it-across-equities-debt-and-alternatives/articleshow/133528383.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
+      "description": "Haidilao shares rose after results showed strong growth in delivery and newer restaurant formats, even as revenue from its core hotpot restaurants declined.",
+      "publication_date": "Wed, 26 Aug 2026 08:46:34 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
       "source": "rss"
     },
     {
@@ -355,14 +376,14 @@
       "source": "rss"
     },
     {
-      "title": "Infosys Share Price Live Updates: Infosys stock sees a drop in today's trading",
+      "title": "Infosys Share Price Live Updates: Infosys experiences a decline in share price",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:41:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133528318.cms",
       "source": "rss"
     },
     {
-      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Daily Price Update",
+      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Current Trading Status",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:41:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-updates-26-aug-2026/liveblog/133528313.cms",
@@ -381,6 +402,13 @@
       "publication_date": "Wed, 26 Aug 2026 08:39:25 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-in-focus-as-ofs-opens-for-retail-investors-here-are-all-the-details/articleshow/133528239.cms",
       "source": "rss"
+    },
+    {
+      "title": "US-Iran war spurs Europe, Asia to boost renewables - Reuters",
+      "description": "US-Iran war spurs Europe, Asia to boost renewables &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 08:37:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVNd3JBNVpOVlFWcUlabjhLbU52TmV4WXNjbUwyVzVlWXFHMFBvenNoUVItMnhFbkh6VWM0dXBrVVpmbmhDTEROdlVlNG43OElCeVY3Uy1jQVNIRnljcUt6b1h2Uy1RZzN3c1lHbkhXeGlLTnhfc2g3WlRlTERCb2VON3NTQU1uTUtGTVpad2gyY3pnYUo1cU9pNlNRRVU?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Price Movement Today",
@@ -698,6 +726,13 @@
       "source": "rss"
     },
     {
+      "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
+      "description": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
+      "publication_date": "Wed, 26 Aug 2026 07:11:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
+      "source": "rss"
+    },
+    {
       "title": "Gross FDI climbs as net inflows turn positive",
       "description": "Gross foreign direct investment into India saw a significant rise in June. Net FDI also increased substantially, recovering from a previous month's outflow. Outward FDI, however, continued its downward trend for the past two months. Financial, insurance, and business services were key sectors for outward investments. Manufacturing and trade sectors also witnessed outward FDI activity.",
       "publication_date": "Wed, 26 Aug 2026 07:09:33 +0530",
@@ -766,6 +801,13 @@
       "publication_date": "Wed, 26 Aug 2026 06:11:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
       "source": "rss"
+    },
+    {
+      "title": "US-Iran war sinks into energy trench warfare six months on - Reuters",
+      "description": "US-Iran war sinks into energy trench warfare six months on &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 06:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Stocks in news: Groww, Tata Motors PV, Cipla, Varun Beverages and Axis Bank",
@@ -1396,48 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 17:05:01 GMT",
       "link": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
       "source": "rss"
-    },
-    {
-      "title": "Turkey is ready to search for oil and gas in Syria, Turkish minister says - Reuters",
-      "description": "Turkey is ready to search for oil and gas in Syria, Turkish minister says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 16:58:31 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlhzQTZJSXRFWEpDUkZNUHFTUG40YXNWb25WUUZFdjdRRnp6cGtCa0N1Z2YwZENkOTB6WXZQYjR2T0FVWEpRZlg4emZqTVhMVHAtVGNZWVd4X29HM09UenI4NDZ1WjhlYy1WaHFoY1hWRDFXR29rTDJpaEFlazJkRE5ldzVaWDRMYkdUbkRIa1NLTUYyd05LTDV4YUg0TXVxbkZLVklrMktiSGpCSHJz?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Europe's STOXX 600 near three-week low as inflation worries weigh - Reuters",
-      "description": "Europe's STOXX 600 near three-week low as inflation worries weigh &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 16:35:11 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWk13UTJrNGdtRnNqUllEdDlZYklQYzlVbElWcmZNaVJVNXFiVUY3bHBJM0dDSFh0SGQ1REdxc3BBS05aVGlnZXNRX0JqMFRVb29QeFgyVkhMcWZYbjFqX2hMS0xrM0w0TGhNXzRwc1dwWFRVT21aak4zSFVTTkdMSzRBbjlJWjFPRzRYMFhueXZMX2hzYXR5ZWpnckNicVF2UjRWOUhsU01mcFZMcjVUMi13?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Shiprocket shares make strong debut: Stock lists at 35% premium over IPO price at Rs 131",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 16:32:11 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-shares-make-strong-debut-stock-lists-at-35-premium-over-ipo-price-at-rs-131/videoshow/133346168.cms",
-      "source": "rss"
-    },
-    {
-      "title": "NEWSLETTER: A conflict on autopilot? - Reuters",
-      "description": "NEWSLETTER: A conflict on autopilot? &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 16:32:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVLU1hck1lTnZYbmRWSWFMTS10cFJTSl9DZWpLMEtydlFWT3FvUTBsckQyN0xhRTFwaG9lVWZfaTVNVldabGMyTXhGRU9zTUZlV1dJSGNLUElKS3plSVF5a0pQUEhjS1cydDcwWVZlOXZLVnFDWXdfRGs5Slc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Lyntris valued at $1.8 billion after shares fall in New York debut - Reuters",
-      "description": "Lyntris valued at $1.8 billion after shares fall in New York debut &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 16:20:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmxQeEdYRkxrSmxqbUs5UVAzQXpYdU12ekItbV9TRDEwX0FlVVRPa1ZkY2Jpem8tYVB3Q09wWldvMXNadUMzNWc0YndPYWJncTF4by0wTTRDaVJBYW9YRWhXYWRkYzRWR29IRnNERFV4TFdtbVVvNWh6aGJCN3dXR0k0Z3ZnbUZpUTVQQTluVWJnSFpsbHdaVm9TWjFZZDF1Ujg4MER0OXNpVG5veUY3bg?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "London stocks gain as gold miners shine - Reuters",
-      "description": "London stocks gain as gold miners shine &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 16:12:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTBoNEs0YWdiZnRmc1BhZG5hMWVHN2dNQ0h6YTRqekdHY0wxR0FCeTlQWTNmNFlURks1Zm9HT3prTExrYmJYWFZtN29GZ2tQMlg1dGh0RFAwLTA0TzFzRW5yMWJUMnVIVFVrMmhZUDcwWVdsWHRlRV9ybkRST2VlYkMyOUhZTTk5Q3FUeDNEdWprajZEYUxybVFHdHV1b0paOXZFcUR1bFljM2ds?oc=5",
-      "source": "Reuters"
     }
   ]
 }
