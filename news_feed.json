@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T21:32:41.877840+00:00",
+  "generated_at": "2026-08-26T23:55:50.528729+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -40,10 +40,45 @@
   ],
   "articles": [
     {
+      "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
+      "description": "The U.S. may be asking allies to step up their own defense, but it still wants them to align on geopolitical interests.",
+      "publication_date": "Wed, 26 Aug 2026 23:53:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
+      "source": "rss"
+    },
+    {
       "title": "US corporate profit margins widen to highest on record",
       "description": "US corporate profit margins reached a record 19.4% in the second quarter, up from 18.2%, as profits jumped nearly 10%. Strong consumer spending and companies passing higher prices on to customers supported earnings. Business investment also remained robust, with nonresidential fixed investment rising at an annualized 8.5% pace.",
       "publication_date": "Wed, 26 Aug 2026 23:48:45 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-corporate-profit-margins-widen-to-highest-on-record/articleshow/133548769.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Republicans are dismissing affordability. That could be a problem in November",
+      "description": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\"",
+      "publication_date": "Wed, 26 Aug 2026 23:17:46 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
+      "source": "rss"
+    },
+    {
+      "title": "Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why",
+      "description": "Salesforce CEO Marc Benioff pushed back against “SaaSpocalypse” fears.",
+      "publication_date": "Wed, 26 Aug 2026 22:47:37 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
+      "source": "rss"
+    },
+    {
+      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+      "publication_date": "Wed, 26 Aug 2026 22:39:49 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "source": "rss"
+    },
+    {
+      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+      "description": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools.",
+      "publication_date": "Wed, 26 Aug 2026 22:20:20 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
       "source": "rss"
     },
     {
@@ -58,20 +93,6 @@
       "description": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
       "publication_date": "Wed, 26 Aug 2026 21:27:53 GMT",
       "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-      "source": "rss"
-    },
-    {
-      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
-      "description": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools.",
-      "publication_date": "Wed, 26 Aug 2026 21:25:56 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
-      "source": "rss"
-    },
-    {
-      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
-      "publication_date": "Wed, 26 Aug 2026 21:25:21 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
       "source": "rss"
     },
     {
@@ -213,6 +234,13 @@
       "publication_date": "Wed, 26 Aug 2026 18:04:25 GMT",
       "link": "https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html",
       "source": "rss"
+    },
+    {
+      "title": "Pentagon official to brief NATO allies as review fuels questions - Reuters",
+      "description": "Pentagon official to brief NATO allies as review fuels questions &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 18:00:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWtsNUtXejhaZE1lREpUYW5SamRHSTNyM0trLW1QWXdxZzY3MUdlVExsVXoxTFA2RVlCS1RyQ0UydW0wN080RzBWcVFnRWVsUV9jNzFWZTNaZlplN1h0X3Fxc3pYSkYtc0JFR3NSUFZ4RFNmb3JxcDg0Q2diSzlHaDVOYThxYWlJTzdwRU1wcVoyNFRvOGRKem5nYW82ZlVidnAxLTBiYkhEaUE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
@@ -565,6 +593,13 @@
       "source": "rss"
     },
     {
+      "title": "CCTV captures devastation as mudslide engulfs Nepal-China border - Reuters",
+      "description": "CCTV captures devastation as mudslide engulfs Nepal-China border &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 12:24:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dHA2aXRRVlNhMm1qdlpBUVlubF8xOVN2Q3hxU2pTUVI2OVdyV3ZaVVFwT0pHcUdzUTk4SGZZMENaRUZoa1JSNllLcFlVWHpiT0pEWmhHZmRBLV9HUzZmSnhyS0pNRTA?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Options turnover sinks at Dalal Street's top exchange preparing for IPO",
       "description": "India's stock exchange has seen options turnover plummet to its lowest in a year, a direct consequence of newly enforced trading regulations and the adoption of a closing auction system. Cash equities trading has also dipped, marking its lowest since November. This downturn poses a significant challenge for the upcoming initial public offering by the NSE, as traders recalibrate their strategies to align with the modified auction process.",
       "publication_date": "Wed, 26 Aug 2026 12:24:12 +0530",
@@ -731,6 +766,13 @@
       "publication_date": "Wed, 26 Aug 2026 09:35:08 GMT",
       "link": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
       "source": "rss"
+    },
+    {
+      "title": "Taiwan president pushes $6.6 billion military drone bill ahead of crucial vote - Reuters",
+      "description": "Taiwan president pushes $6.6 billion military drone bill ahead of crucial vote &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 09:32:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWURXaXY3d1JjbWgzczM1QzB2M2JDMkppQm5BNzBqYnRYRzZDVjFTRGNCU3F3amMweDU0NjlBUWxwWXNQWTRDVlJ3aVJqa1NwQ1VUMmlQVVU2U2hzWDl5Z0p0d0J4VU1XblRoeWkzSC05eEk4bWpxWk0ybERHMXpfQnhxVUliUmhDTDVydlk0dlhjaE1PandyOWs1LUJGNS0xZmxwVV9UeFljc1dwVDItYzlXOUxndUZzUkZDWFBn?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Sensex rises over 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
@@ -941,6 +983,13 @@
       "publication_date": "Wed, 26 Aug 2026 08:34:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-large-caps-look-better-for-next-24-months-but-hidden-gems-remain-in-smallcaps-divam-sharma/articleshow/133528026.cms",
       "source": "rss"
+    },
+    {
+      "title": "Six Chinese nationals among seven killed in Russian gas plant fire - Reuters",
+      "description": "Six Chinese nationals among seven killed in Russian gas plant fire &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 08:32:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSy1EQW5PVlpfSUNUNzNTekRBMFVoM0Rjamh3cXlLUVJfMmwxMHZwX1gwRE9fQnRVak40MGg2c1NWUFNiYVUyRWVBcThfSU5sVFVteXZ3SC0tQkt0MmVxenB5VlQ2bjJoTzI5c1o2ejVGYnQ3UGZqLVJjYmNzalp0X1JwNUdja3dQaGJfSmJaeEcxQlg1bDhEY1Z1TVBYMHBsaGt4eF8yWFFHREU2QWVGc3Vlbl9XRDVHUGkwT0JtWXR6RFE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Hindalco Share Price Live Updates: Hindalco's Market Performance Overview",
@@ -1388,55 +1437,6 @@
       "description": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 05:03:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Morning Bid: Markets are waiting '9 to 5' - Reuters",
-      "description": "Morning Bid: Markets are waiting '9 to 5' &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 04:53:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Some oil companies to avoid ships on Iran blacklist, sources say - Reuters",
-      "description": "Some oil companies to avoid ships on Iran blacklist, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 04:49:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzU0Q1htdDM2bF9VQnJEYkxpY0U1Qko2WDRqR1kzY0RJTDd5MEtEbU43ZEpOdjBOcGJYR3d6OF9XQ1dCRWR3RnZrS3RZOVg2eDlvZE96TDMwR3ZiaG15elYwZnQySm1IY2JaMGdmbUNmMmdqTVBGZlNmZFZyMU5Ud1VJNTdyTnNHUmg0NnhuakhOSThwSVNpcVdVczF3dS11VUZOem41enZvUTBaeVE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Gulf ship traffic via Strait of Hormuz hovers below 10-day average, data shows - Reuters",
-      "description": "Gulf ship traffic via Strait of Hormuz hovers below 10-day average, data shows &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 04:29:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDdXWE5PNU9iQnBXdDRxWVh2U1lNOUtGY0NGMHlIemFBUmRycmdBZ2dac0s5Y090MzJHZlBtbHUwaGpaRDlGcDVEdjdyQlFyXzk1WGdDZC1NME93aE4yVngzSW5Hc2p3SjJPc3d4SnhHSWVKd213ZVNTTTBWTFljb3UtOGJ6cmRYQ2xxMHpHY2xZclNIcVZyVUVRZ2tzRVJuX0JCTEJ4aFJOSnJHVHFGbmFya1l1THVpbDJyekhRSVBoSFlo?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-      "description": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
-      "publication_date": "Wed, 26 Aug 2026 04:20:31 GMT",
-      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-      "source": "rss"
-    },
-    {
-      "title": "Japan to diversify crude supplies, back pipelines that bypass Hormuz - Reuters",
-      "description": "Japan to diversify crude supplies, back pipelines that bypass Hormuz &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 03:30:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3huYVRnT2ZwempZZV9JS3Vad2p6NW5lM3c4MnJDdllzM2JkdEdDcWVzZDFScGpUc1M4UmJnZnBIZGJIdnRHYWZRTERFU3pOYjRSRU1NaDdYUFVSTjJKYldxaFhiY3lZSjEwaFdxU3laN2lpSDRMQUVEdGh1cWV2aTVUN3dpWWk0Q3dIenZCVm9jNmdBUHliOVFndXVybzM3UUxzcExlQXhuZGtvWldyb3pLSzhzSzhBbjdQUWd2RFFHRUFQSXFsRQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
-      "description": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
-      "publication_date": "Wed, 26 Aug 2026 02:34:28 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-      "source": "rss"
-    },
-    {
-      "title": "Global equity index, bond yields edge up with focus on inflation and Middle East - Reuters",
-      "description": "Global equity index, bond yields edge up with focus on inflation and Middle East &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 02:17:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
       "source": "Reuters"
     }
   ]
