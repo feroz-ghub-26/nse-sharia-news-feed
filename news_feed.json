@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:35:12.707267+00:00",
+  "generated_at": "2026-08-26T09:09:29.716502+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: European shares edge higher as oil prices fall, Nvidia earnings in focus",
+      "description": "European shares edged higher as falling oil prices eased bond yields and supported equities, while investors awaited Nvidia’s quarterly results and fresh US inflation data. The STOXX 600 gained 0.1%, with basic resources leading gains, even as energy stocks lagged amid hopes of a reopening of the Strait of Hormuz.",
+      "publication_date": "Wed, 26 Aug 2026 14:25:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-oil-prices-fall-nvidia-earnings-in-focus/articleshow/133535441.cms",
+      "source": "rss"
+    },
     {
       "title": "Four regional Fed banks backed rate hike ahead of July decision, minutes show",
       "description": "Four regional Federal Reserve banks backed a 25-basis-point increase in the discount rate ahead of the July policy meeting, minutes showed. The recommendations highlight divisions within the Fed system as policymakers weigh persistent inflation against signs of economic weakness, with markets closely watching for clues on future interest-rate moves.",
@@ -229,7 +236,7 @@
       "source": "rss"
     },
     {
-      "title": "SBI Share Price Live Updates: SBI's Stock Performance Today",
+      "title": "SBI Share Price Live Updates: SBI's Trading Insights",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 09:15:55 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-26-aug-2026/liveblog/133528792.cms",
@@ -264,7 +271,7 @@
       "source": "rss"
     },
     {
-      "title": "Tata Consumer Share Price Live Updates: Tata Consumer's Price Movement Signals Weakness",
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer's Market Position",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 09:02:57 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-today-live-26-aug-2026/liveblog/133528626.cms",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 16:12:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTBoNEs0YWdiZnRmc1BhZG5hMWVHN2dNQ0h6YTRqekdHY0wxR0FCeTlQWTNmNFlURks1Zm9HT3prTExrYmJYWFZtN29GZ2tQMlg1dGh0RFAwLTA0TzFzRW5yMWJUMnVIVFVrMmhZUDcwWVdsWHRlRV9ybkRST2VlYkMyOUhZTTk5Q3FUeDNEdWprajZEYUxybVFHdHV1b0paOXZFcUR1bFljM2ds?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Hedge funds are about to jump into prediction markets in a big way",
-      "description": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
-      "publication_date": "Wed, 19 Aug 2026 16:04:12 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
-      "source": "rss"
     }
   ]
 }
