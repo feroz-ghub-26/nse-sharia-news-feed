@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:28:08.202217+00:00",
+  "generated_at": "2026-08-26T10:59:26.820753+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,24 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "M&A deals double, but execution holds the key for investors: Crisil Ratings",
+      "description": "India Inc’s annual M&A volumes have more than doubled since fiscal 2017 as companies pursue faster growth, market expansion and new capabilities. Crisil Ratings found two-thirds of major debt-funded acquisitions broadly met expectations, while integration and regulatory challenges hurt others.",
+      "publication_date": "Wed, 26 Aug 2026 16:09:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
+      "description": "The Indian stock markets experienced a shift, dropping from earlier gains with both Sensex and Nifty closing lower. Key decliners included Infosys, Bharti Airtel, and L&T. Meanwhile, Kotak Mahindra Bank's shares surged over three percent, contrasting with the mixed performance of broader markets, where small caps thrived while mid caps faced challenges. Interestingly, despite the main indices' downturn, the market breadth showed a favor for advancing stocks.",
+      "publication_date": "Wed, 26 Aug 2026 15:41:49 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-183-points-nifty-closes-below-24250-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133537326.cms",
+      "source": "rss"
+    },
     {
       "title": "Bitcoin consolidates near $79K ahead of US PCE, GDP Data; whales book record $1.2 billion profit in 3 days",
       "description": "Bitcoin traded near $79,000 on Wednesday as traders await key US PCE inflation and GDP data. While the broader trend remains bullish, rising profit-taking and resistance around $82,800–$83,000 could limit near-term gains. Short-term holder whales have booked a record $1.2 billion in profits over three days, adding to market caution.",
@@ -264,6 +278,13 @@
       "source": "rss"
     },
     {
+      "title": "PODCAST: Betting on Nvidia - Reuters",
+      "description": "PODCAST: Betting on Nvidia &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 09:19:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0k3VlNQSTBXNVRkSnFqT0JrRjROWm5Daks3MkZ1RHFxdEl0LWtQTGRTS2hveFB2VUVBODZyWkNkRmhuYy1MOUJZbGU1LUxkSTVma1ZYcnlJbURfanNGTEstSXEyTkJncC1nMndRaVNfcFFGV1BSMzUwU2pIVUVZclJmTVpIUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "HEG demerger: What 1:1 restructuring means for shareholders as company fixes record date?",
       "description": "On September 7, HEG will finalise its demerger, providing shareholders one share in the new entity for each existing share they hold. The graphite electrodes segment will transition to HEG Graphite, retaining the HEG name. Additionally, Bhilwara Energy will merge into HEG at a designated share issuance ratio, with leadership shifts commencing on September 1.",
       "publication_date": "Wed, 26 Aug 2026 09:17:44 +0530",
@@ -383,7 +404,7 @@
       "source": "rss"
     },
     {
-      "title": "Asian Paints Share Price Live Updates: Asian Paints Price and Trend Overview",
+      "title": "Asian Paints Share Price Live Updates: Asian Paints Current Price Update",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:42:33 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-live-updates-26-aug-2026/liveblog/133528336.cms",
@@ -836,6 +857,13 @@
       "publication_date": "Wed, 26 Aug 2026 06:11:08 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
       "source": "rss"
+    },
+    {
+      "title": "British energy price cap to rise 4% as Iran war pushes up costs - Reuters",
+      "description": "British energy price cap to rise 4% as Iran war pushes up costs &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 06:09:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlZZZUthczBuQ2FsOEZnMEhWQ0ZhMUh1ajdxc1R0c1ZzUWhtWjlDckRqUFNLRXBscjV0RDltV0RMSEJjbWpyWk4ySlV2TEhFdTFPUTgyY1d1aV8taTdtS21rUHpWanJvSDc5V1UtZ2J4TmZIdG5HMVhVZWpQUnlCeTlLQ0M5WFhjU1BkTDBNUkJKQlRJckxzRTdSN1B2bjRSNVFMMktvQkMyeF9IT1kya2FnZXd6a1N3REpv?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US-Iran war sinks into energy trench warfare six months on - Reuters",
@@ -1410,34 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 17:54:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-crude-oil-fed-warsh-rate-hike-moderna-nvidia-micron-sandisk-chip-stock-price-news-19th-august-2026/liveblog/133348429.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil pain pins India bonds in range; RBI minutes to give next cue",
-      "description": "Indian government bonds showed little movement on Wednesday, trading in a tight range. The increase in oil prices countered support drawn from softer U.S. Treasury yields, which affected trader sentiment. Market participants are now looking ahead to the impending policy minutes from the U.S. and Indian central banks for insights on future directions. The Indian rupee experienced a decline against the dollar, prolonging the Nifty 50 index's losing streak.",
-      "publication_date": "Wed, 19 Aug 2026 17:53:44 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/oil-pain-pins-india-bonds-in-range-rbi-minutes-to-give-next-cue/articleshow/133348325.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Lenskart Solutions among 4 stocks to hit 52-week highs & surge up to 25% in a month",
-      "description": "Four BSE 200 stocks—GlaxoSmithKline Pharmaceuticals, Lenskart Solutions, Bosch and Samvardhana Motherson International—hit fresh 52-week highs despite Sensex weakness. The stocks gained 18%-24% over the past month, signalling strong investor interest and positive momentum.",
-      "publication_date": "Wed, 19 Aug 2026 17:46:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-among-4-stocks-to-hit-52-week-highs-amp-surge-up-to-25-in-a-month/slideshow/133348316.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Market wrap: HCL Tech, Sun Pharma, Power Grid, Bajaj Finance top gainers and losers on Nifty and Sensex on Wednesday",
-      "description": "Indian equities extended losses for a seventh session, with Nifty falling 0.32% and Sensex 0.42% ahead of US FOMC minutes. IT stocks gained, but broader markets weakened. Analysts flagged 24,000 as crucial Nifty support amid persistent sell-on-rallies sentiment.",
-      "publication_date": "Wed, 19 Aug 2026 17:42:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hcl-tech-sun-pharma-power-grid-bajaj-finance-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133347947.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Israeli airstrike kills nine Palestinians at Gaza police station, medics say - Reuters",
-      "description": "Israeli airstrike kills nine Palestinians at Gaza police station, medics say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:40:50 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHQxTVdDZDFBWlVVb2FyWXBaaC14cE5nZnIwdFN4Z3plZW5XUjdISFR3dEctVW5nRzF6T21QblV5N3NoMTRMWXVqSWxLdGtZT01kcVZQcWE0S3lJTGpSX2Q3Snh6Z3VQaVhZSVZsUTlWblZncGZGUnhxVTJYUm4zSC02VHdUMlFEUFMwR3BOU3RaVzc0X2gxWnEtcFB3VkZpbGZGcUgtNWlXdDBzN0xRS05FUnlOaEwzQm1uNnlKWm1Iekxi?oc=5",
-      "source": "Reuters"
     }
   ]
 }
