@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:13:08.657012+00:00",
+  "generated_at": "2026-08-26T18:52:01.440161+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,18 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "US corporate profit margins widen to highest on record",
+      "description": "US corporate profit margins reached a record 19.4% in the second quarter, up from 18.2%, as profits jumped nearly 10%. Strong consumer spending and companies passing higher prices on to customers supported earnings. Business investment also remained robust, with nonresidential fixed investment rising at an annualized 8.5% pace.",
+      "publication_date": "Wed, 26 Aug 2026 23:48:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-corporate-profit-margins-widen-to-highest-on-record/articleshow/133548769.cms",
+      "source": "rss"
+    },
     {
       "title": "Next market winners: Jefferies sees potential in data centers as hyperscalers race for AI capacity",
       "description": "Hyperscalers are accelerating data-centre leasing as power constraints and lengthy development timelines limit supply. North American non-commenced leases reached 25.5 GW in Q2 2026, up sharply year-on-year, with third-party operators expected to deliver an increasing share of future capacity.",
@@ -107,6 +114,34 @@
       "description": "US stocks traded flat as investors awaited Nvidia's earnings and assessed hotter-than-expected inflation data. July inflation rose 3.7%, lifting bets on a September Fed rate hike. The Dow slipped 0.04%, while the S&P 500 edged up 0.03% and Nasdaq fell 0.06%, keeping markets cautious.",
       "publication_date": "Wed, 26 Aug 2026 19:09:01 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-as-hot-inflation-lifts-rate-hike-bets-ahead-of-nvidia-results/articleshow/133542856.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "publication_date": "Wed, 26 Aug 2026 18:31:26 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/micron-elevates-two-executives-plus-what-the-meta-settlement-means-for-its-top-line.html",
+      "source": "rss"
+    },
+    {
+      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+      "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
+      "publication_date": "Wed, 26 Aug 2026 18:21:06 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
+      "source": "rss"
+    },
+    {
+      "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
+      "description": "Although named after the Nevada gaming mecca, Las Vegas Sands has largely depended on the Asia/Macau story of the last decade.",
+      "publication_date": "Wed, 26 Aug 2026 18:17:04 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/las-vegas-sands-shares-are-about-to-catch-a-heater-says-mike-khouw.html",
+      "source": "rss"
+    },
+    {
+      "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
+      "description": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
+      "publication_date": "Wed, 26 Aug 2026 18:16:38 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
       "source": "rss"
     },
     {
@@ -229,20 +264,6 @@
       "source": "rss"
     },
     {
-      "title": "States sue to block Trump-backed USPS mail-ballot rule after Supreme Court setback",
-      "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
-      "publication_date": "Wed, 26 Aug 2026 16:22:04 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-      "description": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
-      "publication_date": "Wed, 26 Aug 2026 16:19:27 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-      "source": "rss"
-    },
-    {
       "title": "White House pushes for more refinery waivers to ease pump prices - Reuters",
       "description": "White House pushes for more refinery waivers to ease pump prices &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 16:10:04 GMT",
@@ -255,6 +276,20 @@
       "publication_date": "Wed, 26 Aug 2026 16:09:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
       "source": "rss"
+    },
+    {
+      "title": "Russia's NORSI refinery halts oil processing after drone attack, sources say - Reuters",
+      "description": "Russia's NORSI refinery halts oil processing after drone attack, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 15:47:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzZ3aWF0NnQyOTRSUUdRelZlVC1adElRZzN6Y2o2WUJIcGVCbHg2ZW0tV19SM0MyLVlOYjhVYUNmY1NSRjU0YlVoZnJEM01JbHBMak0weXV1OS14YlcyeGl1cjFmT04xbWhwVF9sTVRsd09wbl9WNFppdFlfTnNJdENCbW90czllY3o2OTd2LUkybG5iUml5a201eFBNQ2d1cU43MEdxMFR2REthZUl2UkJ2VXlSZ0p5dGl0X3ZOUDBIZS1k?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "German firms report rising cyber threat from foreign intelligence services, study shows - Reuters",
+      "description": "German firms report rising cyber threat from foreign intelligence services, study shows &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 15:43:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEtJSHlyQi1FMExDMHJ6QW9vZEtQTllmYVBHb0RWdWZLOV9uN3A3dEVaNmFJeU1Bakc4TzgtMEUwaDZWa1lTNTVuMjdHdUdKd2M0ai1fLWJidVV6U2E0bVV4YnBzZFNfeVprY1dtVmcteUJwNlR1U2NnWG1yOHNwUXpmTDIwZjB4cUgyX01pOTlNaUJHM1BwSkxHODBqUUpnZ0ZRRVd6RWkyN0dNdV9MWkdVbWF5SnJGUzRXWHB4SkdrRzd3Qm5j?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
@@ -535,6 +570,13 @@
       "publication_date": "Wed, 26 Aug 2026 10:48:43 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernias-pop-up-studio-parent-purple-style-labs-sets-ipo-price-band-at-rs-546575-subscription-opens-august-31/articleshow/133530532.cms",
       "source": "rss"
+    },
+    {
+      "title": "Ukraine awards Musk high state honour as it seeks to use Starlink more - Reuters",
+      "description": "Ukraine awards Musk high state honour as it seeks to use Starlink more &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 10:45:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZEZhOHB0b1lJbC1xTmRKNFctSGxpeC1LYV9yQks2RlVEVlNxOUMzeHRVNzVkLWpZcm9hcTZHcTFzU2labmlhX3kwbUlWaG5sSVQtdVRUdEtUaW5oaF85QkdkLV9JZVJwNjU4R29QbVJjSHRpRDI0WnVlcTVVMXVSNkJOREdweWNQOFg3dkhSYzdYcllSVnJLNTFJQ3hKdHhicUpiM0p2TURuUlYxOHR6Z3d6MmFHRG9PakdCTm55LUVWYUlPRXc?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US Stock Market: Nvidia earnings to test AI boom as markets brace for sharp move",
@@ -1246,7 +1288,7 @@
     {
       "title": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO - Reuters",
       "description": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 05:38:09 GMT",
+      "publication_date": "Wed, 26 Aug 2026 05:34:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNGtwbkF3SGFBRng3VzVBaUNGR0RSVE04TENaM2RuV0VBMW1CeUZXNXJfM1JxRVY0T0ZmclNlUEsySDBoNDROQjIySnFnemZ6b3hLU1hGNlhmdE5DZmxCMjRSVVVQcG9ralh3TU1qcktudEtjRUlkSUhkTEVsS3RlanFwR1gyT0ljWUpJcFlMV0tyOFFmSy1DbkNhM29CUEdWckVQRGEzbndQTFpZYUw1Z3FncjdMTzQyLUt6MU50NDRKZ3djdHRtNHBucDZCaFpBZ1E?oc=5",
       "source": "Reuters"
     },
@@ -1307,8 +1349,8 @@
       "source": "Reuters"
     },
     {
-      "title": "World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results - Reuters",
-      "description": "World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results &nbsp;&nbsp; Reuters",
+      "title": "Global equity index, bond yields edge up with focus on inflation and Middle East - Reuters",
+      "description": "Global equity index, bond yields edge up with focus on inflation and Middle East &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 02:17:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
       "source": "Reuters"
@@ -1396,48 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 23:04:46 GMT",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdVg1NFpKVGlEcG9zVGRsbmF2cVAwc0Qtc0xTQkdrUEphQkhscHpSTUk5czFVWXFJa08wVlVtbmtFTC1NUEEzelpvdUhWZ05GX1hTUVdqaVRMVXdoUmxUdzdqblJnX2hyUGJ5WXZuc0xfTnpNQWc4Xzh4M3NKb1BtQXpsYXlwdHVkU2c4TzExZWNMdU9rbXFZRTR3NUR6VFJ0RmhfVmtsUFNSUG9HdjhEN3o4bVVkOXA5OERJWXFpaHZLbHlpRWU4WFZ4dGlrLTRjcHEzeDRpa1o?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 22:34:33 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-      "source": "rss"
-    },
-    {
-      "title": "China drove global electric truck, bus sales above half a million in 2025 - Reuters",
-      "description": "China drove global electric truck, bus sales above half a million in 2025 &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 22:05:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXg4WDNOc05kdU1aVkhraEJMOVNhdHJpZHdRa0pmTGpMUnlnMXhwVEM0QWRERU1adDkzRldyLWN0UEtBN1VBQzVKQ3BxMnE4R1pqUXY5XzhreFRxdVJqN1psM3phWmpsSVZLR0gtc2lTN183UWlPa0MxOEJYODhJck90enVMd3QycnJNTmRjOVliWVR3N0NPTjVFUWMxZnZLUlpjNmQ1dmd2OW15Ul9YdGk0QUlzZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Japan has few answers as bond rout puts fiscal plans at risk - Reuters",
-      "description": "Japan has few answers as bond rout puts fiscal plans at risk &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 22:00:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE5kYUs3MDhhT3MtX3ZXQWd3elFPUGVkNjJzQUp1d0lPUkZ3VGRoOEVZWlo4SElXMXIxeDYxZ3hlUnBUNDhCQjl5cVNjSmZsNnpqVVYxajM0Smo4Y2hBeHdlbUxVQkFDMnk0MmJrS2ZyTjlCXzVFTXN2cFFhLUxBYTMwRHJENDhoZV9MTGZkVmg2Y1RMZmlBX3ZUNzNaV3V1Y0tjMDFJSVNHaE1kcFE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US provides $206 million for Gaza force despite deadlocked peace plan - Reuters",
-      "description": "US provides $206 million for Gaza force despite deadlocked peace plan &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 21:50:19 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDlEb1ZYVnh6OFBkdGh1aW9EQi1CUnQyMTl3dFpBenBWRXJlR0NLLVdQeU9jOHQ4amlnQVpmNk5GVDBLVXhaZXFHUXVrNVhldlEwSWZPNGlDS0JEeHZULXpkbFJNVFBZX284a3hPNHJQT3Zzdnd1WnNGX3lFRVRYYy1jYk5TMzlWcWM0M3pzbTNqTUdORUNlTWJTTjdnZDVfLWxmaUlxVzh0cjZPQ1V4eGQzMA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-      "description": "As he has done in the past, Trump accused Fed officials of having political motives.",
-      "publication_date": "Wed, 19 Aug 2026 21:29:38 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-      "source": "rss"
-    },
-    {
-      "title": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
-      "description": "The move would likely impact hundreds of thousands of immigrants who have Social Security numbers and have received authorization to work in the U.S., experts said.",
-      "publication_date": "Wed, 19 Aug 2026 21:19:21 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
-      "source": "rss"
     }
   ]
 }
