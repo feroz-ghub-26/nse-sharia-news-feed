@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:04:28.925528+00:00",
+  "generated_at": "2026-08-26T10:28:08.202217+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,24 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
+    {
+      "title": "Bitcoin consolidates near $79K ahead of US PCE, GDP Data; whales book record $1.2 billion profit in 3 days",
+      "description": "Bitcoin traded near $79,000 on Wednesday as traders await key US PCE inflation and GDP data. While the broader trend remains bullish, rising profit-taking and resistance around $82,800–$83,000 could limit near-term gains. Short-term holder whales have booked a record $1.2 billion in profits over three days, adding to market caution.",
+      "publication_date": "Wed, 26 Aug 2026 15:23:30 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-near-79k-ahead-of-us-pce-gdp-data-whales-book-record-1-2-billion-profit-in-3-days/articleshow/133536752.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Adani’s Cemindia is said to near up to $524 million share sale",
+      "description": "Adani Group-backed Cemindia Projects, formerly known as ITD Cementation India, is preparing to launch a qualified institutional placement (QIP) to raise up to Rs 5,000 crore. The company has appointed ICICI Securities and SBI Capital Markets as advisers and has been meeting institutional investors ahead of the potential share sale.",
+      "publication_date": "Wed, 26 Aug 2026 15:16:36 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms",
+      "source": "rss"
+    },
     {
       "title": "Global Market: Mexico’s ‘Super Peso’ rally puts exporters under pressure",
       "description": "Mexico’s peso has emerged as one of the strongest-performing emerging-market currencies in 2026, strengthening past 17 per dollar despite weak growth and US trade tensions. The “super peso” is helping curb import costs and inflation but is hurting exporters, especially firms reliant on US revenues.",
@@ -348,7 +362,7 @@
       "source": "rss"
     },
     {
-      "title": "Eicher Motors Share Price Live Updates: Eicher Motors records a minor price increase",
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Market Performance Snapshot",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:45:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-26-aug-2026/liveblog/133528365.cms",
@@ -740,6 +754,13 @@
       "source": "rss"
     },
     {
+      "title": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel - Reuters",
+      "description": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 07:13:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEsycFlDR0QyX3p6R2YwTHVfUTMwaUo3Xy1XMU14Q2xjNU9hZERvYzhkQTQ1ZF95RF8waXhVdnlHX21XblJPWHRqMjVRcU5MMkM4VllGNjVmMnVPeWh5Nm1MZnVKQ0Y4eGJvb3NyMWlCRFJUbW5Sd1Z5UXZlZE1jWkJCVVdWV1ZzcG1qWXVJVk5ZWFN4WFdXSVU3ZzBfNDZQM01Kcnp5cG9tQktIdHJxaFhjdUFKQUw3QXZObTlrVU9wc1NUeWxCVWxB?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
       "description": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
       "publication_date": "Wed, 26 Aug 2026 07:11:25 GMT",
@@ -892,6 +913,13 @@
       "publication_date": "Wed, 26 Aug 2026 04:20:31 GMT",
       "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
       "source": "rss"
+    },
+    {
+      "title": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say - Reuters",
+      "description": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 03:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3huYVRnT2ZwempZZV9JS3Vad2p6NW5lM3c4MnJDdllzM2JkdEdDcWVzZDFScGpUc1M4UmJnZnBIZGJIdnRHYWZRTERFU3pOYjRSRU1NaDdYUFVSTjJKYldxaFhiY3lZSjEwaFdxU3laN2lpSDRMQUVEdGh1cWV2aTVUN3dpWWk0Q3dIenZCVm9jNmdBUHliOVFndXVybzM3UUxzcExlQXhuZGtvWldyb3pLSzhzSzhBbjdQUWd2RFFHRUFQSXFsRQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
@@ -1409,34 +1437,6 @@
       "description": "Israeli airstrike kills nine Palestinians at Gaza police station, medics say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 19 Aug 2026 17:40:50 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHQxTVdDZDFBWlVVb2FyWXBaaC14cE5nZnIwdFN4Z3plZW5XUjdISFR3dEctVW5nRzF6T21QblV5N3NoMTRMWXVqSWxLdGtZT01kcVZQcWE0S3lJTGpSX2Q3Snh6Z3VQaVhZSVZsUTlWblZncGZGUnhxVTJYUm4zSC02VHdUMlFEUFMwR3BOU3RaVzc0X2gxWnEtcFB3VkZpbGZGcUgtNWlXdDBzN0xRS05FUnlOaEwzQm1uNnlKWm1Iekxi?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Gold surges over 3% as US Treasury announcement hurts yields, dollar - Reuters",
-      "description": "Gold surges over 3% as US Treasury announcement hurts yields, dollar &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:38:55 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Tech holds the crown, but defensive positioning grows: BofA survey",
-      "description": "Technology remains investors’ top choice, but Asia fund managers are turning defensive, with 59% hedging AI downside through value, cyclical and defensive sectors. Asia ex-Japan optimism rose, while Japan exposure remains concentrated in banks and semiconductors amid policy expectations and weaker semiconductor sentiment.",
-      "publication_date": "Wed, 19 Aug 2026 17:33:40 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-holds-the-crown-but-defensive-positioning-grows-bofa-securities-asia-fm-survey/articleshow/133347742.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
-      "description": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.",
-      "publication_date": "Wed, 19 Aug 2026 17:25:05 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
-      "source": "rss"
-    },
-    {
-      "title": "German prosecutors say second Nord Stream suspect arrested in Croatia - Reuters",
-      "description": "German prosecutors say second Nord Stream suspect arrested in Croatia &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 17:18:24 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
       "source": "Reuters"
     }
   ]
