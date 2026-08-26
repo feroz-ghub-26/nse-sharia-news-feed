@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:48:41.785781+00:00",
+  "generated_at": "2026-08-26T14:37:16.149264+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,32 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Capital Group sells 1% stake in D-Mart for Rs 2,537 crore",
+      "description": "Capital Group divested a 1.04 percent stake in Avenue Supermarts for Rs 2,537 crore. This significant open market transaction involved selling over 67 lakh equity shares of D-Mart's parent company. The shares were offloaded at an average price of Rs 3,750.58 per share. Avenue Supermarts' stock experienced a slight decline following the divestment announcement. The company recently reported an 11.33 percent rise in its June quarter net profit.",
+      "publication_date": "Wed, 26 Aug 2026 19:57:11 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/capital-group-sells-1-stake-in-d-mart-for-rs-2537-crore/articleshow/133543972.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Fed seen a bit more likely to hike after inflation data",
+      "description": "US inflation data showed a slight increase in July. The personal consumption expenditures price index rose to 3.7 percent. Core inflation remained unchanged, indicating persistent underlying pressures. This data strengthens the argument for a Federal Reserve interest rate hike. Traders now anticipate a higher probability of a September rate increase.",
+      "publication_date": "Wed, 26 Aug 2026 19:54:30 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-seen-a-bit-more-likely-to-hike-after-inflation-data/articleshow/133543948.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US stocks today: US stocks slip at open after inflation data; Nvidia in focus",
+      "description": "US stocks opened lower on Wednesday after hotter-than-expected inflation data strengthened expectations of another Fed rate hike this year. The Dow, S&P 500 and Nasdaq fell at the open as investors awaited Nvidia's earnings, closely watched for fresh clues on AI demand and the broader tech rally.",
+      "publication_date": "Wed, 26 Aug 2026 19:09:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-slip-at-open-after-inflation-data-nvidia-in-focus/articleshow/133542856.cms",
+      "source": "rss"
+    },
     {
       "title": "BSE, NSE impose over Rs 59 lakh penalty on NTPC, SJVN, REC for non-compliance",
       "description": "The BSE and NSE have imposed financial penalties exceeding Rs 59 lakh on three public sector power companies: NTPC, REC, and SJVN. The fines are due to violations related to board composition listing regulations. In their defense, the companies argue that the appointment of directors falls under presidential powers. They are currently seeking waivers for these penalties.",
@@ -47,7 +68,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Live Updates: US stocks subdued as Nvidia results, inflation take center stage",
+      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Live Updates: US stocks slip at open after inflation data; Nvidia in focus",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 17:44:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-us-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-nvidia-earnings-forecast-fed-rate-intuit-adobe-stock-price-news-26th-august-2026/liveblog/133540745.cms",
@@ -145,6 +166,20 @@
       "source": "rss"
     },
     {
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+      "publication_date": "Wed, 26 Aug 2026 14:33:58 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "source": "rss"
+    },
+    {
+      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+      "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
+      "publication_date": "Wed, 26 Aug 2026 14:31:02 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+      "source": "rss"
+    },
+    {
       "title": "Global Market: European shares edge higher as oil prices fall, Nvidia earnings in focus",
       "description": "European shares edged higher as falling oil prices eased bond yields and supported equities, while investors awaited Nvidia’s quarterly results and fresh US inflation data. The STOXX 600 gained 0.1%, with basic resources leading gains, even as energy stocks lagged amid hopes of a reopening of the Strait of Hormuz.",
       "publication_date": "Wed, 26 Aug 2026 14:25:48 +0530",
@@ -152,17 +187,24 @@
       "source": "rss"
     },
     {
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-      "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
-      "publication_date": "Wed, 26 Aug 2026 13:46:16 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+      "title": "10-year Treasury yield is little changed after PCE inflation report is mostly as expected",
+      "description": "Treasury yields were broadly flat on Wednesday, as investors assessed the publication of the Federal Reserve's preferred inflation metric.",
+      "publication_date": "Wed, 26 Aug 2026 14:13:13 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
       "source": "rss"
     },
     {
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
-      "publication_date": "Wed, 26 Aug 2026 13:41:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "title": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
+      "description": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
+      "publication_date": "Wed, 26 Aug 2026 14:12:55 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
+      "source": "rss"
+    },
+    {
+      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
+      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+      "publication_date": "Wed, 26 Aug 2026 13:55:02 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
       "source": "rss"
     },
     {
@@ -250,20 +292,6 @@
       "source": "rss"
     },
     {
-      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-      "publication_date": "Wed, 26 Aug 2026 13:13:53 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-      "source": "rss"
-    },
-    {
-      "title": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
-      "description": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
-      "publication_date": "Wed, 26 Aug 2026 13:06:55 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-      "source": "rss"
-    },
-    {
       "title": "Global Market: Fiscal dominance debate takes centre stage as government debt mounts",
       "description": "Rising government debt and borrowing costs are bringing the issue of fiscal dominance back into focus, with concerns that central banks could eventually face pressure to support government financing. The debate could have implications for monetary policy, inflation, currencies and sovereign bond markets.",
       "publication_date": "Wed, 26 Aug 2026 13:06:01 +0530",
@@ -275,13 +303,6 @@
       "description": "Jefferies has raised its target prices for Hindustan Zinc and Hindalco Industries, but prefers the former, retaining a Buy rating versus Hold on Hindalco. The brokerage expects stronger zinc and silver prices to boost Hindustan Zinc’s earnings, while softer aluminium prices and higher debt could weigh on Hindalco’s performance.",
       "publication_date": "Wed, 26 Aug 2026 13:02:10 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vs-hindalco-why-jefferies-raised-target-prices-for-both-but-prefers-one-over-the-other/articleshow/133533623.cms",
-      "source": "rss"
-    },
-    {
-      "title": "10-year Treasury yield is flat after PCE inflation report is mostly as expected",
-      "description": "Treasury yields were broadly flat on Wednesday, as investors assessed the publication of the Federal Reserve's preferred inflation metric.",
-      "publication_date": "Wed, 26 Aug 2026 13:00:34 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
       "source": "rss"
     },
     {
@@ -304,6 +325,13 @@
       "publication_date": "Wed, 26 Aug 2026 12:24:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/options-turnover-sinks-at-dalal-streets-top-exchange-preparing-for-ipo/articleshow/133532740.cms",
       "source": "rss"
+    },
+    {
+      "title": "Iran and Oman reach agreements on share of Hormuz and revenues, Revolutionary Guards say - Reuters",
+      "description": "Iran and Oman reach agreements on share of Hormuz and revenues, Revolutionary Guards say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 12:16:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT29nb09ZMEJWQVF5ZmhscmZhYjJjSFRJaGZhbVQ0enRUYlItbXQta1BwS3dFa080YTN5ZWU2VUNDQXdZdXpPRWVPRmhQQ2RYMXdVUGdxbUpFNFFlU1F2WERIYmVFRGZoRUk2QTVVeGlsc1lLamI4QVpJbGtqSnJHcS1LbUFZaExtSTJUNGVRU28wd0dsQUNUR2dSNEN5WGtFNllGeVd6clVpVk50NWdpc0M5RzRnVC12STBJME1TaXpVWmdUU2Rr?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Dick’s Sporting Goods slumps after earnings miss: What’s next?",
@@ -1048,13 +1076,6 @@
       "source": "Reuters"
     },
     {
-      "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet - Reuters",
-      "description": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 06:00:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "US-Iran war sinks into energy trench warfare six months on - Reuters",
       "description": "US-Iran war sinks into energy trench warfare six months on &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 06:00:00 GMT",
@@ -1094,6 +1115,13 @@
       "description": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 05:34:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNGtwbkF3SGFBRng3VzVBaUNGR0RSVE04TENaM2RuV0VBMW1CeUZXNXJfM1JxRVY0T0ZmclNlUEsySDBoNDROQjIySnFnemZ6b3hLU1hGNlhmdE5DZmxCMjRSVVVQcG9ralh3TU1qcktudEtjRUlkSUhkTEVsS3RlanFwR1gyT0ljWUpJcFlMV0tyOFFmSy1DbkNhM29CUEdWckVQRGEzbndQTFpZYUw1Z3FncjdMTzQyLUt6MU50NDRKZ3djdHRtNHBucDZCaFpBZ1E?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet - Reuters",
+      "description": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 05:03:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
       "source": "Reuters"
     },
     {
@@ -1202,8 +1230,8 @@
       "source": "rss"
     },
     {
-      "title": "Gold ticks lower, US inflation data in spotlight - Reuters",
-      "description": "Gold ticks lower, US inflation data in spotlight &nbsp;&nbsp; Reuters",
+      "title": "Gold drops 1% after in-line U.S. inflation data - Reuters",
+      "description": "Gold drops 1% after in-line U.S. inflation data &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 00:30:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
       "source": "Reuters"
@@ -1410,34 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 20:03:42 GMT",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
-      "description": "Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed",
-      "publication_date": "Wed, 19 Aug 2026 20:02:32 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-      "source": "rss"
-    },
-    {
-      "title": "Global yields fall after US Treasury boosts debt buybacks - Reuters",
-      "description": "Global yields fall after US Treasury boosts debt buybacks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 20:02:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "description": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-      "publication_date": "Wed, 19 Aug 2026 20:01:53 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-      "source": "rss"
-    },
-    {
-      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-      "publication_date": "Wed, 19 Aug 2026 20:00:17 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-      "source": "rss"
     }
   ]
 }
