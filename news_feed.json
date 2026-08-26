@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:47:32.357429+00:00",
+  "generated_at": "2026-08-26T04:33:04.619007+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,73 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: Japan stocks rise ahead of Nvidia earnings, US inflation data",
+      "description": "Japanese shares edged higher on Wednesday as investors awaited Nvidia’s quarterly earnings and key US inflation data for clues on the outlook for artificial intelligence spending and Federal Reserve policy. The Nikkei 225 rose 0.56%, while the broader Topix gained 0.61%. SoftBank Group led gains among major stocks, while investors also monitored the US PCE inflation data for signals on the Fed’s next rate move.",
+      "publication_date": "Wed, 26 Aug 2026 09:47:34 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-rise-ahead-of-nvidia-earnings-us-inflation-data/articleshow/133529314.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: KOSPI rises as investors await Nvidia results for AI trade cues",
+      "description": "South Korean shares edged higher on Wednesday as investors turned cautiously optimistic ahead of Nvidia’s quarterly earnings, with semiconductor stocks leading gains. The KOSPI rose 0.44%, while Samsung Electronics and SK Hynix advanced. Investors are closely watching Nvidia’s results for clues on AI chip demand, infrastructure spending and the sustainability of the broader AI trade.",
+      "publication_date": "Wed, 26 Aug 2026 09:38:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-rises-as-investors-await-nvidia-results-for-ai-trade-cues/articleshow/133529158.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Hy-Tech Engineers IPO Day 3: GMP at 57%, subscription reaches 19.33x. Should you subscribe?",
+      "description": "The Hy-Tech Engineers IPO entered its third day of bidding on August 26, with the issue subscribed 19.33 times by the end of Day 2. Retail investors led the demand, while the IPO’s grey market premium of Rs 30 indicated a potential 57% listing premium. Anand Rathi Research has assigned a “Subscribe - Long Term” rating to the issue, citing the company’s growth prospects and reasonable valuation.",
+      "publication_date": "Wed, 26 Aug 2026 09:35:11 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-day-3-gmp-at-57-subscription-reaches-19-33x-should-you-subscribe/articleshow/133529025.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sensex rises 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
+      "description": "On Wednesday, Indian stock markets rallied, buoyed by a decrease in oil prices and renewed optimism surrounding the reopening of the Strait of Hormuz, following a resumption of talks with Iran. Both the Sensex and Nifty indices showed positive momentum, with broader market metrics also trending upward, reflecting a hopeful sentiment among investors amid the fluctuating oil landscape.",
+      "publication_date": "Wed, 26 Aug 2026 09:26:10 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Avaada Electro files updated draft papers with Sebi for Rs 7,600-cr IPO",
+      "description": "Avaada Electro Ltd is making waves in the financial market by submitting updated draft papers for a massive Rs 7,600 crore initial public offering. This IPO features a fresh equity share issuance alongside an offer for sale. The proceeds aim to address loan repayments and support general corporate functions while facilitating the company's ambitious capacity expansion and product innovations.",
+      "publication_date": "Wed, 26 Aug 2026 09:22:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/avaada-electro-files-updated-draft-papers-with-sebi-for-rs-7600-cr-ipo/articleshow/133528857.cms",
+      "source": "rss"
+    },
+    {
+      "title": "HEG shares in focus as company fixes record date for demerger. What it means for shareholders",
+      "description": "HEG shares will be in focus after the company fixed September 7 as the record date for its demerger, which will create two separately listed entities focused on graphite electrodes and advanced materials. The demerger ratio has been fixed at 1:1, with existing shareholders set to receive one share in the spun-off company for every HEG share held.",
+      "publication_date": "Wed, 26 Aug 2026 09:17:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-in-focus-as-company-fixes-record-date-for-demerger-what-it-means-for-shareholders/articleshow/133528755.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Mopshop Distribution, Dhanwel Hybrid Seeds shares set to list today: Here’s what GMP suggests",
+      "description": "Mopshop Distribution’s Rs 27.26-crore IPO was subscribed 1.59 times overall and 2.91 times in the retail category",
+      "publication_date": "Wed, 26 Aug 2026 09:16:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mopshop-distribution-dhanwel-hybrid-seeds-shares-set-to-list-today-heres-what-gmp-suggests/articleshow/133528779.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Reliance Industries, SBI among 10 stocks with highest DII holding in Q1. Do you own any?",
+      "description": "Domestic institutional investors remain key participants in India’s equity market, with significant exposure to some of the country’s largest listed companies.",
+      "publication_date": "Wed, 26 Aug 2026 09:09:21 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-sbi-among-10-stocks-with-highest-dii-holding-in-q1-do-you-own-any/slideshow/133528902.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Groww shares fall 3% after Rs 2,500 crore block deal; Ribbit likely seller",
+      "description": "Billionbrains Garage Ventures, the parent company of Groww, will be in focus as early investor Ribbit Capital plans to sell a 1.6% stake through a block deal worth Rs 1,914 crore. The shares are being offered at Rs 195 apiece, a 4% discount to the previous close.",
+      "publication_date": "Wed, 26 Aug 2026 09:05:17 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-in-focus-as-ribbit-likely-sells-stake-through-rs-1914-crore-block-deal/articleshow/133528618.cms",
+      "source": "rss"
+    },
     {
       "title": "Crorepati investors touch record Rs 10 lakh crore milestone. Which stocks are making them richer?",
       "description": "HNIs’ holdings in NSE-listed stocks surged 22.55% QoQ to a record Rs 9.92 lakh crore by June-end, adding Rs 1.83 lakh crore in three months. Their share of market value rose to 2.12%, the highest since March 2022. However, average ownership by volume fell to 7.19% from 7.31%, suggesting the rise was driven largely by stock price gains and greater exposure to high-value companies rather than fresh buying.",
@@ -82,10 +145,94 @@
       "source": "rss"
     },
     {
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement Experiences Positive Price Breakout",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:27:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133528149.cms",
+      "source": "rss"
+    },
+    {
+      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank Moves Past 20-Day SMA",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:27:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-26-aug-2026/liveblog/133528142.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Axis Bank Share Price Live Updates: Axis Bank's Technical Indicator Update",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:25:22 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-26-aug-2026/liveblog/133528048.cms",
+      "source": "rss"
+    },
+    {
+      "title": "RIL Share Price Live Updates: RIL posts a solid monthly return",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:25:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-updates-26-aug-2026/liveblog/133528046.cms",
+      "source": "rss"
+    },
+    {
+      "title": "NTPC Share Price Live Updates: NTPC's Price Movement Analysis",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:25:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-live-updates-26-aug-2026/liveblog/133528041.cms",
+      "source": "rss"
+    },
+    {
       "title": "Decoding gold rally: Why yellow metal surged 15% in one month and should bullion be in your portfolio?",
       "description": "Gold has staged a sharp 15% rally in August after a volatile start to the year, supported by renewed ETF inflows, strong central-bank buying, expectations around US interest rates, Treasury buybacks and a weaker dollar. With investment demand expected to remain a key driver through 2026, investors and analysts including John Paulson and Christopher Wood remain bullish on gold and gold miners.",
       "publication_date": "Wed, 26 Aug 2026 08:19:13 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/decoding-gold-rally-why-yellow-metal-surged-15-in-one-month-and-should-bullion-be-in-your-portfolio/articleshow/133527902.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Daily Performance",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:17:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-26-aug-2026/liveblog/133527928.cms",
+      "source": "rss"
+    },
+    {
+      "title": "TCS Share Price Live Updates: TCS Current Price Update",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:17:30 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133527925.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp dips below its 20-day Exponential Moving Average",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:16:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-today-live-26-aug-2026/liveblog/133527912.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries delivers robust monthly returns",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:10:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-26-aug-2026/liveblog/133527836.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Price Breakout Signals Strong Market Movement",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:01:27 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-updates-26-aug-2026/liveblog/133527758.cms",
+      "source": "rss"
+    },
+    {
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank experiences a decline in returns",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:00:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-26-aug-2026/liveblog/133527743.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's recent performance raises concerns",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:00:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-26-aug-2026/liveblog/133527740.cms",
       "source": "rss"
     },
     {
@@ -103,14 +250,14 @@
       "source": "rss"
     },
     {
-      "title": "Gaja Alternative Asset shares to list today. Check GMP ahead of debut",
-      "description": "The IPO, which was open for subscription from August 19 to August 21, drew a strong response, with the issue subscribed 31.33 times overall.",
+      "title": "Gaja Alternative Asset shares list at 16% premium over IPO price on NSE, BSE",
+      "description": "Gaja Alternative Asset Management shares made a strong debut on Wednesday, listing nearly 16% above the IPO price. The Rs 550-crore issue received robust demand during subscription, led by institutional and non-institutional investors, with the overall issue subscribed 31.33 times.",
       "publication_date": "Wed, 26 Aug 2026 07:37:29 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/gaja-alternative-asset-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133527367.cms",
       "source": "rss"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: GIFT Nifty signals a positive start; Asian shares trade mixed",
+      "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex jumps over 300 pts, Nifty above 24,350; PSU bank stocks rally",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 07:34:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-groww-tata-motors-pv-share-price-26-august-2026/liveblog/133527446.cms",
@@ -229,11 +376,25 @@
       "source": "rss"
     },
     {
+      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+      "description": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+      "publication_date": "Wed, 26 Aug 2026 04:20:31 GMT",
+      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+      "source": "rss"
+    },
+    {
       "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
       "description": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
       "publication_date": "Wed, 26 Aug 2026 02:34:28 GMT",
       "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
       "source": "rss"
+    },
+    {
+      "title": "Indian shares open higher as oil slides on Strait of Hormuz reopening hopes - Reuters",
+      "description": "Indian shares open higher as oil slides on Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 02:18:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes - Reuters",
@@ -247,13 +408,6 @@
       "description": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
       "publication_date": "Wed, 26 Aug 2026 02:06:21 GMT",
       "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-      "source": "rss"
-    },
-    {
-      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-      "description": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
-      "publication_date": "Wed, 26 Aug 2026 02:01:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
       "source": "rss"
     },
     {
@@ -1283,160 +1437,6 @@
       "description": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
       "publication_date": "Wed, 19 Aug 2026 11:09:33 GMT",
       "link": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
-      "source": "rss"
-    },
-    {
-      "title": "Dollar risks are mounting. Here’s what could weaken the greenback",
-      "description": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
-      "publication_date": "Wed, 19 Aug 2026 11:08:03 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
-      "source": "rss"
-    },
-    {
-      "title": "Oil exports from Russia's western ports drop 15% below plan, traders say - Reuters",
-      "description": "Oil exports from Russia's western ports drop 15% below plan, traders say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 11:06:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnNQRkdUeXFaU0pmU1RDeGc1V0szVWlSZGliQUUzOGxCVzFJSWdwbWRMZ003S1BxRTQ2M19COUhCLW96SlQ4Qi1lYWo0aC1Gbk9GNVIzZ2ZTSk04cTJfNDc1cmxZM3ViNmZnNk5JY2FiNUdUSFByV0xxYS1KUG40UnQ3MmRkMDBndURCa0ppMlpTTDNJbjFydUVpRm12NThWY2xNVHRxNWNhSHU3VWlZVUZEUFFGVlE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 10:52:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold?",
-      "description": "Milky Mist shares hit another 10% upper circuit on Wednesday, taking their gains to 42.5% from the IPO price of Rs 140. Analysts remain positive on the company’s strong foothold in value-added dairy products, improving margins and growth prospects, but caution that valuations are elevated. Existing investors have been advised to hold and accumulate on meaningful dips.",
-      "publication_date": "Wed, 19 Aug 2026 10:48:20 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-shares-hit-another-10-upper-circuit-rallying-43-from-ipo-price-should-you-buy-sell-or-hold/articleshow/133338174.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Defense contractor Lyntris, shareholders raise about $298 million in downsized US IPO​ - Reuters",
-      "description": "Defense contractor Lyntris, shareholders raise about $298 million in downsized US IPO​ &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 10:40:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFpxLVh5TTU0NE5TeGFNdTBOdVNxV0RZa0hTZHdIM2d4NkIwdjFQOEFmSnZ6bGQ5dkVZRnJDVnFiWWNkQ1R5R0hHbGhfUVpsQUQzY1FmeTM0bzRCSWR0TGV0LXZjOHFITkN0c09YRGJOcUwwM1hMa2p2SEpobkRMSEtNTHlqdjU4T1BERUMzbUIxckM2MnlrMDNTZF81d2xOTGhWUHU0ck1kekpVcEVTSXd0a1JvY3gtUG5ORm43aThkUkZIZ0FyRzVjZ05hZExsWlNMTmItY0t4Rnc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
-      "description": "CLSA downgraded several large IT stocks and cut their target prices amid continued AI-related concerns, while retaining a bullish view on select mid-tier IT companies. The brokerage said Q1 earnings were mixed across Indian IT and global peers, but expects AI-driven volumes to eventually offset pricing deflation by FY30.",
-      "publication_date": "Wed, 19 Aug 2026 10:36:14 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-crash-ahead-clsa-downgrades-tcs-infosys-wipro-other-stocks-revises-target-prices-heres-why/articleshow/133337948.cms",
-      "source": "rss"
-    },
-    {
-      "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-      "description": "Chinese AI firms have reportedly accessed advanced Nvidia computing power overseas, testing U.S. export controls. Lawmakers weigh closing the cloud-access gap.",
-      "publication_date": "Wed, 19 Aug 2026 10:32:51 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
-      "source": "rss"
-    },
-    {
-      "title": "Gold extends losses, falls to nearly Rs 1.54 lakh/10 gm. Time to buy?",
-      "description": "Gold prices slipped on the MCX but edged higher internationally as easing Treasury yields supported demand. However, rising oil prices and renewed inflation concerns could limit the scope for US rate cuts, weighing on gold. With traders pricing a 35% chance of a September rate hike, experts Christopher Wood and John Paulson see the recent correction as a buying opportunity.",
-      "publication_date": "Wed, 19 Aug 2026 10:23:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losses-falls-to-nearly-rs-1-54-lakh/10-gm-time-to-buy/articleshow/133337692.cms",
-      "source": "rss"
-    },
-    {
-      "title": "RailTel Corporation shares rally 5% after bagging Rs 166.8 crore EPFO order",
-      "description": "RailTel shares gained nearly 5% after the company received a Rs 166.80 crore work order from EPFO for a one-year extension of its Infrastructure-as-a-Service engagement. While the order strengthens revenue and order-book visibility, technical indicators remain weak, with the stock trading below all 8 monitored SMAs and its RSI at 32.5. FII holding also rose modestly in the June 2026 quarter.",
-      "publication_date": "Wed, 19 Aug 2026 10:12:40 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-rally-5-after-bagging-rs-166-8-crore-epfo-order/articleshow/133337593.cms",
-      "source": "rss"
-    },
-    {
-      "title": "High Treasury yields put US fiscal outlook under spotlight",
-      "description": "Persistently high US Treasury auction yields are raising the cost of refinancing government debt and funding future deficits as investors demand greater compensation to absorb rising borrowing needs. Recent 10-year and 30-year auctions saw yields hit multi-year highs, though resilient demand suggests there is no broad buyer strike. The key concern for Washington is the growing cost of servicing a large and persistent fiscal deficit.",
-      "publication_date": "Wed, 19 Aug 2026 10:09:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/high-treasury-yields-put-us-fiscal-outlook-under-spotlight/articleshow/133337550.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Cipla Share Price Live Updates: Cipla's Current Financial Snapshot",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 10:04:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-updates-19-aug-2026/liveblog/133337495.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Titan Company Share Price Live Updates: Titan Company continues to perform well",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 10:04:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-stock-price-live-updates-19-aug-2026/liveblog/133337489.cms",
-      "source": "rss"
-    },
-    {
-      "title": "India's Nifty logs longest losing streak in 11 months on higher crude, Treasury yields - Reuters",
-      "description": "India's Nifty logs longest losing streak in 11 months on higher crude, Treasury yields &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 10:01:56 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWNtWG9kcFBGcENWOTI3QlhQMWtvaDhydE12OVJVbWJuN1Naclk1UGlGVWJHVEJjU2NLdXBCUThjNzlSRTd6MVBpLVFzUzVldlpRZkZWZ1dIeFJsVGdmMlQxZGFmRnBrM1JNTF9QSzBRV25wS2JNRDZ5ekw5eThjUmphYzMwQXdkeWxRV1MzWnBaWEhWZzItcDFSWFNZQjJLY0dJeUFST2VQY1BmTEx4SDJiVVY4UXI4?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
-      "description": "Amazon has quietly expanded its drone service to more metro areas in recent months after receiving a key regulatory greenlight enabling longer-range deliveries.",
-      "publication_date": "Wed, 19 Aug 2026 10:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html",
-      "source": "rss"
-    },
-    {
-      "title": "US housing market weakens as AI boom drives factory output",
-      "description": "US housing activity weakened sharply in July, with single-family homebuilding hitting a more than three-and-a-half-year low as high mortgage rates and economic uncertainty weighed on demand. In contrast, factory output rose, supported by strong AI-related investment and demand for high-tech equipment and semiconductor production.",
-      "publication_date": "Wed, 19 Aug 2026 09:51:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-housing-market-weakens-as-ai-boom-drives-factory-output/articleshow/133337150.cms",
-      "source": "rss"
-    },
-    {
-      "title": "D-Street’s CAS turmoil clouds BSE’s growth outlook",
-      "description": "BSE shares have experienced a significant downturn this month following the launch of a new closing auction session. Since this change on August third, trading volumes and options activity have considerably dropped, raising concerns among analysts who have downgraded their outlook on the stock. The exchange is grappling with new funding rules and possible fee changes, but some analysts remain optimistic about a turnover rebound by October.",
-      "publication_date": "Wed, 19 Aug 2026 09:43:31 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-streets-cas-turmoil-clouds-bses-growth-outlook/articleshow/133336997.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Divis Labs Share Price Live Updates: Divis Labs Stock Performance Overview",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 09:40:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-19-aug-2026/liveblog/133337063.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's Price Movement Today",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 09:38:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-19-aug-2026/liveblog/133337038.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
-      "description": "Japan criticises US over 'unfortunate' sanctions on ICC &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 09:32:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
-      "description": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
-      "publication_date": "Wed, 19 Aug 2026 09:30:25 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-      "source": "rss"
-    },
-    {
-      "title": "Sensex drops 326 points, Nifty closes below 23,100 as market bleeds for 7th session. What lies ahead?",
-      "description": "Indian equities extended their losing streak on Wednesday, with the Nifty 50 declining for a seventh consecutive session amid rising oil prices and renewed concerns over U.S.-Iran tensions. The Sensex fell about 326 points to 76,910, while the Nifty dropped nearly 77 points to 24,078. Broader markets also weakened, with midcaps and smallcaps falling.",
-      "publication_date": "Wed, 19 Aug 2026 09:29:39 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-points-nifty-below-23150-as-market-bleeds-for-7th-session-what-lies-ahead/articleshow/133336722.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: Japan shares slide as chip stocks tumble on global tech rout",
-      "description": "Japan’s Nikkei plunged 2.97%, tracking Wall Street’s technology sell-off as rising global bond yields and renewed Middle East uncertainty dampened risk appetite. Semiconductor stocks led declines, with Kioxia and Furukawa Electric falling over 10%. SoftBank also dropped sharply, while Mercari, Shiseido and Otsuka Holdings gained despite the broad market decline.",
-      "publication_date": "Wed, 19 Aug 2026 09:29:08 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-shares-slide-as-chip-stocks-tumble-on-global-tech-rout/articleshow/133336887.cms",
       "source": "rss"
     }
   ]
