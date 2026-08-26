@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:52:01.440161+00:00",
+  "generated_at": "2026-08-26T20:26:31.699806+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -75,10 +75,31 @@
       "source": "rss"
     },
     {
+      "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain",
+      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+      "publication_date": "Wed, 26 Aug 2026 20:25:28 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "source": "rss"
+    },
+    {
       "title": "Meta shares hit 5% intraday high after $16.68 billion settlement over alleged harm to young users",
       "description": "Meta shares hit a 4.96% intraday high after the company agreed to pay up to $16.68 billion to settle claims that Facebook and Instagram harmed young users. The settlement covers claims by 29 US states and requires Meta to introduce usage limits and stronger safeguards for children on its platforms.",
       "publication_date": "Wed, 26 Aug 2026 20:17:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-shares-hit-5-intraday-high-after-16-68-billion-settlement-over-alleged-harm-to-young-users/articleshow/133544340.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
+      "description": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement.",
+      "publication_date": "Wed, 26 Aug 2026 20:17:27 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
+      "source": "rss"
+    },
+    {
+      "title": "Okta pops 15% after topping estimates as AI threat spikes demand for identity security",
+      "description": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
+      "publication_date": "Wed, 26 Aug 2026 20:13:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
       "source": "rss"
     },
     {
@@ -103,6 +124,20 @@
       "source": "rss"
     },
     {
+      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
+      "publication_date": "Wed, 26 Aug 2026 19:15:53 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "source": "rss"
+    },
+    {
+      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+      "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
+      "publication_date": "Wed, 26 Aug 2026 19:15:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
+      "source": "rss"
+    },
+    {
       "title": "US stocks today: US stocks slip at open after inflation data; Nvidia in focus",
       "description": "US stocks opened lower on Wednesday after hotter-than-expected inflation data strengthened expectations of another Fed rate hike this year. The Dow, S&P 500 and Nasdaq fell at the open as investors awaited Nvidia's earnings, closely watched for fresh clues on AI demand and the broader tech rally.",
       "publication_date": "Wed, 26 Aug 2026 19:09:01 +0530",
@@ -117,17 +152,24 @@
       "source": "rss"
     },
     {
+      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
+      "publication_date": "Wed, 26 Aug 2026 19:00:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+      "source": "rss"
+    },
+    {
+      "title": "US senator hopes 'sledgehammer' Russian sanctions will pass next month - Reuters",
+      "description": "US senator hopes 'sledgehammer' Russian sanctions will pass next month &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 18:38:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUI0eVFPQkZOT0RPQ1pqSlFzQlhva0dHOThpLUFZdHMyV0FUVUtIWjhhdGY3RXRHdmFCci1zdGgxc1dUeWVvUzgwbnpZSWQ3VFRqLUFKSldfeUhtbV9VanVFV25nMjJIb1dtOU1QZEd6NTdib3JYSEIxOGd0MWFqWkFoUXhGeExOTTk1UVhMUlhNajhwY1JGX0ExRFZkQWxicGx3dUlES1U2cFdqSTBncENMYkVPVWtTbGlqOEtn?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "publication_date": "Wed, 26 Aug 2026 18:31:26 GMT",
       "link": "https://www.cnbc.com/2026/08/26/micron-elevates-two-executives-plus-what-the-meta-settlement-means-for-its-top-line.html",
-      "source": "rss"
-    },
-    {
-      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-      "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
-      "publication_date": "Wed, 26 Aug 2026 18:21:06 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
       "source": "rss"
     },
     {
@@ -142,6 +184,13 @@
       "description": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
       "publication_date": "Wed, 26 Aug 2026 18:16:38 GMT",
       "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
+      "source": "rss"
+    },
+    {
+      "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
+      "description": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources.",
+      "publication_date": "Wed, 26 Aug 2026 18:07:15 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
       "source": "rss"
     },
     {
@@ -166,7 +215,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Live Updates: US stocks muted ahead of Nvidia results, hot inflation fuels rate-hike bets",
+      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Highlights: US stocks end near flat as hot inflation data clouds Fed outlook ahead of Nvidia earnings",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 17:44:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-us-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-nvidia-earnings-forecast-fed-rate-intuit-adobe-stock-price-news-26th-august-2026/liveblog/133540745.cms",
@@ -229,6 +278,13 @@
       "source": "Reuters"
     },
     {
+      "title": "US targets Palestine Action in counterterrorism effort against 'far-left' groups - Reuters",
+      "description": "US targets Palestine Action in counterterrorism effort against 'far-left' groups &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 16:38:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjEzMkJyU0JVTlVSRHd6REZjOG0xLUl0S0xfSUhlRkoyWnFiY2x4S0lCdnFKMWRpNmxWNUZKUzYzd2IyQU44TFBLc1ZwRGZIWkFYdWFIZXJISTdabU9ETlpxREpWTE1iYklYMS16RnlmOEkxbW81MWRYU0pWazRiZ1RBYXYzMC13SVl6ZVpKeHJJQ0pzajhVRG9xV2RRbnY3LWV1UlV4Qk9jZw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Quote of the day by Warren Buffett: \"The inescapable fact is that the value of an asset, whatever its character, cannot over the long term grow faster than its earnings do\"",
       "description": "Warren Buffett’s investment philosophy emphasizes that an asset’s long-term value cannot sustainably outpace its earnings. While sentiment and speculation can drive prices temporarily, lasting value creation depends on businesses generating consistent and growing profits that support valuations.",
       "publication_date": "Wed, 26 Aug 2026 16:36:23 +0530",
@@ -264,6 +320,13 @@
       "source": "rss"
     },
     {
+      "title": "FTSE 100 edges lower as healthcare, energy stocks weigh; Iran-Oman talks in focus - Reuters",
+      "description": "FTSE 100 edges lower as healthcare, energy stocks weigh; Iran-Oman talks in focus &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 16:14:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdmamQ0VmdHQmliNFdqSkc5WXhHb0xoWnd5eXdEQ0JnZV9TUjVzWndHV1VYMFU0M29rNWdYMXB2RmI3QlNQaGVrMmpwM3V3dHF0empEa0hvTDVBaXVUOHEwaVlOUEhDd1h1el9MWENBeVN3eVh3bjRGejRMbmJ0WUFNU19GQzIyR1k1ZDVtYS1LdkJQVU9SbHRBQVFQZw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "White House pushes for more refinery waivers to ease pump prices - Reuters",
       "description": "White House pushes for more refinery waivers to ease pump prices &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 16:10:04 GMT",
@@ -282,6 +345,13 @@
       "description": "Russia's NORSI refinery halts oil processing after drone attack, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 15:47:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzZ3aWF0NnQyOTRSUUdRelZlVC1adElRZzN6Y2o2WUJIcGVCbHg2ZW0tV19SM0MyLVlOYjhVYUNmY1NSRjU0YlVoZnJEM01JbHBMak0weXV1OS14YlcyeGl1cjFmT04xbWhwVF9sTVRsd09wbl9WNFppdFlfTnNJdENCbW90czllY3o2OTd2LUkybG5iUml5a201eFBNQ2d1cU43MEdxMFR2REthZUl2UkJ2VXlSZ0p5dGl0X3ZOUDBIZS1k?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Enbridge to buy Salt Creek Midstream crude gathering assets for $600 million - Reuters",
+      "description": "Enbridge to buy Salt Creek Midstream crude gathering assets for $600 million &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 15:45:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnJJZnRRX19BeFMzRms0YXh1a0E3Y0V6QWw5SU0xWjNRam1tZUZ3SVJYMGhCM1cyck9OUmVycktFQ3JzUC11bV9ZRzkzbmh3aGY4WFdPSlhpeWwtX2Q0eVNXbUJQRllnd25pTFY4NzlnVDlpUUkwb3BLeFFrWmRGM09OdFhqcU1iam5fSlNmY1NFUWt1Zk5GdmdLTTYwOVdhSW41dUE5eFhzRHN2QnN6Y0xLR3VDWTVjcnpXaklB?oc=5",
       "source": "Reuters"
     },
     {
@@ -401,13 +471,6 @@
       "description": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
       "publication_date": "Wed, 26 Aug 2026 13:35:18 GMT",
       "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
-      "source": "rss"
-    },
-    {
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-      "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
-      "publication_date": "Wed, 26 Aug 2026 13:27:35 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
       "source": "rss"
     },
     {
@@ -1375,69 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 01:38:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
       "source": "rss"
-    },
-    {
-      "title": "Father of sailor aboard US aircraft carrier freed from immigration detention - Reuters",
-      "description": "Father of sailor aboard US aircraft carrier freed from immigration detention &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 01:32:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmx2MERvUDBBZGx6SUpYTzIwbXd0THJKcy15X3VCNFBVd05xaUNGZ2pSVEtURHIwVlg1aEtzMkdjMnRwSVpWUXcwNFNJZi1CNEtTb1c1NVhhdHhWNDVzZzdMdDJwRlh4MkQ1bURSY2Q0NUwwME0wY0tDR1F5bmk3Q2w3emgwcEdBVFFKeWZ3YW53ZllVRVJWaTdNRnRZWWNkaTlPNkQ5ckJ3aGZma29EZ1EyZDMyMHZReGJ3MzVn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
-      "description": "Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.",
-      "publication_date": "Wed, 26 Aug 2026 01:07:28 GMT",
-      "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-      "source": "rss"
-    },
-    {
-      "title": "L&T wins ₹5,000-10,000 cr 'major' order to build 3 battery storage projects in Middle East",
-      "description": "Larsen & Toubro said its renewables business has won a major order in the Middle East to develop three battery energy storage system projects with a combined capacity of 6 GWh.",
-      "publication_date": "Wed, 26 Aug 2026 00:56:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-major-middle-east-order-for-6-gwh-battery-storage-projects/articleshow/133526841.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Food prices on the rise, domestic demand keeps economy strong",
-      "description": "India's economy shows resilience with improved domestic demand and strong economic activity. Food prices have seen a broad-based increase, raising concerns for monetary policymakers. Global economic outlook remains weighed by West Asia conflicts and new US tariffs. High-frequency indicators reflect strong manufacturing and services momentum continuing into July.",
-      "publication_date": "Wed, 26 Aug 2026 00:33:30 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/food-prices-on-the-rise-domestic-demand-keeps-economy-strong/articleshow/133526830.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Gold drops over 1% after in-line US inflation data - Reuters",
-      "description": "Gold drops over 1% after in-line US inflation data &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 00:30:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
-      "description": "Federal Reserve policymakers expressed concern over inflation at their last meeting. Many officials indicated a rate hike would be necessary if inflation persists. The Fed held interest rates steady, but three dissented in favor of an increase. Discussions also covered potential overhauls of the Fed's operational procedures. Investors anticipate potential rate hikes later this year.",
-      "publication_date": "Wed, 19 Aug 2026 23:55:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds - Reuters",
-      "description": "Most Americans believe Trump has inappropriately profited since returning to power, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 23:45:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1h6LUQwS0tnLUt3MTFHQjVaSHRvTExtWkRCZ3VTSzBEZnJId0lGeGlOUHJicklYQVk1N2k0V2dkZWppV3A3bC15RlpZZmRNUWJtQzBmT2V3U01rU2pGRlZPQl9STkZBZFlmN3otOWJWWV9NaW1PYURRWWh4ZjZISExOaVhudHlCOG95Y2NhMmtHT1VVYUlhclpCcmpKUklXY2FMWUdDYVBid1lVcUJnVXdRWXdLb3dTdGhESktR?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
-      "description": "The US Treasury will double its buyback operations for long-dated government debt. This move aims to provide liquidity and ease rising bond yields for investors. The increased buybacks will apply to securities maturing between ten and thirty years. This action follows a sharp bond selloff which pushed yields higher. The Treasury seeks to manage market pressures and borrowing costs effectively.",
-      "publication_date": "Wed, 19 Aug 2026 23:44:57 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-to-double-long-dated-debt-buybacks-to-battle-surging-yields/articleshow/133356002.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Coty sees weak quarterly profit, withholds annual forecasts in 'transition year' - Reuters",
-      "description": "Coty sees weak quarterly profit, withholds annual forecasts in 'transition year' &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 23:04:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdVg1NFpKVGlEcG9zVGRsbmF2cVAwc0Qtc0xTQkdrUEphQkhscHpSTUk5czFVWXFJa08wVlVtbmtFTC1NUEEzelpvdUhWZ05GX1hTUVdqaVRMVXdoUmxUdzdqblJnX2hyUGJ5WXZuc0xfTnpNQWc4Xzh4M3NKb1BtQXpsYXlwdHVkU2c4TzExZWNMdU9rbXFZRTR3NUR6VFJ0RmhfVmtsUFNSUG9HdjhEN3o4bVVkOXA5OERJWXFpaHZLbHlpRWU4WFZ4dGlrLTRjcHEzeDRpa1o?oc=5",
-      "source": "Reuters"
     }
   ]
 }
