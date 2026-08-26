@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:54:08.101897+00:00",
+  "generated_at": "2026-08-26T12:37:48.815343+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,18 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "BSE, NSE impose over Rs 59 lakh penalty on NTPC, SJVN, REC for non-compliance",
+      "description": "The BSE and NSE have imposed financial penalties exceeding Rs 59 lakh on three public sector power companies: NTPC, REC, and SJVN. The fines are due to violations related to board composition listing regulations. In their defense, the companies argue that the appointment of directors falls under presidential powers. They are currently seeking waivers for these penalties.",
+      "publication_date": "Wed, 26 Aug 2026 17:45:29 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-nse-impose-over-rs-59-lakh-penalty-on-ntpc-sjvn-rec-for-non-compliance/articleshow/133540750.cms",
+      "source": "rss"
+    },
     {
       "title": "ICICI Prudential AMC shares: Prudential Corporation to divest up to 2% equity, stock up 49% from IPO price",
       "description": "ICICI Prudential AMC promoter Prudential Corporation Holdings plans to sell up to 2% stake through open-market transactions from August 27 to meet minimum public shareholding requirements. Promoter holding will fall to 85.60% after the proposed sale.",
@@ -187,10 +194,31 @@
       "source": "rss"
     },
     {
+      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+      "description": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
+      "publication_date": "Wed, 26 Aug 2026 12:35:22 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
+      "source": "rss"
+    },
+    {
+      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
+      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+      "publication_date": "Wed, 26 Aug 2026 12:26:08 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+      "source": "rss"
+    },
+    {
       "title": "Options turnover sinks at Dalal Street's top exchange preparing for IPO",
       "description": "India's stock exchange has seen options turnover plummet to its lowest in a year, a direct consequence of newly enforced trading regulations and the adoption of a closing auction system. Cash equities trading has also dipped, marking its lowest since November. This downturn poses a significant challenge for the upcoming initial public offering by the NSE, as traders recalibrate their strategies to align with the modified auction process.",
       "publication_date": "Wed, 26 Aug 2026 12:24:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/options-turnover-sinks-at-dalal-streets-top-exchange-preparing-for-ipo/articleshow/133532740.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
+      "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
+      "publication_date": "Wed, 26 Aug 2026 12:15:17 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
       "source": "rss"
     },
     {
@@ -201,10 +229,17 @@
       "source": "rss"
     },
     {
-      "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
-      "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
-      "publication_date": "Wed, 26 Aug 2026 11:52:28 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+      "publication_date": "Wed, 26 Aug 2026 12:10:02 GMT",
+      "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "source": "rss"
+    },
+    {
+      "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
+      "description": "The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.",
+      "publication_date": "Wed, 26 Aug 2026 12:00:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
       "source": "rss"
     },
     {
@@ -311,6 +346,13 @@
       "publication_date": "Wed, 26 Aug 2026 09:47:34 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-rise-ahead-of-nvidia-earnings-us-inflation-data/articleshow/133529314.cms",
       "source": "rss"
+    },
+    {
+      "title": "Aramco offers more oil outside Hormuz with some cargoes heading to China - Reuters",
+      "description": "Aramco offers more oil outside Hormuz with some cargoes heading to China &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 09:43:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Global Market: KOSPI rises as investors await Nvidia results for AI trade cues",
@@ -887,13 +929,6 @@
       "source": "rss"
     },
     {
-      "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
-      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-      "publication_date": "Wed, 26 Aug 2026 06:47:26 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-      "source": "rss"
-    },
-    {
       "title": "Outward remittances under LRS up at $2.5 billion",
       "description": "In June, the total outward remittances under the Liberalised Remittance Scheme soared to $2.5 billion. Notably, Indians disbursed $1.3 billion on international travel, reflecting a significant uptick from the previous month. Meanwhile, expenditure on overseas education rose to $96 million. Additionally, remittances for the upkeep of close relatives accounted for $287 million, while investments in equity and debt attracted $456 million from Indian residents.",
       "publication_date": "Wed, 26 Aug 2026 06:43:33 +0530",
@@ -1013,8 +1048,8 @@
       "source": "rss"
     },
     {
-      "title": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say - Reuters",
-      "description": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say &nbsp;&nbsp; Reuters",
+      "title": "Japan to diversify crude supplies, back pipelines that bypass Hormuz - Reuters",
+      "description": "Japan to diversify crude supplies, back pipelines that bypass Hormuz &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 03:30:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3huYVRnT2ZwempZZV9JS3Vad2p6NW5lM3c4MnJDdllzM2JkdEdDcWVzZDFScGpUc1M4UmJnZnBIZGJIdnRHYWZRTERFU3pOYjRSRU1NaDdYUFVSTjJKYldxaFhiY3lZSjEwaFdxU3laN2lpSDRMQUVEdGh1cWV2aTVUN3dpWWk0Q3dIenZCVm9jNmdBUHliOVFndXVybzM3UUxzcExlQXhuZGtvWldyb3pLSzhzSzhBbjdQUWd2RFFHRUFQSXFsRQ?oc=5",
       "source": "Reuters"
@@ -1034,8 +1069,8 @@
       "source": "Reuters"
     },
     {
-      "title": "World stocks gain as oil slips on Hormuz hopes ahead of Nvidia results - Reuters",
-      "description": "World stocks gain as oil slips on Hormuz hopes ahead of Nvidia results &nbsp;&nbsp; Reuters",
+      "title": "World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results - Reuters",
+      "description": "World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 02:17:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
       "source": "Reuters"
@@ -1080,13 +1115,6 @@
       "description": "Larsen & Toubro said its renewables business has won a major order in the Middle East to develop three battery energy storage system projects with a combined capacity of 6 GWh.",
       "publication_date": "Wed, 26 Aug 2026 00:56:58 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-major-middle-east-order-for-6-gwh-battery-storage-projects/articleshow/133526841.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
-      "publication_date": "Wed, 26 Aug 2026 00:34:03 GMT",
-      "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
       "source": "rss"
     },
     {
@@ -1409,34 +1437,6 @@
       "description": "Major stock indexes recovered on Wednesday after a prior day's decline. Moderna shares surged significantly following positive cancer therapy trial results. Government bond yields eased from highs, boosting investor risk appetite. Retailers like Target and Lowe's reported quarterly results, influencing consumer spending views. Geopolitical developments and Federal Reserve minutes remained key investor focuses.",
       "publication_date": "Wed, 19 Aug 2026 19:14:25 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-up-after-tech-led-slump-as-yields-ease-earnings-watched/articleshow/133350322.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Maine governor says NextEra-Dominion merger will limit competition, raise energy cost concerns - Reuters",
-      "description": "Maine governor says NextEra-Dominion merger will limit competition, raise energy cost concerns &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 19:11:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlljSFNTUEpRZXh6NnJIZ2pjc0Y0R1RucU5HNE1hWlBwX3EtaUFxQWFpbHYteTUwUUFnTUZHVFdwUFZWajkwMHoxMW9sbEdHZl9WQ3BlaUthT1U1dzFpRGRvM2o4cmdmbGtVQ0xLUVlySHlCZ2RHSHZ0YzgzUXdGSE9tY2FubmJjSXpPX1JxaF9zR01WNTBfeVBNVi1ZcUlUODNIdVo3VWlFX1hWTTktcVFJQ0J4R2h4aXRENnQ5WjRJQkRWak42TWRaTXQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "UN's Guterres seriously concerned by US sanctions on ICC - Reuters",
-      "description": "UN's Guterres seriously concerned by US sanctions on ICC &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 19:06:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzJVT2ZyZXROaVlVMktRWGNLUEJ6b0ZBYnphR3lBZGxCN3BYWk55emhLeVl0VkVPQ0ZHSFdKSThHcUNhazlpOHFzbEJ0U01hdDhITUFZaFNJSlFJSmZDQlF2TE50RmctcGllbU9fMGtYa0VGRnJBOUJTZ01yUGF1SzFNeDJ4eDhSZS05NGNuN1M5eHRGUnFUZWF3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show - Reuters",
-      "description": "Fed policymakers' inflation concerns increased at July meeting, minutes show &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 19:00:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "publication_date": "Wed, 19 Aug 2026 18:58:48 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
       "source": "rss"
     }
   ]
