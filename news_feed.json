@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T00:53:59.862909+00:00",
+  "generated_at": "2026-08-26T02:07:17.862918+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,88 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 1
     }
   ],
   "articles": [
+    {
+      "title": "Hindustan Copper OFS opens for retail investors today. Should you apply in the metals major's offer?",
+      "description": "The OFS opened for non-retail investors on August 4, and saw strong participation. It now opens for retail investors today. Investors can participate between 9.15 am and 3.30 pm using the separate OFS window on NSE and BSE. A minimum of 10% of the offer size has been reserved for retail investors.",
+      "publication_date": "Wed, 26 Aug 2026 07:26:51 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-ofs-opens-for-retail-investors-today-should-you-apply-in-the-metals-majors-offer/articleshow/133527323.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole",
+      "description": "In Asian markets, the dollar held steady as traders looked ahead to crucial inflation reports, particularly the US PCE data set to be released before the Jackson Hole symposium this weekend. Meanwhile, oil prices dipped due to easing tensions in the Middle East and halted diplomatic negotiations. The Australian dollar strengthened following favorable inflation figures, while cryptocurrencies continued their upward trajectory, and gold saw a minor decline.",
+      "publication_date": "Wed, 26 Aug 2026 07:21:34 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-moves-in-a-narrow-range-ahead-of-inflation-data-jackson-hole/articleshow/133527304.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Yes, Federal, RBL put dollar bond plans on hold",
+      "description": "Yes Bank withdrew its dollar debt plan as investors sought higher yields. Federal Bank and RBL Bank also postponed their dollar bond issuances. These lenders await a more favorable time to raise necessary foreign currency. An oversupply of Indian bonds has increased investor demand for better returns. This situation impacts the banks' ability to secure international funding.",
+      "publication_date": "Wed, 26 Aug 2026 07:20:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/yes-federal-rbl-put-dollar-bond-plans-on-hold/articleshow/133527256.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Gold little changed with US inflation data in spotlight",
+      "description": "Gold prices held steady as investors kept a watchful eye on upcoming United States inflation data, which is expected to offer insights into the Federal Reserve's interest rate decisions. Market participants are looking towards a potential pause in rate hikes next month. Concurrently, other precious metals, including silver, platinum, and palladium, experienced slight increases, reflecting ongoing global economic concerns and trade tensions impacting market dynamics.",
+      "publication_date": "Wed, 26 Aug 2026 07:19:04 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-little-changed-with-us-inflation-data-in-spotlight/articleshow/133527287.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz",
+      "description": "Oil prices have dropped following the revival of discussions between Iran and Oman regarding the management of the Strait of Hormuz. The losses across both benchmarks highlight the market's reaction to navigation issues. Despite uncertainty gripping the market, some bargain buying has emerged, preventing further price decreases, while the U.S. is shifting personnel to its Middle Eastern diplomatic missions.",
+      "publication_date": "Wed, 26 Aug 2026 07:16:11 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-2-on-iran-oman-talks-to-reopen-strait-of-hormuz/articleshow/133527275.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Gross FDI climbs as net inflows turn positive",
+      "description": "Gross foreign direct investment into India saw a significant rise in June. Net FDI also increased substantially, recovering from a previous month's outflow. Outward FDI, however, continued its downward trend for the past two months. Financial, insurance, and business services were key sectors for outward investments. Manufacturing and trade sectors also witnessed outward FDI activity.",
+      "publication_date": "Wed, 26 Aug 2026 07:09:33 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gross-fdi-climbs-as-net-inflows-turn-positive/articleshow/133527199.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Outward remittances under LRS up at $2.5 billion",
+      "description": "In June, the total outward remittances under the Liberalised Remittance Scheme soared to $2.5 billion. Notably, Indians disbursed $1.3 billion on international travel, reflecting a significant uptick from the previous month. Meanwhile, expenditure on overseas education rose to $96 million. Additionally, remittances for the upkeep of close relatives accounted for $287 million, while investments in equity and debt attracted $456 million from Indian residents.",
+      "publication_date": "Wed, 26 Aug 2026 06:43:33 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/outward-remittances-under-lrs-up-at-2-5-billion/articleshow/133527045.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Axis Bank set to raise $700 million through ECB swap facility",
+      "description": "Axis Bank is set to secure seven hundred million dollars through a dedicated external commercial borrowing facility. This loan features two tranches with tenures of three and five years. The arrangement is spearheaded by CTBC Bank from Taiwan and United Overseas Bank from Singapore, with significant contributions from the World Bank's IFC. Additional banks are anticipated to participate as the syndication phase unfolds.",
+      "publication_date": "Wed, 26 Aug 2026 06:33:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-set-to-raise-700-million-through-ecb-swap-facility/articleshow/133526983.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market Today: Asian stocks mixed ahead of Nvidia results, oil prices slide",
+      "description": "Contracts for the Nasdaq 100 Index dropped 0.3%, and those for the S&P 500 Index edged 0.1% down. MSCI’s Asia Pacific equities gauge was little changed with benchmarks in Japan and South Korea fluctuating between gains and losses.",
+      "publication_date": "Wed, 26 Aug 2026 06:25:28 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Rupee strengthens to 95.41 after oil cools",
+      "description": "The Indian rupee strengthened significantly on Tuesday, gaining 33 paise. This appreciation occurred as oil prices retreated and the Reserve Bank of India sold dollars. The rupee closed at 95.41, trading between 95.40 and 95.75 during the session. Oil prices fell more than three percent, influenced by US sanctions on Iran. Domestic markets will be closed Wednesday for a holiday.",
+      "publication_date": "Wed, 26 Aug 2026 06:21:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-41-after-oil-cools/articleshow/133526951.cms",
+      "source": "rss"
+    },
+    {
+      "title": "ESDS to expand data centre operations with Rs 720-cr IPO proceeds",
+      "description": "ESDS Software Solution is embarking on a ₹720-crore IPO aimed at broadening its data center operations across India and Europe. This strategic move follows a notable partnership for AI cluster deployment powered by NVIDIA GPUs. The investment will not only bolster their infrastructure but also pave the way for new facilities in Kolkata and Sahibabad, positioning ESDS as a trailblazer among India's publicly listed data center providers.",
+      "publication_date": "Wed, 26 Aug 2026 06:11:08 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
+      "source": "rss"
+    },
     {
       "title": "Stocks in news: Groww, Tata Motors PV, Cipla, Varun Beverages and Axis Bank",
       "description": "The Indian equity market experienced a positive turnaround on Tuesday, August 25, highlighted by the Nifty 50 making a robust recovery. Anticipation builds for Wednesday as Groww gears up for a significant block deal, while Cipla faces new USFDA inspectional observations. In other news, Tata Motors Passenger Vehicles is set to enhance its electric vehicle offerings through a collaboration with Tata Communications for 5G technology.",
@@ -47,24 +124,38 @@
       "source": "rss"
     },
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
+      "title": "D-Street set for a positive start as GIFT Nifty trades firmly higher",
       "description": "The Nifty index recovered 0.5 percent, closing at 24,334 after touching a low. Positive global cues and FII buying supported this recovery ahead of expiry. Brent crude oil prices fell 3.2 percent, easing concerns about oil markets. The Indian rupee also strengthened by 24 paise against the US dollar. India VIX, a fear gauge, declined by 3.9 percent to 11.08 levels.",
       "publication_date": "Wed, 26 Aug 2026 06:00:00 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133520659.cms",
       "source": "rss"
     },
     {
-      "title": "Hind Copper may not be a big draw for retail investors",
+      "title": "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
       "description": "Analysts express caution regarding retail investor interest in Hindustan Copper's offer for sale. A nearly ten percent discount may not attract investors after recent metal stock rallies. The institutional portion saw strong demand, exceeding shares available on the first day. Current valuations and limited upside potential raise concerns for potential subscribers. Investors are advised to seek better entry points in the secondary market.",
       "publication_date": "Wed, 26 Aug 2026 05:58:50 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms",
       "source": "rss"
     },
     {
-      "title": "Small- and midcaps shine as blue-chip stocks struggle for momentum",
+      "title": "Small and midcaps shine as blue-chip stocks struggle for momentum",
       "description": "Mid- and small-cap stocks have continued to defy index-level inertia amid a rush in primary-market listings. The average advance-to-decline (A/D) ratio - a widely watched indicator of overall market health - in August is up for the fifth consecutive month, its longest winning streak in more than two and a half years, pointing to significant investor interest beyond the typical frontbenchers that populate the two broadest gauges on the two competing exchanges.",
       "publication_date": "Wed, 26 Aug 2026 05:55:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcaps-shine-as-blue-chip-stocks-struggle-for-momentum/articleshow/133526882.cms",
+      "source": "rss"
+    },
+    {
+      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+      "description": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
+      "publication_date": "Wed, 26 Aug 2026 02:06:21 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+      "source": "rss"
+    },
+    {
+      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+      "description": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+      "publication_date": "Wed, 26 Aug 2026 02:01:01 GMT",
+      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
       "source": "rss"
     },
     {
@@ -72,6 +163,20 @@
       "description": "US stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence added to economic concerns, with upcoming PCE inflation data and Fed commentary keeping rate expectations in focus.",
       "publication_date": "Wed, 26 Aug 2026 01:38:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
+      "description": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
+      "publication_date": "Wed, 26 Aug 2026 01:29:20 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
+      "description": "Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.",
+      "publication_date": "Wed, 26 Aug 2026 01:07:28 GMT",
+      "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
       "source": "rss"
     },
     {
@@ -93,13 +198,6 @@
       "description": "India's economy shows resilience with improved domestic demand and strong economic activity. Food prices have seen a broad-based increase, raising concerns for monetary policymakers. Global economic outlook remains weighed by West Asia conflicts and new US tariffs. High-frequency indicators reflect strong manufacturing and services momentum continuing into July.",
       "publication_date": "Wed, 26 Aug 2026 00:33:30 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/food-prices-on-the-rise-domestic-demand-keeps-economy-strong/articleshow/133526830.cms",
-      "source": "rss"
-    },
-    {
-      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-      "description": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
-      "publication_date": "Wed, 26 Aug 2026 00:06:25 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
       "source": "rss"
     },
     {
@@ -1339,104 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:41:52 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-19-aug-2026/liveblog/133336239.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Rupee may slip on oil, risk-off mood; RBI once again expected to ride to rescue",
-      "description": "The Indian rupee is likely to experience a lower opening on Wednesday amidst climbing oil prices and increasing U.S. Treasury yields. The sentiment in the market is further influenced by the Reserve Bank of India's swap facility announcement. In an effort to bolster the currency, the central bank is selling dollars daily. Market participants are closely monitoring any intervention near the 95.80-96.00 range.",
-      "publication_date": "Wed, 19 Aug 2026 08:41:41 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-may-slip-on-oil-risk-off-mood-rbi-once-again-expected-to-ride-to-rescue/articleshow/133336204.cms",
-      "source": "rss"
-    },
-    {
-      "title": "ONGC Share Price Live Updates: ONGC's Financial Snapshot",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:40:32 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-today-live-19-aug-2026/liveblog/133336208.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Infosys Share Price Live Updates: Latest Infosys Stock Price",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:40:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-updates-19-aug-2026/liveblog/133336206.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Struggles Below Support Level",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:40:07 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-livestock-price-today-live-updates-19-aug-2026/liveblog/133336189.cms",
-      "source": "rss"
-    },
-    {
-      "title": "India Inc’s blockbuster Q1 earnings may not last as 3 key tailwinds fade in H2",
-      "description": "India Inc's impressive earnings in the first quarter might not sustain their momentum into the latter half of the year. Diminishing effects from favorable base conditions and a slowdown in consumption stimulation are anticipated. Additionally, while a declining rupee and rising commodity costs have provided brief respite, analysts caution that profit growth could significantly slow down in the coming months, marking a stark contrast to the earlier strong performance.",
-      "publication_date": "Wed, 19 Aug 2026 08:39:28 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-incs-blockbuster-q1-earnings-may-not-last-as-3-key-tailwinds-fade-in-h2/articleshow/133336153.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Ukrainian shuttlers voice pain of war at World Championships - Reuters",
-      "description": "Ukrainian shuttlers voice pain of war at World Championships &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 08:39:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGlaUVVZelJvTVNtWmgya1JlbUhEMUR5M3lTaUVUQU9kY1NLVC0wSVI0OHozSVEycUwtSGRGYzFncHVnaTBDUlZ4dUNBVDR0MUZGMXNTYktSWWxzYWRWeEF1QjAwM0NhQjQtN3ptUXVVMVo2WXdvREFyVWFKdXhkM2tfVGVYN1NVMGpFcVRwdkFicDlfXzNvYWtqLWY?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
-      "description": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 08:37:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Shankesh Jewellers IPO Day 2: GMP, subscription status. Should you subscribe?",
-      "description": "Shankesh Jewellers IPO entered its second day of bidding on August 19 with a grey market premium (GMP) of 5 per cent over its issue price band of Rs 88 to Rs 93. Backed by strong FY26 profit growth, brokerage Anand Rathi has assigned a Subscribe Long Term rating.",
-      "publication_date": "Wed, 19 Aug 2026 08:36:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shankesh-jewellers-ipo-day-2-gmp-subscription-status-should-you-subscribe/articleshow/133336093.cms",
-      "source": "rss"
-    },
-    {
-      "title": "HUL Share Price Live Updates: HUL Experiences New 52-Week Low",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:36:06 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-19-aug-2026/liveblog/133336135.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sun Pharma Share Price Live Updates: Sun Pharma Stock Details",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:35:37 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-19-aug-2026/liveblog/133336128.cms",
-      "source": "rss"
-    },
-    {
-      "title": "M&M Share Price Live Updates: M&M Stock Details",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:35:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-19-aug-2026/liveblog/133336124.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hindalco Share Price Live Updates: Hindalco's New Target Price Set by Systematix",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:34:08 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-updates-19-aug-2026/liveblog/133336100.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Axis Bank Share Price Live Updates: Axis Bank's Market Update",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:31:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-updates-19-aug-2026/liveblog/133336063.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Sees Minor Drop in Price",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:31:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-today-live-19-aug-2026/liveblog/133336048.cms",
       "source": "rss"
     }
   ]
