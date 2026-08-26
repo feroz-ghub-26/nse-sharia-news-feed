@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:47:01.946825+00:00",
+  "generated_at": "2026-08-26T00:53:59.862909+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -40,10 +40,66 @@
   ],
   "articles": [
     {
+      "title": "Stocks in news: Groww, Tata Motors PV, Cipla, Varun Beverages and Axis Bank",
+      "description": "The Indian equity market experienced a positive turnaround on Tuesday, August 25, highlighted by the Nifty 50 making a robust recovery. Anticipation builds for Wednesday as Groww gears up for a significant block deal, while Cipla faces new USFDA inspectional observations. In other news, Tata Motors Passenger Vehicles is set to enhance its electric vehicle offerings through a collaboration with Tata Communications for 5G technology.",
+      "publication_date": "Wed, 26 Aug 2026 06:00:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-groww-tata-motors-pv-cipla-varun-beverages-and-axis-bank/articleshow/133521013.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "The Nifty index recovered 0.5 percent, closing at 24,334 after touching a low. Positive global cues and FII buying supported this recovery ahead of expiry. Brent crude oil prices fell 3.2 percent, easing concerns about oil markets. The Indian rupee also strengthened by 24 paise against the US dollar. India VIX, a fear gauge, declined by 3.9 percent to 11.08 levels.",
+      "publication_date": "Wed, 26 Aug 2026 06:00:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133520659.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Hind Copper may not be a big draw for retail investors",
+      "description": "Analysts express caution regarding retail investor interest in Hindustan Copper's offer for sale. A nearly ten percent discount may not attract investors after recent metal stock rallies. The institutional portion saw strong demand, exceeding shares available on the first day. Current valuations and limited upside potential raise concerns for potential subscribers. Investors are advised to seek better entry points in the secondary market.",
+      "publication_date": "Wed, 26 Aug 2026 05:58:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Small- and midcaps shine as blue-chip stocks struggle for momentum",
+      "description": "Mid- and small-cap stocks have continued to defy index-level inertia amid a rush in primary-market listings. The average advance-to-decline (A/D) ratio - a widely watched indicator of overall market health - in August is up for the fifth consecutive month, its longest winning streak in more than two and a half years, pointing to significant investor interest beyond the typical frontbenchers that populate the two broadest gauges on the two competing exchanges.",
+      "publication_date": "Wed, 26 Aug 2026 05:55:15 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcaps-shine-as-blue-chip-stocks-struggle-for-momentum/articleshow/133526882.cms",
+      "source": "rss"
+    },
+    {
       "title": "US stocks today: US stocks close higher on tech rebound as Nvidia earnings gain focus",
       "description": "US stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence added to economic concerns, with upcoming PCE inflation data and Fed commentary keeping rate expectations in focus.",
       "publication_date": "Wed, 26 Aug 2026 01:38:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
+      "source": "rss"
+    },
+    {
+      "title": "L&T wins ₹5,000-10,000 cr 'major' order to build 3 battery storage projects in Middle East",
+      "description": "Larsen & Toubro said its renewables business has won a major order in the Middle East to develop three battery energy storage system projects with a combined capacity of 6 GWh.",
+      "publication_date": "Wed, 26 Aug 2026 00:56:58 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-major-middle-east-order-for-6-gwh-battery-storage-projects/articleshow/133526841.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+      "publication_date": "Wed, 26 Aug 2026 00:34:03 GMT",
+      "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "source": "rss"
+    },
+    {
+      "title": "Food prices on the rise, domestic demand keeps economy strong",
+      "description": "India's economy shows resilience with improved domestic demand and strong economic activity. Food prices have seen a broad-based increase, raising concerns for monetary policymakers. Global economic outlook remains weighed by West Asia conflicts and new US tariffs. High-frequency indicators reflect strong manufacturing and services momentum continuing into July.",
+      "publication_date": "Wed, 26 Aug 2026 00:33:30 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/food-prices-on-the-rise-domestic-demand-keeps-economy-strong/articleshow/133526830.cms",
+      "source": "rss"
+    },
+    {
+      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+      "description": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
+      "publication_date": "Wed, 26 Aug 2026 00:06:25 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
       "source": "rss"
     },
     {
@@ -1381,62 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 19 Aug 2026 08:31:01 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-today-live-19-aug-2026/liveblog/133336048.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Asian Paints Share Price Live Updates: Asian Paints Experiences Price Decline",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:30:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-updates-19-aug-2026/liveblog/133336017.cms",
-      "source": "rss"
-    },
-    {
-      "title": "ITC Share Price Live Updates: ITC's Price Movement Today",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:30:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-19-aug-2026/liveblog/133336016.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Tube Investments among 5 stocks showing bullish RSI upswing",
-      "description": "On August 18, five Nifty500 stocks that gained over 3% were identified using the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI value crosses above 50 from below, indicating strengthening price momentum and potential upward movement in the stocks.",
-      "publication_date": "Wed, 19 Aug 2026 08:29:34 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tube-investments-among-5-stocks-showing-bullish-rsi-upswing/slideshow/133336078.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Current Price Update",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:26:55 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-today-live-19-aug-2026/liveblog/133335964.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Tata Consumer Share Price Live Updates: Tata Consumer Trading Below Key Support Level",
-      "description": "",
-      "publication_date": "Wed, 19 Aug 2026 08:26:36 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-19-aug-2026/liveblog/133335960.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
-      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
-      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
-      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
-      "source": "rss"
-    },
-    {
-      "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
-      "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
-      "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
-      "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
-      "source": "rss"
-    },
-    {
-      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-      "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
-      "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
-      "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
       "source": "rss"
     }
   ]
