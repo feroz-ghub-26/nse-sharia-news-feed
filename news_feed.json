@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T20:26:31.699806+00:00",
+  "generated_at": "2026-08-26T21:32:41.877840+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -54,6 +54,27 @@
       "source": "rss"
     },
     {
+      "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
+      "description": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
+      "publication_date": "Wed, 26 Aug 2026 21:27:53 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
+      "source": "rss"
+    },
+    {
+      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+      "description": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools.",
+      "publication_date": "Wed, 26 Aug 2026 21:25:56 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
+      "source": "rss"
+    },
+    {
+      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+      "publication_date": "Wed, 26 Aug 2026 21:25:21 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "source": "rss"
+    },
+    {
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
       "description": "Indian equities reversed morning gains to close sharply lower, with Sensex falling 183 points and Nifty declining 0.52%. IT stocks weakened on visa concerns, offsetting gains in banks and metals. Technical signals pointed to continued range-bound trading and caution.",
       "publication_date": "Wed, 26 Aug 2026 21:25:03 +0530",
@@ -68,6 +89,20 @@
       "source": "rss"
     },
     {
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+      "publication_date": "Wed, 26 Aug 2026 21:17:46 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "source": "rss"
+    },
+    {
+      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
+      "publication_date": "Wed, 26 Aug 2026 21:17:34 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+      "source": "rss"
+    },
+    {
       "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
       "description": "Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce competition could test investor confidence in its long-term business model.",
       "publication_date": "Wed, 26 Aug 2026 21:00:49 +0530",
@@ -75,10 +110,10 @@
       "source": "rss"
     },
     {
-      "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain",
-      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
-      "publication_date": "Wed, 26 Aug 2026 20:25:28 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
+      "description": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement.",
+      "publication_date": "Wed, 26 Aug 2026 20:50:45 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
       "source": "rss"
     },
     {
@@ -86,20 +121,6 @@
       "description": "Meta shares hit a 4.96% intraday high after the company agreed to pay up to $16.68 billion to settle claims that Facebook and Instagram harmed young users. The settlement covers claims by 29 US states and requires Meta to introduce usage limits and stronger safeguards for children on its platforms.",
       "publication_date": "Wed, 26 Aug 2026 20:17:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-shares-hit-5-intraday-high-after-16-68-billion-settlement-over-alleged-harm-to-young-users/articleshow/133544340.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
-      "description": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement.",
-      "publication_date": "Wed, 26 Aug 2026 20:17:27 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-      "source": "rss"
-    },
-    {
-      "title": "Okta pops 15% after topping estimates as AI threat spikes demand for identity security",
-      "description": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
-      "publication_date": "Wed, 26 Aug 2026 20:13:25 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
       "source": "rss"
     },
     {
@@ -149,13 +170,6 @@
       "description": "US stocks traded flat as investors awaited Nvidia's earnings and assessed hotter-than-expected inflation data. July inflation rose 3.7%, lifting bets on a September Fed rate hike. The Dow slipped 0.04%, while the S&P 500 edged up 0.03% and Nasdaq fell 0.06%, keeping markets cautious.",
       "publication_date": "Wed, 26 Aug 2026 19:09:01 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-as-hot-inflation-lifts-rate-hike-bets-ahead-of-nvidia-results/articleshow/133542856.cms",
-      "source": "rss"
-    },
-    {
-      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
-      "publication_date": "Wed, 26 Aug 2026 19:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
       "source": "rss"
     },
     {
@@ -299,13 +313,6 @@
       "source": "rss"
     },
     {
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
-      "publication_date": "Wed, 26 Aug 2026 16:33:06 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
-      "source": "rss"
-    },
-    {
       "title": "Market wrap: Kotak Bank, Power Grid among top gainers and losers on Nifty and Sensex on Wednesday",
       "description": "Indian equities ended lower on Wednesday as sectoral divergence weighed on benchmarks. Nifty fell 0.52% and Sensex 0.24%, while broader markets were mixed. Banks and metals gained, but telecom, IT and infrastructure stocks declined amid technical caution.",
       "publication_date": "Wed, 26 Aug 2026 16:31:36 +0530",
@@ -409,6 +416,13 @@
       "publication_date": "Wed, 26 Aug 2026 14:48:53 GMT",
       "link": "https://www.cnbc.com/2026/08/26/were-buying-the-dip-again-in-a-retailer-not-getting-credit-for-addressing-weak-sales.html",
       "source": "rss"
+    },
+    {
+      "title": "TSX rises as investors assess bank results, trade tensions - Reuters",
+      "description": "TSX rises as investors assess bank results, trade tensions &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 14:47:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG1NLVZ0RmxzcFJPOXl0WUF0bmE1SFdJUy1uTVFpaVdYWnByblNJOHEzRmxoWFV0WmhORWFRODNiQWFUa3dJbndJck5vbVZrQ1p5NTR4ZF9pY08tWm1YUEZKTXFvN2ZiSE9vOGxaRkw2Yk1JYkdsNlFVMWhSMkNya1V0MXVkLVpwSDYyNW44S3k0eWNBYk1lcEMxaGpyUTVFZXlsMkE2ZGVKMUdlVndCeFo4TmxZUGFW?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Kremlin says US spy chief met with Russian counterparts during Moscow visit - Reuters",
@@ -660,6 +674,13 @@
       "description": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 10:32:19 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction - Reuters",
+      "description": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 10:24:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
       "source": "Reuters"
     },
     {
@@ -1349,17 +1370,17 @@
       "source": "rss"
     },
     {
+      "title": "Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg - Reuters",
+      "description": "Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 05:44:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi02STdIUDVtTjdzeFJKc3hzNU9Fd0VtZmpWcGFoMngwMmR4VWVTSFc1U0ZwUGxQWUFpcDdQWV9HVlJEakd1cU14a1hpVHRPN25ocEtYb29wN0pmVDRKcFhXbTF3dEJ3U0hWVGpUTE5oV3BFeWF6Y3BpSmxHWXRKV2g1WnhRdEhETG5nOUZfUjViaEFJLVdIbF85Q2ptbTVyWmg5b0NFRnk3WEFhYVV3ejZJS29OZw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO - Reuters",
       "description": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 05:34:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNGtwbkF3SGFBRng3VzVBaUNGR0RSVE04TENaM2RuV0VBMW1CeUZXNXJfM1JxRVY0T0ZmclNlUEsySDBoNDROQjIySnFnemZ6b3hLU1hGNlhmdE5DZmxCMjRSVVVQcG9ralh3TU1qcktudEtjRUlkSUhkTEVsS3RlanFwR1gyT0ljWUpJcFlMV0tyOFFmSy1DbkNhM29CUEdWckVQRGEzbndQTFpZYUw1Z3FncjdMTzQyLUt6MU50NDRKZ3djdHRtNHBucDZCaFpBZ1E?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Some oil companies to avoid ships on Iran blacklist, sources say - Reuters",
-      "description": "Some oil companies to avoid ships on Iran blacklist, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 05:16:31 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzU0Q1htdDM2bF9VQnJEYkxpY0U1Qko2WDRqR1kzY0RJTDd5MEtEbU43ZEpOdjBOcGJYR3d6OF9XQ1dCRWR3RnZrS3RZOVg2eDlvZE96TDMwR3ZiaG15elYwZnQySm1IY2JaMGdmbUNmMmdqTVBGZlNmZFZyMU5Ud1VJNTdyTnNHUmg0NnhuakhOSThwSVNpcVdVczF3dS11VUZOem41enZvUTBaeVE?oc=5",
       "source": "Reuters"
     },
     {
@@ -1374,6 +1395,13 @@
       "description": "Morning Bid: Markets are waiting '9 to 5' &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 04:53:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Some oil companies to avoid ships on Iran blacklist, sources say - Reuters",
+      "description": "Some oil companies to avoid ships on Iran blacklist, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 04:49:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzU0Q1htdDM2bF9VQnJEYkxpY0U1Qko2WDRqR1kzY0RJTDd5MEtEbU43ZEpOdjBOcGJYR3d6OF9XQ1dCRWR3RnZrS3RZOVg2eDlvZE96TDMwR3ZiaG15elYwZnQySm1IY2JaMGdmbUNmMmdqTVBGZlNmZFZyMU5Ud1VJNTdyTnNHUmg0NnhuakhOSThwSVNpcVdVczF3dS11VUZOem41enZvUTBaeVE?oc=5",
       "source": "Reuters"
     },
     {
@@ -1405,39 +1433,11 @@
       "source": "rss"
     },
     {
-      "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction - Reuters",
-      "description": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 02:18:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Global equity index, bond yields edge up with focus on inflation and Middle East - Reuters",
       "description": "Global equity index, bond yields edge up with focus on inflation and Middle East &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 02:17:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-      "description": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
-      "publication_date": "Wed, 26 Aug 2026 02:06:21 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-      "source": "rss"
-    },
-    {
-      "title": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole - Reuters",
-      "description": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 01:51:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US stocks today: US stocks close higher on tech rebound as Nvidia earnings gain focus",
-      "description": "US stocks closed higher as technology and semiconductor shares recovered ahead of Nvidia's earnings. Lower oil prices and Treasury yields offered relief, while investors assessed AI spending and stretched valuations. Weak consumer confidence added to economic concerns, with upcoming PCE inflation data and Fed commentary keeping rate expectations in focus.",
-      "publication_date": "Wed, 26 Aug 2026 01:38:36 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
-      "source": "rss"
     }
   ]
 }
