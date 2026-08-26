@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:27:18.475208+00:00",
+  "generated_at": "2026-08-26T05:58:17.630496+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,25 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "Pernia’s Pop-Up Studio parent Purple Style Labs sets IPO price band at Rs 546–575; subscription opens August 31",
+      "description": "Purple Style Labs, the parent company of Pernia’s Pop-Up Studio, has set its IPO price band at Rs 546-575 per share. The Rs 680-crore issue will open on August 31 and close on September 2. The luxury fashion platform plans to use proceeds for retail expansion, marketing and corporate purposes.",
+      "publication_date": "Wed, 26 Aug 2026 10:48:43 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernias-pop-up-studio-parent-purple-style-labs-sets-ipo-price-band-at-rs-546575-subscription-opens-august-31/articleshow/133530532.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US Stock Market: Nvidia earnings to test AI boom as markets brace for sharp move",
+      "description": "Nvidia options are pricing in a 5.4% post-earnings move, implying a potential $280 billion swing in market value after its Q2 results. The expected move is below the 6.5% forecast before May earnings and Nvidia’s 7.4% average post-results swing over the past 12 quarters. The subdued pricing suggests investors expect less dramatic surprises as the AI boom matures.",
+      "publication_date": "Wed, 26 Aug 2026 10:39:08 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-nvidia-earnings-to-test-ai-boom-as-markets-brace-for-sharp-move/articleshow/133530414.cms",
+      "source": "rss"
+    },
     {
       "title": "Global Market: Ueda’s Jackson Hole absence puts focus on BOJ’s September rate decision",
       "description": "Bank of Japan Governor Kazuo Ueda’s absence from the Jackson Hole meeting has shifted attention to BOJ board member Naoki Tamura and Deputy Governor Ryozo Himino for clues on monetary policy. Markets are increasingly pricing in a September rate hike, with economists expecting the BOJ to raise its policy rate to 1.25%.",
@@ -96,7 +110,7 @@
       "source": "rss"
     },
     {
-      "title": "HEG demerger: What 1:1 restructuring mean for shareholders as company fixes record date?",
+      "title": "HEG demerger: What 1:1 restructuring means for shareholders as company fixes record date?",
       "description": "On September 7, HEG will finalise its demerger, providing shareholders one share in the new entity for each existing share they hold. The graphite electrodes segment will transition to HEG Graphite, retaining the HEG name. Additionally, Bhilwara Energy will merge into HEG at a designated share issuance ratio, with leadership shifts commencing on September 1.",
       "publication_date": "Wed, 26 Aug 2026 09:17:44 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-in-focus-as-company-fixes-record-date-for-demerger-what-it-means-for-shareholders/articleshow/133528755.cms",
@@ -128,6 +142,13 @@
       "description": "Billionbrains Garage Ventures, the parent company of Groww, will be in focus as early investor Ribbit Capital plans to sell a 1.6% stake through a block deal worth Rs 1,914 crore. The shares are being offered at Rs 195 apiece, a 4% discount to the previous close.",
       "publication_date": "Wed, 26 Aug 2026 09:05:17 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-in-focus-as-ribbit-likely-sells-stake-through-rs-1914-crore-block-deal/articleshow/133528618.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's Performance Snapshot",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 09:03:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-26-aug-2026/liveblog/133528634.cms",
       "source": "rss"
     },
     {
@@ -222,6 +243,13 @@
       "source": "rss"
     },
     {
+      "title": "Wipro Share Price Live Updates: Wipro's Current Market Position",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:35:07 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-26-aug-2026/liveblog/133528229.cms",
+      "source": "rss"
+    },
+    {
       "title": "ETMarkets Smart Talk | Large caps look better for next 24 months, but hidden gems remain in smallcaps: Divam Sharma",
       "description": "Sharma sees a stronger case for large caps over the next 24 months, particularly given the steep valuation premium commanded by small caps.",
       "publication_date": "Wed, 26 Aug 2026 08:34:02 +0530",
@@ -243,7 +271,7 @@
       "source": "rss"
     },
     {
-      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank Moves Past 20-Day SMA",
+      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Current Price and Market Performance",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:27:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-26-aug-2026/liveblog/133528142.cms",
@@ -565,6 +593,13 @@
       "source": "rss"
     },
     {
+      "title": "Morning Bid: Markets are waiting '9 to 5' - Reuters",
+      "description": "Morning Bid: Markets are waiting '9 to 5' &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 04:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VlJWcU5TMUNaTHZTZEtqT1JBeDBweHVkQUFiY3ZWRVVzVTJ4UGlubzdQVjBMSXhjczRzTURFOUdmZ3FscHVkRl9fOVRnaTBhTVZ2VTkzSGdDalJTaU5JMGVZdmRnTldxLW9uc1FBc1ZFOU9ES28xa1JIQUlXdUE?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
       "description": "Indonesia has set an ambitious growth target, but economists aren't sure it can get there while keeping the deficit in check.",
       "publication_date": "Wed, 26 Aug 2026 04:50:05 GMT",
@@ -593,15 +628,15 @@
       "source": "rss"
     },
     {
-      "title": "Indian shares open higher as oil slides on Strait of Hormuz reopening hopes - Reuters",
-      "description": "Indian shares open higher as oil slides on Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
+      "title": "Indian shares gain as oil slides on Strait of Hormuz reopening hopes - Reuters",
+      "description": "Indian shares gain as oil slides on Strait of Hormuz reopening hopes &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 02:18:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
       "source": "Reuters"
     },
     {
-      "title": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes - Reuters",
-      "description": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes &nbsp;&nbsp; Reuters",
+      "title": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes - Reuters",
+      "description": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 02:17:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
       "source": "Reuters"
@@ -1403,41 +1438,6 @@
       "publication_date": "Wed, 19 Aug 2026 13:23:29 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/fabrinet-stock-plunges-19-why-investors-are-selling-after-q4-beat/slideshow/133341895.cms",
       "source": "rss"
-    },
-    {
-      "title": "McDonald’s nears elite dividend king status as next hike looms",
-      "description": "McDonald’s is one dividend increase away from becoming a Dividend King after 49 consecutive years of dividend growth. Its franchise-driven model, global reach and consistent cash generation support shareholder returns. While the milestone strengthens its appeal to income investors, future performance will depend on earnings growth, valuation, consumer demand and continued business momentum.",
-      "publication_date": "Wed, 19 Aug 2026 13:23:09 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/mcdonalds-nears-elite-dividend-king-status-as-next-hike-looms/articleshow/133341490.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Asia bond foreign inflows hit four-month low in July on oil shock",
-      "description": "In July, foreign investment in local bonds throughout Asia waned, despite a broader global appetite for emerging market debt. Elevated energy prices and economic downturns rendered the region less appealing. While India and South Korea recorded positive inflows, Malaysia and Thailand faced a retreat. Notably, Indonesia's bond inflows plummeted after the unexpected resignation of its central bank governor.",
-      "publication_date": "Wed, 19 Aug 2026 13:22:16 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/asia-bond-foreign-inflows-hit-four-month-low-in-july-on-oil-shock/articleshow/133341577.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Tiger Global-backed broking firm Upstox said to plan India IPO",
-      "description": "Upstox is currently in talks with investment banks regarding a possible initial public offering. Backed by Tiger Global, the company plans to hire advisers shortly for the imminent listing. This IPO could potentially generate approximately $400 million from both new and existing investors. Following Groww's impactful IPO last year, Upstox reached unicorn status in 2021 subsequent to a significant funding round.",
-      "publication_date": "Wed, 19 Aug 2026 13:20:59 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-global-backed-broking-firm-upstox-said-to-plan-india-ipo/articleshow/133341193.cms",
-      "source": "rss"
-    },
-    {
-      "title": "India bonds cling to range as traders parse oil risk",
-      "description": "Indian government bonds experienced restrained trading on Wednesday, influenced by softer U.S. Treasury yields which offered some stability. Nevertheless, rising oil prices dampened domestic morale, impacting the rupee's performance. Market participants are keenly awaiting the Reserve Bank of India's policy minutes for insights. Domestic investors and state-owned lenders have been pivotal in restraining yield increases.",
-      "publication_date": "Wed, 19 Aug 2026 13:19:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-cling-to-range-as-traders-parse-oil-risk/articleshow/133341539.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks - Reuters",
-      "description": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 13:19:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzI2TkFmY3IyRERGdEZtZGtpVGpnN2JScWFpdWdaYjBQczIwSTlBa0daaENLall3b0JONGswUTRqbnNiaVpWVmtTZmFnamJoblJ1ZzRzMEpFaWREb25na2hzR2tVTFRabk81TjVGLWVrdVktUVQtdVJNZUwyWkNFQVU4ZGFhRmpUazZzWjgyV0E2dFd4RFpsV2tUSUc1TGtBSmZiT1lEdWhuVHpDQ0pIUzFDdnVnTm9o?oc=5",
-      "source": "Reuters"
     }
   ]
 }
