@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:36:11.417041+00:00",
+  "generated_at": "2026-08-26T07:23:37.870940+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,25 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Options turnover sinks at Dalal Street's top exchange preparing for IPO",
+      "description": "India's stock exchange has seen options turnover plummet to its lowest in a year, a direct consequence of newly enforced trading regulations and the adoption of a closing auction system. Cash equities trading has also dipped, marking its lowest since November. This downturn poses a significant challenge for the upcoming initial public offering by the NSE, as traders recalibrate their strategies to align with the modified auction process.",
+      "publication_date": "Wed, 26 Aug 2026 12:24:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/options-turnover-sinks-at-dalal-streets-top-exchange-preparing-for-ipo/articleshow/133532740.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dick’s Sporting Goods slumps after earnings miss: What’s next?",
+      "description": "Dick's Sporting Goods faced a notable decline in shares following disappointing second-quarter figures, with revenue and earnings failing to meet Wall Street's expectations. The situation worsened with Foot Locker's sales drop, prompting Dick's to lower its full-year financial projections.",
+      "publication_date": "Wed, 26 Aug 2026 12:10:49 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dicks-sporting-goods-slumps-after-earnings-miss-whats-next/slideshow/133532630.cms",
+      "source": "rss"
+    },
     {
       "title": "Adani Ports or Gujarat Pipavav: Which stock benefits more from Gujarat concession extensions?",
       "description": "Gujarat’s reported decision to extend port concessions has removed a key overhang for Adani Ports and Gujarat Pipavav. While Pipavav stands to benefit more immediately as its concession expires in 2028, Adani Ports gains longer-term visibility for its Gujarat assets. Brokerages, however, see a sharper valuation risk for Pipavav.",
@@ -187,6 +201,13 @@
       "source": "rss"
     },
     {
+      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 09:04:22 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-26-aug-2026/liveblog/133528645.cms",
+      "source": "rss"
+    },
+    {
       "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance's Performance Snapshot",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 09:03:31 +0530",
@@ -208,6 +229,13 @@
       "source": "rss"
     },
     {
+      "title": "Power Grid Share Price Live Updates: Power Grid News",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 09:01:09 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-updates-26-aug-2026/liveblog/133528598.cms",
+      "source": "rss"
+    },
+    {
       "title": "Crorepati investors touch record Rs 10 lakh crore milestone. Which stocks are making them richer?",
       "description": "HNIs’ holdings in NSE-listed stocks surged 22.55% QoQ to a record Rs 9.92 lakh crore by June-end, adding Rs 1.83 lakh crore in three months. Their share of market value rose to 2.12%, the highest since March 2022. However, average ownership by volume fell to 7.19% from 7.31%, suggesting the rise was driven largely by stock price gains and greater exposure to high-value companies rather than fresh buying.",
       "publication_date": "Wed, 26 Aug 2026 08:57:02 +0530",
@@ -226,6 +254,13 @@
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:45:21 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-today-live-26-aug-2026/liveblog/133528372.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors records a minor price increase",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:45:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-26-aug-2026/liveblog/133528365.cms",
       "source": "rss"
     },
     {
@@ -257,7 +292,7 @@
       "source": "rss"
     },
     {
-      "title": "LTIMindtree Share Price Live Updates: LTIMindtree Stock Overview",
+      "title": "LTIMindtree Share Price Live Updates: LTIMindtree's Price Movement Today",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:42:15 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-26-aug-2026/liveblog/133528331.cms",
@@ -292,7 +327,7 @@
       "source": "rss"
     },
     {
-      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Price Movement Today",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:35:24 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-live-updates-26-aug-2026/liveblog/133528232.cms",
@@ -313,7 +348,14 @@
       "source": "rss"
     },
     {
-      "title": "Titan Company Share Price Live Updates: Titan Company Stock Details",
+      "title": "Hindalco Share Price Live Updates: Hindalco's Market Performance Overview",
+      "description": "",
+      "publication_date": "Wed, 26 Aug 2026 08:30:09 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133528175.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Titan Company Share Price Live Updates: The business shift in India's ₹7 lakh crore market amid gold cost pressure",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:30:04 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-live-26-aug-2026/liveblog/133528171.cms",
@@ -607,6 +649,34 @@
       "source": "rss"
     },
     {
+      "title": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
+      "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.",
+      "publication_date": "Wed, 26 Aug 2026 07:06:07 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran",
+      "description": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
+      "publication_date": "Wed, 26 Aug 2026 06:53:17 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+      "source": "rss"
+    },
+    {
+      "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
+      "description": "Indonesia has set an ambitious growth target, but economists aren't sure it can get there while keeping the deficit in check.",
+      "publication_date": "Wed, 26 Aug 2026 06:51:43 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
+      "source": "rss"
+    },
+    {
+      "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
+      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+      "publication_date": "Wed, 26 Aug 2026 06:47:26 GMT",
+      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+      "source": "rss"
+    },
+    {
       "title": "Outward remittances under LRS up at $2.5 billion",
       "description": "In June, the total outward remittances under the Liberalised Remittance Scheme soared to $2.5 billion. Notably, Indians disbursed $1.3 billion on international travel, reflecting a significant uptick from the previous month. Meanwhile, expenditure on overseas education rose to $96 million. Additionally, remittances for the upkeep of close relatives accounted for $287 million, while investments in equity and debt attracted $456 million from Indian residents.",
       "publication_date": "Wed, 26 Aug 2026 06:43:33 +0530",
@@ -618,13 +688,6 @@
       "description": "Axis Bank is set to secure seven hundred million dollars through a dedicated external commercial borrowing facility. This loan features two tranches with tenures of three and five years. The arrangement is spearheaded by CTBC Bank from Taiwan and United Overseas Bank from Singapore, with significant contributions from the World Bank's IFC. Additional banks are anticipated to participate as the syndication phase unfolds.",
       "publication_date": "Wed, 26 Aug 2026 06:33:39 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-set-to-raise-700-million-through-ecb-swap-facility/articleshow/133526983.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
-      "description": "As Washington shuts out Chinese robotics, a Temasek-backed VC bets that startups with genuine development in the city-state can still reach American buyers.",
-      "publication_date": "Wed, 26 Aug 2026 06:30:45 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
       "source": "rss"
     },
     {
@@ -677,6 +740,13 @@
       "source": "rss"
     },
     {
+      "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet - Reuters",
+      "description": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 05:03:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Morning Bid: Markets are waiting '9 to 5' - Reuters",
       "description": "Morning Bid: Markets are waiting '9 to 5' &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 04:53:00 GMT",
@@ -684,18 +754,11 @@
       "source": "Reuters"
     },
     {
-      "title": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
-      "description": "Indonesia has set an ambitious growth target, but economists aren't sure it can get there while keeping the deficit in check.",
-      "publication_date": "Wed, 26 Aug 2026 04:50:05 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
-      "source": "rss"
-    },
-    {
-      "title": "Oil falls as the U.S. pivots to economic pressure on Iran",
-      "description": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
-      "publication_date": "Wed, 26 Aug 2026 04:35:22 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
-      "source": "rss"
+      "title": "Some oil companies to avoid ships on Iran blacklist, sources say - Reuters",
+      "description": "Some oil companies to avoid ships on Iran blacklist, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 04:49:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzU0Q1htdDM2bF9VQnJEYkxpY0U1Qko2WDRqR1kzY0RJTDd5MEtEbU43ZEpOdjBOcGJYR3d6OF9XQ1dCRWR3RnZrS3RZOVg2eDlvZE96TDMwR3ZiaG15elYwZnQySm1IY2JaMGdmbUNmMmdqTVBGZlNmZFZyMU5Ud1VJNTdyTnNHUmg0NnhuakhOSThwSVNpcVdVczF3dS11VUZOem41enZvUTBaeVE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
@@ -738,6 +801,13 @@
       "publication_date": "Wed, 26 Aug 2026 02:06:21 GMT",
       "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
       "source": "rss"
+    },
+    {
+      "title": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole - Reuters",
+      "description": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 01:51:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US stocks today: US stocks close higher on tech rebound as Nvidia earnings gain focus",
@@ -1367,76 +1437,6 @@
       "description": "European shares were largely flat as Middle East tensions kept investors cautious ahead of the Federal Reserve’s July meeting minutes. Gains in basic resources stocks, supported by higher gold prices, offset technology losses caused by rising bond yields. UK inflation also accelerated, adding uncertainty over interest rates and the broader European monetary-policy outlook.",
       "publication_date": "Wed, 19 Aug 2026 15:27:43 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-flat-as-middle-east-risks-weigh-fed-minutes-in-focus/articleshow/133344247.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: Eurozone bond rout loses steam, but rising oil prices keep investors wary",
-      "description": "On Wednesday, yields on Eurozone government bonds saw a slight decline as the U.S. Treasury markets regained stability. However, high oil prices are ongoing concerns, heightening inflation and borrowing apprehensions for governments. The recent selloff predominantly affected longer-dated bonds, while the gap between French and German bond yields has widened amid France's fiscal worries. Investors need to remain wary due to persistent oil price pressures.",
-      "publication_date": "Wed, 19 Aug 2026 15:25:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-rout-loses-steam-but-rising-oil-prices-keep-investors-wary/articleshow/133344103.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Bitcoin near $64,350 as weak liquidity and subdued on-chain activity signal caution",
-      "description": "Bitcoin remained near the $64,000 mark as analysts flagged caution amid weak spot liquidity and subdued on-chain activity, despite signs of stabilising capital flows. Short covering and improving spot ETF flows provided some support, while experts highlighted key support and resistance levels as the cryptocurrency remained in a consolidation phase.",
-      "publication_date": "Wed, 19 Aug 2026 15:23:07 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64350-as-weak-liquidity-and-subdued-on-chain-activity-signal-caution/articleshow/133344028.cms",
-      "source": "rss"
-    },
-    {
-      "title": "We're booking a five-fold profit on one of drug stock's rally to record highs",
-      "description": "This trim doesn't reflect any change in our positive long-term view.",
-      "publication_date": "Wed, 19 Aug 2026 15:14:45 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/were-booking-a-five-fold-profit-on-one-of-drug-stocks-rally-to-record-highs.html",
-      "source": "rss"
-    },
-    {
-      "title": "Swiggy to see $400 million outflows after Indian-owned status? Jefferies explains why",
-      "description": "Swiggy is moving closer to becoming an Indian-owned and controlled company (IOCC), a move that could enable an inventory-led model for Instamart and potentially improve margins. However, Jefferies expects the shift to trigger passive outflows of over $400 million from MSCI and FTSE indices due to foreign ownership limits. The brokerage retained its Buy rating with a target price of Rs 435.",
-      "publication_date": "Wed, 19 Aug 2026 15:02:12 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-to-see-400-million-outflows-after-indian-owned-status-jefferies-explains-why/articleshow/133343604.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sebi to soon roll out AI rules with a ‘kill switch’ for stock market",
-      "description": "Sebi will soon issue guidelines for responsible AI and machine learning use in India’s securities market, with mandatory safeguards including a “kill switch”, human oversight and data controls. Chairman Tuhin Kanta Pandey said the framework will balance innovation with investor protection as AI adoption expands across surveillance, risk assessment, fraud detection and investor servicing, while ensuring accountability among regulated entities.",
-      "publication_date": "Wed, 19 Aug 2026 14:43:35 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Suspected sabotage attack fails to disrupt Milrem deliveries to Ukraine - Reuters",
-      "description": "Suspected sabotage attack fails to disrupt Milrem deliveries to Ukraine &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 19 Aug 2026 14:42:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFZYdVFQNThQd3ZfdmtIRm1vUXc1VlM2N0MwSVJyZXFkdEJJUlVsU1BQT2UwNTMyYVlPUG5HZVRZY04yOGRrQ0xSNm51ekxtSUVaVDJXNFZVUlFrRzB5dnJkYnV3TVN4RzRVRmw1aTZ4TlRDbnZIM2FhSDBrajJJOFcyTkUtWmgtTkU2ZlVqS21YNzVObkRXempaUnJWcU81SWxLWFNDQnNXdTA2M0kybFhNRTd4M19KRDlXMGlWc0VlYWJOaEY0?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
-      "description": "Behari Lal Engineering shares surged 14% after making a strong market debut, listing at a 63% premium to the IPO price. Brokerages remain positive, citing strong investor appetite and reasonable valuations, though they advise investors to book partial profits after the sharp listing gains. Here’s what SBI Securities and Swastika Investmart recommend on the stock.",
-      "publication_date": "Wed, 19 Aug 2026 14:41:24 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-rally-14-after-stellar-debut-what-are-brokerages-saying/articleshow/133343201.cms",
-      "source": "rss"
-    },
-    {
-      "title": "BlackRock, Capital Group anchor IDFC FIRST Bank’s maiden $500 million global bond",
-      "description": "IDFC FIRST Bank raised $500 million through its maiden international bond issuance, marking its entry into global debt markets. The three-year senior notes, due in 2029, carry a 5.625% coupon and attracted major investors including BlackRock, Capital Group and AllianceBernstein. The fundraising diversifies the bank’s funding base and supports its long-term growth ambitions.",
-      "publication_date": "Wed, 19 Aug 2026 14:28:25 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-capital-group-anchor-idfc-first-banks-maiden-500-million-global-bond/articleshow/133342921.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-      "description": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
-      "publication_date": "Wed, 19 Aug 2026 14:25:12 GMT",
-      "link": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-      "source": "rss"
-    },
-    {
-      "title": "Indian Bank raises $400 million for four years",
-      "description": "Indian Bank raised $400 million through a four-year overseas funding programme via its GIFT City branch, joining Indian lenders tapping global debt markets. Banks are accelerating dollar bond issuances following regulatory changes to the concessional swap window for FCNR deposits. Axis, ICICI, Federal, IDFC First, Kotak Mahindra and Yes Bank are also active.",
-      "publication_date": "Wed, 19 Aug 2026 14:20:45 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-400-million-for-four-years/articleshow/133342708.cms",
       "source": "rss"
     }
   ]
