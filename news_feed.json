@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T13:27:58.500983+00:00",
+  "generated_at": "2026-08-27T20:37:54.457030+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -68,8 +68,8 @@
       "source": "rss"
     },
     {
-      "title": "Qatar PM visits Tehran to pursue mediation efforts - Reuters",
-      "description": "Qatar PM visits Tehran to pursue mediation efforts &nbsp;&nbsp; Reuters",
+      "title": "Qatar PM pursues mediation in Tehran as US ramps up 'economic war' - Reuters",
+      "description": "Qatar PM pursues mediation in Tehran as US ramps up 'economic war' &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 23:15:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
       "source": "Reuters"
@@ -121,6 +121,13 @@
       "description": "US religious freedom panel urges sanctions against India's RSS during chief's US visit &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 21:53:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODhkU2NQXzFKUnphQ3pUbTJHZXItaE05eEVndERmWEJaMmx1MmFRYkVsWkJlZDBYR3BoUHdpd3h5ejlCX1g1aWh4UkNrUm96TzZQanRxZC1sM2hXZUdCeVVCMXZndkJPYV8yVEFLa05SRGc5RmJ0TE9PdE1yeWt3dTVaazFwYlEzdjlnM1hrSGc2U3FUUGhpZzRNeEpKcTVnV2hqNVJhVjBGMWNueVpBZkpDbFA3YzFuZEdQc0xIWFNOZ1NKRFZiSXJRV2pGZw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source - Reuters",
+      "description": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 21:36:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5",
       "source": "Reuters"
     },
     {
@@ -551,6 +558,13 @@
       "source": "rss"
     },
     {
+      "title": "PJM capacity market woes spur activity in bilateral power deals - Reuters",
+      "description": "PJM capacity market woes spur activity in bilateral power deals &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 14:44:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbldKZ2tRNE41Yjg2SkF3NGEwd25FY19hWWtQVkU0Y0ZJN3JhT05iN3pPZDRFSktmVVZpcHJvVFNsYksteDc0US1iMGwxdDZvaVQyOXRMXy1kcjJzR3ZjNmUzTHYza3BHRm00Um5Td3VrOTY3SGJlUmpqLW9UdVVnM2RYbGtETmF3LUxCR1dROEM0OTBNY0NxYmxsb3lTNTIxcVE2NzZLZl8wS2c2YVFaNHVhQ21pRldYRmFZ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports",
       "description": "European Central Bank policymakers are increasingly leaning towards a September rate hike as the Iran conflict drives up energy prices and inflation. While inflation is nearing 3% and economic activity remains resilient, officials appear reluctant to signal further tightening beyond September, keeping future decisions dependent on incoming data.",
       "publication_date": "Wed, 26 Aug 2026 14:40:35 +0530",
@@ -712,6 +726,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Japan to diversify crude supplies, back pipelines that bypass Hormuz - Reuters",
+      "description": "Japan to diversify crude supplies, back pipelines that bypass Hormuz &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 12:27:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3huYVRnT2ZwempZZV9JS3Vad2p6NW5lM3c4MnJDdllzM2JkdEdDcWVzZDFScGpUc1M4UmJnZnBIZGJIdnRHYWZRTERFU3pOYjRSRU1NaDdYUFVSTjJKYldxaFhiY3lZSjEwaFdxU3laN2lpSDRMQUVEdGh1cWV2aTVUN3dpWWk0Q3dIenZCVm9jNmdBUHliOVFndXVybzM3UUxzcExlQXhuZGtvWldyb3pLSzhzSzhBbjdQUWd2RFFHRUFQSXFsRQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "CCTV captures devastation as mudslide engulfs Nepal-China border - Reuters",
       "description": "CCTV captures devastation as mudslide engulfs Nepal-China border &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 12:24:28 GMT",
@@ -831,8 +852,8 @@
       "source": "rss"
     },
     {
-      "title": "Morning Bid: Falling oil calms nervy markets - Reuters",
-      "description": "Morning Bid: Falling oil calms nervy markets &nbsp;&nbsp; Reuters",
+      "title": "COMMENTARY: Morning Bid: Falling oil calms nervy markets - Reuters",
+      "description": "COMMENTARY: Morning Bid: Falling oil calms nervy markets &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 10:33:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXU2R3VfVjc5OXB0SXdVMW1vbU1rUUxSeHQxcG5QTWlSNDVHX3JwdTQwTVR6MzV0WWdRUEJrXzRPZU16bjRKRWxtT3hBOGRuNVBmRVZnUEJ6YjlUMGI5WlZ4V1Y4Q196TF9DUDVrLVRpaThSa1F4aFU5NzM2ZmJGSHowdjU2a2pqbWIzTU9BaGJIUUdQYTZj?oc=5",
       "source": "Reuters"
@@ -1116,6 +1137,13 @@
       "publication_date": "Wed, 26 Aug 2026 08:34:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-large-caps-look-better-for-next-24-months-but-hidden-gems-remain-in-smallcaps-divam-sharma/articleshow/133528026.cms",
       "source": "rss"
+    },
+    {
+      "title": "Six Chinese nationals among seven killed in Russian gas plant fire - Reuters",
+      "description": "Six Chinese nationals among seven killed in Russian gas plant fire &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 08:32:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSy1EQW5PVlpfSUNUNzNTekRBMFVoM0Rjamh3cXlLUVJfMmwxMHZwX1gwRE9fQnRVak40MGg2c1NWUFNiYVUyRWVBcThfSU5sVFVteXZ3SC0tQkt0MmVxenB5VlQ2bjJoTzI5c1o2ejVGYnQ3UGZqLVJjYmNzalp0X1JwNUdja3dQaGJfSmJaeEcxQlg1bDhEY1Z1TVBYMHBsaGt4eF8yWFFHREU2QWVGc3Vlbl9XRDVHUGkwT0JtWXR6RFE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Hindalco Share Price Live Updates: Hindalco's Market Performance Overview",
@@ -1409,34 +1437,6 @@
       "description": "Gold prices held steady as investors kept a watchful eye on upcoming United States inflation data, which is expected to offer insights into the Federal Reserve's interest rate decisions. Market participants are looking towards a potential pause in rate hikes next month. Concurrently, other precious metals, including silver, platinum, and palladium, experienced slight increases, reflecting ongoing global economic concerns and trade tensions impacting market dynamics.",
       "publication_date": "Wed, 26 Aug 2026 07:19:04 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-little-changed-with-us-inflation-data-in-spotlight/articleshow/133527287.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz",
-      "description": "Oil prices have dropped following the revival of discussions between Iran and Oman regarding the management of the Strait of Hormuz. The losses across both benchmarks highlight the market's reaction to navigation issues. Despite uncertainty gripping the market, some bargain buying has emerged, preventing further price decreases, while the U.S. is shifting personnel to its Middle Eastern diplomatic missions.",
-      "publication_date": "Wed, 26 Aug 2026 07:16:11 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-2-on-iran-oman-talks-to-reopen-strait-of-hormuz/articleshow/133527275.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Australia transport safety regulator probes two more incidents at Sydney airport - Reuters",
-      "description": "Australia transport safety regulator probes two more incidents at Sydney airport &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 07:13:38 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdlM2NDRqeEpFVnJKU3VMUVRuU1dxVlpOdkNZOUJ2SWlCdEJsNl96WmlZNlBKZ0htaldqY2NrQVkwTnJ1ZmY4blY1NUlNNmtfV1dfX3ZRWVdSQUV5cFFDV0s0RnU2Smw0NEtCaWlfNm40VW9sMUI0S2FZWUxuTFJnb1UyckJNREhfOHFnUWdhelQxeTlGQXFWR1V4dWI2MndQYUNqNzVad1hMNjBPYU04MWtrM1h2RVhrYVFEZkQxVjh6M2ppc0IycndmQ2FBaUxzWG5oYm1oRQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel - Reuters",
-      "description": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 07:13:29 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEsycFlDR0QyX3p6R2YwTHVfUTMwaUo3Xy1XMU14Q2xjNU9hZERvYzhkQTQ1ZF95RF8waXhVdnlHX21XblJPWHRqMjVRcU5MMkM4VllGNjVmMnVPeWh5Nm1MZnVKQ0Y4eGJvb3NyMWlCRFJUbW5Sd1Z5UXZlZE1jWkJCVVdWV1ZzcG1qWXVJVk5ZWFN4WFdXSVU3ZzBfNDZQM01Kcnp5cG9tQktIdHJxaFhjdUFKQUw3QXZObTlrVU9wc1NUeWxCVWxB?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Gross FDI climbs as net inflows turn positive",
-      "description": "Gross foreign direct investment into India saw a significant rise in June. Net FDI also increased substantially, recovering from a previous month's outflow. Outward FDI, however, continued its downward trend for the past two months. Financial, insurance, and business services were key sectors for outward investments. Manufacturing and trade sectors also witnessed outward FDI activity.",
-      "publication_date": "Wed, 26 Aug 2026 07:09:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gross-fdi-climbs-as-net-inflows-turn-positive/articleshow/133527199.cms",
       "source": "rss"
     }
   ]
