@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:55:50.528729+00:00",
+  "generated_at": "2026-08-27T02:46:17.041477+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -44,6 +44,13 @@
       "description": "The U.S. may be asking allies to step up their own defense, but it still wants them to align on geopolitical interests.",
       "publication_date": "Wed, 26 Aug 2026 23:53:45 GMT",
       "link": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
+      "source": "rss"
+    },
+    {
+      "title": "Rupee slide, valuation rules put foreign asset disclosure scheme out of reach for many",
+      "description": "The rupee's depreciation and strict valuation rules hinder foreign income disclosure. A one-time voluntary disclosure window allows regularization of overseas assets up to one crore. However, many exceed this limit due to currency conversion dates and asset values. Taxpayers explore updated returns and disclosure schemes, risking misrepresentation claims. Clarification on valuation rules is needed for borderline cases and falling-value assets.",
+      "publication_date": "Wed, 26 Aug 2026 23:52:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slide-valuation-rules-put-foreign-asset-disclosure-scheme-out-of-reach-for-many/articleshow/133553250.cms",
       "source": "rss"
     },
     {
@@ -61,17 +68,24 @@
       "source": "rss"
     },
     {
+      "title": "Qatar PM to visit Tehran to pursue mediation efforts - Reuters",
+      "description": "Qatar PM to visit Tehran to pursue mediation efforts &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 23:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
+      "description": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 22:50:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why",
       "description": "Salesforce CEO Marc Benioff pushed back against “SaaSpocalypse” fears.",
       "publication_date": "Wed, 26 Aug 2026 22:47:37 GMT",
       "link": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
-      "source": "rss"
-    },
-    {
-      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
-      "publication_date": "Wed, 26 Aug 2026 22:39:49 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
       "source": "rss"
     },
     {
@@ -80,6 +94,13 @@
       "publication_date": "Wed, 26 Aug 2026 22:20:20 GMT",
       "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
       "source": "rss"
+    },
+    {
+      "title": "US religious freedom panel urges sanctions against India's RSS during chief's US visit - Reuters",
+      "description": "US religious freedom panel urges sanctions against India's RSS during chief's US visit &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 21:53:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODhkU2NQXzFKUnphQ3pUbTJHZXItaE05eEVndERmWEJaMmx1MmFRYkVsWkJlZDBYR3BoUHdpd3h5ejlCX1g1aWh4UkNrUm96TzZQanRxZC1sM2hXZUdCeVVCMXZndkJPYV8yVEFLa05SRGc5RmJ0TE9PdE1yeWt3dTVaazFwYlEzdjlnM1hrSGc2U3FUUGhpZzRNeEpKcTVnV2hqNVJhVjBGMWNueVpBZkpDbFA3YzFuZEdQc0xIWFNOZ1NKRFZiSXJRV2pGZw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Next market winners: Jefferies sees potential in data centers as hyperscalers race for AI capacity",
@@ -124,6 +145,13 @@
       "source": "rss"
     },
     {
+      "title": "Advisers launch committee in push to organize Venezuela commercial creditors - Reuters",
+      "description": "Advisers launch committee in push to organize Venezuela commercial creditors &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 21:10:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3RVVlJMd2RIMHBXT0NyNGMzOGNBaXZvMV82Nm1HajNUUkg5d1phQld0OFVWNDQtUnpYakVDVV9LTDlMNFlCRFM4d2RkQU5kNVlwVnNzYUROQkdQeXFtSXhyRFRvSXZpSmJhVFI2czRMOHZzbl95dmxfNkt3dkFVMW5GODJXdkh5dkRaUkxBX1lDMGZiVlQzWk1SdjlzRFRORVNlYkxXOWdyTDVfLTdvWk9Xb2gtUDVYNHNTQURiZw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
       "description": "Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce competition could test investor confidence in its long-term business model.",
       "publication_date": "Wed, 26 Aug 2026 21:00:49 +0530",
@@ -166,6 +194,13 @@
       "source": "rss"
     },
     {
+      "title": "NEWSLETTER: Can US pressure stem cash flows to Iran? - Reuters",
+      "description": "NEWSLETTER: Can US pressure stem cash flows to Iran? &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 19:27:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTU4bDAweWpxVjVSanl3VWdoMTQzQkRoRDdBam45NzdTbFRRU0hKZ3k1V2xYODZMZnNHdkdSaGpSNHFSSTJ5R3hoY0I5N3RydTFZdTZ0RmU2SWlwcFJ0bDduSFVtakQ0aUpJU0R2UGswejY4Vll6ZlM3d0VEZmFZVld4Y3p2SElPLV9IQ1d0ZHhLXzhj?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
       "description": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
       "publication_date": "Wed, 26 Aug 2026 19:15:53 GMT",
@@ -192,6 +227,13 @@
       "publication_date": "Wed, 26 Aug 2026 19:09:01 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-as-hot-inflation-lifts-rate-hike-bets-ahead-of-nvidia-results/articleshow/133542856.cms",
       "source": "rss"
+    },
+    {
+      "title": "Automakers thought Canada was getting a trade deal. Then tariffs doubled. - Reuters",
+      "description": "Automakers thought Canada was getting a trade deal. Then tariffs doubled. &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 18:58:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGxKTWY4NXdob1VndXB5N2ZlYUxGZ1VhVU9VNWM1M29rSHlrN0ZsX2c3QXVpalk0UlJQb1FqRElrU2dJcXFEcnpnS0NPYTdlSmdidHMwdXNqc25oMXhyUF81UzZ0OGlhamRVRDJrUmtXMFpCNEVzM2tnSnJUcmtSWFEwNWs0ODJpWEVUX0tGVUhzNlJfbFQ4alNFbm9oeTlySWVRUVJMLUJlZEp6MmJTbEJFYTgzTDh3Z3AxUEdCN2FGZUZIWG1qMlIzU0psSE5l?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US senator hopes 'sledgehammer' Russian sanctions will pass next month - Reuters",
@@ -565,6 +607,13 @@
       "source": "rss"
     },
     {
+      "title": "Italy asks EU for €8 billion in SAFE defence funds - Reuters",
+      "description": "Italy asks EU for €8 billion in SAFE defence funds &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 13:09:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmd1eTZKZDRCQ3ozS0V4Q2pDSXVsemI4aXJaTmViT0V2MHVSWjhKNVFDcHY0R2RZMjZkMFpCQlVOQ2E2QTBybkFRMlNyQ0JrQV9LQkw3djR6S3kwZkhXSXpwaEFNdlVtal9hZGNVRDQtOEFicVd3djYydDJxMEY5NWE0aDZGTnpQd202VHB3Q2E?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Global Market: Fiscal dominance debate takes centre stage as government debt mounts",
       "description": "Rising government debt and borrowing costs are bringing the issue of fiscal dominance back into focus, with concerns that central banks could eventually face pressure to support government financing. The debate could have implications for monetary policy, inflation, currencies and sovereign bond markets.",
       "publication_date": "Wed, 26 Aug 2026 13:06:01 +0530",
@@ -591,6 +640,20 @@
       "publication_date": "Wed, 26 Aug 2026 12:55:18 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-debt-burden-raises-longer-term-risks-as-borrowing-costs-rise/articleshow/133533565.cms",
       "source": "rss"
+    },
+    {
+      "title": "Up to 70 ships queue off Danube as bottlenecks slow Ukraine grain exports - Reuters",
+      "description": "Up to 70 ships queue off Danube as bottlenecks slow Ukraine grain exports &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 12:42:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFBlVTBrbXBrM2dqdkV2V0lXcExyN19nc2FLZmZiYnZfd1pXTE9MY2lac0VQb3JGQkpJbjd1b0loNzRQZlhFQ1pUTml4clhEcWRCdTRkN1lHR0tmdXJEeVJySjl1Q2VRanpURGh2RDVPVlVObTBBSzBQMDNVUmZPaXV3c3dtUGI0MnI3N2dDQ2VlYlVTXzl6NDFhSVkyNVFnRE40aFUwbzh3RnBmbERpVmxn?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "CCTV captures devastation as mudslide engulfs Nepal-China border - Reuters",
+      "description": "CCTV captures devastation as mudslide engulfs Nepal-China border &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 12:34:16 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0cVRaWWhJWUFFQ3YyeFdRaFhTNWgxbmc3RnZGVGJVNG50elFKM2tWQWxCLW95Yzg1YlU0NGVtYjFSZ0otSVE3eEhBVHA1N0xENjBjaFNSeHpEcjl6?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "CCTV captures devastation as mudslide engulfs Nepal-China border - Reuters",
@@ -677,6 +740,13 @@
       "source": "rss"
     },
     {
+      "title": "China's CNOOC makes record interim profit on higher oil prices, output - Reuters",
+      "description": "China's CNOOC makes record interim profit on higher oil prices, output &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 11:03:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1RzMGpvYnRQa3IySkowTldOSjJHdklYUFdGVjExdS1CQ3JXalJ6NldXaXh2TlQtS25tcC1INTMyNTh3bW9LdG9ZTWFrV2l4MTlSdmZMYzBfT2RCS0EyYmM4R09IMFppS1prUlM1cnJXRUR0cU9KcEpLcHRBTFlqOFg1LTB0aGpxSlRaY3ItY1QzRnBRWFlfZEFFUE9pRVM3N0RZTzlEUUQyQmprck5rekRMUUJhcTlR?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Pernia’s Pop-Up Studio parent Purple Style Labs sets IPO price band at Rs 546–575; subscription opens August 31",
       "description": "Purple Style Labs, the parent company of Pernia’s Pop-Up Studio, has set its IPO price band at Rs 546-575 per share. The Rs 680-crore issue will open on August 31 and close on September 2. The luxury fashion platform plans to use proceeds for retail expansion, marketing and corporate purposes.",
       "publication_date": "Wed, 26 Aug 2026 10:48:43 +0530",
@@ -709,13 +779,6 @@
       "description": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 10:32:19 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction - Reuters",
-      "description": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 10:24:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
       "source": "Reuters"
     },
     {
@@ -1374,69 +1437,6 @@
       "description": "British energy price cap to rise 4% as Iran war pushes up costs &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 06:09:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlZZZUthczBuQ2FsOEZnMEhWQ0ZhMUh1ajdxc1R0c1ZzUWhtWjlDckRqUFNLRXBscjV0RDltV0RMSEJjbWpyWk4ySlV2TEhFdTFPUTgyY1d1aV8taTdtS21rUHpWanJvSDc5V1UtZ2J4TmZIdG5HMVhVZWpQUnlCeTlLQ0M5WFhjU1BkTDBNUkJKQlRJckxzRTdSN1B2bjRSNVFMMktvQkMyeF9IT1kya2FnZXd6a1N3REpv?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "As Nigeria's Dangote refinery nears record IPO, investors focus on oil supply costs - Reuters",
-      "description": "As Nigeria's Dangote refinery nears record IPO, investors focus on oil supply costs &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 06:01:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUVUQzdBWUM4S2FMMFhnVmVWd1FJRW1FZFBfVjg3VTRZb1JiT0tpdHJ3SWtDNV81SWk0U1hCUHNhVDE0aEdfb3JMcndtdHI5SWxCZ0VWbUNzVmNXMHk4bFZVMGNFUFdrWGxNak1YRU5wV3BRc1BJZVpwQUJYZmtjeUhNWnlnU1FCMzJZY2ZNT0dMd0xyTnZsZHdxVFlELUxtVUZhbWZOdUxGZm5PdGQwU1FnSXFncTd4LTVQWG1ZVHd6Z0trWHc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US-Iran war sinks into energy trench warfare six months on - Reuters",
-      "description": "US-Iran war sinks into energy trench warfare six months on &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 06:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Stocks in news: Groww, Tata Motors PV, Cipla, Varun Beverages and Axis Bank",
-      "description": "The Indian equity market experienced a positive turnaround on Tuesday, August 25, highlighted by the Nifty 50 making a robust recovery. Anticipation builds for Wednesday as Groww gears up for a significant block deal, while Cipla faces new USFDA inspectional observations. In other news, Tata Motors Passenger Vehicles is set to enhance its electric vehicle offerings through a collaboration with Tata Communications for 5G technology.",
-      "publication_date": "Wed, 26 Aug 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-groww-tata-motors-pv-cipla-varun-beverages-and-axis-bank/articleshow/133521013.cms",
-      "source": "rss"
-    },
-    {
-      "title": "D-Street set for a positive start as GIFT Nifty trades firmly higher",
-      "description": "The Nifty index recovered 0.5 percent, closing at 24,334 after touching a low. Positive global cues and FII buying supported this recovery ahead of expiry. Brent crude oil prices fell 3.2 percent, easing concerns about oil markets. The Indian rupee also strengthened by 24 paise against the US dollar. India VIX, a fear gauge, declined by 3.9 percent to 11.08 levels.",
-      "publication_date": "Wed, 26 Aug 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133520659.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
-      "description": "Analysts express caution regarding retail investor interest in Hindustan Copper's offer for sale. A nearly ten percent discount may not attract investors after recent metal stock rallies. The institutional portion saw strong demand, exceeding shares available on the first day. Current valuations and limited upside potential raise concerns for potential subscribers. Investors are advised to seek better entry points in the secondary market.",
-      "publication_date": "Wed, 26 Aug 2026 05:58:50 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Small and midcaps shine as blue-chip stocks struggle for momentum",
-      "description": "Mid- and small-cap stocks have continued to defy index-level inertia amid a rush in primary-market listings. The average advance-to-decline (A/D) ratio - a widely watched indicator of overall market health - in August is up for the fifth consecutive month, its longest winning streak in more than two and a half years, pointing to significant investor interest beyond the typical frontbenchers that populate the two broadest gauges on the two competing exchanges.",
-      "publication_date": "Wed, 26 Aug 2026 05:55:15 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcaps-shine-as-blue-chip-stocks-struggle-for-momentum/articleshow/133526882.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg - Reuters",
-      "description": "Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 05:44:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi02STdIUDVtTjdzeFJKc3hzNU9Fd0VtZmpWcGFoMngwMmR4VWVTSFc1U0ZwUGxQWUFpcDdQWV9HVlJEakd1cU14a1hpVHRPN25ocEtYb29wN0pmVDRKcFhXbTF3dEJ3U0hWVGpUTE5oV3BFeWF6Y3BpSmxHWXRKV2g1WnhRdEhETG5nOUZfUjViaEFJLVdIbF85Q2ptbTVyWmg5b0NFRnk3WEFhYVV3ejZJS29OZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO - Reuters",
-      "description": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 05:34:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNGtwbkF3SGFBRng3VzVBaUNGR0RSVE04TENaM2RuV0VBMW1CeUZXNXJfM1JxRVY0T0ZmclNlUEsySDBoNDROQjIySnFnemZ6b3hLU1hGNlhmdE5DZmxCMjRSVVVQcG9ralh3TU1qcktudEtjRUlkSUhkTEVsS3RlanFwR1gyT0ljWUpJcFlMV0tyOFFmSy1DbkNhM29CUEdWckVQRGEzbndQTFpZYUw1Z3FncjdMTzQyLUt6MU50NDRKZ3djdHRtNHBucDZCaFpBZ1E?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet - Reuters",
-      "description": "As war strands Qatari gas for 6 months, US sales rise and European stocks plummet &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 05:03:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkp0YndfNmRJZEdMN2dnMFl4TXhSR2RMal9zTTA2NUtoOV83Um5ZNXB2LWEtSGNZZldsZl93V2RVQzNiZXFpMnN6Wlhzdy1CRFl1X1ZOSHU5eWVsTUpYV2N2R285LU5pS1ZsaTI4bUFuYTVsUC1VRzlqa2o1dVl1VC1BcE1OakRwMWtJNUxlWXBIMklmanZSeDY3M012QzlRVENLeDRkZjdmZjNJamFsazZOdFFrNFZRWnI1UUtR?oc=5",
       "source": "Reuters"
     }
   ]
