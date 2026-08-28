@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:53:00.743735+00:00",
+  "generated_at": "2026-08-28T20:34:28.428327+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 47
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -192,6 +192,13 @@
       "publication_date": "Wed, 26 Aug 2026 20:50:45 GMT",
       "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
       "source": "rss"
+    },
+    {
+      "title": "French security chief sees new threats after Leipzig drone attack - Reuters",
+      "description": "French security chief sees new threats after Leipzig drone attack &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 20:43:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDR5VElEaXRUXzZwbHN4WklQem90S2pzWWVKMmlsOEY2OFBiaUUzNDE3YkNGVG5ZRTlqYmpJZVdiT1g4eHRmZk5hVXU0SklrZjZNVGpwVEo3X25DUUl5X0hNenQxZ2hZazRxRU9NQUpmSF93RW5kbXFlNXBVNjV6NC1samRXWHl1eFNoZnVpQ2R3MUd2YUpENXhqTHpkc0VNS3c4emJZbGx4Qm1BOWpLSEMtelprWFl3MTRvdF9CVExuT2lJUXJV?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "TSX pulls back from record high as metal mining shares fall - Reuters",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:10:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-26-aug-2026/liveblog/133527835.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Price Breakout Signals Strong Market Movement",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:01:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-live-updates-26-aug-2026/liveblog/133527758.cms",
       "source": "rss"
     }
   ]
