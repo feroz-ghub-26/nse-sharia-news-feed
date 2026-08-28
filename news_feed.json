@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T23:26:36.851625+00:00",
+  "generated_at": "2026-08-28T05:31:06.201087+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -68,8 +68,8 @@
       "source": "rss"
     },
     {
-      "title": "Qatar PM pursues mediation in Tehran as US ramps up 'economic war' - Reuters",
-      "description": "Qatar PM pursues mediation in Tehran as US ramps up 'economic war' &nbsp;&nbsp; Reuters",
+      "title": "Qatar steps in to mediate as Trump says US not talking to Iran - Reuters",
+      "description": "Qatar steps in to mediate as Trump says US not talking to Iran &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 23:15:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
       "source": "Reuters"
@@ -250,13 +250,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction - Reuters",
-      "description": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 19:35:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "NEWSLETTER: Can US pressure stem cash flows to Iran? - Reuters",
       "description": "NEWSLETTER: Can US pressure stem cash flows to Iran? &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 19:27:15 GMT",
@@ -292,6 +285,13 @@
       "source": "rss"
     },
     {
+      "title": "Global equity index, bond yields edge up with focus on inflation and Middle East - Reuters",
+      "description": "Global equity index, bond yields edge up with focus on inflation and Middle East &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 19:05:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Automakers thought Canada was getting a trade deal. Then tariffs doubled. - Reuters",
       "description": "Automakers thought Canada was getting a trade deal. Then tariffs doubled. &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 18:58:59 GMT",
@@ -325,6 +325,13 @@
       "publication_date": "Wed, 26 Aug 2026 18:31:26 GMT",
       "link": "https://www.cnbc.com/2026/08/26/micron-elevates-two-executives-plus-what-the-meta-settlement-means-for-its-top-line.html",
       "source": "rss"
+    },
+    {
+      "title": "Gold drops over 1% after in-line US inflation data - Reuters",
+      "description": "Gold drops over 1% after in-line US inflation data &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 18:28:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
@@ -502,6 +509,13 @@
       "source": "rss"
     },
     {
+      "title": "Oil settles down after choppy session as investors weigh Hormuz talks - Reuters",
+      "description": "Oil settles down after choppy session as investors weigh Hormuz talks &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 16:00:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Russia's NORSI refinery halts oil processing after drone attack, sources say - Reuters",
       "description": "Russia's NORSI refinery halts oil processing after drone attack, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 15:47:45 GMT",
@@ -625,6 +639,13 @@
       "description": "Six Chinese nationals among seven killed in Russian gas plant fire &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 14:09:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSy1EQW5PVlpfSUNUNzNTekRBMFVoM0Rjamh3cXlLUVJfMmwxMHZwX1gwRE9fQnRVak40MGg2c1NWUFNiYVUyRWVBcThfSU5sVFVteXZ3SC0tQkt0MmVxenB5VlQ2bjJoTzI5c1o2ejVGYnQ3UGZqLVJjYmNzalp0X1JwNUdja3dQaGJfSmJaeEcxQlg1bDhEY1Z1TVBYMHBsaGt4eF8yWFFHREU2QWVGc3Vlbl9XRDVHUGkwT0JtWXR6RFE?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on - Reuters",
+      "description": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 14:05:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
       "source": "Reuters"
     },
     {
@@ -887,6 +908,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction - Reuters",
+      "description": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 10:24:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Global Market: Ueda’s Jackson Hole absence puts focus on BOJ’s September rate decision",
       "description": "Bank of Japan Governor Kazuo Ueda’s absence from the Jackson Hole meeting has shifted attention to BOJ board member Naoki Tamura and Deputy Governor Ryozo Himino for clues on monetary policy. Markets are increasingly pricing in a September rate hike, with economists expecting the BOJ to raise its policy rate to 1.25%.",
       "publication_date": "Wed, 26 Aug 2026 10:21:35 +0530",
@@ -898,6 +926,13 @@
       "description": "Kremlin says US spy chief met with Russian counterparts during Moscow visit &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 10:19:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "US spy chief visits Russia for meetings, media reports - Reuters",
+      "description": "US spy chief visits Russia for meetings, media reports &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 10:18:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
       "source": "Reuters"
     },
     {
@@ -913,13 +948,6 @@
       "publication_date": "Wed, 26 Aug 2026 10:04:30 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-marginally-silver-rebounds-rs-2000/kg-as-traders-await-us-inflation-data-key-levels-to-track/articleshow/133529617.cms",
       "source": "rss"
-    },
-    {
-      "title": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on - Reuters",
-      "description": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 10:02:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Global Market: Japan stocks rise ahead of Nvidia earnings, US inflation data",
@@ -1342,6 +1370,13 @@
       "source": "rss"
     },
     {
+      "title": "Father of sailor aboard US aircraft carrier freed from immigration detention - Reuters",
+      "description": "Father of sailor aboard US aircraft carrier freed from immigration detention &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 26 Aug 2026 08:11:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmx2MERvUDBBZGx6SUpYTzIwbXd0THJKcy15X3VCNFBVd05xaUNGZ2pSVEtURHIwVlg1aEtzMkdjMnRwSVpWUXcwNFNJZi1CNEtTb1c1NVhhdHhWNDVzZzdMdDJwRlh4MkQ1bURSY2Q0NUwwME0wY0tDR1F5bmk3Q2w3emgwcEdBVFFKeWZ3YW53ZllVRVJWaTdNRnRZWWNkaTlPNkQ5ckJ3aGZma29EZ1EyZDMyMHZReGJ3MzVn?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "ONGC Share Price Live Updates: ONGC's Financial Snapshot",
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:11:04 +0530",
@@ -1403,41 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 07:44:27 +0530",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-26-crude-oil-tanks-6-in-two-days-to-hover-near-85-whats-behind-the-decline/articleshow/133527538.cms",
       "source": "rss"
-    },
-    {
-      "title": "Skyways Air IPO Day 3: GMP indicates 21% listing premium; Issue subscribed 2.46x — Should you subscribe?",
-      "description": "By the end of Day 2, the IPO was subscribed 2.46 times, with bids received for 2.95 crore shares on offer. Retail investors showed particularly strong demand, with their portion subscribed 3.54 times against the 1.48 crore shares reserved for them.",
-      "publication_date": "Wed, 26 Aug 2026 07:40:56 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/skyways-air-ipo-day-3-gmp-indicates-21-listing-premium-issue-subscribed-2-46x-should-you-subscribe/articleshow/133527393.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Gaja Alternative Asset shares list at 16% premium over IPO price on NSE, BSE",
-      "description": "Gaja Alternative Asset Management shares made a strong debut on Wednesday, listing nearly 16% above the IPO price. The Rs 550-crore issue received robust demand during subscription, led by institutional and non-institutional investors, with the overall issue subscribed 31.33 times.",
-      "publication_date": "Wed, 26 Aug 2026 07:37:29 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gaja-alternative-asset-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133527367.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex jumps over 300 pts, Nifty above 24,350; PSU bank stocks rally",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 07:34:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-groww-tata-motors-pv-share-price-26-august-2026/liveblog/133527446.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Stocks to buy in 2026 for long term: Cummins India, Indian Hotels among 5 stocks that could give 10-20% return",
-      "description": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources",
-      "publication_date": "Wed, 26 Aug 2026 07:34:13 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-cummins-india-indian-hotels-among-5-stocks-that-could-give-10-20-return/slideshow/133527502.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Seven charts point to tighter energy markets through 2027 - Reuters",
-      "description": "Seven charts point to tighter energy markets through 2027 &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 07:33:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXJWdjZVdHBYREtXcWV5a1NreTdKY3FKNDk2QlB2NWd2RW1ZZ0ZEam5xNDFBbUMzLW5MTVR0TFo1SklfaGFNVG0tNUtFVU1janNkWko4RXc5dm95eWlwLUR1Y0t0V0FwRGdFclBnNjVEeGJnOWhzMVdSY3VIVTVjWkRmLUhZMVVzU3NjVzZocDZITG5leG5aZHlUT1lDcUprVXl6S1p6RTJMVVl6VXlwX2VDLXN6UHJ0RG5xWFlSUmM?oc=5",
-      "source": "Reuters"
     }
   ]
 }
