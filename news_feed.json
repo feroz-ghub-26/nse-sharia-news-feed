@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T02:09:16.146949+00:00",
+  "generated_at": "2026-09-09T02:39:28.590370+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Industrial stocks lose momentum as Iran war, AI reversal take toll",
-      "description": "Industrial shares have seen a sudden reversal, falling significantly after reaching record highs recently. Rising oil prices and a reversal in the artificial intelligence trade are impacting this sector. Technical indicators signal potential further declines as the index drops below key moving averages. Higher production costs and borrowing expenses threaten manufacturers amid elevated valuations. However, some signs suggest the worst of the selloff might already be over.",
-      "publication_date": "Wed, 09 Sep 2026 07:14:17 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/industrial-stocks-lose-momentum-as-iran-war-ai-reversal-take-toll/articleshow/133948467.cms",
+      "title": "IPO flood breaks 30-year record as 6 issues hit stock market on same day",
+      "description": "The six issues, Rentomojo, Asset Reconstruction Company (India), Manipal Payment & Identity Solutions, Steamhouse India, LCC Projects and Karamtara Engineering, are collectively seeking to raise ₹4,509.68 crore.",
+      "publication_date": "Wed, 09 Sep 2026 07:55:03 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-flood-breaks-30-year-record-as-6-issues-hit-stock-market-on-same-day/articleshow/133949337.cms",
       "source": "rss"
     }
   ]
