@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:08:16.868929+00:00",
+  "generated_at": "2026-09-09T18:37:24.739326+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "RBL Bank raises $350 million in debut international bond sale",
-      "description": "RBL Bank has raised $350 million through its first international bond sale, pricing bonds tighter than initial guidance. Strong investor demand supports funding for GIFT City growth and liability management, while Emirates NBD’s backing strengthens credit quality and investor confidence.",
-      "publication_date": "Wed, 09 Sep 2026 21:23:17 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/rbl-bank-raises-350-million-in-debut-international-bond-sale/articleshow/133975367.cms",
+      "title": "ICICI Prudential AMC gets RBI approval to buy up to 9.95% stake in Kotak and 3 other banks",
+      "description": "ICICI Prudential AMC secured Reserve Bank of India approval for significant bank share acquisitions. The approval allows for aggregate holdings up to 9.95 percent in four specific banks. These banks include Kotak Mahindra Bank, AU Small Finance Bank, CSB Bank, and DCB Bank. The acquisitions will be made as an investment manager for various mutual fund schemes. This move provides ICICI Prudential AMC increased investment flexibility across its managed portfolios.",
+      "publication_date": "Wed, 09 Sep 2026 23:29:53 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-gets-rbi-approval-to-buy-up-to-9-95-stake-in-kotak-and-3-other-banks/articleshow/133979457.cms",
       "source": "rss"
     }
   ]
