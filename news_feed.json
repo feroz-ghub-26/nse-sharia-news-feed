@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:06:05.386255+00:00",
+  "generated_at": "2026-09-09T11:33:06.098694+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Bitcoin around $79,000 as macro risks mount, $246 million crypto positions liquidated",
-      "description": "Bitcoin is holding near $79,000 as macro risks rise, with $246 million in crypto positions liquidated in 24 hours. Analysts cite higher volatility, mixed ETF flows and inflation concerns, while Bitcoin’s ability to reclaim $80,000 could determine whether recovery strengthens.",
-      "publication_date": "Wed, 09 Sep 2026 15:54:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-around-79000-as-macro-risks-mount-246-million-crypto-positions-liquidated/articleshow/133964217.cms",
+      "title": "Market wrap: Adani Ent, Max Healthcare, Infosys, HDFC Life among top gainers and losers on Nifty and Sensex on Wednesday",
+      "description": "Indian equities extended losses on September 9 as rising oil prices pressured sentiment. Sensex fell 813 points and Nifty declined 204 points. IT stocks led sectoral losses, while metals gained. Technical indicators remained bearish, though oversold conditions could trigger a rebound.",
+      "publication_date": "Wed, 09 Sep 2026 16:55:08 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ent-max-healthcare-infosys-hdfc-life-among-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133966457.cms",
       "source": "rss"
     }
   ]
