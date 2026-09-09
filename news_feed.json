@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T01:17:31.749393+00:00",
+  "generated_at": "2026-09-09T01:43:39.962932+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "article_count": 100
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "NSE may cut IPO size to Rs 25,000 crore from Rs 30,000 crore",
-      "description": "The National Stock Exchange is considering reducing its initial public offering size. The proposed share sale could now amount to around ₹24,000-25,000 crore. NSE aims to launch the IPO in the third week of September. This move would retain Hyundai Motor India's largest IPO tag. The exchange received Sebi's consent to proceed with the IPO.",
-      "publication_date": "Wed, 09 Sep 2026 06:25:44 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-may-cut-ipo-size-to-rs-25000-crore-from-rs-30000-crore/articleshow/133947283.cms",
+      "title": "RIL to tap local bond market after 3 years, lines up Rs 12,500 crore issue",
+      "description": "Reliance Industries takes the forefront as Indian companies turn to domestic bonds for fund-raising. Banks, with their significant surplus funds, are eager to actively invest as they anticipate potential interest rate hikes. The influx of foreign currency has injected substantial liquidity into the banking system, empowering financial institutions to seize high-quality corporate credit opportunities.",
+      "publication_date": "Wed, 09 Sep 2026 06:57:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-to-tap-local-bond-market-after-3-years-lines-up-12-5k-crore-issue/articleshow/133948121.cms",
       "source": "rss"
     }
   ]
