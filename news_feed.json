@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:38:24.585971+00:00",
+  "generated_at": "2026-09-09T09:07:25.515413+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Global Market: Record UK gilt yield raises fiscal pressure ahead of October Budget",
-      "description": "Britain sold £4.25 billion of 30-year gilts at a record-high yield of 5.8168%, underscoring rising borrowing costs and fiscal pressures. Despite the elevated yield, demand remained strong, with orders exceeding £87 billion, as investors continued to favour UK government debt.",
-      "publication_date": "Wed, 09 Sep 2026 13:28:41 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-record-uk-gilt-yield-raises-fiscal-pressure-ahead-of-october-budget/articleshow/133959306.cms",
+      "title": "How Apple shares may react to the launch of first-ever foldable iPhone? Here’s what analysts say",
+      "description": "Apple’s first-ever foldable iPhone could significantly impact the company’s growth and stock performance. Analysts expect the device, potentially priced at $2,000-$2,500, to generate over $45 billion in revenue by the end of next year. Apple shares have historically gained after iPhone launches, while investors will closely track foldable demand, pricing and AI features.",
+      "publication_date": "Wed, 09 Sep 2026 14:17:38 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-apple-shares-may-react-to-the-launch-of-first-ever-foldable-iphone-heres-what-analysts-say/articleshow/133960832.cms",
       "source": "rss"
     }
   ]
