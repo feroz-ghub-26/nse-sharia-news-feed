@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T04:07:48.260215+00:00",
+  "generated_at": "2026-09-09T04:37:02.066967+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Largecap safety trade? 8 Nifty stocks test investor patience with losses for two years",
-      "description": "Over the past two years, eight Nifty stocks have experienced declines, with notable IT giants like TCS and Infosys pressured by shifts in client spending patterns. Additionally, Tata Motors faced a dip due to difficulties at Jaguar Land Rover, while valuation worries plagued Trent, alongside ITC's tax complications. Nevertheless, a faction of fund managers remains optimistic about large-cap stocks, indicating a mixed outlook for investors.",
-      "publication_date": "Wed, 09 Sep 2026 09:31:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/largecap-safety-trade-8-nifty-stocks-test-investor-patience-with-losses-for-two-years/articleshow/133951581.cms",
+      "title": "Biocon shares rise 3% after Rs 638-crore block deal; Active Pine likely seller",
+      "description": "Biocon shares rose after a block deal involving around 1.65 crore shares. Investor Active Pine was reportedly looking to sell up to 1.66 crore shares, or about 1% stake, for around Rs 638 crore at a floor price of Rs 385 per share, implying a discount of up to 1.9% to the market price. The seller will face a 30-day lock-up on further stake sales.",
+      "publication_date": "Wed, 09 Sep 2026 09:48:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-3-after-rs-638-crore-block-deal-active-pine-likely-seller/articleshow/133952136.cms",
       "source": "rss"
     }
   ]
