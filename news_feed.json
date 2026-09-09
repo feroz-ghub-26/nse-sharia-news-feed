@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T05:35:11.233994+00:00",
+  "generated_at": "2026-09-09T06:11:19.377538+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "article_count": 100
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Adani Enterprises shares gain over 4% as airports arm plans to raise $1 billion from Temasek, BlackRock, others",
-      "description": "Adani Enterprises shares rose over 4% after Adani Airport Holdings announced a Rs 9,825-crore equity raise from Alpha Wave Global, Premji Invest, Temasek and BlackRock-managed funds. The funds will support airport expansion, modernisation and Airport City projects. AAHL expects the investment to boost capacity, while Adani Enterprises continues delivering strong share-price gains.",
-      "publication_date": "Wed, 09 Sep 2026 10:53:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-shares-gain-over-4-as-airports-arm-plans-to-raise-1-billion-from-temasek-blackrock-others/articleshow/133954243.cms",
+      "title": "Global Market: China stocks inch up after August inflation data; Hang Seng remains flat",
+      "description": "China’s stock markets edged higher while Hong Kong equities remained subdued as August inflation data highlighted an uneven recovery. Rising commodity prices lifted headline inflation, but weak domestic demand, cautious sector performance and softer growth expectations continued to weigh on investor sentiment.",
+      "publication_date": "Wed, 09 Sep 2026 11:23:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-inch-up-after-august-inflation-data-hang-seng-remains-flat/articleshow/133955042.cms",
       "source": "rss"
     }
   ]
