@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T03:40:47.518941+00:00",
+  "generated_at": "2026-09-14T04:08:42.247854+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
