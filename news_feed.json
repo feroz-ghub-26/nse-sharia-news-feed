@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:37:39.183146+00:00",
+  "generated_at": "2026-09-16T05:06:41.537979+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Gold prices at Rs 1,300/10 gram, silver rallies Rs 4,000/kg. Key levels to track ahead of US Fed decision",
-      "description": "Gold and silver prices rose in domestic markets on Wednesday, with MCX gold futures gaining Rs 1,300 per 10 grams and silver climbing Rs 4,000 per kg. Precious metals remained in focus ahead of the US Federal Reserve’s policy decision, with markets pricing in a high probability of a rate hike. Here are key levels to track.",
-      "publication_date": "Wed, 16 Sep 2026 09:37:09 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-at-rs-1300/10-gram-silver-rallies-rs-4000/kg-key-levels-to-track-ahead-of-us-fed-decision/articleshow/134277724.cms",
+      "title": "Saatvik Green Energy shares surge 10% after Rs 1,041 crore SECI order",
+      "description": "Saatvik Green Energy shares surged 10% after the company secured a Rs 1,041.63 crore solar PV module supply order from SECI, with execution scheduled by December 2027. The order comes amid growing demand for solar modules and renewable energy capacity.",
+      "publication_date": "Wed, 16 Sep 2026 10:17:21 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/saatvik-green-energy-shares-surge-10-after-rs-1041-crore-seci-order/articleshow/134278265.cms",
       "source": "rss"
     }
   ]
