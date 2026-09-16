@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:18:35.386136+00:00",
+  "generated_at": "2026-09-16T01:43:12.447732+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Global Market Today: Asian stocks steady as traders await Fed decision",
-      "description": "MSCI’s Asian equities index advanced 0.1%. Contracts for Wall Street gauges also nudged up in early trading as OpenAI weighed a new funding round at a $1.2 trillion valuation. The S&P 500 and Nasdaq 100 slipped Tuesday, while a gauge of chipmakers eked out an increase.",
-      "publication_date": "Wed, 16 Sep 2026 06:31:45 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms",
+      "title": "Sebi proposes shorter disaster recovery drills for market infra",
+      "description": "Sebi proposes reducing mandatory disaster recovery drills for market infrastructure institutions. These drills will now require at least four hours on a non-working day. The regulator also plans to strengthen operational resilience through comprehensive stress testing. MIIs must regularly test fault tolerance and proactively monitor system limits. Public comments on these proposals are due by October 5.",
+      "publication_date": "Wed, 16 Sep 2026 06:41:37 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-shorter-disaster-recovery-drills-for-market-infra/articleshow/134275888.cms",
       "source": "rss"
     }
   ]
