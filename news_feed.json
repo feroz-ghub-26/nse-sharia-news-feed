@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:37:31.150089+00:00",
+  "generated_at": "2026-09-16T08:09:21.422794+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Global Market: Hong Kong unveils first five-year plan, targets bigger push into technology",
-      "description": "Hong Kong has unveiled its first Five-Year Plan through 2030, targeting higher innovation spending and greater investment in AI, robotics, microelectronics and advanced manufacturing. The strategy also focuses on the Northern Metropolis and deeper technology and economic integration with mainland China.",
-      "publication_date": "Wed, 16 Sep 2026 12:52:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hong-kong-unveils-first-five-year-plan-targets-bigger-push-into-technology/articleshow/134281079.cms",
+      "title": "GE Vernova, CG Power, other power capex stocks tumble up to 16% in 2 days amid global AI caution. What's ahead?",
+      "description": "Power capex stocks such as GE Vernova T&D India, CG Power, Hitachi Energy and TD Power Systems fell up to 16% over two sessions amid growing caution around AI development. The stocks had rallied sharply in 2026 on expectations of rising power demand from India’s data centre boom, making them vulnerable to sentiment shifts.",
+      "publication_date": "Wed, 16 Sep 2026 13:10:52 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-cg-power-other-power-capex-stocks-tumble-up-to-16-in-2-days-amid-global-ai-caution-whats-ahead/articleshow/134281372.cms",
       "source": "rss"
     }
   ]
