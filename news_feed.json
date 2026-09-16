@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:06:41.537979+00:00",
+  "generated_at": "2026-09-16T05:36:11.013245+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Saatvik Green Energy shares surge 10% after Rs 1,041 crore SECI order",
-      "description": "Saatvik Green Energy shares surged 10% after the company secured a Rs 1,041.63 crore solar PV module supply order from SECI, with execution scheduled by December 2027. The order comes amid growing demand for solar modules and renewable energy capacity.",
-      "publication_date": "Wed, 16 Sep 2026 10:17:21 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/saatvik-green-energy-shares-surge-10-after-rs-1041-crore-seci-order/articleshow/134278265.cms",
+      "title": "US Fed’s dual challenge: Will rising inflation and soaring bond yields force Warsh into first rate hike in 3 years?",
+      "description": "The US Federal Reserve is expected to raise interest rates by 25 basis points, with markets pricing in a high probability of a hike after inflation remained elevated and oil prices stayed above $100 a barrel. The move could push Treasury yields higher, pressure global equity valuations and weigh on foreign flows into emerging markets such as India.",
+      "publication_date": "Wed, 16 Sep 2026 10:47:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-dual-challenge-will-rising-inflation-and-soaring-bond-yields-force-warsh-into-first-rate-hike-in-3-years/articleshow/134278526.cms",
       "source": "rss"
     }
   ]
