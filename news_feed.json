@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:09:01.425444+00:00",
+  "generated_at": "2026-09-16T07:37:31.150089+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Nithin Kamath says new UPI charges on investing, broking don’t make sense: 'I don't see how we can absorb this indefinitely'",
-      "description": "Zerodha CEO Nithin Kamath said the new UPI MDR framework may not make economic sense for investing and broking, where customers can transfer funds without trading. He said brokers may struggle to absorb the costs indefinitely, particularly under quarterly settlement rules, and suggested a lower MDR with a transaction-level cap.",
-      "publication_date": "Wed, 16 Sep 2026 12:23:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-new-upi-charges-on-investing-broking-dont-make-sense-i-dont-see-how-we-can-absorb-this-indefinitely/articleshow/134280407.cms",
+      "title": "Global Market: Hong Kong unveils first five-year plan, targets bigger push into technology",
+      "description": "Hong Kong has unveiled its first Five-Year Plan through 2030, targeting higher innovation spending and greater investment in AI, robotics, microelectronics and advanced manufacturing. The strategy also focuses on the Northern Metropolis and deeper technology and economic integration with mainland China.",
+      "publication_date": "Wed, 16 Sep 2026 12:52:04 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hong-kong-unveils-first-five-year-plan-targets-bigger-push-into-technology/articleshow/134281079.cms",
       "source": "rss"
     }
   ]
