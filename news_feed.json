@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:36:10.862814+00:00",
+  "generated_at": "2026-09-16T14:07:07.849962+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "FED Meeting Live | Dow Jones Futures | US Stock Market Live: US stock futures rise ahead of Fed rate decision, retail sales data",
-      "description": "",
-      "publication_date": "Wed, 16 Sep 2026 17:48:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-hike-iran-war-inflation-brent-crude-oil-intel-conocophillips-chevron-ai-chip-energy-stock-price-news-16th-sep/liveblog/134287797.cms",
+      "title": "US stocks today: US stocks open higher ahead of much-anticipated Fed rate decision",
+      "description": "US stocks open higher on Wednesday after a two-day slide, helped by easing oil prices as investors await the Federal Reserve’s interest-rate decision. The Dow, S&P 500 and Nasdaq gain at the open, with markets closely watching the Fed’s policy signal for clues on the direction of borrowing costs.",
+      "publication_date": "Wed, 16 Sep 2026 19:09:46 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-ahead-of-much-anticipated-fed-decision/articleshow/134289410.cms",
       "source": "rss"
     }
   ]
