@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:09:21.422794+00:00",
+  "generated_at": "2026-09-16T08:41:13.247087+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "GE Vernova, CG Power, other power capex stocks tumble up to 16% in 2 days amid global AI caution. What's ahead?",
-      "description": "Power capex stocks such as GE Vernova T&D India, CG Power, Hitachi Energy and TD Power Systems fell up to 16% over two sessions amid growing caution around AI development. The stocks had rallied sharply in 2026 on expectations of rising power demand from India’s data centre boom, making them vulnerable to sentiment shifts.",
-      "publication_date": "Wed, 16 Sep 2026 13:10:52 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-cg-power-other-power-capex-stocks-tumble-up-to-16-in-2-days-amid-global-ai-caution-whats-ahead/articleshow/134281372.cms",
+      "title": "How much of the current market movement is linked to the CLARITY Act vote?",
+      "description": "Crypto markets weakened after the US Senate failed to advance the CLARITY Act, but the selloff came amid a broader risk-off environment. Bitcoin fell around 3-4%, while crypto-linked equities saw sharper declines. The regulatory setback added pressure, but elevated bond yields, oil prices and macroeconomic uncertainty also weighed on sentiment.",
+      "publication_date": "Wed, 16 Sep 2026 13:49:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/how-much-of-the-current-market-movement-is-linked-to-the-clarity-act-vote/articleshow/134282320.cms",
       "source": "rss"
     }
   ]
