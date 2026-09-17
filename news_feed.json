@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:38:16.806854+00:00",
+  "generated_at": "2026-09-17T08:09:42.029800+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -29,8 +29,8 @@
     },
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
