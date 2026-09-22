@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T20:34:56.788928+00:00",
+  "generated_at": "2026-09-22T21:05:36.744066+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -1433,11 +1433,11 @@
       "source": "rss"
     },
     {
-      "title": "Trump says 'hopefully we are towards end' of Iran war - Reuters",
-      "description": "Trump says 'hopefully we are towards end' of Iran war &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 16 Sep 2026 23:54:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVZBS2JnVTZ6bnkwemhVOGRlX2puQkR2RHNnZnpLaHRzcHMxNktCNGwtNkU2ZTJaTzRMSFZzYXRzeHVnanUtaTNIdjVZTm5wVjd5bm9iMHNndXFwRzFOSmh3QWI0T3lqU3MwVE9UenMwNWZWYURMWm1ZOHNDTzVBVmlZVjBHT0F6cEJoRE5BYTVqRVFnM3N3cjZZU3RKWFJSeGZLVUhUVkVQZW9tb0FhRThfSEpmcVZM?oc=5",
-      "source": "Reuters"
+      "title": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq’s record close",
+      "description": "The Dow and S&P 500 declined sharply as oil prices rallied near the $100 mark, causing apprehension among investors. However, the Nasdaq soared to a historic high, fueled by the performance of Micron Technology and companies in the AI sector.",
+      "publication_date": "Wed, 23 Sep 2026 01:51:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-sp-500-slip-as-oil-hovers-near-100-despite-nasdaqs-record-close/articleshow/134420046.cms",
+      "source": "rss"
     }
   ]
 }
