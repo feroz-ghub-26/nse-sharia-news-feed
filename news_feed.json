@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:07:30.454985+00:00",
+  "generated_at": "2026-09-23T09:36:58.736326+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "US Market | Fed has sufficient reserves, strong rate control framework: Perli",
-      "description": "New York Fed official Roberto Perli said the Federal Reserve has maintained effective control over short-term interest rates and sufficient reserves. He said Treasury bill purchases remain flexible and could resume if liquidity conditions require support, while reserve forecasts remain reliable. The comments highlight the Fed’s focus on policy implementation and market functioning.",
-      "publication_date": "Wed, 23 Sep 2026 14:08:57 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-fed-has-sufficient-reserves-strong-rate-control-framework-perli/articleshow/134429868.cms",
+      "title": "Snapdeal IPO: GMP, price band among 10 things to know about AceVector public offer",
+      "description": "AceVector, the parent company of Snapdeal, will launch its IPO on September 25 with a price band of Rs 30–32 per share. The issue comprises a fresh issue of Rs 287 crore and an OFS of up to 4.16 crore shares. The IPO will close on September 29, with the anchor book opening on September 24.",
+      "publication_date": "Wed, 23 Sep 2026 14:54:33 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/snapdeal-ipo-gmp-price-band-among-10-things-to-know-about-acevector-public-offer/articleshow/134430825.cms",
       "source": "rss"
     }
   ]
