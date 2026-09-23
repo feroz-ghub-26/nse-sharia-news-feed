@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:07:56.486114+00:00",
+  "generated_at": "2026-09-23T04:38:12.576031+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 1
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "NSE IPO shares to list tomorrow: GMP signals 2% listing gain ahead of market debut",
-      "description": "National Stock Exchange of India (NSE) IPO shares will list on BSE tomorrow, September 24, 2026. Ahead of the debut, grey market premium signals a modest 2.4% listing gain over the upper price band of Rs 1,785. The Rs 22,562 crore offer for sale was subscribed 5.71 times overall.",
-      "publication_date": "Wed, 23 Sep 2026 09:25:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-shares-to-list-tomorrow-gmp-signals-2-listing-gain-ahead-of-market-debut/articleshow/134425287.cms",
+      "title": "Global Market: Fed's Jefferson says lending facility improvements support market liquidity",
+      "description": "Federal Reserve Vice Chair Philip Jefferson said recent improvements to the discount window have made emergency borrowing easier, faster and more efficient for banks. Enhanced access to liquidity can support financial stability, prevent forced asset sales during market stress and improve monetary policy implementation. Jefferson noted that 60% of loans now use the self-service portal.",
+      "publication_date": "Wed, 23 Sep 2026 09:57:27 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-feds-jefferson-says-lending-facility-improvements-support-market-liquidity/articleshow/134425698.cms",
       "source": "rss"
     }
   ]
