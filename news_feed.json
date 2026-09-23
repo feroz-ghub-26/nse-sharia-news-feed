@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:18:25.710644+00:00",
+  "generated_at": "2026-09-23T01:42:23.787877+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "CD rates move in opposite directions amid liquidity surge",
-      "description": "Within the Indian financial landscape, the contrast between short- and long-term certificate of deposit rates is becoming increasingly evident. Short-term rates are experiencing a decline thanks to heightened liquidity from foreign currency inflows. Conversely, long-term rates are climbing, fueled by expectations surrounding future interest hikes. Financial experts warn that borrowers could face higher costs as both inflation and global interest rates continue to rise.",
-      "publication_date": "Wed, 23 Sep 2026 06:29:24 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/cd-rates-move-in-opposite-directions-amid-liquidity-surge/articleshow/134423479.cms",
+      "title": "Elevate Campuses raises Rs 945 crore from anchor investors",
+      "description": "Mumbai's Elevate Campuses has completed a remarkable ₹945 crore fundraising round, attracting an array of anchor investors, including the prominent State Bank of India Mutual Fund. The initiative drew participation from 20 firms globally, with significant contributors like Norges from Norway. The full subscription of the anchor investors' segment showcases an increasing enthusiasm for the education sector among financial entities.",
+      "publication_date": "Wed, 23 Sep 2026 06:47:02 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/elevate-campuses-raises-rs-945-crore-from-anchor-investors/articleshow/134423696.cms",
       "source": "rss"
     }
   ]
