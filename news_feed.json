@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:36:24.395367+00:00",
+  "generated_at": "2026-09-23T06:11:24.560116+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Stocks to buy: Jefferies remains bullish on these 4 capital market stocks, sees up to 36% upside",
-      "description": "Jefferies has presented an optimistic 'buy' recommendation for four capital market stocks, projecting considerable upside potential. They foresee Computer Age Management Services with a possible 36% profit, while KFin Technologies and Groww enjoy a similar bullish perspective. Moreover, the Multi Commodity Exchange of India has demonstrated impressive historical returns. Investors should consider these insights before making financial commitments.",
-      "publication_date": "Wed, 23 Sep 2026 10:31:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jefferies-remains-bullish-on-these-4-capital-market-stocks-sees-up-to-36-upside/slideshow/134426298.cms",
+      "title": "Stock Rally: Why Innodata shares jumped 14.6% in one session",
+      "description": "Innodata shares surged 14.6% after a report linked the company to Meta’s Muse AI assistant, though the connection remains unconfirmed. Strong revenue growth, AI demand, leadership changes and valuation concerns are shaping investor interest in the stock.",
+      "publication_date": "Wed, 23 Sep 2026 11:14:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/stock-rally-why-innodata-shares-jumped-14-6-in-one-session/slideshow/134427013.cms",
       "source": "rss"
     }
   ]
