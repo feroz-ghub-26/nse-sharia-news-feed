@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:09:35.776129+00:00",
+  "generated_at": "2026-09-23T02:41:01.372431+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Positive Breakout: These 5 stocks cross above their 200 DMAs",
-      "description": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
-      "publication_date": "Wed, 23 Sep 2026 07:31:50 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-cross-above-their-200-dmas/slideshow/134424087.cms",
+      "title": "ArMee Infotech IPO opens today: Check GMP, price band, issue details. Should you subscribe?",
+      "description": "The Rs 300-crore public issue will remain open for investors until September 25. The allotment is expected to be finalised on September 28, while the company's shares are tentatively scheduled to list on the National Stock Exchange (NSE) and BSE on September 30.",
+      "publication_date": "Wed, 23 Sep 2026 08:05:35 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/armee-infotech-ipo-opens-today-check-gmp-price-band-issue-details-should-you-subscribe/articleshow/134424262.cms",
       "source": "rss"
     }
   ]
