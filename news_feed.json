@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:37:49.330839+00:00",
+  "generated_at": "2026-09-23T17:06:21.942358+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "description": "Indian equities closed higher on Wednesday, with Sensex gaining 299 points and Nifty rising 118 points as crude prices eased below $99. Broader markets outperformed, while metals and banking stocks led gains amid stronger domestic growth signals and positive market breadth.",
-      "publication_date": "Wed, 23 Sep 2026 21:31:34 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134442041.cms",
+      "title": "Fed Governor Michael Barr signals more rate hikes needed to tame inflation",
+      "description": "Federal Reserve Governor Michael Barr announced that additional rate hikes may be necessary to manage inflation. He indicated that while economic growth is strong, inflation remains above the target of 2%. The central bank recently raised the policy rate to a range of 3.75%-4.00%. Barr's perspective contrasts with the Fed Chairman, who has not provided guidance on future rates.",
+      "publication_date": "Wed, 23 Sep 2026 22:14:32 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-governor-michael-barr-signals-more-rate-hikes-needed-to-tame-inflation/articleshow/134442493.cms",
       "source": "rss"
     }
   ]
