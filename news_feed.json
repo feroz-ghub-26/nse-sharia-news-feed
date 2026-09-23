@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:40:40.853301+00:00",
+  "generated_at": "2026-09-23T09:07:30.454985+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Stocks to buy: Jefferies lists 11 NBFC picks with up to 48% upside potential. Do you own any?",
-      "description": "Jefferies has ‘Buy’ calls on 11 NBFCs, with target prices implying up to 48% upside. The brokerage expects healthy disbursement growth and resilient asset quality, while tracking funding costs and near-term NIM trends.",
-      "publication_date": "Wed, 23 Sep 2026 13:35:47 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jefferies-lists-11-nbfc-picks-with-up-to-48-upside-potential-do-you-own-any/slideshow/134429716.cms",
+      "title": "US Market | Fed has sufficient reserves, strong rate control framework: Perli",
+      "description": "New York Fed official Roberto Perli said the Federal Reserve has maintained effective control over short-term interest rates and sufficient reserves. He said Treasury bill purchases remain flexible and could resume if liquidity conditions require support, while reserve forecasts remain reliable. The comments highlight the Fed’s focus on policy implementation and market functioning.",
+      "publication_date": "Wed, 23 Sep 2026 14:08:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-fed-has-sufficient-reserves-strong-rate-control-framework-perli/articleshow/134429868.cms",
       "source": "rss"
     }
   ]
