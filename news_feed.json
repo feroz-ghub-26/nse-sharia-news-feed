@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:41:01.372431+00:00",
+  "generated_at": "2026-09-23T03:08:12.565080+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "ArMee Infotech IPO opens today: Check GMP, price band, issue details. Should you subscribe?",
-      "description": "The Rs 300-crore public issue will remain open for investors until September 25. The allotment is expected to be finalised on September 28, while the company's shares are tentatively scheduled to list on the National Stock Exchange (NSE) and BSE on September 30.",
-      "publication_date": "Wed, 23 Sep 2026 08:05:35 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/armee-infotech-ipo-opens-today-check-gmp-price-band-issue-details-should-you-subscribe/articleshow/134424262.cms",
+      "title": "Adroit Industries IPO opens today; GMP signals 25% listing gains — Check key details",
+      "description": "Adroit Industries IPO is a book-built issue worth Rs 150.71 crore. The public issue comprises a fresh issue of 98.97 lakh shares aggregating to Rs 132.62 crore and an offer for sale (OFS) of 13.50 lakh shares worth Rs 18.09 crore.",
+      "publication_date": "Wed, 23 Sep 2026 08:11:43 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/adroit-industries-ipo-opens-today-gmp-signals-25-listing-gains-check-key-details/articleshow/134424393.cms",
       "source": "rss"
     }
   ]
