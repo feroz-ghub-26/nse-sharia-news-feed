@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:42:23.787877+00:00",
+  "generated_at": "2026-09-23T02:09:35.776129+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Elevate Campuses raises Rs 945 crore from anchor investors",
-      "description": "Mumbai's Elevate Campuses has completed a remarkable ₹945 crore fundraising round, attracting an array of anchor investors, including the prominent State Bank of India Mutual Fund. The initiative drew participation from 20 firms globally, with significant contributors like Norges from Norway. The full subscription of the anchor investors' segment showcases an increasing enthusiasm for the education sector among financial entities.",
-      "publication_date": "Wed, 23 Sep 2026 06:47:02 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/elevate-campuses-raises-rs-945-crore-from-anchor-investors/articleshow/134423696.cms",
+      "title": "Positive Breakout: These 5 stocks cross above their 200 DMAs",
+      "description": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
+      "publication_date": "Wed, 23 Sep 2026 07:31:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-cross-above-their-200-dmas/slideshow/134424087.cms",
       "source": "rss"
     }
   ]
