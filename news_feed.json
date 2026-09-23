@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:06:33.673559+00:00",
+  "generated_at": "2026-09-23T05:36:24.395367+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "Global Market: Fed's Jefferson says lending facility improvements support market liquidity",
-      "description": "Federal Reserve Vice Chair Philip Jefferson said recent improvements to the discount window have made emergency borrowing easier, faster and more efficient for banks. Enhanced access to liquidity can support financial stability, prevent forced asset sales during market stress and improve monetary policy implementation. Jefferson noted that 60% of loans now use the self-service portal.",
-      "publication_date": "Wed, 23 Sep 2026 09:57:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-feds-jefferson-says-lending-facility-improvements-support-market-liquidity/articleshow/134425698.cms",
+      "title": "Stocks to buy: Jefferies remains bullish on these 4 capital market stocks, sees up to 36% upside",
+      "description": "Jefferies has presented an optimistic 'buy' recommendation for four capital market stocks, projecting considerable upside potential. They foresee Computer Age Management Services with a possible 36% profit, while KFin Technologies and Groww enjoy a similar bullish perspective. Moreover, the Multi Commodity Exchange of India has demonstrated impressive historical returns. Investors should consider these insights before making financial commitments.",
+      "publication_date": "Wed, 23 Sep 2026 10:31:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jefferies-remains-bullish-on-these-4-capital-market-stocks-sees-up-to-36-upside/slideshow/134426298.cms",
       "source": "rss"
     }
   ]
