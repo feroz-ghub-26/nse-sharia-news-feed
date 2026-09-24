@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T01:44:41.646284+00:00",
+  "generated_at": "2026-09-24T02:10:09.032723+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,10 +1433,10 @@
       "source": "rss"
     },
     {
-      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-      "description": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-      "publication_date": "Wed, 23 Sep 2026 23:59:39 GMT",
-      "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "title": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
+      "description": "Runaway treasury yields and the bond market selloff create sizable tax-loss harvesting trades for investors to offset big gains from stocks.",
+      "publication_date": "Wed, 23 Sep 2026 23:47:41 GMT",
+      "link": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
       "source": "rss"
     }
   ]
