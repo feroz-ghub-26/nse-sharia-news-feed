@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:07:27.920309+00:00",
+  "generated_at": "2026-09-29T20:37:57.359695+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "US stocks: US market ends slightly lower as bond yields hold near multi-decade highs",
+      "description": "US stocks closed slightly lower as consumer confidence fell to a significant low not seen in over 12 years. Rising government bond yields have affected investor sentiments before upcoming economic data releases. Reports indicated a decline in job openings and a pessimistic outlook from households regarding the economy. Multiple Federal Reserve officials expressed differing views on the need for future interest rate hikes.",
+      "publication_date": "Wed, 30 Sep 2026 01:42:07 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-us-market-ends-slightly-lower-as-bond-yields-hold-near-multi-decade-highs/articleshow/134573718.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
+      "description": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
+      "publication_date": "Wed, 30 Sep 2026 01:17:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms",
+      "source": "rss"
+    },
     {
       "title": "Goldman Sachs, BNP Paribas divest over 68 lakh BSE shares worth Rs 2,186 crore ahead of Nifty 50 inclusion",
       "description": "Goldman Sachs and BNP Paribas divested 68.33 lakh shares of BSE through bulk deals on the NSE. The combined sale amounted to approximately Rs 2,186.44 crore and occurred before BSE's entry into the Nifty 50 index. UTI Mutual Fund and Nippon India Mutual Fund purchased a total of 52.43 lakh shares of BSE. BSE shares ended 3.31% higher at Rs 3,200, reflecting significant market interest.",
@@ -1423,20 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:10:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-updates-26-aug-2026/liveblog/133527839.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Grasim Inds Share Price Live Updates: Grasim Industries delivers robust monthly returns",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:10:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-26-aug-2026/liveblog/133527836.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Britannia Share Price Live Updates: Britannia Stock Details",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:10:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-26-aug-2026/liveblog/133527835.cms",
       "source": "rss"
     }
   ]
