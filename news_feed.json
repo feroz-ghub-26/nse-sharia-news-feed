@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:08:08.875108+00:00",
+  "generated_at": "2026-09-30T15:38:55.763707+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -40,6 +40,27 @@
   ],
   "articles": [
     {
+      "title": "Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore",
+      "description": "Avalon Technologies saw three of its promoter entities divest a collective 6% stake for a substantial Rs 871 crore via bulk deals, bringing their ownership down from 44.39% to 38.4%. In this strategic move, Kotak Mahindra Mutual Fund bought 24.01 lakh shares priced around Rs 2,171. The deal was struck with share prices fluctuating between Rs 2,171.03 and Rs 2,173.35, while Avalon Technologies closed slightly lower at Rs 2,294.",
+      "publication_date": "Wed, 30 Sep 2026 20:55:08 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/promoters-dilute-6-stake-in-avalon-technologies-for-rs-871-crore/articleshow/134597842.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US dollar retreats after softer-than-expected inflation data",
+      "description": "The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased by merely 0.3% last month, contrary to economists' forecasts of 0.4%. This shift affected market predictions about Federal Reserve interest rate adjustments, resulting in lower US Treasury yields.",
+      "publication_date": "Wed, 30 Sep 2026 20:52:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US yields pull back as rate hike bets ease after inflation data",
+      "description": "Traders took stock on Wednesday, moderating their forecasts for Federal Reserve rate hikes after the latest inflation figures. Reports showed inflation's increase for August fell short of economists' predictions. As a result, futures contracts adjusted to reflect a less than even chance of a rate hike in October. However, there remains strong anticipation for a rate increase by December, showcasing the market's response to shifting economic trends.",
+      "publication_date": "Wed, 30 Sep 2026 20:50:52 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
+      "source": "rss"
+    },
+    {
       "title": "Geojit Financial Services reshuffles top deck; Jones George to take over as MD",
       "description": "Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of the company’s succession plan and technology-led growth strategy.",
       "publication_date": "Wed, 30 Sep 2026 19:46:34 +0530",
@@ -47,8 +68,8 @@
       "source": "rss"
     },
     {
-      "title": "US stocks: US market opens higher as soft inflation data eases rate-hike fears",
-      "description": "On Wednesday, major indexes on Wall Street experienced a positive start, buoyed by favorable investor sentiment following a recent inflation report. The Dow Jones Industrial Average increased by 74.9 points, reaching a starting value of 51,424.84. Additionally, both the S&P 500 and Nasdaq Composite reflected the market's optimism about future economic stability.",
+      "title": "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
+      "description": "U.S. stocks surged higher as inflation reports came in softer than analysts predicted, easing worries about potential interest rate hikes. The Commerce Department revealed a 3.4% increase in the Personal Consumption Expenditures price index year-over-year. Major players like Apple and Alphabet enjoyed price rises, contributing to a notable boost in the Nasdaq Composite.",
       "publication_date": "Wed, 30 Sep 2026 19:25:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms",
       "source": "rss"
@@ -180,10 +201,73 @@
       "source": "rss"
     },
     {
+      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+      "description": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
+      "publication_date": "Wed, 30 Sep 2026 15:36:20 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+      "source": "rss"
+    },
+    {
+      "title": "Trump's latest global tariffs face trade court challenge",
+      "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
+      "publication_date": "Wed, 30 Sep 2026 15:32:18 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "source": "rss"
+    },
+    {
+      "title": "Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says - Reuters",
+      "description": "Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 15:30:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+      "publication_date": "Wed, 30 Sep 2026 15:28:57 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "rss"
+    },
+    {
       "title": "Global Market: Eurozone bond yields ease from highs as rate-hike bets cool",
       "description": "Eurozone bond yields eased Wednesday from multi-year highs as investors tempered expectations for further rate hikes. Germany’s 10-year yield fell to 3.57%, while French and Italian borrowing costs also declined but remained sharply higher for September. Falling energy prices and cautious central-bank signals offered relief, ahead of key inflation data.",
       "publication_date": "Wed, 30 Sep 2026 15:25:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-ease-from-highs-as-rate-hike-bets-cool/articleshow/134590223.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
+      "description": "The Senate will vote on bills that would ban members from trading stocks while in office, and to address data center-related utility costs, amid Democratic opposition.",
+      "publication_date": "Wed, 30 Sep 2026 15:19:39 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+      "source": "rss"
+    },
+    {
+      "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+      "description": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
+      "publication_date": "Wed, 30 Sep 2026 15:19:01 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+      "source": "rss"
+    },
+    {
+      "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+      "description": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
+      "publication_date": "Wed, 30 Sep 2026 15:16:17 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
+      "source": "rss"
+    },
+    {
+      "title": "Record AI spend is changing the market hunt for 'cash cows' and 'quality' stock investments",
+      "description": "With AI spending consuming the cash of the market's richest companies, balance sheet metrics led by free cash flow are getting more investing attention.",
+      "publication_date": "Wed, 30 Sep 2026 15:15:14 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
+      "source": "rss"
+    },
+    {
+      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+      "publication_date": "Wed, 30 Sep 2026 15:14:57 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
       "source": "rss"
     },
     {
@@ -215,13 +299,6 @@
       "source": "rss"
     },
     {
-      "title": "Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says - Reuters",
-      "description": "Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 14:46:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
       "description": "Private job creation picked up in September after a brief slowdown.",
       "publication_date": "Wed, 30 Sep 2026 14:42:04 GMT",
@@ -240,13 +317,6 @@
       "description": "Some well-meaning career advice from parents is \"totally useless\" for new grads today, according to journalist Jodi Kantor.",
       "publication_date": "Wed, 30 Sep 2026 14:40:45 GMT",
       "link": "https://www.cnbc.com/2026/09/30/parents-avoid-meddling-adult-kids-job-search.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
-      "publication_date": "Wed, 30 Sep 2026 14:37:01 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
       "source": "rss"
     },
     {
@@ -299,20 +369,6 @@
       "source": "rss"
     },
     {
-      "title": "Trump's latest global tariffs face trade court challenge",
-      "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
-      "publication_date": "Wed, 30 Sep 2026 14:04:46 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-      "source": "rss"
-    },
-    {
-      "title": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly - Reuters",
-      "description": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 14:02:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXVTeWJ2RkotMXlVWjlUYkJ1WEpwT0N3dXJlTEJCLURlR1FVbl9Kdzd1MWxtR0lPLWpqM1BTUmFmYTFNRlljajZfZ0dpVERyVEE2aVQwNWluT0p1S01iSWxfaDF2TVJLUk5ZYlcxZmtFZi1MazBlMmpianRCN3MyWkx4eW1hWUtQay0zMzNkaXFsdWVXdkJOSGtHZUhHelZ1cmNEREFHeHNCc3A1N1BBcldpb2dheHJDNjR3bTIzZDJiSDNZQ2JR?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Re-rating on cards for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
       "description": "Tejas Mk1A accounts for 43% of HAL’s order book and could emerge as a key re-rating trigger as deliveries gain visibility, Jefferies said. HAL CMD Ravi Kota expects to deliver 10 aircraft this year, ahead of Jefferies’ earlier estimate of five. The brokerage retained its Buy rating with a Rs 6,800 target.",
       "publication_date": "Wed, 30 Sep 2026 14:01:05 +0530",
@@ -320,24 +376,10 @@
       "source": "rss"
     },
     {
-      "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-      "description": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
-      "publication_date": "Wed, 30 Sep 2026 13:59:10 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-      "source": "rss"
-    },
-    {
       "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
       "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
       "publication_date": "Wed, 30 Sep 2026 13:56:14 GMT",
       "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-      "source": "rss"
-    },
-    {
-      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-      "description": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
-      "publication_date": "Wed, 30 Sep 2026 13:54:06 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
       "source": "rss"
     },
     {
@@ -353,6 +395,13 @@
       "publication_date": "Wed, 30 Sep 2026 13:50:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-from-energy-shock-and-political-risks/articleshow/134587000.cms",
       "source": "rss"
+    },
+    {
+      "title": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters",
+      "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 13:43:41 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "We're scooping up shares of 2 stocks that fell victim to a September swoon",
@@ -425,6 +474,13 @@
       "source": "rss"
     },
     {
+      "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll - Reuters",
+      "description": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 13:05:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1lVNHRnWlpZc2Q4anY4a2dCTndQN3JKSWdTSkVkRGNfdWxra2xlVDAtUGJqOGVBUURGZjh0YUxaSzNpZktWTkFoSG1EUV84SkI5WF9nWVRZXzRNd3pxZWZJOFIwNU5veE9naWlaMGhMV3Vjclc3c3Uzc1pxXzhCaTl4OTktdzVONHlNMTBpYTBBUVRrT3VMeWdyUW1UWUtycWlWa1BtUjdWNjdiV0cxdQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Oil gains as stalled US-Iran talks trump supply recovery - Reuters",
       "description": "Oil gains as stalled US-Iran talks trump supply recovery &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:01:46 GMT",
@@ -467,24 +523,10 @@
       "source": "rss"
     },
     {
-      "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption - Reuters",
-      "description": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 12:24:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1lVNHRnWlpZc2Q4anY4a2dCTndQN3JKSWdTSkVkRGNfdWxra2xlVDAtUGJqOGVBUURGZjh0YUxaSzNpZktWTkFoSG1EUV84SkI5WF9nWVRZXzRNd3pxZWZJOFIwNU5veE9naWlaMGhMV3Vjclc3c3Uzc1pxXzhCaTl4OTktdzVONHlNMTBpYTBBUVRrT3VMeWdyUW1UWUtycWlWa1BtUjdWNjdiV0cxdQ?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "More Americans are tapping investments to pay for spending, analysis finds",
       "description": "Across all age and income groups examined in new research, the share of individuals transferring money from investment accounts to checking accounts has risen.",
       "publication_date": "Wed, 30 Sep 2026 12:15:02 GMT",
       "link": "https://www.cnbc.com/2026/09/30/more-americans-tap-investment-accounts-to-fund-spending-analysis.html",
-      "source": "rss"
-    },
-    {
-      "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
-      "description": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
-      "publication_date": "Wed, 30 Sep 2026 12:07:08 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
       "source": "rss"
     },
     {
@@ -1384,13 +1426,6 @@
       "source": "rss"
     },
     {
-      "title": "Canada energy regulator approves Trans Mountain tolls settlement - Reuters",
-      "description": "Canada energy regulator approves Trans Mountain tolls settlement &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 03:30:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDk1RkxKUDFJcTRlU1NlcHpNWUtXTmR1MnhkMktiVHZjQ2ZUeHlvd1B1eGJseDZnRmwwTnZNMmhMRmJsZW1rTTB4b2tOb0xZQmhQNGVjNXZsYmMyTTE3T0xFRXdmZnZXZ1lpb3JlSmVSdTFjLTlTU2VwT3hFM0JuRnF4S09HdHg2V1hCbUhDZlBaczIxYUJkaGtqMjctdi16dEFUeGY3SnRod0EyVHZpUDZqNUpkUFE?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen - Reuters",
       "description": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 03:06:00 GMT",
@@ -1398,45 +1433,10 @@
       "source": "Reuters"
     },
     {
-      "title": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters",
-      "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 03:01:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Australia inflation stubbornly high in August, defying run of rate hikes - Reuters",
       "description": "Australia inflation stubbornly high in August, defying run of rate hikes &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 02:53:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXp6YWdmekl3NGxvNjlMbEdZN1IzR2M3elhud0Q1Ui1nTXFSN0g0UkJNSWhRM1o0dXlSbXZzNkxVSXRsRVZhb2VqN0hTQVZqeFJxeUJ6RUYzdWU2dHJmWUtxNU5LZ05WVXJQN0FQWEtRTGF0MERBTld1SVFmQ3BmRHpFYzlBLXIxeGFLMkRXZTVqaUU4VU9ZSk50OEhnSVNDdmRwSmR6Y0RUNk80LTFZZGU0dDRBRTBVQjZRYg?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq - Reuters",
-      "description": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 02:48:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
-      "description": "BlueFive Capital CEO Hazem Ben-Gacem talks about his preferred investment areas and strategies.",
-      "publication_date": "Wed, 30 Sep 2026 02:37:21 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
-      "source": "rss"
-    },
-    {
-      "title": "Jobs in line as IRDAI commission caps force insurance brokers to rethink models",
-      "description": "Facing new commission regulations from the IRDAI, insurance brokers, including Quickinsure, are tweaking their business approaches. This pivot might cause a staggering loss of over 100,000 jobs as the industry reduces reliance on fixed sales teams. Brokers are expected to embrace more flexible cost structures and optimize sales output. Unfortunately, smaller brokers lack the established client base needed to weather these changes, risking their operational sustainability.",
-      "publication_date": "Wed, 30 Sep 2026 01:58:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jobs-in-line-as-irdai-commission-caps-force-insurance-brokers-to-rethink-models/articleshow/134576768.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US, Iran separately talk with mediators in latest bid to end war - Reuters",
-      "description": "US, Iran separately talk with mediators in latest bid to end war &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 01:45:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg?oc=5",
       "source": "Reuters"
     }
   ]
