@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:19:33.625305+00:00",
+  "generated_at": "2026-09-30T01:14:28.837737+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,69 @@
     }
   ],
   "articles": [
+    {
+      "title": "New orders could put KPIT Tech on the road to recovery",
+      "description": "KPIT Technologies faces a substantial 24% decline in stock value, predominantly due to obstacles in the automotive sector. The company's net profit has notably decreased, attributed to project delays and financial cutbacks. Although management forecasts a rebound in the latter half of the year, the September quarter might reflect ongoing weaknesses.",
+      "publication_date": "Wed, 30 Sep 2026 06:17:09 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market Today: Asian stocks rise as tech stocks lead, bonds in focus",
+      "description": "The MSCI Asia Pacific Index climbed 0.6% with stocks in Japan and South Korea gaining. The moves came after gains for a key gauge of US semiconductor shares, while President Donald Trump rejected regulations on artificial intelligence.",
+      "publication_date": "Wed, 30 Sep 2026 06:14:48 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/articleshow/134576850.cms",
+      "source": "rss"
+    },
+    {
+      "title": "SP Group to raise $125 million via tap issue, Rs 3,250 crore in rupee bonds",
+      "description": "In a significant financial move, Shapoorji Pallonji Group plans to generate $125 million through a tap issue of current dollar bonds, targeting an impressive ₹3,250 crore via unrated rupee-denominated bonds for refinancing purposes. This capital-raising endeavor is likely to finalize by Thursday, with payments assigned for October 1. The influx of interest has led to oversubscription in recent bond offerings, with yield rates ranging from 14% to 18.95%.",
+      "publication_date": "Wed, 30 Sep 2026 06:09:21 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
+      "description": "Indian equity benchmarks faced a decline as both the Nifty 50 and BSE Sensex hit six-month lows. The Nifty 50 saw a drop of 64.05 points, or 0.28%, closing at 22,716.20. Notably, Tata Steel announced a favorable tax order and made significant investments in its subsidiary. Other companies including Poonawalla Fincorp and Cummins India reported various corporate developments affecting their market positions.",
+      "publication_date": "Wed, 30 Sep 2026 06:00:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Nifty fell significantly, closing at 22,716 after hitting a six-month low during the trading session. Foreign investors continued selling shares, contributing to market volatility, while domestic institutions showed buying interest. The rupee settled marginally higher due to RBI interventions and falling oil prices. Immediate support levels are identified around 22550-22500, with resistance expected at 22800-22900. Market sentiment remains cautious amid ongoing global economic concerns and local selling pressure.",
+      "publication_date": "Wed, 30 Sep 2026 06:00:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134571298.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Bond supply may outweigh demand, push yields higher",
+      "description": "Bond yields in India are anticipated to increase in the latter half of this fiscal year. This rise is primarily due to higher government borrowing and ongoing inflationary pressures. Analysts expect demand for government securities to fall significantly short of supply. The trajectory of bond yields will also be heavily influenced by oil prices, particularly if crude stays high.",
+      "publication_date": "Wed, 30 Sep 2026 05:42:16 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/bond-supply-may-outweigh-demand-push-yields-higher/articleshow/134576512.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Investment banks earn Rs 2,274 crore from 81 mainboard IPOs in 2026",
+      "description": "During the initial nine months of 2026, investment banks generated fees totaling ₹2,274 crore by managing 81 mainboard IPOs. This figure showcases a notable uptick in both earnings and amounts raised versus last year. The September quarter alone yielded around ₹1,600 crore, highlighting a remarkable rebound in the primary market.",
+      "publication_date": "Wed, 30 Sep 2026 05:40:23 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investment-banks-earn-rs-2274-crore-from-81-mainboard-ipos/articleshow/134576533.cms",
+      "source": "rss"
+    },
+    {
+      "title": "202 BSE 500 stocks trade below five-year average valuations",
+      "description": "An analysis indicates that more than 50% of companies within the BSE 500 are trading below their five-year average valuations. Furthermore, close to two-thirds of these organizations have not provided any returns in the past two years. Geopolitical tensions have resulted in marked volatility in energy prices, impacting logistics and commodity costs on a global scale.",
+      "publication_date": "Wed, 30 Sep 2026 05:38:14 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/202-bse-500-stocks-trade-below-five-year-average-valuations/articleshow/134576586.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Jobs in line as IRDAI commission caps force insurance brokers to rethink models",
+      "description": "Facing new commission regulations from the IRDAI, insurance brokers, including Quickinsure, are tweaking their business approaches. This pivot might cause a staggering loss of over 100,000 jobs as the industry reduces reliance on fixed sales teams. Brokers are expected to embrace more flexible cost structures and optimize sales output. Unfortunately, smaller brokers lack the established client base needed to weather these changes, risking their operational sustainability.",
+      "publication_date": "Wed, 30 Sep 2026 01:58:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jobs-in-line-as-irdai-commission-caps-force-insurance-brokers-to-rethink-models/articleshow/134576768.cms",
+      "source": "rss"
+    },
     {
       "title": "US stocks: US market ends slightly lower as bond yields hold near multi-decade highs",
       "description": "US stocks closed slightly lower as consumer confidence fell to a significant low not seen in over 12 years. Rising government bond yields have affected investor sentiments before upcoming economic data releases. Reports indicated a decline in job openings and a pessimistic outlook from households regarding the economy. Multiple Federal Reserve officials expressed differing views on the need for future interest rate hikes.",
@@ -1374,69 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:17:48 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-live-updates-26-aug-2026/liveblog/133527928.cms",
-      "source": "rss"
-    },
-    {
-      "title": "TCS Share Price Live Updates: TCS Current Price Update",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:17:30 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133527925.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp dips below its 20-day Exponential Moving Average",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:16:50 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-today-live-26-aug-2026/liveblog/133527912.cms",
-      "source": "rss"
-    },
-    {
-      "title": "ITC Share Price Live Updates: ITC Stock Details",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:16:48 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-26-aug-2026/liveblog/133527911.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Stock Details",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:16:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-livestock-price-today-live-updates-26-aug-2026/liveblog/133527906.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital Stock Details",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:16:32 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-26-aug-2026/liveblog/133527904.cms",
-      "source": "rss"
-    },
-    {
-      "title": "JSW Steel Share Price Live Updates: JSW Steel Current Price Analysis",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:16:32 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-live-updates-26-aug-2026/liveblog/133527903.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Father of sailor aboard US aircraft carrier freed from immigration detention - Reuters",
-      "description": "Father of sailor aboard US aircraft carrier freed from immigration detention &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 08:11:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmx2MERvUDBBZGx6SUpYTzIwbXd0THJKcy15X3VCNFBVd05xaUNGZ2pSVEtURHIwVlg1aEtzMkdjMnRwSVpWUXcwNFNJZi1CNEtTb1c1NVhhdHhWNDVzZzdMdDJwRlh4MkQ1bURSY2Q0NUwwME0wY0tDR1F5bmk3Q2w3emgwcEdBVFFKeWZ3YW53ZllVRVJWaTdNRnRZWWNkaTlPNkQ5ckJ3aGZma29EZ1EyZDMyMHZReGJ3MzVn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "ONGC Share Price Live Updates: ONGC's Financial Snapshot",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:11:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-26-aug-2026/liveblog/133527849.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Sees Positive Movement",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:10:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-26-aug-2026/liveblog/133527846.cms",
       "source": "rss"
     }
   ]
