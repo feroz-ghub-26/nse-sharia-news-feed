@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:38:03.951246+00:00",
+  "generated_at": "2026-09-30T06:12:02.699377+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "Why uniQure shares are sinking after AMT-130 update",
+      "description": "uniQure shares plunged after four-year data for Huntington’s gene therapy AMT-130 showed weaker disease-progression slowing than earlier results. While 48-month TFC data remained encouraging, the cUHDRS effect was not statistically significant. Investors are now focused on FDA review and whether the therapy’s earlier benefits can demonstrate durability over time.",
+      "publication_date": "Wed, 30 Sep 2026 11:10:26 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-uniqure-shares-are-sinking-after-amt-130-update/slideshow/134583058.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO. Check details",
+      "description": "Inox Clean Energy has filed its DRHP for a Rs 10,000 crore IPO with Sebi. The issue includes a Rs 8,000 crore fresh share sale and Rs 2,000 crore OFS. The company has a 9.29 GW renewable power portfolio and 6 GW solar module manufacturing capacity across India and the US.",
+      "publication_date": "Wed, 30 Sep 2026 10:59:07 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-files-drhp-for-rs-10000-crore-ipo-check-details/articleshow/134582612.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Cupid, Sterlite Tech among 10 smallcap stocks set for sharp fund flows after Nifty rejig. See full list",
+      "description": "Here are 10 small-cap stocks that could see the sharpest inflows and outflows.",
+      "publication_date": "Wed, 30 Sep 2026 10:53:11 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-10-smallcap-stocks-set-for-sharp-fund-flows-after-nifty-rejig-see-full-list/slideshow/134582949.cms",
+      "source": "rss"
+    },
     {
       "title": "Power Mech Projects shares rise 4% after company secures Rs 549 crore order from Adani Group firm",
       "description": "Power Mech Projects shares gained after securing a Rs 549.37-crore O&M order from Moxie Power Generation for its 2x600 MW Tuticorin thermal power plant, with the contract spanning five years.",
@@ -163,6 +184,13 @@
       "description": "Four Nifty 500 stocks, including MTAR Technologies, Mankind Pharma, CMPDI, and PTC Industries, formed a White Marubozu bullish candlestick pattern on September 29. Technical data from StockEdge indicates strong upward momentum across these counters, as closing prices touched session highs, signaling sustained buying interest among market traders.",
       "publication_date": "Wed, 30 Sep 2026 09:09:53 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-tech-among-4-stocks-showing-white-marubozu-pattern/slideshow/134580303.cms",
+      "source": "rss"
+    },
+    {
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement Price Analysis",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 09:06:38 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-updates-30-sep-2026/liveblog/134580025.cms",
       "source": "rss"
     },
     {
@@ -313,6 +341,13 @@
       "source": "rss"
     },
     {
+      "title": "HDFC Life Share Price Live Updates: HDFC Life's Financial Overview",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 08:27:26 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-30-sep-2026/liveblog/134578646.cms",
+      "source": "rss"
+    },
+    {
       "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's Current Trading Status",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:25:55 +0530",
@@ -320,7 +355,7 @@
       "source": "rss"
     },
     {
-      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Reaches New Low in Market",
+      "title": "Jio Financial Services Share Price Live Updates: Current Price of Jio Financial Services",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:25:38 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-30-sep-2026/liveblog/134578579.cms",
@@ -341,7 +376,7 @@
       "source": "rss"
     },
     {
-      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Stock Price Declines Below 100-Day SMA",
+      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Current Price",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:17:45 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-30-sep-2026/liveblog/134578297.cms",
@@ -600,11 +635,11 @@
       "source": "rss"
     },
     {
-      "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
-      "description": "Indian shares inch higher after recent slide; IT stocks lead &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 05:15:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
-      "source": "Reuters"
+      "title": "Iran appeals to US voters as American troops leave Iraq - reuters.com",
+      "description": "Iran appeals to US voters as American troops leave Iraq &nbsp;&nbsp; reuters.com",
+      "publication_date": "Wed, 30 Sep 2026 05:07:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
+      "source": "reuters.com"
     },
     {
       "title": "AI broke the job application. What replaces it?",
@@ -635,18 +670,18 @@
       "source": "Reuters"
     },
     {
-      "title": "Iran appeals to US voters as American troops leave Iraq - Reuters",
-      "description": "Iran appeals to US voters as American troops leave Iraq &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 02:48:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
       "description": "BlueFive Capital CEO Hazem Ben-Gacem talks about his preferred investment areas and strategies.",
       "publication_date": "Wed, 30 Sep 2026 02:37:21 GMT",
       "link": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
       "source": "rss"
+    },
+    {
+      "title": "Indian shares inch higher after recent slide; IT stocks lead - reuters.com",
+      "description": "Indian shares inch higher after recent slide; IT stocks lead &nbsp;&nbsp; reuters.com",
+      "publication_date": "Wed, 30 Sep 2026 02:24:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
+      "source": "reuters.com"
     },
     {
       "title": "Jobs in line as IRDAI commission caps force insurance brokers to rethink models",
@@ -670,11 +705,11 @@
       "source": "rss"
     },
     {
-      "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran - Reuters",
-      "description": "Oil gains after Trump denies he is willing to ease sanctions on Iran &nbsp;&nbsp; Reuters",
+      "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran - reuters.com",
+      "description": "Oil gains after Trump denies he is willing to ease sanctions on Iran &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 30 Sep 2026 01:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
@@ -698,11 +733,11 @@
       "source": "rss"
     },
     {
-      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
-      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; Reuters",
+      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - reuters.com",
+      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 30 Sep 2026 00:01:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
@@ -1403,41 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 13:20:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3JlYl82UGFSWkd5eTQyMmpXcnI1OV9IQXdoSnBJMkxPTFI1RW5sclRra2hmUDBYMWlkRUx1c0pleTFZXzA0MFQ4R2FSN002bTZ2YmF5VERYOTY2bmFfZld1SVNDRHZ2SHF4LTg1OU5rMmE4ajdtUFN1ZV9IWEo4Q19YT1NGUzhFbThjbnJoeVp4dDFsd1NCcFBFekdfOGtNTWJiM3NmXzdFbGRUdTVCYTV6eGlyel9BRklF?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Aramco offers more oil outside Hormuz with some cargoes heading to China - Reuters",
-      "description": "Aramco offers more oil outside Hormuz with some cargoes heading to China &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 13:17:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-      "description": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
-      "publication_date": "Wed, 26 Aug 2026 13:15:24 GMT",
-      "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-      "source": "rss"
-    },
-    {
-      "title": "Italy asks EU for €8 billion in SAFE defence funds - Reuters",
-      "description": "Italy asks EU for €8 billion in SAFE defence funds &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 13:09:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmd1eTZKZDRCQ3ozS0V4Q2pDSXVsemI4aXJaTmViT0V2MHVSWjhKNVFDcHY0R2RZMjZkMFpCQlVOQ2E2QTBybkFRMlNyQ0JrQV9LQkw3djR6S3kwZkhXSXpwaEFNdlVtal9hZGNVRDQtOEFicVd3djYydDJxMEY5NWE0aDZGTnpQd202VHB3Q2E?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Global Market: Fiscal dominance debate takes centre stage as government debt mounts",
-      "description": "Rising government debt and borrowing costs are bringing the issue of fiscal dominance back into focus, with concerns that central banks could eventually face pressure to support government financing. The debate could have implications for monetary policy, inflation, currencies and sovereign bond markets.",
-      "publication_date": "Wed, 26 Aug 2026 13:06:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-fiscal-dominance-debate-takes-centre-stage-as-government-debt-mounts/articleshow/133533749.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hindustan Zinc vs Hindalco: Why Jefferies raised target prices for both, but prefers one over the other",
-      "description": "Jefferies has raised its target prices for Hindustan Zinc and Hindalco Industries, but prefers the former, retaining a Buy rating versus Hold on Hindalco. The brokerage expects stronger zinc and silver prices to boost Hindustan Zinc’s earnings, while softer aluminium prices and higher debt could weigh on Hindalco’s performance.",
-      "publication_date": "Wed, 26 Aug 2026 13:02:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vs-hindalco-why-jefferies-raised-target-prices-for-both-but-prefers-one-over-the-other/articleshow/133533623.cms",
-      "source": "rss"
     }
   ]
 }
