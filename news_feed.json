@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T09:07:35.668101+00:00",
+  "generated_at": "2026-09-30T09:39:50.183033+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -40,6 +40,27 @@
   ],
   "articles": [
     {
+      "title": "MRPL shares tumble 5% after explosion at Mangaluru plant, thick smoke seen from refinery unit",
+      "description": "MRPL shares fell over 5% after an explosion was reported at its Mangaluru refinery, with thick smoke seen emerging from the facility. Fire brigades and ambulances rushed to the site, while the cause remained unknown.",
+      "publication_date": "Wed, 30 Sep 2026 14:41:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mrpl-shares-tumble-5-after-explosion-at-mangaluru-plant-thick-smoke-seen-from-refinery-unit/articleshow/134589058.cms",
+      "source": "rss"
+    },
+    {
+      "title": "14 smallcap stocks defy market selloff, rally up to 105% in 3 month",
+      "description": "While the Nifty 50 fell nearly 5% in three months, several small-cap stocks bucked the trend. Fourteen Nifty Smallcap 500 stocks rallied 50-105%, led by Raymond and Welspun Corp.",
+      "publication_date": "Wed, 30 Sep 2026 14:22:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-smallcap-stocks-defy-market-selloff-rally-up-to-105-in-3-month/slideshow/134588850.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Bank of Korea steps up won support with $9.6 billion sale",
+      "description": "South Korea’s central bank sold a net $9.612 billion in foreign currency during the second quarter to support the weakening won, marking its seventh consecutive quarter of intervention. The won fell 2.1% against the dollar during the period, pressured by a stronger U.S. currency and global market volatility, raising inflation concerns.",
+      "publication_date": "Wed, 30 Sep 2026 14:21:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-korea-steps-up-won-support-with-9-6-billion-sale/articleshow/134588470.cms",
+      "source": "rss"
+    },
+    {
       "title": "Anthropic IPO explained: $2 trillion valuation, ballooning net loss, AI risks and other details in leaked IPO papers",
       "description": "Anthropic is preparing for a potential IPO as its revenue surges, but losses and infrastructure commitments balloon. The AI company has also warned of existential risks from advanced models and highlighted its heavy reliance on Amazon and Google.",
       "publication_date": "Wed, 30 Sep 2026 14:15:05 +0530",
@@ -47,7 +68,7 @@
       "source": "rss"
     },
     {
-      "title": "Re-rating on cars for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
+      "title": "Re-rating on cards for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
       "description": "Tejas Mk1A accounts for 43% of HAL’s order book and could emerge as a key re-rating trigger as deliveries gain visibility, Jefferies said. HAL CMD Ravi Kota expects to deliver 10 aircraft this year, ahead of Jefferies’ earlier estimate of five. The brokerage retained its Buy rating with a Rs 6,800 target.",
       "publication_date": "Wed, 30 Sep 2026 14:01:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/re-rating-on-cars-for-hal-shares-as-tejas-mk1a-aircraft-deliveries-near-jefferies/articleshow/134586938.cms",
@@ -341,6 +362,13 @@
       "source": "rss"
     },
     {
+      "title": "Drastic budget cutbacks essential to fund Europe's defense, Germany and allies warn",
+      "description": "Six European leaders have called for major cuts to a proposed 2 trillion euro budget.",
+      "publication_date": "Wed, 30 Sep 2026 09:11:44 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/eu-budget-germany-merz-defense-trump.html",
+      "source": "rss"
+    },
+    {
       "title": "MTAR Tech among 4 stocks showing White Marubozu pattern",
       "description": "Four Nifty 500 stocks, including MTAR Technologies, Mankind Pharma, CMPDI, and PTC Industries, formed a White Marubozu bullish candlestick pattern on September 29. Technical data from StockEdge indicates strong upward momentum across these counters, as closing prices touched session highs, signaling sustained buying interest among market traders.",
       "publication_date": "Wed, 30 Sep 2026 09:09:53 +0530",
@@ -348,14 +376,14 @@
       "source": "rss"
     },
     {
-      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Price Analysis",
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Current Trading Status",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:06:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-30-sep-2026/liveblog/134580046.cms",
       "source": "rss"
     },
     {
-      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement Price Analysis",
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Market Performance",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:06:38 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-updates-30-sep-2026/liveblog/134580025.cms",
@@ -387,6 +415,20 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:00:55 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-30-sep-2026/liveblog/134579814.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says - Reuters",
+      "description": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 09:00:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+      "description": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
+      "publication_date": "Wed, 30 Sep 2026 09:00:01 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
       "source": "rss"
     },
     {
@@ -705,6 +747,20 @@
       "source": "rss"
     },
     {
+      "title": "A visual retrospective of America's two decades in Iraq - Reuters",
+      "description": "A visual retrospective of America's two decades in Iraq &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 07:52:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejlqc3BsY3RVQXg2eDgxUHZSOHdGNzFHSFhoMVBMd3hWYUo3bF9GWmR5NFh0T3g1Q0hiMGRHaXlNcV8ycGVPU0YtNFBPbEd0cUI4M0U1T2dzSnpjNTFrZVI0b09BeDcwY3UwQU8zQnFIaDRRLUVrU0dqZXdHTEMtYU5aclJnOEVfcmdrMjBzWl8xYjduWnc?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Russia extends diesel export ban until end of October - Reuters",
+      "description": "Russia extends diesel export ban until end of October &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 07:49:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlRENUlLb2UyalJZcUdJdjZaZzBUalBVZUdGRFFpNk50Wm1VTTMyQ1RMUkk3RmtfOUtGdlRqcExmSU5MSG5GYVdUbjBBdENwa0RWeU5aYm9xNmZRM05oZktzd1VaMWVodGE5SURGaFBmMTJxQlNaOWdLMVk3dERsV0RGcTJtSTNvRGlqTmQyNGdFT1hRLW1EVzRpcmFPMEcteHNocg?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
       "description": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
       "publication_date": "Wed, 30 Sep 2026 07:47:42 GMT",
@@ -747,13 +803,6 @@
       "source": "rss"
     },
     {
-      "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says - Reuters",
-      "description": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 07:35:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Dollar set for September rise, mainly at euro's expense",
       "description": "The dollar is close to a yearly high against the euro, driven by strong US economic growth. Concerns around energy supplies and debt in Europe have added pressure on the euro. Important US economic data is expected to influence interest rate expectations in the near future. Meanwhile, the Australian dollar and New Zealand dollar face challenges against the dollar's strength.",
       "publication_date": "Wed, 30 Sep 2026 07:33:30 +0530",
@@ -780,13 +829,6 @@
       "publication_date": "Wed, 30 Sep 2026 07:20:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-kpi-green-share-price-30-september-2026/liveblog/134577279.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil gains after Trump denies he is willing to ease Iran sanctions - Reuters",
-      "description": "Oil gains after Trump denies he is willing to ease Iran sanctions &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 07:06:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
@@ -941,6 +983,13 @@
       "publication_date": "Wed, 30 Sep 2026 01:42:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-slightly-lower-as-bond-yields-hold-near-multi-decade-highs/articleshow/134573718.cms",
       "source": "rss"
+    },
+    {
+      "title": "Oil steadies as stalled US-Iran talks offset supply recovery - Reuters",
+      "description": "Oil steadies as stalled US-Iran talks offset supply recovery &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 01:39:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
@@ -1389,55 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 16:56:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ventura-initiates-coverage-on-meesho-and-lg-india-sees-up-to-35-upside/articleshow/133539294.cms",
       "source": "rss"
-    },
-    {
-      "title": "European shares muted as investors assess Iran-Oman talks, U.S. inflation - Reuters",
-      "description": "European shares muted as investors assess Iran-Oman talks, U.S. inflation &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 16:41:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1pZeWdGeTdjVWRoOE0zZi1zQzhRVTdhU3g3U3VPV2J4dHVRQWtiRF9CUHlWVGllbFpPYnIyUmc5TDZPVlJrX0lrNDZCME5rcWZEYmN2a1JFY1diVE5oeDk1WEFDNmhIeDZfUmdFMFBBVUh6M1ZibFFvdkNzSDRVc1NEcFdZZmVhRDVjTGtxQWZwd2JDd3hzS1lHalBGUmMwRkZDUTRidDZIQ3lM?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "US targets Palestine Action in counterterrorism effort against 'far-left' groups - Reuters",
-      "description": "US targets Palestine Action in counterterrorism effort against 'far-left' groups &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 16:38:34 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjEzMkJyU0JVTlVSRHd6REZjOG0xLUl0S0xfSUhlRkoyWnFiY2x4S0lCdnFKMWRpNmxWNUZKUzYzd2IyQU44TFBLc1ZwRGZIWkFYdWFIZXJISTdabU9ETlpxREpWTE1iYklYMS16RnlmOEkxbW81MWRYU0pWazRiZ1RBYXYzMC13SVl6ZVpKeHJJQ0pzajhVRG9xV2RRbnY3LWV1UlV4Qk9jZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Quote of the day by Warren Buffett: \"The inescapable fact is that the value of an asset, whatever its character, cannot over the long term grow faster than its earnings do\"",
-      "description": "Warren Buffett’s investment philosophy emphasizes that an asset’s long-term value cannot sustainably outpace its earnings. While sentiment and speculation can drive prices temporarily, lasting value creation depends on businesses generating consistent and growing profits that support valuations.",
-      "publication_date": "Wed, 26 Aug 2026 16:36:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-warren-buffett-the-inescapable-fact-is-that-the-value-of-an-asset-whatever-its-character-cannot-over-the-long-term-grow-faster-than-its-earnings-do/articleshow/133538817.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Zerodha turns 16: Nithin Kamath says user additions slowing, MF business 'slipped up a little'",
-      "description": "Zerodha CEO Nithin Kamath said slower market activity and regulatory changes have challenged brokerage growth, while warning that rising margin trading funding poses risks. Despite weaker trading activity, Zerodha’s customer assets continue growing, supported by trust, technology and financial content.",
-      "publication_date": "Wed, 26 Aug 2026 16:33:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-turns-16-nithin-kamath-says-user-additions-slowing-mf-business-slipped-up-a-little/articleshow/133538765.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Market wrap: Kotak Bank, Power Grid among top gainers and losers on Nifty and Sensex on Wednesday",
-      "description": "Indian equities ended lower on Wednesday as sectoral divergence weighed on benchmarks. Nifty fell 0.52% and Sensex 0.24%, while broader markets were mixed. Banks and metals gained, but telecom, IT and infrastructure stocks declined amid technical caution.",
-      "publication_date": "Wed, 26 Aug 2026 16:31:36 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-bank-power-grid-among-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133538423.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-      "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
-      "publication_date": "Wed, 26 Aug 2026 16:25:09 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
-      "source": "rss"
-    },
-    {
-      "title": "FTSE 100 edges lower as healthcare, energy stocks weigh; Iran-Oman talks in focus - Reuters",
-      "description": "FTSE 100 edges lower as healthcare, energy stocks weigh; Iran-Oman talks in focus &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 16:14:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdmamQ0VmdHQmliNFdqSkc5WXhHb0xoWnd5eXdEQ0JnZV9TUjVzWndHV1VYMFU0M29rNWdYMXB2RmI3QlNQaGVrMmpwM3V3dHF0empEa0hvTDVBaXVUOHEwaVlOUEhDd1h1el9MWENBeVN3eVh3bjRGejRMbmJ0WUFNU19GQzIyR1k1ZDVtYS1LdkJQVU9SbHRBQVFQZw?oc=5",
-      "source": "Reuters"
     }
   ]
 }
