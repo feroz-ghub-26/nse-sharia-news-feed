@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:38:20.186454+00:00",
+  "generated_at": "2026-09-30T11:06:14.136127+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen",
+      "description": "The Indian rupee has experienced a decline impacted by elevated crude prices and increasing global bond yields. During the last quarter, the currency fell 1.2%, and monthly losses reached 0.7%. Despite the downturn, the Reserve Bank of India managed to stabilize the rupee through interventions and support measures. Analysts expect the upcoming monetary policy decision to influence the currency's future movement.",
+      "publication_date": "Wed, 30 Sep 2026 16:05:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-lingers-around-bottom-of-asia-fx-pile-as-global-headwinds-deepen/articleshow/134591316.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead?",
+      "description": "The Indian stock market saw further declines as the Sensex dipped nearly 49 points while the Nifty sank around 96 points by session's end. Rising bond yields spooked investors, dampening market sentiment. Yet, the Nifty Midcap 100 and Smallcap 100 managed to rise by 0.3%, showcasing a surprising resilience in the broader market despite the downturn in leading indices.",
+      "publication_date": "Wed, 30 Sep 2026 15:43:43 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-49-points-nifty-ends-below-22650-as-market-continues-to-bleed-what-lies-ahead/articleshow/134590388.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: BoE's Taylor says energy prices alone do not justify rate hike",
+      "description": "Bank of England policymaker Alan Taylor said further rate increases remain unlikely unless higher energy prices generate persistent, broad-based inflation. He noted limited second-round effects, moderate wage growth and subdued food-price pressures. With rates held at 3.75%, policymakers remain divided as they monitor wages, services inflation, energy costs and economic weakness.",
+      "publication_date": "Wed, 30 Sep 2026 15:40:46 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-taylor-says-energy-prices-alone-do-not-justify-rate-hike/articleshow/134590670.cms",
+      "source": "rss"
+    },
     {
       "title": "Global Market: Eurozone bond yields ease from highs as rate-hike bets cool",
       "description": "Eurozone bond yields eased Wednesday from multi-year highs as investors tempered expectations for further rate hikes. Germany’s 10-year yield fell to 3.57%, while French and Italian borrowing costs also declined but remained sharply higher for September. Falling energy prices and cautious central-bank signals offered relief, ahead of key inflation data.",
@@ -243,10 +264,31 @@
       "source": "rss"
     },
     {
+      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+      "description": "Following Trump's lunch with AI leaders at the White House, the industry remains largely unchanged on AI safety.",
+      "publication_date": "Wed, 30 Sep 2026 11:00:01 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+      "source": "rss"
+    },
+    {
+      "title": "Mortgage rates jump for the sixth straight week, hitting both refinance and homebuyer demand hard",
+      "description": "Mortgage demand dropped for the 7th straight week, as rates surged well over 7% on the 30-year fixed.",
+      "publication_date": "Wed, 30 Sep 2026 11:00:01 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
+      "source": "rss"
+    },
+    {
       "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO. Check details",
       "description": "Inox Clean Energy has filed its DRHP for a Rs 10,000 crore IPO with Sebi. The issue includes a Rs 8,000 crore fresh share sale and Rs 2,000 crore OFS. The company has a 9.29 GW renewable power portfolio and 6 GW solar module manufacturing capacity across India and the US.",
       "publication_date": "Wed, 30 Sep 2026 10:59:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-files-drhp-for-rs-10000-crore-ipo-check-details/articleshow/134582612.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+      "description": "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
+      "publication_date": "Wed, 30 Sep 2026 10:55:49 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
       "source": "rss"
     },
     {
@@ -255,6 +297,13 @@
       "publication_date": "Wed, 30 Sep 2026 10:53:11 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-10-smallcap-stocks-set-for-sharp-fund-flows-after-nifty-rejig-see-full-list/slideshow/134582949.cms",
       "source": "rss"
+    },
+    {
+      "title": "A visual retrospective of America's two decades in Iraq - Reuters",
+      "description": "A visual retrospective of America's two decades in Iraq &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 10:46:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejlqc3BsY3RVQXg2eDgxUHZSOHdGNzFHSFhoMVBMd3hWYUo3bF9GWmR5NFh0T3g1Q0hiMGRHaXlNcV8ycGVPU0YtNFBPbEd0cUI4M0U1T2dzSnpjNTFrZVI0b09BeDcwY3UwQU8zQnFIaDRRLUVrU0dqZXdHTEMtYU5aclJnOEVfcmdrMjBzWl8xYjduWnc?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Power Mech Projects shares rise 4% after company secures Rs 549 crore order from Adani Group firm",
@@ -290,13 +339,6 @@
       "publication_date": "Wed, 30 Sep 2026 10:26:36 GMT",
       "link": "https://www.cnbc.com/2026/09/30/ai-regulation-congress-antitrust.html",
       "source": "rss"
-    },
-    {
-      "title": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters",
-      "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 10:23:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Nifty nears longest losing streak in 25 years. Can bulls stop the 8th consecutive weekly selloff?",
@@ -345,13 +387,6 @@
       "description": "India’s IPO market is on track for another strong year after raising over $13 billion so far, including a record $9 billion in the third quarter. Large deals and strong domestic demand support the pipeline, with numerous companies awaiting approvals. However, market volatility, investor selectivity and valuations could influence upcoming issuance and timing.",
       "publication_date": "Wed, 30 Sep 2026 10:01:11 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/record-quarter-primes-india-ipo-market-for-blockbuster-year/articleshow/134581390.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-      "description": "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
-      "publication_date": "Wed, 30 Sep 2026 10:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
       "source": "rss"
     },
     {
@@ -437,13 +472,6 @@
       "publication_date": "Wed, 30 Sep 2026 09:26:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-opens-today-check-gmp-price-band-and-key-details-should-you-subscribe/articleshow/134580743.cms",
       "source": "rss"
-    },
-    {
-      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
-      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 09:24:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Vishal Mega Mart among 3 stocks that closed crossing above VWAP",
@@ -852,13 +880,6 @@
       "source": "rss"
     },
     {
-      "title": "A visual retrospective of America's two decades in Iraq - Reuters",
-      "description": "A visual retrospective of America's two decades in Iraq &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 07:52:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejlqc3BsY3RVQXg2eDgxUHZSOHdGNzFHSFhoMVBMd3hWYUo3bF9GWmR5NFh0T3g1Q0hiMGRHaXlNcV8ycGVPU0YtNFBPbEd0cUI4M0U1T2dzSnpjNTFrZVI0b09BeDcwY3UwQU8zQnFIaDRRLUVrU0dqZXdHTEMtYU5aclJnOEVfcmdrMjBzWl8xYjduWnc?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Russia extends diesel export ban until end of October - Reuters",
       "description": "Russia extends diesel export ban until end of October &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 07:49:47 GMT",
@@ -1034,10 +1055,17 @@
       "source": "rss"
     },
     {
-      "title": "Rupee steadies near 96/USD as outflows weigh, RBI intervention cushions - Reuters",
-      "description": "Rupee steadies near 96/USD as outflows weigh, RBI intervention cushions &nbsp;&nbsp; Reuters",
+      "title": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen - Reuters",
+      "description": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 03:06:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXNvMDhFcWtxb08zQVhCd0RxcXNoQXhOQzUxam9pc2RjSjFoYm81NXkyMFFnUVZKczhZUXJFNlRLVkI5ckV3czhlZlk0Rm1sOHZHa3F5Um96LTB5Z3IyU3VQZlBzUWR5aXR4Y21BWkxTRnlIUW1kZjNVTnl2ZG4yR2hMbDBOWTBxYXo3d1VxMXdEaU1veHpjZ2pLRkxnOW5udkVlak5JV09HZw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters",
+      "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 03:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
       "source": "Reuters"
     },
     {
@@ -1083,8 +1111,8 @@
       "source": "rss"
     },
     {
-      "title": "Oil steadies as stalled US-Iran talks offset supply recovery - Reuters",
-      "description": "Oil steadies as stalled US-Iran talks offset supply recovery &nbsp;&nbsp; Reuters",
+      "title": "Oil gains as stalled US-Iran talks trump supply recovery - Reuters",
+      "description": "Oil gains as stalled US-Iran talks trump supply recovery &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 01:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
       "source": "Reuters"
@@ -1109,6 +1137,13 @@
       "publication_date": "Wed, 30 Sep 2026 00:19:09 GMT",
       "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
       "source": "rss"
+    },
+    {
+      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
+      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 00:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
@@ -1402,41 +1437,6 @@
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "publication_date": "Wed, 26 Aug 2026 18:31:26 GMT",
       "link": "https://www.cnbc.com/2026/08/26/micron-elevates-two-executives-plus-what-the-meta-settlement-means-for-its-top-line.html",
-      "source": "rss"
-    },
-    {
-      "title": "Gold drops over 1% after in-line US inflation data - Reuters",
-      "description": "Gold drops over 1% after in-line US inflation data &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 18:28:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Gaza parents urged to stop children flying kites after Israel warning to Hamas - Reuters",
-      "description": "Gaza parents urged to stop children flying kites after Israel warning to Hamas &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 18:25:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzZiTDE1d29fYldmdmNnOU9NX2thNGlWVDBodVFxSWJ2eXdoc0dkOWhxX05hUEJjaVVCX1FRMHhfTmlLT3hubHhqc0hjUjFnamdNbEUxSHhBMTlSZHhmLURPSkNmaHBOOWgxd1VuUl92a2FoN19VT1lGbXhvQnM4WHVTZThFRlZ6SlhudTg1X2c5dDVyWnEzR01WZk9GNk1sNS1BR01hSTR0cmxPZjR1OHVsbkRyempsRi1LSnhoRQ?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
-      "description": "Although named after the Nevada gaming mecca, Las Vegas Sands has largely depended on the Asia/Macau story of the last decade.",
-      "publication_date": "Wed, 26 Aug 2026 18:17:04 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/las-vegas-sands-shares-are-about-to-catch-a-heater-says-mike-khouw.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-      "description": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
-      "publication_date": "Wed, 26 Aug 2026 18:16:38 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-      "source": "rss"
-    },
-    {
-      "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
-      "description": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources.",
-      "publication_date": "Wed, 26 Aug 2026 18:07:15 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
       "source": "rss"
     }
   ]
