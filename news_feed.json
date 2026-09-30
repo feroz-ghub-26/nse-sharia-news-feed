@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T20:08:01.018385+00:00",
+  "generated_at": "2026-09-30T20:36:45.253299+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -117,10 +117,59 @@
       "source": "rss"
     },
     {
+      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+      "description": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
+      "publication_date": "Wed, 30 Sep 2026 20:36:29 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+      "source": "rss"
+    },
+    {
+      "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
+      "description": "Treasury yields were lower on Wednesday following the release of lighter-than-expected U.S. inflation data.",
+      "publication_date": "Wed, 30 Sep 2026 20:33:30 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+      "source": "rss"
+    },
+    {
       "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 20:03:07 GMT",
+      "description": "Pete Hegseth, in remarks about the state of the military, announced a project led by two GOP-supporting tech executives to examine military capabilities.",
+      "publication_date": "Wed, 30 Sep 2026 20:29:10 GMT",
       "link": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+      "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+      "publication_date": "Wed, 30 Sep 2026 20:17:49 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+      "source": "rss"
+    },
+    {
+      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+      "description": "It is unclear how long the recovery can be sustained given that it relies on the U.S. military protecting tankers in the Persian Gulf.",
+      "publication_date": "Wed, 30 Sep 2026 20:16:17 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+      "source": "rss"
+    },
+    {
+      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+      "description": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
+      "publication_date": "Wed, 30 Sep 2026 20:15:48 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+      "source": "rss"
+    },
+    {
+      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+      "description": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
+      "publication_date": "Wed, 30 Sep 2026 20:11:46 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+      "source": "rss"
+    },
+    {
+      "title": "Meta stock enjoys best month since 2022 on AI momentum",
+      "description": "Meta stock had its best month in almost four years as investors cheer the social media giant's recent momentum in artificial intelligence.",
+      "publication_date": "Wed, 30 Sep 2026 20:08:47 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
       "source": "rss"
     },
     {
@@ -131,24 +180,31 @@
       "source": "rss"
     },
     {
+      "title": "S&P 500 dips, Nasdaq higher on modest rise in inflation - Reuters",
+      "description": "S&P 500 dips, Nasdaq higher on modest rise in inflation &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 20:01:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot-on-pilot stabbing - Reuters",
+      "description": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot-on-pilot stabbing &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 19:49:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Why Jim Cramer isn't buying more Boeing despite its huge Navy contract win",
+      "description": "Two main issues are holding him up.",
+      "publication_date": "Wed, 30 Sep 2026 19:47:03 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/why-jim-cramer-isnt-buying-more-boeing-despite-its-huge-navy-contract-win-.html",
+      "source": "rss"
+    },
+    {
       "title": "Geojit Financial Services reshuffles top deck; Jones George to take over as MD",
       "description": "Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of the company’s succession plan and technology-led growth strategy.",
       "publication_date": "Wed, 30 Sep 2026 19:46:34 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-      "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
-      "publication_date": "Wed, 30 Sep 2026 19:46:17 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-      "source": "rss"
-    },
-    {
-      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-      "description": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
-      "publication_date": "Wed, 30 Sep 2026 19:44:47 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
       "source": "rss"
     },
     {
@@ -187,6 +243,13 @@
       "source": "rss"
     },
     {
+      "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters",
+      "description": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 19:16:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
       "description": "Two separate proposals to ban member stock trading while in office and address data center-related utility costs failed Wednesday amid Democratic opposition.",
       "publication_date": "Wed, 30 Sep 2026 19:03:52 GMT",
@@ -208,17 +271,10 @@
       "source": "rss"
     },
     {
-      "title": "10-year Treasury yield are higher as traders look past inflation data, await jobs report",
-      "description": "Treasury yields were lower on Wednesday following the release of lighter-than-expected U.S. inflation data.",
-      "publication_date": "Wed, 30 Sep 2026 18:55:20 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
-      "source": "rss"
-    },
-    {
-      "title": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
-      "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 18:55:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "title": "Israel to ramp up pilot checks after flydubai scare - Reuters",
+      "description": "Israel to ramp up pilot checks after flydubai scare &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 18:54:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
       "source": "Reuters"
     },
     {
@@ -241,13 +297,6 @@
       "publication_date": "Wed, 30 Sep 2026 18:47:35 GMT",
       "link": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
       "source": "rss"
-    },
-    {
-      "title": "S&P 500, Nasdaq climb as soft inflation dampens Fed rate hike expectations - Reuters",
-      "description": "S&P 500, Nasdaq climb as soft inflation dampens Fed rate hike expectations &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 18:36:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
@@ -292,7 +341,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market edges higher as inflation, consumer spending data boost stocks",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Dow, S&P 500 dip while Nasdaq rises on modest inflation increase",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 17:48:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-treasury-bond-meta-openai-boeing-northrop-grumman-ai-chip-stock-price-news-30th-september-2026/liveblog/134594254.cms",
@@ -304,6 +353,13 @@
       "publication_date": "Wed, 30 Sep 2026 17:48:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-holds-near-84000-ethereum-steady-as-crypto-market-awaits-catalyst/articleshow/134594074.cms",
       "source": "rss"
+    },
+    {
+      "title": "India cuts windfall taxes on diesel, aviation fuel exports - Reuters",
+      "description": "India cuts windfall taxes on diesel, aviation fuel exports &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 17:47:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWIxeWhFenF6Nm1Vc0VSZWYtMWFacWVTTVczakl0RmJHYUNFWFVSMnRPRU1xd292T29nc3l3WTkzMnpvRl9jWjdLcmpxYmFDcmppeHB3M3ZsWG5FRUoxbHhXRU5fT2JpU25pNTFHQktkX01Ga3h2YmQ0TldwbFF6MllnRUl4TmtEdWFvTWdpMEVwRm5HS2JSLThzcjFfMWNJb1ktTw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "ET Alpha Wealth Summit 2.0: Why next market cycle may need a new playbook",
@@ -383,13 +439,6 @@
       "source": "rss"
     },
     {
-      "title": "Israel to ramp up pilot checks after flydubai scare - Reuters",
-      "description": "Israel to ramp up pilot checks after flydubai scare &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 17:14:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Global stocks weather third-quarter AI, bond and crude maelstrom - Reuters",
       "description": "Global stocks weather third-quarter AI, bond and crude maelstrom &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:07:46 GMT",
@@ -451,13 +500,6 @@
       "publication_date": "Wed, 30 Sep 2026 16:19:05 GMT",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXZwczdvclVqQk9CUG8tcG81SUlpdmZLcVUtcmxUWW1xLXFQU09BX3FhZ2NkRnlOMUNZaUJiOW4yT09PLVR4TGUxQW9yT2xuOTU5VzY3dVVoeXNhLVRpWTVIU01obUpZd1hKZElLMks0OGRydDRyMFZYTjZ6cWdnbElqbFpLQW5abGx2ZHZlck1ta0ZSNmxn?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
-      "description": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
-      "publication_date": "Wed, 30 Sep 2026 16:14:12 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
-      "source": "rss"
     },
     {
       "title": "EU aviation agency issues Saudi airspace advisory after Houthi attacks - Reuters",
@@ -703,13 +745,6 @@
       "publication_date": "Wed, 30 Sep 2026 13:28:25 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0JQYll1bXFuZjJBV2k2WkFFZXdFaVpYc1dpQmJkMHkwbG43MkZOT1ptNHBDVUpwMVd0U3ZpaDVFVDFGZE5mZVNLSlZqUGZ0ZXAyenA2SEx5YzhaelI1MHc2MVFPX2pZQzJWRldTR0R2cG5KSFA1c0NNaldHcEdZWExxTExlSTc5by0wSGVnSW1QUFk?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
-      "description": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
-      "publication_date": "Wed, 30 Sep 2026 13:19:37 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
-      "source": "rss"
     },
     {
       "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
@@ -1402,41 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:10:25 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-live-30-sep-2026/liveblog/134578038.cms",
-      "source": "rss"
-    },
-    {
-      "title": "JSW Steel Share Price Live Updates: JSW Steel's Recent Decline Raises Concerns",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:10:08 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-updates-30-sep-2026/liveblog/134578023.cms",
-      "source": "rss"
-    },
-    {
-      "title": "ICICI Bank Share Price Live Updates: ICICI Bank Stock Details",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:10:06 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134578022.cms",
-      "source": "rss"
-    },
-    {
-      "title": "SRIT India, Shah Investor’s Home IPO Day 3: Check subscription, latest GMP and other key details",
-      "description": "In the grey market, the SRIT India IPO is commanding a premium of Rs 33, or 25%, over its upper price band of Rs 130 per share. At the current GMP, the estimated listing price stands at around Rs 163 per share.",
-      "publication_date": "Wed, 30 Sep 2026 08:06:31 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/srit-india-shah-investors-home-ipo-day-3-check-subscription-latest-gmp-and-other-key-details/articleshow/134577749.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Swastika Infra shares to list today: Check GMP ahead of debut",
-      "description": "The public issue opened for subscription on September 23 and closed on September 25, 2026. The issue was subscribed 7.91 times overall. The retail portion was subscribed 5.64 times, while the non-institutional investor (NII) category received 19.35 times subscription. The qualified institutional buyer (QIB) portion was subscribed 3.31 times.",
-      "publication_date": "Wed, 30 Sep 2026 08:05:51 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swastika-infra-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134577694.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Adani Ent Share Price Live Updates: Adani Enterprises Experiences Decline Below 20-Day SMA",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:04:03 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-30-sep-2026/liveblog/134577813.cms",
       "source": "rss"
     }
   ]
