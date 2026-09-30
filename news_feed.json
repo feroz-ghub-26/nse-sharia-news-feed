@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:26:46.067255+00:00",
+  "generated_at": "2026-09-30T01:52:39.919697+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -124,6 +124,20 @@
       "source": "rss"
     },
     {
+      "title": "China factory activity expands for first time in three months in September",
+      "description": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
+      "publication_date": "Wed, 30 Sep 2026 01:37:29 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
+      "source": "rss"
+    },
+    {
+      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - reuters.com",
+      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; reuters.com",
+      "publication_date": "Wed, 30 Sep 2026 01:22:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
+      "source": "reuters.com"
+    },
+    {
       "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
       "description": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
       "publication_date": "Wed, 30 Sep 2026 01:17:39 +0530",
@@ -143,13 +157,6 @@
       "publication_date": "Wed, 30 Sep 2026 00:19:09 GMT",
       "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
       "source": "rss"
-    },
-    {
-      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
-      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 00:05:31 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 26 Aug 2026 08:25:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-live-updates-26-aug-2026/liveblog/133528041.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Tata Steel Share Price Live Updates: Tata Steel Stock Details",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 08:25:05 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-live-26-aug-2026/liveblog/133528040.cms",
       "source": "rss"
     }
   ]
