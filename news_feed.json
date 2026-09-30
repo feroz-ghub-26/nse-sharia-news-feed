@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:38:47.848575+00:00",
+  "generated_at": "2026-09-30T17:06:17.918043+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -217,16 +217,58 @@
     {
       "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
       "description": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
-      "publication_date": "Wed, 30 Sep 2026 16:36:13 GMT",
+      "publication_date": "Wed, 30 Sep 2026 17:02:28 GMT",
       "link": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+      "source": "rss"
+    },
+    {
+      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+      "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+      "publication_date": "Wed, 30 Sep 2026 17:00:01 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
       "source": "rss"
     },
     {
       "title": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
       "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 16:23:04 GMT",
+      "publication_date": "Wed, 30 Sep 2026 16:56:17 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
       "source": "Reuters"
+    },
+    {
+      "title": "Trump's latest global tariffs face trade court challenge",
+      "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
+      "publication_date": "Wed, 30 Sep 2026 16:44:31 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "source": "rss"
+    },
+    {
+      "title": "Facing climate lawsuits, Big Oil again turns to US Supreme Court - Reuters",
+      "description": "Facing climate lawsuits, Big Oil again turns to US Supreme Court &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 16:41:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamFfZ2NOWFh6ZFZrQXJlOHEzMHZLS1RFSW1OUHk1cjgtUTJYejRQZDh6YzNWaDJkOElNWXBlT3lGRE51YmdfTkZhWUFrMXhHc2RCNm1NcWtoTnhjV05QTmZ3WDZVekVSOHVVbFY0VWlqak5mdUlNR3Qtdk9nUVcxbHlGemtXLWNJXzZFMUdhVjVyWDlDOFBJcU9uMlFOSmhSc0RBVWlMaW1aODY1emxkb29BTQ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power - Reuters",
+      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 16:37:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Trump to unveil $200 billion investment in US projects by South Korea, White House says - Reuters",
+      "description": "Trump to unveil $200 billion investment in US projects by South Korea, White House says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 16:36:57 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd19OMlhEUlRpYXJTY0hWUjF3MDRneXkxa0w0dzhuZ19VUGl3UlEyM0tiWnJqLWprdXByMm9lUG9paGU0Nl9VQ2I5djVaLW5rSGhLMDlCN3Y1enBXcHB3dUNoeEhybms5dmVCS3FJMFl3T20yM2ZJOEx1TGItMnNrT1FrM0RtT0xDc0VieWxkLWJidUh2a2l4V0sxS0plYVJuQi1qOW1ETzRDREdCUEE4U3lZaVpjVHlKTEhRTC1jTmNWWjZ3Zk5fZWFCQnJudw?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+      "description": "Commerce Secretary Howard Lutnick unwound his ties to Cantor Fitzgerald as the billionaire financier joined the Trump administration.",
+      "publication_date": "Wed, 30 Sep 2026 16:30:42 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
+      "source": "rss"
     },
     {
       "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
@@ -285,13 +327,6 @@
       "source": "rss"
     },
     {
-      "title": "Trump's latest global tariffs face trade court challenge",
-      "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
-      "publication_date": "Wed, 30 Sep 2026 15:44:56 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-      "source": "rss"
-    },
-    {
       "title": "Higher interest rates can be scary for stocks — but it's not that simple",
       "description": "Investors should be more selective when interest rates are on the rise. That doesn't mean leave the market all together.",
       "publication_date": "Wed, 30 Sep 2026 15:43:56 GMT",
@@ -311,13 +346,6 @@
       "publication_date": "Wed, 30 Sep 2026 15:40:46 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-taylor-says-energy-prices-alone-do-not-justify-rate-hike/articleshow/134590670.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power - Reuters",
-      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 15:40:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
@@ -786,13 +814,6 @@
       "description": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 10:40:48 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Facing climate lawsuits, Big Oil again turns to US Supreme Court - Reuters",
-      "description": "Facing climate lawsuits, Big Oil again turns to US Supreme Court &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 10:38:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamFfZ2NOWFh6ZFZrQXJlOHEzMHZLS1RFSW1OUHk1cjgtUTJYejRQZDh6YzNWaDJkOElNWXBlT3lGRE51YmdfTkZhWUFrMXhHc2RCNm1NcWtoTnhjV05QTmZ3WDZVekVSOHVVbFY0VWlqak5mdUlNR3Qtdk9nUVcxbHlGemtXLWNJXzZFMUdhVjVyWDlDOFBJcU9uMlFOSmhSc0RBVWlMaW1aODY1emxkb29BTQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1416,27 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 07:20:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-kpi-green-share-price-30-september-2026/liveblog/134577279.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
-      "description": "U.S. Treasury yields were lower on Wednesday after a fresh round of selloffs the previous day, as investors remained concerned about inflation.",
-      "publication_date": "Wed, 30 Sep 2026 06:46:19 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
-      "source": "rss"
-    },
-    {
-      "title": "Sensex falls over 20% in dollar terms in 2026 as weak sentiment, rupee drag returns",
-      "description": "The benchmark Sensex and Nifty have both experienced significant declines in dollar terms this year. Foreign investors have been less interested in Indian equities due to various global factors. The rupee's depreciation has further amplified losses for overseas investors converting Indian investments. Despite the downturn, strong domestic mutual fund inflows have offset foreign portfolio outflows effectively. India's stock market faces challenges in maintaining investor sentiment amidst changing market dynamics.",
-      "publication_date": "Wed, 30 Sep 2026 06:31:57 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-20-in-2026-amid-global-market-shifts-and-rupee-depreciation/articleshow/134576885.cms",
-      "source": "rss"
-    },
-    {
-      "title": "KPIT Tech plunges 24% in 3 months as auto demand weakens",
-      "description": "KPIT Technologies faces a substantial 24% decline in stock value, predominantly due to obstacles in the automotive sector. The company's net profit has notably decreased, attributed to project delays and financial cutbacks. Although management forecasts a rebound in the latter half of the year, the September quarter might reflect ongoing weaknesses.",
-      "publication_date": "Wed, 30 Sep 2026 06:17:09 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
       "source": "rss"
     }
   ]
