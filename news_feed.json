@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T08:44:54.564355+00:00",
+  "generated_at": "2026-09-30T09:07:35.668101+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "article_count": 100
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -35,10 +35,17 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Anthropic IPO explained: $2 trillion valuation, ballooning net loss, AI risks and other details in leaked IPO papers",
+      "description": "Anthropic is preparing for a potential IPO as its revenue surges, but losses and infrastructure commitments balloon. The AI company has also warned of existential risks from advanced models and highlighted its heavy reliance on Amazon and Google.",
+      "publication_date": "Wed, 30 Sep 2026 14:15:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms",
+      "source": "rss"
+    },
     {
       "title": "Re-rating on cars for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
       "description": "Tejas Mk1A accounts for 43% of HAL’s order book and could emerge as a key re-rating trigger as deliveries gain visibility, Jefferies said. HAL CMD Ravi Kota expects to deliver 10 aircraft this year, ahead of Jefferies’ earlier estimate of five. The brokerage retained its Buy rating with a Rs 6,800 target.",
@@ -243,7 +250,7 @@
       "source": "rss"
     },
     {
-      "title": "Nestle India Share Price Live Updates: Nestle India Stock Performance",
+      "title": "Nestle India Share Price Live Updates: Nestle India Price and Change Overview",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 10:05:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-30-sep-2026/liveblog/134581675.cms",
@@ -404,6 +411,13 @@
       "source": "rss"
     },
     {
+      "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
+      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+      "publication_date": "Wed, 30 Sep 2026 08:51:44 GMT",
+      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+      "source": "rss"
+    },
+    {
       "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Market Position Today",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:51:14 +0530",
@@ -548,13 +562,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:25:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-30-sep-2026/liveblog/134578549.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
-      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
-      "publication_date": "Wed, 30 Sep 2026 08:19:02 GMT",
-      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
       "source": "rss"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "FTSE 100 edges lower as healthcare, energy stocks weigh; Iran-Oman talks in focus &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 26 Aug 2026 16:14:23 GMT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdmamQ0VmdHQmliNFdqSkc5WXhHb0xoWnd5eXdEQ0JnZV9TUjVzWndHV1VYMFU0M29rNWdYMXB2RmI3QlNQaGVrMmpwM3V3dHF0empEa0hvTDVBaXVUOHEwaVlOUEhDd1h1el9MWENBeVN3eVh3bjRGejRMbmJ0WUFNU19GQzIyR1k1ZDVtYS1LdkJQVU9SbHRBQVFQZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "White House pushes for more refinery waivers to ease pump prices - Reuters",
-      "description": "White House pushes for more refinery waivers to ease pump prices &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 16:10:04 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzNBc3U2RXg4a2M3YWxQNTl3anc3clFXQjV0ZmdKTXJkakNVNnQ5Ym9BQW1vbjk2ZE85a3l5RVp1U3ZxWE1ucWFxY1U3SHdXMzJVNXJBMDhWWDRHQjVFNmFUd0lXa284d1AzVnBRbUlvLWVkaDEwMnZsemZOaFJGeS1TTWh1YVRSM0pHVEduUEpPUUtNTlJPc3JDd29LaFU0eVBUZ2l5T0REeWpoai04?oc=5",
       "source": "Reuters"
     }
   ]
