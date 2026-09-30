@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:09:47.827671+00:00",
+  "generated_at": "2026-09-30T08:44:54.564355+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,10 +35,38 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 18
+      "article_count": 1
     }
   ],
   "articles": [
+    {
+      "title": "Re-rating on cars for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
+      "description": "Tejas Mk1A accounts for 43% of HAL’s order book and could emerge as a key re-rating trigger as deliveries gain visibility, Jefferies said. HAL CMD Ravi Kota expects to deliver 10 aircraft this year, ahead of Jefferies’ earlier estimate of five. The brokerage retained its Buy rating with a Rs 6,800 target.",
+      "publication_date": "Wed, 30 Sep 2026 14:01:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/re-rating-on-cars-for-hal-shares-as-tejas-mk1a-aircraft-deliveries-near-jefferies/articleshow/134586938.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: European shares head for first monthly decline in six months as yields rise",
+      "description": "European shares were set for their first monthly decline in six months as Middle East tensions, higher energy prices and rising bond yields heightened inflation and interest-rate concerns. The STOXX 600 gained 0.7% but remained on track for a September loss. Mining stocks advanced, while investors awaited key European inflation data.",
+      "publication_date": "Wed, 30 Sep 2026 13:52:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-head-for-first-monthly-decline-in-six-months-as-yields-rise/articleshow/134587091.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Euro under pressure from energy shock and political risks",
+      "description": "The euro has fallen nearly 2% in September as energy prices, political uncertainty and a stronger dollar weigh on the currency. Concerns over German and French politics, rising borrowing-cost spreads and elevated European gas prices threaten growth. ECB rate expectations offer some support, but markets remain cautious about further euro weakness.",
+      "publication_date": "Wed, 30 Sep 2026 13:50:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-from-energy-shock-and-political-risks/articleshow/134587000.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Can NSE shares trade on its own platform? Sebi chief says no panel considering self-trading in exchange shares",
+      "description": "Sebi Chairman Tuhin Kanta Pandey said the regulator is not currently considering self-listing or self-trading of exchange shares, days after NSE CEO Ashish Kumar Chauhan suggested exploring the possibility. Pandey said no Sebi panel is discussing the proposal at present, while Chauhan had cited conflict-of-interest concerns but said the idea could be revisited as the market ecosystem matures.",
+      "publication_date": "Wed, 30 Sep 2026 13:36:35 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nse-shares-trade-on-its-own-platform-sebi-chief-says-no-panel-considering-self-trading-in-exchange-shares/articleshow/134586236.cms",
+      "source": "rss"
+    },
     {
       "title": "Nifty shorts hit a six-month high in worst September F&O series in 25 years. Time for extra caution?",
       "description": "Nifty’s September derivatives series was the worst in 25 years, with the index falling 6.7% as foreign investors sharply increased bearish bets. FII index shorts hit a six-month high, while stock-futures exposure remained net long. With Nifty near key long-term support and market breadth weakening, analysts advise caution.",
@@ -348,7 +376,7 @@
       "source": "rss"
     },
     {
-      "title": "Divis Labs Share Price Live Updates: Divis Labs Stock Performance Overview",
+      "title": "Divis Labs Share Price Live Updates: Divis Labs Daily Market Update",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:00:55 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-30-sep-2026/liveblog/134579814.cms",
@@ -453,6 +481,13 @@
       "source": "rss"
     },
     {
+      "title": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
+      "description": "Russia intensifies attacks on Ukraine’s data centers and communications infrastructure, targeting facilities in Kyiv.",
+      "publication_date": "Wed, 30 Sep 2026 08:33:09 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
+      "source": "rss"
+    },
+    {
       "title": "FIIs dump telecom for 8th straight month, outflows cross Rs 32,000 crore. Are stocks set for rebound?",
       "description": "Foreign portfolio investors have dumped Indian telecom stocks for the eighth consecutive month, pulling out over Rs 32,000 crore in CY26. Heavy 5G capex, delayed tariff hikes, and legal dues weigh on cash flows, leaving market participants questioning if a stock rebound is near.",
       "publication_date": "Wed, 30 Sep 2026 08:32:10 +0530",
@@ -513,6 +548,13 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:25:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-30-sep-2026/liveblog/134578549.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
+      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+      "publication_date": "Wed, 30 Sep 2026 08:19:02 GMT",
+      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
       "source": "rss"
     },
     {
@@ -625,13 +667,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:01:01 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-30-sep-2026/liveblog/134577732.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Boeing chosen by U.S. navy to develop next-generation fighter jet",
-      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
-      "publication_date": "Wed, 30 Sep 2026 08:00:40 GMT",
-      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
       "source": "rss"
     },
     {
@@ -815,6 +850,13 @@
       "publication_date": "Wed, 30 Sep 2026 05:38:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/202-bse-500-stocks-trade-below-five-year-average-valuations/articleshow/134576586.cms",
       "source": "rss"
+    },
+    {
+      "title": "How the US controls Iraq's oil revenues - Reuters",
+      "description": "How the US controls Iraq's oil revenues &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 05:17:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGpibmlmMTlRdFhRRHZROFhCNERCYTU3ZFBhZHpGTjZwTlVjeTVBUUZ0Vm1JUE5jVnlzTEVjM1VvYTZoOWF0WklCeDVHcHM1ZDdKWlZLT3RfS0Y5TV9PWF9hX1VmOGdsakhkNlY1ay1WSTBLSm5IZVV4QUVPcnFzTjhsV2hkMFUwMFY4SjNaMA?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "AI broke the job application. What replaces it?",
@@ -1396,48 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 16:10:04 GMT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzNBc3U2RXg4a2M3YWxQNTl3anc3clFXQjV0ZmdKTXJkakNVNnQ5Ym9BQW1vbjk2ZE85a3l5RVp1U3ZxWE1ucWFxY1U3SHdXMzJVNXJBMDhWWDRHQjVFNmFUd0lXa284d1AzVnBRbUlvLWVkaDEwMnZsemZOaFJGeS1TTWh1YVRSM0pHVEduUEpPUUtNTlJPc3JDd29LaFU0eVBUZ2l5T0REeWpoai04?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "M&A deals double, but execution holds the key for investors: Crisil Ratings",
-      "description": "India Inc’s annual M&A volumes have more than doubled since fiscal 2017 as companies pursue faster growth, market expansion and new capabilities. Crisil Ratings found two-thirds of major debt-funded acquisitions broadly met expectations, while integration and regulatory challenges hurt others.",
-      "publication_date": "Wed, 26 Aug 2026 16:09:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil settles down after choppy session as investors weigh Hormuz talks - Reuters",
-      "description": "Oil settles down after choppy session as investors weigh Hormuz talks &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 16:00:11 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Russia's NORSI refinery halts oil processing after drone attack, sources say - Reuters",
-      "description": "Russia's NORSI refinery halts oil processing after drone attack, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 15:47:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzZ3aWF0NnQyOTRSUUdRelZlVC1adElRZzN6Y2o2WUJIcGVCbHg2ZW0tV19SM0MyLVlOYjhVYUNmY1NSRjU0YlVoZnJEM01JbHBMak0weXV1OS14YlcyeGl1cjFmT04xbWhwVF9sTVRsd09wbl9WNFppdFlfTnNJdENCbW90czllY3o2OTd2LUkybG5iUml5a201eFBNQ2d1cU43MEdxMFR2REthZUl2UkJ2VXlSZ0p5dGl0X3ZOUDBIZS1k?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Enbridge to buy Salt Creek Midstream crude gathering assets for $600 million - Reuters",
-      "description": "Enbridge to buy Salt Creek Midstream crude gathering assets for $600 million &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 15:45:34 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnJJZnRRX19BeFMzRms0YXh1a0E3Y0V6QWw5SU0xWjNRam1tZUZ3SVJYMGhCM1cyck9OUmVycktFQ3JzUC11bV9ZRzkzbmh3aGY4WFdPSlhpeWwtX2Q0eVNXbUJQRllnd25pTFY4NzlnVDlpUUkwb3BLeFFrWmRGM09OdFhqcU1iam5fSlNmY1NFUWt1Zk5GdmdLTTYwOVdhSW41dUE5eFhzRHN2QnN6Y0xLR3VDWTVjcnpXaklB?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "German firms report rising cyber threat from foreign intelligence services, study shows - Reuters",
-      "description": "German firms report rising cyber threat from foreign intelligence services, study shows &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 15:43:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEtJSHlyQi1FMExDMHJ6QW9vZEtQTllmYVBHb0RWdWZLOV9uN3A3dEVaNmFJeU1Bakc4TzgtMEUwaDZWa1lTNTVuMjdHdUdKd2M0ai1fLWJidVV6U2E0bVV4YnBzZFNfeVprY1dtVmcteUJwNlR1U2NnWG1yOHNwUXpmTDIwZjB4cUgyX01pOTlNaUJHM1BwSkxHODBqUUpnZ0ZRRVd6RWkyN0dNdV9MWkdVbWF5SnJGUzRXWHB4SkdrRzd3Qm5j?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
-      "description": "The Indian stock markets experienced a shift, dropping from earlier gains with both Sensex and Nifty closing lower. Key decliners included Infosys, Bharti Airtel, and L&T. Meanwhile, Kotak Mahindra Bank's shares surged over three percent, contrasting with the mixed performance of broader markets, where small caps thrived while mid caps faced challenges. Interestingly, despite the main indices' downturn, the market breadth showed a favor for advancing stocks.",
-      "publication_date": "Wed, 26 Aug 2026 15:41:49 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-183-points-nifty-closes-below-24250-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133537326.cms",
-      "source": "rss"
     }
   ]
 }
