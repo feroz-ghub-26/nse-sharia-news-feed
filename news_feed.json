@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:12:02.699377+00:00",
+  "generated_at": "2026-09-30T06:53:33.433796+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,76 @@
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
+      "description": "China’s factory activity returned to growth in September, with the official manufacturing PMI rising above the expansion threshold. Strong production and AI-linked demand supported the rebound, though weak domestic demand, employment and property activity remained concerns.",
+      "publication_date": "Wed, 30 Sep 2026 12:04:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Japan 10-Year bond yield heads for record fifth quarterly gain",
+      "description": "Japan’s 10-year government bond yield is poised for a fifth consecutive quarter of double-digit gains, reflecting global bond-market pressure and concerns over Japan’s fiscal outlook. Mid-term yields are influenced by expectations of a possible October Bank of Japan rate hike, though market-implied odds have declined amid changing U.S. rate expectations and yen pressures.",
+      "publication_date": "Wed, 30 Sep 2026 12:01:37 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-10-year-bond-yield-heads-for-record-fifth-quarterly-gain/articleshow/134583925.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO, largest in Indian private sector renewable energy space",
+      "description": "Inox Clean Energy has filed for a Rs 10,000-crore IPO, comprising a fresh issue of up to Rs 8,000 crore and an OFS of up to Rs 2,000 crore, as it expands its renewable power and solar manufacturing business.",
+      "publication_date": "Wed, 30 Sep 2026 12:00:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-files-drhp-for-rs-10000-crore-ipo-largest-in-indian-private-sector-renewable-energy-space/articleshow/134583774.cms",
+      "source": "rss"
+    },
+    {
+      "title": "TCS, Wipro, other IT stocks rebound up to 6%, snapping 8-day losing streak. Why is Jefferies cautious?",
+      "description": "IT stocks rebounded on Wednesday, with TCS, Wipro and Coforge snapping an eight-session losing streak. The Nifty IT index rose nearly 3%, aided by a stronger US dollar and higher US bond yields, though brokerages remain cautious ahead of the Q2 earnings season.",
+      "publication_date": "Wed, 30 Sep 2026 11:51:29 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-rebound-up-to-6-snapping-8-day-losing-streak-why-is-jefferies-cautious/articleshow/134583730.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Festive crash ahead? Nifty bulls stare at 4 bearish signs as October series begins",
+      "description": "Nifty enters the October series after a 6.7% fall in the September series, its worst in 25 years. Foreign investors sold Rs 25,662 crore of Indian equities, while bearish futures positions increased. The index is also testing its 200-week moving average, making 22,600 a key technical level for investors.",
+      "publication_date": "Wed, 30 Sep 2026 11:41:59 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/festive-crash-ahead-nifty-bulls-stare-at-4-bearish-signs-as-october-series-begins/articleshow/134583571.cms",
+      "source": "rss"
+    },
+    {
+      "title": "STL Networks shares jump 5% after emerging as L1 bidder for RailTel contract worth Rs 250 crore",
+      "description": "STL Networks shares rose 5% after emerging as the lowest bidder for a Rs 249.8 crore RailTel contract to deploy cloud infrastructure at data centre and disaster recovery sites. The company is also planning a wholly owned subsidiary focused on data centres and connectivity. Its stock has gained sharply in recent months.",
+      "publication_date": "Wed, 30 Sep 2026 11:38:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stl-networks-shares-jump-5-after-emerging-as-l1-bidder-for-railtel-contract-worth-rs-250-crore/articleshow/134583391.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
+      "description": "Avalon Technologies shares sharply on Wednesday after an Rs 883 crore block deal involving 6.06% of the company’s equity. Three promoter entities were reported to be the likely sellers. The transaction is estimated to be worth between Rs 861.9 crore and Rs 922 crore.",
+      "publication_date": "Wed, 30 Sep 2026 11:32:08 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-shares-fall-6-after-rs-883-crore-block-deal-3-promoter-entities-likely-sellers/articleshow/134583113.cms",
+      "source": "rss"
+    },
+    {
+      "title": "KSB shares rally 7% after securing Rs 118 crore export order for boiler feed pumps",
+      "description": "KSB shares gained 7% after the company secured a $12.4-million export order from Dangote Projects Free Zone Enterprise for 18 boiler feed pump packages.",
+      "publication_date": "Wed, 30 Sep 2026 11:31:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ksb-shares-rally-7-after-securing-rs-118-crore-export-order-for-boiler-feed-pumps/articleshow/134583189.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Chinese stocks struggle near one-year lows as policy support disappoints",
+      "description": "Chinese blue-chip stocks stayed near one-year lows despite Beijing’s latest credit, mortgage and investment support measures. The CSI 300 was headed for its steepest quarterly decline since 2022, while property and technology shares remained under pressure. Weak domestic demand, subdued trading ahead of the holiday and limited investor confidence continued to weigh on markets.",
+      "publication_date": "Wed, 30 Sep 2026 11:27:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-struggle-near-one-year-lows-as-policy-support-disappoints/articleshow/134583057.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Molbio Diagnostics shares rally 9% as Jefferies initiates 'high conviction top pick' call for recently listed stock. Why is it bullish?",
+      "description": "Molbio Diagnostics shares jumped after Jefferies initiated coverage with a Buy rating and named it a high-conviction top pick. The brokerage set a Rs 1,600 target price, implying 27% upside from Tuesday’s close and nearly 98% above its Rs 807 IPO price. The stock had listed at a 21% premium at Rs 980.",
+      "publication_date": "Wed, 30 Sep 2026 11:24:26 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/molbio-diagnostics-shares-rally-9-as-jefferies-initiates-high-conviction-top-pick-call-for-recently-listed-stock-why-is-it-bullish/articleshow/134582706.cms",
+      "source": "rss"
+    },
     {
       "title": "Why uniQure shares are sinking after AMT-130 update",
       "description": "uniQure shares plunged after four-year data for Huntington’s gene therapy AMT-130 showed weaker disease-progression slowing than earlier results. While 48-month TFC data remained encouraging, the cUHDRS effect was not statistically significant. Investors are now focused on FDA review and whether the therapy’s earlier benefits can demonstrate durability over time.",
@@ -100,6 +170,13 @@
       "description": "Japan’s Nikkei rose 1.3% on Wednesday, led by AI and semiconductor stocks, while banking and shipping shares also advanced. SoftBank, Tokyo Electron and Advantest gained, though overall market breadth remained weak.",
       "publication_date": "Wed, 30 Sep 2026 10:06:40 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-as-ai-stocks-track-us-chip-gains/articleshow/134581624.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Nestle India Share Price Live Updates: Nestle India Stock Performance",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 10:05:19 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-updates-30-sep-2026/liveblog/134581675.cms",
       "source": "rss"
     },
     {
@@ -187,6 +264,13 @@
       "source": "rss"
     },
     {
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Price Analysis",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 09:06:56 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-30-sep-2026/liveblog/134580046.cms",
+      "source": "rss"
+    },
+    {
       "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement Price Analysis",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:06:38 +0530",
@@ -236,6 +320,13 @@
       "source": "rss"
     },
     {
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer's Financial Snapshot",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 08:52:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134579545.cms",
+      "source": "rss"
+    },
+    {
       "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Recent Market Activity",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:51:14 +0530",
@@ -250,7 +341,7 @@
       "source": "rss"
     },
     {
-      "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details",
+      "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Update",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:46:10 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-30-sep-2026/liveblog/134579344.cms",
@@ -572,6 +663,13 @@
       "source": "rss"
     },
     {
+      "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
+      "description": "U.S. Treasury yields were lower on Wednesday after a fresh round of selloffs the previous day, as investors remained concerned about inflation.",
+      "publication_date": "Wed, 30 Sep 2026 06:46:19 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+      "source": "rss"
+    },
+    {
       "title": "Sensex falls over 20% in dollar terms in 2026 as weak sentiment, rupee drag returns",
       "description": "The benchmark Sensex and Nifty have both experienced significant declines in dollar terms this year. Foreign investors have been less interested in Indian equities due to various global factors. The rupee's depreciation has further amplified losses for overseas investors converting Indian investments. Despite the downturn, strong domestic mutual fund inflows have offset foreign portfolio outflows effectively. India's stock market faces challenges in maintaining investor sentiment amidst changing market dynamics.",
       "publication_date": "Wed, 30 Sep 2026 06:31:57 +0530",
@@ -635,11 +733,11 @@
       "source": "rss"
     },
     {
-      "title": "Iran appeals to US voters as American troops leave Iraq - reuters.com",
-      "description": "Iran appeals to US voters as American troops leave Iraq &nbsp;&nbsp; reuters.com",
+      "title": "Iran appeals to US voters as American troops leave Iraq - Reuters",
+      "description": "Iran appeals to US voters as American troops leave Iraq &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 05:07:37 GMT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "AI broke the job application. What replaces it?",
@@ -677,11 +775,11 @@
       "source": "rss"
     },
     {
-      "title": "Indian shares inch higher after recent slide; IT stocks lead - reuters.com",
-      "description": "Indian shares inch higher after recent slide; IT stocks lead &nbsp;&nbsp; reuters.com",
+      "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
+      "description": "Indian shares inch higher after recent slide; IT stocks lead &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 02:24:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Jobs in line as IRDAI commission caps force insurance brokers to rethink models",
@@ -705,11 +803,11 @@
       "source": "rss"
     },
     {
-      "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran - reuters.com",
-      "description": "Oil gains after Trump denies he is willing to ease sanctions on Iran &nbsp;&nbsp; reuters.com",
+      "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran - Reuters",
+      "description": "Oil gains after Trump denies he is willing to ease sanctions on Iran &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 01:39:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
@@ -733,11 +831,11 @@
       "source": "rss"
     },
     {
-      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - reuters.com",
-      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; reuters.com",
+      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
+      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 00:01:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
@@ -1340,104 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 14:31:47 GMT",
       "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
       "source": "rss"
-    },
-    {
-      "title": "Global Market: European shares edge higher as oil prices fall, Nvidia earnings in focus",
-      "description": "European shares edged higher as falling oil prices eased bond yields and supported equities, while investors awaited Nvidia’s quarterly results and fresh US inflation data. The STOXX 600 gained 0.1%, with basic resources leading gains, even as energy stocks lagged amid hopes of a reopening of the Strait of Hormuz.",
-      "publication_date": "Wed, 26 Aug 2026 14:25:48 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-oil-prices-fall-nvidia-earnings-in-focus/articleshow/133535441.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Nine killed in Ukrainian strike on bus in Russian-controlled Luhansk region, Russia says - Reuters",
-      "description": "Nine killed in Ukrainian strike on bus in Russian-controlled Luhansk region, Russia says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 14:18:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzh2UlBSX2tWWENlZVdZVWsyWmpHMW5ieTJDZzdmcXo1Y3hjc1R0UVdSaGFkaGRjQ0J3cWoxd0JKZ1U4WG5fZUpoUXpCX0N0U2NaaTQwTlpiQXRWWTJJOHRldURNRWNIVk5yMEJfczVDS0RsUVM0UXRBNXJDQUtiQ21hOVNMdHdZa0hjbGdoV2FENnR1cHdNWnpSbDBNTzhlWmlFM2VMaDVrYUJYNmE4YXlZelYtX3NyMldsbVFmNURpNmJ2OEE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "10-year Treasury yield is little changed after PCE inflation report is mostly as expected",
-      "description": "Treasury yields were broadly flat on Wednesday, as investors assessed the publication of the Federal Reserve's preferred inflation metric.",
-      "publication_date": "Wed, 26 Aug 2026 14:13:13 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
-      "source": "rss"
-    },
-    {
-      "title": "Six Chinese nationals among seven killed in Russian gas plant fire - Reuters",
-      "description": "Six Chinese nationals among seven killed in Russian gas plant fire &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 14:09:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSy1EQW5PVlpfSUNUNzNTekRBMFVoM0Rjamh3cXlLUVJfMmwxMHZwX1gwRE9fQnRVak40MGg2c1NWUFNiYVUyRWVBcThfSU5sVFVteXZ3SC0tQkt0MmVxenB5VlQ2bjJoTzI5c1o2ejVGYnQ3UGZqLVJjYmNzalp0X1JwNUdja3dQaGJfSmJaeEcxQlg1bDhEY1Z1TVBYMHBsaGt4eF8yWFFHREU2QWVGc3Vlbl9XRDVHUGkwT0JtWXR6RFE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on - Reuters",
-      "description": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 14:05:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Four regional Fed banks backed rate hike ahead of July decision, minutes show",
-      "description": "Four regional Federal Reserve banks backed a 25-basis-point increase in the discount rate ahead of the July policy meeting, minutes showed. The recommendations highlight divisions within the Fed system as policymakers weigh persistent inflation against signs of economic weakness, with markets closely watching for clues on future interest-rate moves.",
-      "publication_date": "Wed, 26 Aug 2026 13:38:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/four-regional-fed-banks-backed-rate-hike-ahead-of-july-decision-minutes-show/articleshow/133534568.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-      "description": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
-      "publication_date": "Wed, 26 Aug 2026 13:35:50 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-      "source": "rss"
-    },
-    {
-      "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
-      "description": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
-      "publication_date": "Wed, 26 Aug 2026 13:35:18 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
-      "source": "rss"
-    },
-    {
-      "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-      "description": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-      "publication_date": "Wed, 26 Aug 2026 13:24:25 GMT",
-      "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "source": "rss"
-    },
-    {
-      "title": "14 midcap stocks crash up to 55% from their peaks. Are you holding any?",
-      "description": "While the Nifty Midcap 150 continues to trade near record levels, several individual midcap stocks have seen sharp declines from their 52-week highs. An analysis of ACE Equity data highlights 14 midcap stocks that have fallen between 30% and 55%, revealing the weakness beneath the index-level resilience.",
-      "publication_date": "Wed, 26 Aug 2026 13:23:16 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-midcap-stocks-crash-up-to-55-from-their-peaks-are-you-holding-any/slideshow/133534547.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Private credit play: Modulus Alternatives’ third fund crosses Rs 300 crore in first close",
-      "description": "Modulus Alternatives has secured over Rs 300 crore in the first close of its third private credit fund, India Credit Opportunities Fund III. The SEBI-registered Category II AIF has a target corpus of Rs 2,000 crore, including a greenshoe option, and will focus on performing credit opportunities across high-growth sectors.",
-      "publication_date": "Wed, 26 Aug 2026 13:20:49 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/aif-pms/private-credit-play-modulus-alternatives-third-fund-crosses-rs-300-crore-in-first-close/articleshow/133534023.cms",
-      "source": "rss"
-    },
-    {
-      "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-      "description": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
-      "publication_date": "Wed, 26 Aug 2026 13:20:34 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
-      "source": "rss"
-    },
-    {
-      "title": "Dmart owner eyes debt market comeback after 7-year hiatus, bankers say",
-      "description": "Avenue Supermarts is preparing to venture into the corporate debt market shortly. The retailer intends to secure around ten billion rupees via bonds with a maximum maturity of three years. Notably, the company last issued bonds back in October 2019. There is significant interest from mutual funds in these investment opportunities.",
-      "publication_date": "Wed, 26 Aug 2026 13:20:22 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-dmart-owner-eyes-debt-market-comeback-after-7-year-hiatus-bankers-say/articleshow/133534011.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Gulf markets mixed as oil slides, investors assess Iran diplomacy - Reuters",
-      "description": "Gulf markets mixed as oil slides, investors assess Iran diplomacy &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 13:20:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3JlYl82UGFSWkd5eTQyMmpXcnI1OV9IQXdoSnBJMkxPTFI1RW5sclRra2hmUDBYMWlkRUx1c0pleTFZXzA0MFQ4R2FSN002bTZ2YmF5VERYOTY2bmFfZld1SVNDRHZ2SHF4LTg1OU5rMmE4ajdtUFN1ZV9IWEo4Q19YT1NGUzhFbThjbnJoeVp4dDFsd1NCcFBFekdfOGtNTWJiM3NmXzdFbGRUdTVCYTV6eGlyel9BRklF?oc=5",
-      "source": "Reuters"
     }
   ]
 }
