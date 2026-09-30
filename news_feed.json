@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:11:22.628716+00:00",
+  "generated_at": "2026-09-30T13:38:09.635169+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,18 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
+    {
+      "title": "Tata Group stock! BofA turns bullish on Trent, initiates coverage with Buy, pegs 17% upside",
+      "description": "BofA Securities initiated coverage on Trent with a Buy rating and Rs 3,075 price target, citing its differentiated retail model, Zudio and Westside growth, integrated technology, supply chain capabilities and long-term market share opportunities.",
+      "publication_date": "Wed, 30 Sep 2026 18:48:56 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stock-bofa-turns-bullish-on-trent-initiates-coverage-with-buy-pegs-17-upside/articleshow/134595513.cms",
+      "source": "rss"
+    },
     {
       "title": "Vera Vita Living to invest Rs 250 cr to build homes for elderly in Hyderabad",
       "description": "Vera Vita Living LLP is set to invest Rs 250 crore in a groundbreaking housing initiative dedicated to senior citizens. The project, which encompasses 256 flats on 2.5 acres near the Kandlakoya reserve forest, addresses the growing need for senior living options in South India, especially in Hyderabad. The company is also exploring expansion into new cities, reflecting shifts in lifestyle and priorities among modern elders.",
@@ -222,6 +229,41 @@
       "source": "rss"
     },
     {
+      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+      "publication_date": "Wed, 30 Sep 2026 13:33:27 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "source": "rss"
+    },
+    {
+      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+      "description": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
+      "publication_date": "Wed, 30 Sep 2026 13:19:37 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+      "source": "rss"
+    },
+    {
+      "title": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' - Reuters",
+      "description": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 13:17:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "description": "Micron reports earnings tonight, and the PCE price index for August came in cooler than expected.",
+      "publication_date": "Wed, 30 Sep 2026 13:15:47 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source": "rss"
+    },
+    {
+      "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+      "description": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
+      "publication_date": "Wed, 30 Sep 2026 13:15:33 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
+      "source": "rss"
+    },
+    {
       "title": "Nifty shorts hit a six-month high in worst September F&O series in 25 years. Time for extra caution?",
       "description": "Nifty’s September derivatives series was the worst in 25 years, with the index falling 6.7% as foreign investors sharply increased bearish bets. FII index shorts hit a six-month high, while stock-futures exposure remained net long. With Nifty near key long-term support and market breadth weakening, analysts advise caution.",
       "publication_date": "Wed, 30 Sep 2026 13:15:23 +0530",
@@ -243,13 +285,6 @@
       "source": "rss"
     },
     {
-      "title": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' - Reuters",
-      "description": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 13:06:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Boeing rises 3% after securing U.S. Navy deal to develop next-generation fighter jet",
       "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
       "publication_date": "Wed, 30 Sep 2026 13:03:11 GMT",
@@ -257,24 +292,10 @@
       "source": "rss"
     },
     {
-      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
-      "description": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
-      "publication_date": "Wed, 30 Sep 2026 13:02:08 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
-      "source": "rss"
-    },
-    {
       "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
       "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
       "publication_date": "Wed, 30 Sep 2026 12:59:56 GMT",
       "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
-      "publication_date": "Wed, 30 Sep 2026 12:59:02 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
       "source": "rss"
     },
     {
@@ -453,6 +474,13 @@
       "source": "rss"
     },
     {
+      "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq - Reuters",
+      "description": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 11:19:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Why uniQure shares are sinking after AMT-130 update",
       "description": "uniQure shares plunged after four-year data for Huntington’s gene therapy AMT-130 showed weaker disease-progression slowing than earlier results. While 48-month TFC data remained encouraging, the cUHDRS effect was not statistically significant. Investors are now focused on FDA review and whether the therapy’s earlier benefits can demonstrate durability over time.",
       "publication_date": "Wed, 30 Sep 2026 11:10:26 +0530",
@@ -495,6 +523,13 @@
       "source": "rss"
     },
     {
+      "title": "Israeli strikes kill five people in Gaza, medics say - Reuters",
+      "description": "Israeli strikes kill five people in Gaza, medics say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 10:50:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamZFVnF3ODVXUkV4Q3ViOWR5aEpob1QzOVJWSTdQQ0otU2p0MkVTaWdJRXVfTU1hUng1eGZ3dkJqVk1JVjZlV0E0WVVUdGV4NzFZNF9OQ1FaRlFHdmJNRUJVNk84UUJNcDN5Nm41UzhhM21qV1NPaDgzMndCQVI1bG42OVBBWU5QWnJLUklLTHR3bmpGUEstano1Q1lwOVl1RDZZcg?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "A visual retrospective of America's two decades in Iraq - Reuters",
       "description": "A visual retrospective of America's two decades in Iraq &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 10:46:11 GMT",
@@ -521,6 +556,13 @@
       "publication_date": "Wed, 30 Sep 2026 10:34:09 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-130-points-nifty-falls-below-22700-amid-cooling-oil-rising-bond-yields-what-lies-ahead/articleshow/134582066.cms",
       "source": "rss"
+    },
+    {
+      "title": "Bank of England sees growing risk that dangers from AI and debt will materialise - Reuters",
+      "description": "Bank of England sees growing risk that dangers from AI and debt will materialise &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 10:28:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDZxOXc0SzIwN2d4Z1p6eDRBOTNfaVlDdFVHSk9LWlZqNk5UUHFwaFEtWDM5VTJFUHFMTFN5bGpaRWZmUldDLW1fQTFTMDlQNGd0QlRHWWxkOFU2SUhUTUtYUUFLZkJhblEwd0xKTnpHLXFDSk1hb1Y0NGJqdzFBVWItVVZjLXd6OUpRbEtHcGRRQmFXZjdlM2tGYzJGaHAyQ0VuM3FkX2dNR1BKMEFQZmwxUkp0NDJxREJLSlhn?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Cupid shares rally 16% in two sessions. What’s behind the sharp uptick in the multibagger stock?",
@@ -737,13 +779,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:00:55 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-30-sep-2026/liveblog/134579814.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
-      "description": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
-      "publication_date": "Wed, 30 Sep 2026 09:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
       "source": "rss"
     },
     {
@@ -1251,10 +1286,10 @@
       "source": "Reuters"
     },
     {
-      "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq - Reuters",
-      "description": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 02:48:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
+      "title": "Australia inflation stubbornly high in August, defying run of rate hikes - Reuters",
+      "description": "Australia inflation stubbornly high in August, defying run of rate hikes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 02:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXp6YWdmekl3NGxvNjlMbEdZN1IzR2M3elhud0Q1Ui1nTXFSN0g0UkJNSWhRM1o0dXlSbXZzNkxVSXRsRVZhb2VqN0hTQVZqeFJxeUJ6RUYzdWU2dHJmWUtxNU5LZ05WVXJQN0FQWEtRTGF0MERBTld1SVFmQ3BmRHpFYzlBLXIxeGFLMkRXZTVqaUU4VU9ZSk50OEhnSVNDdmRwSmR6Y0RUNk80LTFZZGU0dDRBRTBVQjZRYg?oc=5",
       "source": "Reuters"
     },
     {
@@ -1403,41 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 21:53:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODhkU2NQXzFKUnphQ3pUbTJHZXItaE05eEVndERmWEJaMmx1MmFRYkVsWkJlZDBYR3BoUHdpd3h5ejlCX1g1aWh4UkNrUm96TzZQanRxZC1sM2hXZUdCeVVCMXZndkJPYV8yVEFLa05SRGc5RmJ0TE9PdE1yeWt3dTVaazFwYlEzdjlnM1hrSGc2U3FUUGhpZzRNeEpKcTVnV2hqNVJhVjBGMWNueVpBZkpDbFA3YzFuZEdQc0xIWFNOZ1NKRFZiSXJRV2pGZw?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source - Reuters",
-      "description": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 21:36:32 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Next market winners: Jefferies sees potential in data centers as hyperscalers race for AI capacity",
-      "description": "Hyperscalers are accelerating data-centre leasing as power constraints and lengthy development timelines limit supply. North American non-commenced leases reached 25.5 GW in Q2 2026, up sharply year-on-year, with third-party operators expected to deliver an increasing share of future capacity.",
-      "publication_date": "Wed, 26 Aug 2026 21:28:02 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/next-market-winners-jefferies-sees-potential-in-hyperscalers-race-for-ai-capacity-via-data-centers/articleshow/133545549.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
-      "description": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
-      "publication_date": "Wed, 26 Aug 2026 21:27:53 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-      "source": "rss"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "description": "Indian equities reversed morning gains to close sharply lower, with Sensex falling 183 points and Nifty declining 0.52%. IT stocks weakened on visa concerns, offsetting gains in banks and metals. Technical signals pointed to continued range-bound trading and caution.",
-      "publication_date": "Wed, 26 Aug 2026 21:25:03 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133545509.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Market Trading Guide: Ashok Leyland among 2 stock recommendations for Thursday",
-      "description": "Indian markets ended marginally lower as sectoral divergence offset gains in banks and metals. IT stocks weakened on visa appointment concerns, while easing bond yields supported financials. Analysts recommended Ashok Leyland and NMDC, citing strong breakouts and improving technical momentum.",
-      "publication_date": "Wed, 26 Aug 2026 21:22:36 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ashok-leyland-among-2-stock-recommendations-for-thursday/articleshow/133545484.cms",
-      "source": "rss"
     }
   ]
 }
