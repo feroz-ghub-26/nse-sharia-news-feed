@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:08:58.861962+00:00",
+  "generated_at": "2026-09-30T18:41:48.898835+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,11 +34,25 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "US SEC proposes wider retail investor access to private assets amid risk concerns",
+      "description": "The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may lead to higher returns. Critics express concern that this move could expose retail investors to significant risks and fees. Additionally, proposed changes would allow closed-end funds to redeem shares more frequently and offer varied share classes.",
+      "publication_date": "Wed, 30 Sep 2026 23:47:49 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-sec-proposes-wider-retail-investor-access-to-private-assets-amid-risk-concerns/articleshow/134600545.cms",
+      "source": "rss"
+    },
+    {
+      "title": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
+      "description": "ElevenLabs has successfully finalised a notable employee tender offer, achieving a staggering valuation of $22 billion this week. This impressive growth reflects a significant bump from its prior funding round back in February. Noteworthy investors such as Wellington, T. Rowe Price, and Andreessen Horowitz participated. The firm’s voice technology facilitates over 15 million conversations weekly across diverse applications.",
+      "publication_date": "Wed, 30 Sep 2026 23:33:12 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voice-agent-demand/articleshow/134600490.cms",
+      "source": "rss"
+    },
     {
       "title": "US crude oil output rose in July, while petroleum demand declined, EIA says",
       "description": "In July, US crude oil production climbed to 13.95 million barrels per day, up from June’s figures. Despite the production surge, the demand for crude oil and petroleum products dropped to 20.61 million barrels per day. Meanwhile, gross natural gas production reached a remarkable 137.0 billion cubic feet per day, with Texas's output increasing to 40.1 billion cubic feet per day, contrasting slightly with a decline in Pennsylvania.",
@@ -152,6 +166,27 @@
       "source": "rss"
     },
     {
+      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+      "description": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
+      "publication_date": "Wed, 30 Sep 2026 18:24:35 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+      "source": "rss"
+    },
+    {
+      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+      "description": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+      "publication_date": "Wed, 30 Sep 2026 18:17:24 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+      "source": "rss"
+    },
+    {
+      "title": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
+      "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 18:07:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Vera Vita Living to invest Rs 250 cr to build homes for elderly in Hyderabad",
       "description": "Vera Vita Living LLP is set to invest Rs 250 crore in a groundbreaking housing initiative dedicated to senior citizens. The project, which encompasses 256 flats on 2.5 acres near the Kandlakoya reserve forest, addresses the growing need for senior living options in South India, especially in Hyderabad. The company is also exploring expansion into new cities, reflecting shifts in lifestyle and priorities among modern elders.",
       "publication_date": "Wed, 30 Sep 2026 18:02:27 +0530",
@@ -164,6 +199,13 @@
       "publication_date": "Wed, 30 Sep 2026 17:59:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/smartworks-to-get-rs-305-cr-office-rent-from-new-corporate-clients/articleshow/134594227.cms",
       "source": "rss"
+    },
+    {
+      "title": "Israeli strikes kill seven people in Gaza, medics say - Reuters",
+      "description": "Israeli strikes kill seven people in Gaza, medics say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 17:56:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamZFVnF3ODVXUkV4Q3ViOWR5aEpob1QzOVJWSTdQQ0otU2p0MkVTaWdJRXVfTU1hUng1eGZ3dkJqVk1JVjZlV0E0WVVUdGV4NzFZNF9OQ1FaRlFHdmJNRUJVNk84UUJNcDN5Nm41UzhhM21qV1NPaDgzMndCQVI1bG42OVBBWU5QWnJLUklLTHR3bmpGUEstano1Q1lwOVl1RDZZcg?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
@@ -215,13 +257,6 @@
       "source": "rss"
     },
     {
-      "title": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
-      "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 17:28:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Kalshi traders see high odds Anthropic's IPO is announced this year",
       "description": "The higher odds come after the artificial intelligence company reportedly warned investors in its IPO prospectus that its models could be dangerous.",
       "publication_date": "Wed, 30 Sep 2026 17:27:49 GMT",
@@ -248,6 +283,13 @@
       "publication_date": "Wed, 30 Sep 2026 17:25:25 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-mahindra-bank-interglobe-apollo-hospital-max-healthcare-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134593289.cms",
       "source": "rss"
+    },
+    {
+      "title": "Honeywell to help build Dangote's new Kenyan mega-refinery - Reuters",
+      "description": "Honeywell to help build Dangote's new Kenyan mega-refinery &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 17:23:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGRnMGNacGYwUnBWUWFLSUJNb2pMaEhzWVB0eWNMc2VhZ2NxQ1ZmNFJiWmx5Q2pOaTBrV3B4RlhTWVVOT3RDcnlXdk9zWEZta2xicGZlSk5kT1YyQVJNYUw4ZVM2SHI1MGJtUV9tNS1DcHkwaFR6bm9wWGlkNW5GQWRmdzdHS1MwSHpaWlV1OHlXU092SHBhUTFYZ2ltM3ZVTzljSl9qdXdLQQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
@@ -278,11 +320,18 @@
       "source": "rss"
     },
     {
-      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
-      "description": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
-      "publication_date": "Wed, 30 Sep 2026 17:09:59 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
-      "source": "rss"
+      "title": "Israel to ramp up pilot checks after flydubai scare - Reuters",
+      "description": "Israel to ramp up pilot checks after flydubai scare &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 17:14:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Global stocks weather third-quarter AI, bond and crude maelstrom - Reuters",
+      "description": "Global stocks weather third-quarter AI, bond and crude maelstrom &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 17:07:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZjWFpDMnhINXNrdUFFQm50Rjhwc1dLMTRFMTJnU0VSNzgtbDdkS18wTWNGUklqNHAtWnNEM0R0VzYySlR1a3RqZGFMd0pRSnVUd0NzeWREUDFhQVFsVTY4ZVRSNWVuNklsUjJzYTRObHl0NUo0WkRwNFBvUGNNdTBZUlo?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Trump to unveil $200 billion investment in US projects by South Korea, White House says - Reuters",
@@ -311,6 +360,13 @@
       "publication_date": "Wed, 30 Sep 2026 16:36:47 GMT",
       "link": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
       "source": "rss"
+    },
+    {
+      "title": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says - Reuters",
+      "description": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 16:34:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJmckhvcEF2eGlycEZxakpEWU9PdGhueEptR25MUXlsbkJMN0tiS2piSUlkeGtlNkxyaldDNUFNWjFlVGFIU1QzbnU1R1pXSWJnWTh2dDFhS1drZ0JRSHBLaTNJY0hwTXZ2c09hYXI4VlI0ZEhDdFpHRERnMWRTSDQxMHBXVWo1cVRVekpSSVkzQ0ZWMkhyWVRKNTRYc3U0X0pfY2VYNjFHZ0QwdGZQYWZjVENzUmt6MnI3ZlAyNzJpLWdQbDQ1NGd3?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
@@ -374,6 +430,13 @@
       "publication_date": "Wed, 30 Sep 2026 15:54:38 GMT",
       "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "source": "rss"
+    },
+    {
+      "title": "US Senate blocks measure demanding report on rights violations in West Bank - Reuters",
+      "description": "US Senate blocks measure demanding report on rights violations in West Bank &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 15:48:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGhfRnlGRDR1eXJDT3ozZFo3UkRSekVkZ1BnbG91bFdpYmU0TWFxQlVUNXAzZTljYUFDYXNlWFFFLU8yOWlSdWg2X3BZY0kwWDFmaVdtTUd2U0ZBTHdyb0lLMDZrcjV6Q2RiTF91bmtPNUhibE1KSFp0MG5QSHl6dmlWaWtUY3Y1dG11bXg0aTMtb1NyTU1LSFB3VUk0d1drVHVqdlFMQ1ZxMmJpZnEySkpZcXc3TzJSWW55Tmg2OA?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
@@ -583,13 +646,6 @@
       "description": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:36:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE14NjRXSUlvdDN4Q3cwYlBXYkd4dWhaN0hqNlVObWNKXy1Nd2gzUEgyUlNoS3hiSkxBN0JiLXIxX0xaMVJlRUd2MzBRaHVSSzJuNXBMLXRCSzBjUFI3b2FnVV82VDVnZ1ZPZ0c1UGNDY2xTYktBUkhfXy1VbGxJbldiU0Job0lmN1hQX2JONUFMMTZ4TVg2VS1rbldPNFpSQWdmOEdMMTlQQ2lWaDljQ2lnYzBLS1lOb21nTElYLUh3ZngyTjVz?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Israeli strikes kill six people in Gaza, medics say - Reuters",
-      "description": "Israeli strikes kill six people in Gaza, medics say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 13:25:42 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamZFVnF3ODVXUkV4Q3ViOWR5aEpob1QzOVJWSTdQQ0otU2p0MkVTaWdJRXVfTU1hUng1eGZ3dkJqVk1JVjZlV0E0WVVUdGV4NzFZNF9OQ1FaRlFHdmJNRUJVNk84UUJNcDN5Nm41UzhhM21qV1NPaDgzMndCQVI1bG42OVBBWU5QWnJLUklLTHR3bmpGUEstano1Q1lwOVl1RDZZcg?oc=5",
       "source": "Reuters"
     },
     {
@@ -808,13 +864,6 @@
       "publication_date": "Wed, 30 Sep 2026 11:10:26 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-uniqure-shares-are-sinking-after-amt-130-update/slideshow/134583058.cms",
       "source": "rss"
-    },
-    {
-      "title": "Honeywell to help build Dangote's new Kenyan mega-refinery - Reuters",
-      "description": "Honeywell to help build Dangote's new Kenyan mega-refinery &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 11:09:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGRnMGNacGYwUnBWUWFLSUJNb2pMaEhzWVB0eWNMc2VhZ2NxQ1ZmNFJiWmx5Q2pOaTBrV3B4RlhTWVVOT3RDcnlXdk9zWEZta2xicGZlSk5kT1YyQVJNYUw4ZVM2SHI1MGJtUV9tNS1DcHkwaFR6bm9wWGlkNW5GQWRmdzdHS1MwSHpaWlV1OHlXU092SHBhUTFYZ2ltM3ZVTzljSl9qdXdLQQ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO. Check details",
@@ -1389,55 +1438,6 @@
       "publication_date": "Wed, 30 Sep 2026 07:49:47 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlRENUlLb2UyalJZcUdJdjZaZzBUalBVZUdGRFFpNk50Wm1VTTMyQ1RMUkk3RmtfOUtGdlRqcExmSU5MSG5GYVdUbjBBdENwa0RWeU5aYm9xNmZRM05oZktzd1VaMWVodGE5SURGaFBmMTJxQlNaOWdLMVk3dERsV0RGcTJtSTNvRGlqTmQyNGdFT1hRLW1EVzRpcmFPMEcteHNocg?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
-      "description": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
-      "publication_date": "Wed, 30 Sep 2026 07:44:44 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/134577592.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
-      "description": "Robinhood is set to revolutionize trading by offering 24/7 access to select US stocks during weekends, fostering a more flexible investment environment for its users. This move aligns with a growing trend towards longer trading hours. Alongside this, new features will allow betting on corporate earnings and trading perpetual futures.",
-      "publication_date": "Wed, 30 Sep 2026 07:42:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/robinhood-to-allow-24-hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access/articleshow/134577438.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil Price Today (September 30): Crude oil at $104 as Trump rejects easing Iran sanctions. What are experts saying?",
-      "description": "Brent crude futures rose $1.14, or 1.11%, to $103.73, while US West Texas Intermediate crude gained 15 cents, or 0.30%, to $89.50 a barrel. Brent is on track for a monthly gain of around 14%, which would be its biggest rise since July. WTI is set for a 4% monthly increase after earlier crossing $106 a barrel for the first time since May.",
-      "publication_date": "Wed, 30 Sep 2026 07:42:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-30-crude-oil-at-104-as-trump-rejects-easing-iran-sanctions-what-are-experts-saying/articleshow/134577453.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dividends, bonus issues: Last day to buy IGL, Natco Pharma among 7 stocks before record date",
-      "description": "Only those shareholders who hold the shares of these companies in their demat accounts as of Thursday will be eligible, due to SEBI's T+1 settlement norm.",
-      "publication_date": "Wed, 30 Sep 2026 07:40:36 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-bonus-issues-last-day-to-buy-igl-natco-pharma-among-7-stocks-before-record-date/slideshow/134577619.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Gold heads for monthly decline, US inflation data looms",
-      "description": "On Wednesday, gold prices remained stable, although they are poised for a monthly decline. Market participants are scrutinizing US inflation metrics to gauge the Federal Reserve's upcoming policies. The anticipated rise in interest rates is impacting gold alongside other precious metals. Additionally, a significant drop in consumer confidence has emerged amid worries over economic stability and tensions in the Middle East.",
-      "publication_date": "Wed, 30 Sep 2026 07:37:17 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-monthly-decline-us-inflation-data-looms/articleshow/134577383.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dollar set for September rise, mainly at euro's expense",
-      "description": "The dollar is close to a yearly high against the euro, driven by strong US economic growth. Concerns around energy supplies and debt in Europe have added pressure on the euro. Important US economic data is expected to influence interest rate expectations in the near future. Meanwhile, the Australian dollar and New Zealand dollar face challenges against the dollar's strength.",
-      "publication_date": "Wed, 30 Sep 2026 07:33:30 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-set-for-september-rise-mainly-at-euros-expense/articleshow/134577360.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Oil climbs after Trump denies he is willing to ease sanctions on Iran",
-      "description": "Oil prices surged following US President Donald Trump's clear stance of not easing sanctions on Iran. Meanwhile, Qatar voiced optimism for peace discussions between the US and Iran, focusing on finding shared interests. Additionally, September saw a notable rise in crude oil exports from the Middle East. In the US, crude and gasoline inventories increased last week, while distillate stocks fell.",
-      "publication_date": "Wed, 30 Sep 2026 07:31:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-after-trump-denies-he-is-willing-to-ease-sanctions-on-iran/articleshow/134577325.cms",
-      "source": "rss"
     }
   ]
 }
