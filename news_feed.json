@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T19:34:51.805288+00:00",
+  "generated_at": "2026-09-30T20:08:01.018385+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "article_count": 100
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -117,10 +117,52 @@
       "source": "rss"
     },
     {
+      "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 20:03:07 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+      "source": "rss"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+      "description": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.",
+      "publication_date": "Wed, 30 Sep 2026 20:02:41 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "source": "rss"
+    },
+    {
       "title": "Geojit Financial Services reshuffles top deck; Jones George to take over as MD",
       "description": "Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of the company’s succession plan and technology-led growth strategy.",
       "publication_date": "Wed, 30 Sep 2026 19:46:34 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+      "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+      "publication_date": "Wed, 30 Sep 2026 19:46:17 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+      "source": "rss"
+    },
+    {
+      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+      "description": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+      "publication_date": "Wed, 30 Sep 2026 19:44:47 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+      "source": "rss"
+    },
+    {
+      "title": "Senators clinch construction permitting deal before election jet-set",
+      "description": "A legislative deal to ease construction permitting sets up potential action in Congress when lawmakers return after the November election.",
+      "publication_date": "Wed, 30 Sep 2026 19:35:53 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
+      "source": "rss"
+    },
+    {
+      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+      "description": "A Senate subcommittee on Wednesday is examining rogue AI, after a series of AI cyberattacks and increasing warnings about the risks of the technology.",
+      "publication_date": "Wed, 30 Sep 2026 19:34:11 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
       "source": "rss"
     },
     {
@@ -184,13 +226,6 @@
       "description": "Kotak AMC’s Nilesh Shah says public markets can offer opportunities after asset bubbles burst, as distressed valuations emerge. Multiples’ Renuka Ramnath highlights private markets’ greater control, while both stress diversification, liquidity and risk management across investment portfolios.",
       "publication_date": "Wed, 30 Sep 2026 18:53:16 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/where-to-invest-after-an-asset-bubble-bursts-nilesh-shah-of-kotak-makes-the-case-for-public-markets/articleshow/134595580.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-      "description": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
-      "publication_date": "Wed, 30 Sep 2026 18:48:59 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
       "source": "rss"
     },
     {
@@ -345,13 +380,6 @@
       "description": "Renowned investor Jean-Marie Eveillard says value investing requires patience, discipline and the willingness to endure painful periods of underperformance. He argues that investors must accept tracking error and remain focused on valuation, fundamentals and long-term intrinsic value despite shifting market preferences.",
       "publication_date": "Wed, 30 Sep 2026 17:17:58 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-jean-marie-eveillard-if-you-are-a-value-investor-every-now-and-then-you-lag-or-experience-what-consultants-call-tracking-error-it-can-be-very-painful-to-be-a-value-investor-you-have-to-be-willing-to-suffer-pain-/articleshow/134593005.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-      "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
-      "publication_date": "Wed, 30 Sep 2026 17:15:24 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
       "source": "rss"
     },
     {
@@ -1410,34 +1438,6 @@
       "publication_date": "Wed, 30 Sep 2026 08:04:03 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-30-sep-2026/liveblog/134577813.cms",
       "source": "rss"
-    },
-    {
-      "title": "Singapore's Temasek to open Riyadh, Abu Dhabi offices in Middle East expansion - Reuters",
-      "description": "Singapore's Temasek to open Riyadh, Abu Dhabi offices in Middle East expansion &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 08:03:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2V0TVBUV1ZJd2szdmxYM0c0a0twRU9rakZpQ1FYWE1tTzNuV2s3dlloZkxMS240bjcxZFJUTGFJNDNBN2NRa2FyQjA0bXo1SUQxUmpqVXVDeXJTSHVUdlJuc0Y0WTFiX2otalJIb294QXJRcXVGS2FPT2pUSDJkSGdPOTJjRWJGY0tQTmdkRlVtY0M1ajNmTmU5a2diSG5TR0xBOHBaSUF4akRBQzh5c05oSlctbUdZbzdvOGhnd1VXQkE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel Reports Weekly Losses",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:03:16 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-live-updates-30-sep-2026/liveblog/134577783.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Elevate Campuses shares to list today: Check GMP ahead of debut",
-      "description": "The Rs 2,100-crore Elevate Campuses IPO has a price band of Rs 343-362 per share. The book-built issue comprises an entirely fresh issue of 5.80 crore equity shares aggregating to Rs 2,100 crore, with no offer-for-sale (OFS) component.",
-      "publication_date": "Wed, 30 Sep 2026 08:01:16 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/elevate-campuses-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134577668.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Russia extends diesel export ban until end of October - Reuters",
-      "description": "Russia extends diesel export ban until end of October &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 07:49:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlRENUlLb2UyalJZcUdJdjZaZzBUalBVZUdGRFFpNk50Wm1VTTMyQ1RMUkk3RmtfOUtGdlRqcExmSU5MSG5GYVdUbjBBdENwa0RWeU5aYm9xNmZRM05oZktzd1VaMWVodGE5SURGaFBmMTJxQlNaOWdLMVk3dERsV0RGcTJtSTNvRGlqTmQyNGdFT1hRLW1EVzRpcmFPMEcteHNocg?oc=5",
-      "source": "Reuters"
     }
   ]
 }
