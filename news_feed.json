@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:08:04.104512+00:00",
+  "generated_at": "2026-09-30T04:41:01.893309+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: Yuan heads for seventh straight quarterly gains as exporters boost dollar sales",
+      "description": "China’s yuan strengthened against the dollar, heading for its seventh straight quarterly gain, supported by exporter dollar selling, stronger factory activity and a weaker U.S. currency. The yuan has gained 4.3% this year. Beijing’s latest measures to support infrastructure, technology and housing also improved investor sentiment and economic recovery expectations.",
+      "publication_date": "Wed, 30 Sep 2026 09:45:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-yuan-heads-for-seventh-straight-quarterly-gains-as-exporters-boost-dollar-sales/articleshow/134581144.cms",
+      "source": "rss"
+    },
+    {
+      "title": "LTM among 3 stocks that closed below VWAP",
+      "description": "LTM, ABB India and Kaynes Technology India closed more than 2.5% below their respective VWAPs on September 29.",
+      "publication_date": "Wed, 30 Sep 2026 09:33:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ltm-among-3-stocks-that-closed-below-vwap/slideshow/134581101.cms",
+      "source": "rss"
+    },
     {
       "title": "Global Market: South Korea stocks erase gains as Kospi eyes steepest quarterly fall since 2020",
       "description": "South Korean shares slipped on Wednesday as elevated bond yields pressured sentiment, with the KOSPI heading toward its steepest quarterly decline since early 2020. Foreign investors sold stocks worth 519.1 billion won. Weak factory output, mixed performances among major companies and global rate concerns added to market uncertainty.",
@@ -103,8 +117,8 @@
       "source": "rss"
     },
     {
-      "title": "BSE, Wipro shares in focus as stock exchange replaces IT major on Nifty 50 today. How much inflows, outflows to expect?",
-      "description": "BSE will enter the Nifty 50, replacing Wipro in the semi-annual index rejig, potentially attracting $668 million in inflows. Wipro could face $230 million in outflows after exclusion. BSE has delivered strong long-term gains, while Wipro has declined sharply in 2026 amid pressure on Indian IT stocks and sector concerns.",
+      "title": "BSE enters Nifty 50: Stock drops 4% after Goldman Sachs, BNP Paribas sell shares worth Rs 2,186 crore",
+      "description": "On their debut in the Nifty 50 index, BSE shares saw a significant decline of about 4%. This drop was influenced by Goldman Sachs and BNP Paribas offloading more than 68 lakh shares. In a bid to stabilize the situation, UTI Mutual Fund and Nippon India Mutual Fund collectively bought roughly 52.43 lakh shares.",
       "publication_date": "Wed, 30 Sep 2026 09:05:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-wipro-shares-in-focus-as-stock-exchange-replaces-it-major-on-nifty-50-today-how-much-inflows-outflows-to-expect/articleshow/134579867.cms",
       "source": "rss"
@@ -135,6 +149,13 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:36:50 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134578963.cms",
+      "source": "rss"
+    },
+    {
+      "title": "ITC Share Price Live Updates: ITC's Price Drops Below 20-Day SMA",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 08:35:23 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-30-sep-2026/liveblog/134578909.cms",
       "source": "rss"
     },
     {
@@ -184,6 +205,13 @@
       "description": "The IPOs were open for subscription from September 25 to September 29. The shares are scheduled to be listed on the BSE and NSE on Monday, October 5.",
       "publication_date": "Wed, 30 Sep 2026 08:16:28 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotment-today-orient-cables-german-green-among-4-issues-check-status-gmp-and-listing-date/articleshow/134577904.cms",
+      "source": "rss"
+    },
+    {
+      "title": "BPCL Share Price Live Updates: BPCL's Daily Change Overview",
+      "description": "",
+      "publication_date": "Wed, 30 Sep 2026 08:15:28 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-today-live-updates-30-sep-2026/liveblog/134578217.cms",
       "source": "rss"
     },
     {
@@ -313,7 +341,7 @@
       "source": "rss"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex gains over 150 pts, Nifty above 22,700; TCS up 1%, Adani Ports drops 2%",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex gains over 50 pts, Nifty below 22,700; TCS up 1%, Adani Ports drops 2%",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 07:20:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-kpi-green-share-price-30-september-2026/liveblog/134577279.cms",
@@ -439,13 +467,6 @@
       "source": "Reuters"
     },
     {
-      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
-      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 01:22:32 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
       "description": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
       "publication_date": "Wed, 30 Sep 2026 01:17:39 +0530",
@@ -465,6 +486,13 @@
       "publication_date": "Wed, 30 Sep 2026 00:19:09 GMT",
       "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
       "source": "rss"
+    },
+    {
+      "title": "US forces exit Iraq, emboldening Iran's proxies and Islamic State - Reuters",
+      "description": "US forces exit Iraq, emboldening Iran's proxies and Islamic State &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 00:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
@@ -1409,34 +1437,6 @@
       "description": "South Korean shares edged higher on Wednesday as investors turned cautiously optimistic ahead of Nvidia’s quarterly earnings, with semiconductor stocks leading gains. The KOSPI rose 0.44%, while Samsung Electronics and SK Hynix advanced. Investors are closely watching Nvidia’s results for clues on AI chip demand, infrastructure spending and the sustainability of the broader AI trade.",
       "publication_date": "Wed, 26 Aug 2026 09:38:48 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-rises-as-investors-await-nvidia-results-for-ai-trade-cues/articleshow/133529158.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hy-Tech Engineers IPO Day 3: GMP at 57%, Issue subscribed 51 times",
-      "description": "The Hy-Tech Engineers IPO entered its third day of bidding on August 26, with the issue subscribed 51 times by the end of Day 3. Retail investors led the demand, while the IPO’s grey market premium of Rs 30 indicated a potential 57% listing premium. Anand Rathi Research has assigned a “Subscribe - Long Term” rating to the issue, citing the company’s growth prospects and reasonable valuation.",
-      "publication_date": "Wed, 26 Aug 2026 09:35:11 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-day-3-gmp-at-57-subscription-reaches-19-33x-should-you-subscribe/articleshow/133529025.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
-      "description": "Haidilao shares rose after results showed strong growth in delivery and newer restaurant formats, even as revenue from its core hotpot restaurants declined.",
-      "publication_date": "Wed, 26 Aug 2026 09:35:08 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
-      "source": "rss"
-    },
-    {
-      "title": "Taiwan president pushes $6.6 billion military drone bill ahead of crucial vote - Reuters",
-      "description": "Taiwan president pushes $6.6 billion military drone bill ahead of crucial vote &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 09:32:49 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWURXaXY3d1JjbWgzczM1QzB2M2JDMkppQm5BNzBqYnRYRzZDVjFTRGNCU3F3amMweDU0NjlBUWxwWXNQWTRDVlJ3aVJqa1NwQ1VUMmlQVVU2U2hzWDl5Z0p0d0J4VU1XblRoeWkzSC05eEk4bWpxWk0ybERHMXpfQnhxVUliUmhDTDVydlk0dlhjaE1PandyOWs1LUJGNS0xZmxwVV9UeFljc1dwVDItYzlXOUxndUZzUkZDWFBn?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Sensex rises over 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
-      "description": "On Wednesday, Indian stock markets rallied, buoyed by a decrease in oil prices and renewed optimism surrounding the reopening of the Strait of Hormuz, following a resumption of talks with Iran. Both the Sensex and Nifty indices showed positive momentum, with broader market metrics also trending upward, reflecting a hopeful sentiment among investors amid the fluctuating oil landscape.",
-      "publication_date": "Wed, 26 Aug 2026 09:26:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
       "source": "rss"
     }
   ]
