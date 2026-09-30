@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:07:57.383286+00:00",
+  "generated_at": "2026-09-30T14:40:05.611290+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "Geojit Financial Services reshuffles top deck; Jones George to take over as MD",
+      "description": "Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of the company’s succession plan and technology-led growth strategy.",
+      "publication_date": "Wed, 30 Sep 2026 19:46:34 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US stocks: US market opens higher as soft inflation data eases rate-hike fears",
+      "description": "On Wednesday, major indexes on Wall Street experienced a positive start, buoyed by favorable investor sentiment following a recent inflation report. The Dow Jones Industrial Average increased by 74.9 points, reaching a starting value of 51,424.84. Additionally, both the S&P 500 and Nasdaq Composite reflected the market's optimism about future economic stability.",
+      "publication_date": "Wed, 30 Sep 2026 19:25:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms",
+      "source": "rss"
+    },
+    {
+      "title": "PB Fintech, Wipro among 8 stocks that hit 52-week low and slipped up to 45% in a month",
+      "description": "Eight BSE 100 stocks hit fresh 52-week lows as the Sensex fell 49 points to 72,480. PB Fintech, Havells India, Wipro, Britannia Industries, Tata Consumer Products, Godrej Consumer Products, Hindustan Unilever and ONGC recorded new annual lows.",
+      "publication_date": "Wed, 30 Sep 2026 19:22:56 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-wipro-among-8-stocks-that-hit-52-week-low-and-slipped-up-to-45-in-a-month/slideshow/134596451.cms",
+      "source": "rss"
+    },
     {
       "title": "Nithin Kamath reveals Zerodha's leadership secret: Why the broker rarely hires outsiders for top jobs",
       "description": "Zerodha founder Nithin Kamath says nearly all of the brokerage’s leaders have risen internally, with many joining early in their careers. He also discussed Zerodha’s long-term approach to social impact, questioning whether mandatory CSR spending delivers meaningful outcomes.",
@@ -89,7 +110,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market edge higher as soft inflation data eases rate-hike fears",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market edges higher as soft inflation data eases rate-hike fears",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 17:48:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-treasury-bond-meta-openai-boeing-northrop-grumman-ai-chip-stock-price-news-30th-september-2026/liveblog/134594254.cms",
@@ -194,6 +215,48 @@
       "source": "rss"
     },
     {
+      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+      "publication_date": "Wed, 30 Sep 2026 14:37:01 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "source": "rss"
+    },
+    {
+      "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+      "description": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.",
+      "publication_date": "Wed, 30 Sep 2026 14:32:03 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+      "source": "rss"
+    },
+    {
+      "title": "Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says - Reuters",
+      "description": "Passengers overcame co-pilot who tried to crash flydubai flight, Netanyahu says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 14:31:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+      "description": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "publication_date": "Wed, 30 Sep 2026 14:31:26 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "rss"
+    },
+    {
+      "title": "Boeing secures U.S. Navy deal to develop next-generation fighter jet",
+      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+      "publication_date": "Wed, 30 Sep 2026 14:29:44 GMT",
+      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+      "source": "rss"
+    },
+    {
+      "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+      "description": "Private job creation picked up in September after a brief slowdown.",
+      "publication_date": "Wed, 30 Sep 2026 14:29:08 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
+      "source": "rss"
+    },
+    {
       "title": "14 smallcap stocks defy market selloff, rally up to 105% in 3 month",
       "description": "While the Nifty 50 fell nearly 5% in three months, several small-cap stocks bucked the trend. Fourteen Nifty Smallcap 500 stocks rallied 50-105%, led by Raymond and Welspun Corp.",
       "publication_date": "Wed, 30 Sep 2026 14:22:50 +0530",
@@ -220,6 +283,20 @@
       "publication_date": "Wed, 30 Sep 2026 14:15:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms",
       "source": "rss"
+    },
+    {
+      "title": "Trump's latest global tariffs face trade court challenge",
+      "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
+      "publication_date": "Wed, 30 Sep 2026 14:04:46 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "source": "rss"
+    },
+    {
+      "title": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly - Reuters",
+      "description": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 14:02:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXVTeWJ2RkotMXlVWjlUYkJ1WEpwT0N3dXJlTEJCLURlR1FVbl9Kdzd1MWxtR0lPLWpqM1BTUmFmYTFNRlljajZfZ0dpVERyVEE2aVQwNWluT0p1S01iSWxfaDF2TVJLUk5ZYlcxZmtFZi1MazBlMmpianRCN3MyWkx4eW1hWUtQay0zMzNkaXFsdWVXdkJOSGtHZUhHelZ1cmNEREFHeHNCc3A1N1BBcldpb2dheHJDNjR3bTIzZDJiSDNZQ2JR?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Re-rating on cards for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
@@ -264,13 +341,6 @@
       "source": "rss"
     },
     {
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
-      "publication_date": "Wed, 30 Sep 2026 13:40:09 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
-      "source": "rss"
-    },
-    {
       "title": "We're scooping up shares of 2 stocks that fell victim to a September swoon",
       "description": "Both stocks have pulled back this month, but our reasons for owning them have not changed.",
       "publication_date": "Wed, 30 Sep 2026 13:38:33 GMT",
@@ -283,13 +353,6 @@
       "publication_date": "Wed, 30 Sep 2026 13:36:35 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nse-shares-trade-on-its-own-platform-sebi-chief-says-no-panel-considering-self-trading-in-exchange-shares/articleshow/134586236.cms",
       "source": "rss"
-    },
-    {
-      "title": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' - Reuters",
-      "description": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 13:34:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Israeli strikes kill six people in Gaza, medics say - Reuters",
@@ -341,11 +404,11 @@
       "source": "rss"
     },
     {
-      "title": "Boeing rises 3% after securing U.S. Navy deal to develop next-generation fighter jet",
-      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
-      "publication_date": "Wed, 30 Sep 2026 13:03:11 GMT",
-      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
-      "source": "rss"
+      "title": "Oil gains as stalled US-Iran talks trump supply recovery - Reuters",
+      "description": "Oil gains as stalled US-Iran talks trump supply recovery &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 13:01:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Alphabet stock drops: Google’s latest EU challenge explained",
@@ -383,11 +446,11 @@
       "source": "rss"
     },
     {
-      "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-      "description": "Private job creation picked up in September after a brief slowdown.",
-      "publication_date": "Wed, 30 Sep 2026 12:24:21 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
-      "source": "rss"
+      "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption - Reuters",
+      "description": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 12:24:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1lVNHRnWlpZc2Q4anY4a2dCTndQN3JKSWdTSkVkRGNfdWxra2xlVDAtUGJqOGVBUURGZjh0YUxaSzNpZktWTkFoSG1EUV84SkI5WF9nWVRZXzRNd3pxZWZJOFIwNU5veE9naWlaMGhMV3Vjclc3c3Uzc1pxXzhCaTl4OTktdzVONHlNMTBpYTBBUVRrT3VMeWdyUW1UWUtycWlWa1BtUjdWNjdiV0cxdQ?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "More Americans are tapping investments to pay for spending, analysis finds",
@@ -1356,6 +1419,13 @@
       "source": "rss"
     },
     {
+      "title": "US, Iran separately talk with mediators in latest bid to end war - Reuters",
+      "description": "US, Iran separately talk with mediators in latest bid to end war &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 01:45:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "US stocks: US market ends slightly lower as bond yields hold near multi-decade highs",
       "description": "US stocks closed slightly lower as consumer confidence fell to a significant low not seen in over 12 years. Rising government bond yields have affected investor sentiments before upcoming economic data releases. Reports indicated a decline in job openings and a pessimistic outlook from households regarding the economy. Multiple Federal Reserve officials expressed differing views on the need for future interest rate hikes.",
       "publication_date": "Wed, 30 Sep 2026 01:42:07 +0530",
@@ -1368,76 +1438,6 @@
       "publication_date": "Wed, 30 Sep 2026 01:42:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-slightly-lower-as-bond-yields-hold-near-multi-decade-highs/articleshow/134573718.cms",
       "source": "rss"
-    },
-    {
-      "title": "Oil gains as stalled US-Iran talks trump supply recovery - Reuters",
-      "description": "Oil gains as stalled US-Iran talks trump supply recovery &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 01:39:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
-      "description": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
-      "publication_date": "Wed, 30 Sep 2026 01:17:39 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Goldman Sachs, BNP Paribas divest over 68 lakh BSE shares worth Rs 2,186 crore ahead of Nifty 50 inclusion",
-      "description": "Goldman Sachs and BNP Paribas divested 68.33 lakh shares of BSE through bulk deals on the NSE. The combined sale amounted to approximately Rs 2,186.44 crore and occurred before BSE's entry into the Nifty 50 index. UTI Mutual Fund and Nippon India Mutual Fund purchased a total of 52.43 lakh shares of BSE. BSE shares ended 3.31% higher at Rs 3,200, reflecting significant market interest.",
-      "publication_date": "Wed, 30 Sep 2026 00:54:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-bnp-paribas-divest-over-68-lakh-bse-shares-worth-rs-2186-crore-ahead-of-nifty-50-inclusion/articleshow/134573364.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-      "description": "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability.",
-      "publication_date": "Wed, 30 Sep 2026 00:19:09 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-      "source": "rss"
-    },
-    {
-      "title": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum - Reuters",
-      "description": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 00:01:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
-      "description": "The U.S. may be asking allies to step up their own defense, but it still wants them to align on geopolitical interests.",
-      "publication_date": "Wed, 26 Aug 2026 23:53:45 GMT",
-      "link": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
-      "source": "rss"
-    },
-    {
-      "title": "Rupee slide, valuation rules put foreign asset disclosure scheme out of reach for many",
-      "description": "The rupee's depreciation and strict valuation rules hinder foreign income disclosure. A one-time voluntary disclosure window allows regularization of overseas assets up to one crore. However, many exceed this limit due to currency conversion dates and asset values. Taxpayers explore updated returns and disclosure schemes, risking misrepresentation claims. Clarification on valuation rules is needed for borderline cases and falling-value assets.",
-      "publication_date": "Wed, 26 Aug 2026 23:52:14 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slide-valuation-rules-put-foreign-asset-disclosure-scheme-out-of-reach-for-many/articleshow/133553250.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US corporate profit margins widen to highest on record",
-      "description": "US corporate profit margins reached a record 19.4% in the second quarter, up from 18.2%, as profits jumped nearly 10%. Strong consumer spending and companies passing higher prices on to customers supported earnings. Business investment also remained robust, with nonresidential fixed investment rising at an annualized 8.5% pace.",
-      "publication_date": "Wed, 26 Aug 2026 23:48:45 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-corporate-profit-margins-widen-to-highest-on-record/articleshow/133548769.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Republicans are dismissing affordability. That could be a problem in November",
-      "description": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\"",
-      "publication_date": "Wed, 26 Aug 2026 23:17:46 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
-      "source": "rss"
-    },
-    {
-      "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
-      "description": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 22:50:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
-      "source": "Reuters"
     }
   ]
 }
