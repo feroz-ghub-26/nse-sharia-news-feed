@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:07:53.430922+00:00",
+  "generated_at": "2026-09-30T16:38:47.848575+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -40,6 +40,34 @@
   ],
   "articles": [
     {
+      "title": "Avalon Tech block deal: Promoters divest 6% stake worth Rs 871 crore",
+      "description": "Avalon Technologies saw an Rs 870.6 crore bulk deal as three promoter entities sold 40.08 lakh shares, representing 6% equity. Kotak Mahindra Mutual Fund bought 24.02 lakh shares, while Nomura retained its Buy rating and raised its target price.",
+      "publication_date": "Wed, 30 Sep 2026 21:39:16 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-block-deal-promoters-divest-6-stake-worth-rs-871-crore/articleshow/134598495.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "description": "Indian equities declined for a third straight session, with Sensex losing 49 points and Nifty falling 96 points as rising bond yields weighed on sentiment. Broader markets gained, while analysts highlighted crude prices, inflation and monetary policy uncertainty.",
+      "publication_date": "Wed, 30 Sep 2026 21:26:32 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms",
+      "source": "rss"
+    },
+    {
+      "title": "FII selling worsens; foreign investors pull out Rs 26,000 crore from Indian equities in three days",
+      "description": "Foreign institutional investors sold over Rs 26,000 crore of Indian shares in three sessions, intensifying September’s market correction. High crude prices, elevated US bond yields and a weaker rupee pressured equities, while analysts said selective opportunities are emerging across largecaps.",
+      "publication_date": "Wed, 30 Sep 2026 21:20:46 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Market Trading Guide: JM Financial, IDFC First Bank among 5 stock recommendations for Thursday",
+      "description": "Analysts recommend five stocks for Thursday—JM Financial, IDFC First Bank, Clean Science, City Union Bank and BEML—citing technical signals and support levels. Cautious sentiment persists amid higher oil prices, elevated bond yields, inflation concerns and uncertainty over global monetary policy.",
+      "publication_date": "Wed, 30 Sep 2026 21:13:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jm-financial-idfc-first-bank-among-5-stock-recommendations-for-thursday/slideshow/134598185.cms",
+      "source": "rss"
+    },
+    {
       "title": "Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore",
       "description": "Avalon Technologies saw three of its promoter entities divest a collective 6% stake for a substantial Rs 871 crore via bulk deals, bringing their ownership down from 44.39% to 38.4%. In this strategic move, Kotak Mahindra Mutual Fund bought 24.01 lakh shares priced around Rs 2,171. The deal was struck with share prices fluctuating between Rs 2,171.03 and Rs 2,173.35, while Avalon Technologies closed slightly lower at Rs 2,294.",
       "publication_date": "Wed, 30 Sep 2026 20:55:08 +0530",
@@ -55,7 +83,7 @@
     },
     {
       "title": "US yields pull back as rate hike bets ease after inflation data",
-      "description": "Traders took stock on Wednesday, moderating their forecasts for Federal Reserve rate hikes after the latest inflation figures. Reports showed inflation's increase for August fell short of economists' predictions. As a result, futures contracts adjusted to reflect a less than even chance of a rate hike in October. However, there remains strong anticipation for a rate increase by December, showcasing the market's response to shifting economic trends.",
+      "description": "Yields on 2-year and 10-year US Treasuries fell due to lower-than-expected inflation data. The Personal Consumption Expenditures Price Index rose 0.3% in August, affecting interest rate expectations. Additionally, the US trade deficit in goods widened sharply in August amid rising imports.",
       "publication_date": "Wed, 30 Sep 2026 20:50:52 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
       "source": "rss"
@@ -180,10 +208,45 @@
       "source": "rss"
     },
     {
+      "title": "Quote of the day by Jean Marie Eveillard: \"If you are a value investor, every now and then you lag, or experience what consultants call tracking error. It can be very painful. To be a value investor, you have to be willing to suffer pain.\"",
+      "description": "Renowned investor Jean-Marie Eveillard says value investing requires patience, discipline and the willingness to endure painful periods of underperformance. He argues that investors must accept tracking error and remain focused on valuation, fundamentals and long-term intrinsic value despite shifting market preferences.",
+      "publication_date": "Wed, 30 Sep 2026 17:17:58 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-jean-marie-eveillard-if-you-are-a-value-investor-every-now-and-then-you-lag-or-experience-what-consultants-call-tracking-error-it-can-be-very-painful-to-be-a-value-investor-you-have-to-be-willing-to-suffer-pain-/articleshow/134593005.cms",
+      "source": "rss"
+    },
+    {
+      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+      "description": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
+      "publication_date": "Wed, 30 Sep 2026 16:36:13 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+      "source": "rss"
+    },
+    {
+      "title": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
+      "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 16:23:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
+      "description": "The refunds come after millions of people lost premium subsidies for their health insurance, and right before the midterm elections.",
+      "publication_date": "Wed, 30 Sep 2026 16:19:47 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+      "source": "rss"
+    },
+    {
       "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
       "description": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
-      "publication_date": "Wed, 30 Sep 2026 16:07:28 GMT",
+      "publication_date": "Wed, 30 Sep 2026 16:14:12 GMT",
       "link": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+      "source": "rss"
+    },
+    {
+      "title": "The market search for balance sheet 'cash cows' and 'quality' stocks is changing",
+      "description": "With AI spending consuming the cash of the market's richest companies, balance sheet metrics led by free cash flow are getting more investing attention.",
+      "publication_date": "Wed, 30 Sep 2026 16:09:52 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
       "source": "rss"
     },
     {
@@ -194,6 +257,20 @@
       "source": "rss"
     },
     {
+      "title": "UK links Iran to suspected plot outside airbase used by US bombers - Reuters",
+      "description": "UK links Iran to suspected plot outside airbase used by US bombers &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 16:04:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXZwczdvclVqQk9CUG8tcG81SUlpdmZLcVUtcmxUWW1xLXFQU09BX3FhZ2NkRnlOMUNZaUJiOW4yT09PLVR4TGUxQW9yT2xuOTU5VzY3dVVoeXNhLVRpWTVIU01obUpZd1hKZElLMks0OGRydDRyMFZYTjZ6cWdnbElqbFpLQW5abGx2ZHZlck1ta0ZSNmxn?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+      "description": "The Trump administration announced on Wednesday that it was launching a \"Default Loans Support Center\" for student loan borrowers who've fallen behind.",
+      "publication_date": "Wed, 30 Sep 2026 15:56:15 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+      "source": "rss"
+    },
+    {
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
       "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
       "publication_date": "Wed, 30 Sep 2026 15:54:38 GMT",
@@ -201,11 +278,11 @@
       "source": "rss"
     },
     {
-      "title": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
-      "description": "Passengers overcame pilot who tried to crash flydubai flight, Israel says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 15:47:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
+      "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "publication_date": "Wed, 30 Sep 2026 15:47:42 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html",
+      "source": "rss"
     },
     {
       "title": "Trump's latest global tariffs face trade court challenge",
@@ -236,6 +313,13 @@
       "source": "rss"
     },
     {
+      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power - Reuters",
+      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 15:40:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
       "description": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
       "publication_date": "Wed, 30 Sep 2026 15:36:20 GMT",
@@ -248,6 +332,13 @@
       "publication_date": "Wed, 30 Sep 2026 15:25:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-ease-from-highs-as-rate-hike-bets-cool/articleshow/134590223.cms",
       "source": "rss"
+    },
+    {
+      "title": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - Reuters",
+      "description": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 15:23:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFpGNk5ZNkpKU3hHQ0JreW1HOGw0bzZhNVpoTXM3SnV5cmh3ZFBhNTctYUJVc3FXT3FzNUZHWmpfdlotRU9PdV8xQVZMZTRhMmhiNkZKcUcxa1QyT1FFYWwxWS1DaVRVZ01oSzJzaldkckNRTEl5M2Q3S1dPaERfcnVlemdwaDhTWUJhZGh4LXhaZVo1T3VfeTRZMmtaYmY4WnJmWUhfOTUzcjlfbE1aYUMtakIwNThoTkxldnlBWWZKZ1AxckE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly - Reuters",
@@ -275,13 +366,6 @@
       "description": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
       "publication_date": "Wed, 30 Sep 2026 15:16:17 GMT",
       "link": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-      "source": "rss"
-    },
-    {
-      "title": "Record AI spend is changing the market hunt for 'cash cows' and 'quality' stock investments",
-      "description": "With AI spending consuming the cash of the market's richest companies, balance sheet metrics led by free cash flow are getting more investing attention.",
-      "publication_date": "Wed, 30 Sep 2026 15:15:14 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
       "source": "rss"
     },
     {
@@ -353,13 +437,6 @@
       "publication_date": "Wed, 30 Sep 2026 14:29:44 GMT",
       "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
       "source": "rss"
-    },
-    {
-      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power - Reuters",
-      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 14:28:11 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Bank of England sees growing risk that dangers from AI and debt will materialise - Reuters",
@@ -759,13 +836,6 @@
       "publication_date": "Wed, 30 Sep 2026 10:22:52 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-nears-longest-losing-streak-in-25-years-can-bulls-stop-the-8th-consecutive-weekly-selloff/articleshow/134581896.cms",
       "source": "rss"
-    },
-    {
-      "title": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen - Reuters",
-      "description": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 10:19:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXNvMDhFcWtxb08zQVhCd0RxcXNoQXhOQzUxam9pc2RjSjFoYm81NXkyMFFnUVZKczhZUXJFNlRLVkI5ckV3czhlZlk0Rm1sOHZHa3F5Um96LTB5Z3IyU3VQZlBzUWR5aXR4Y21BWkxTRnlIUW1kZjNVTnl2ZG4yR2hMbDBOWTBxYXo3d1VxMXdEaU1veHpjZ2pLRkxnOW5udkVlak5JV09HZw?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
@@ -1367,76 +1437,6 @@
       "description": "KPIT Technologies faces a substantial 24% decline in stock value, predominantly due to obstacles in the automotive sector. The company's net profit has notably decreased, attributed to project delays and financial cutbacks. Although management forecasts a rebound in the latter half of the year, the September quarter might reflect ongoing weaknesses.",
       "publication_date": "Wed, 30 Sep 2026 06:17:09 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market Today: Asian shares rise as tech stocks lead, bonds in focus",
-      "description": "The MSCI Asia Pacific Index climbed 0.6% with stocks in Japan and South Korea gaining. The moves came after gains for a key gauge of US semiconductor shares, while President Donald Trump rejected regulations on artificial intelligence.",
-      "publication_date": "Wed, 30 Sep 2026 06:14:48 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/articleshow/134576850.cms",
-      "source": "rss"
-    },
-    {
-      "title": "SP Group to raise $125 million via tap issue, Rs 3,250 crore in rupee bonds",
-      "description": "In a significant financial move, Shapoorji Pallonji Group plans to generate $125 million through a tap issue of current dollar bonds, targeting an impressive ₹3,250 crore via unrated rupee-denominated bonds for refinancing purposes. This capital-raising endeavor is likely to finalize by Thursday, with payments assigned for October 1. The influx of interest has led to oversubscription in recent bond offerings, with yield rates ranging from 14% to 18.95%.",
-      "publication_date": "Wed, 30 Sep 2026 06:09:21 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
-      "description": "Indian equity benchmarks faced a decline as both the Nifty 50 and BSE Sensex hit six-month lows. The Nifty 50 saw a drop of 64.05 points, or 0.28%, closing at 22,716.20. Notably, Tata Steel announced a favorable tax order and made significant investments in its subsidiary. Other companies including Poonawalla Fincorp and Cummins India reported various corporate developments affecting their market positions.",
-      "publication_date": "Wed, 30 Sep 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
-      "source": "rss"
-    },
-    {
-      "title": "D-Street set for a cautious opening as GIFT Nifty signals muted start",
-      "description": "Nifty fell significantly, closing at 22,716 after hitting a six-month low during the trading session. Foreign investors continued selling shares, contributing to market volatility, while domestic institutions showed buying interest. The rupee settled marginally higher due to RBI interventions and falling oil prices. Immediate support levels are identified around 22550-22500, with resistance expected at 22800-22900. Market sentiment remains cautious amid ongoing global economic concerns and local selling pressure.",
-      "publication_date": "Wed, 30 Sep 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134571298.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Bond supply may outweigh demand, push yields higher",
-      "description": "Bond yields in India are anticipated to increase in the latter half of this fiscal year. This rise is primarily due to higher government borrowing and ongoing inflationary pressures. Analysts expect demand for government securities to fall significantly short of supply. The trajectory of bond yields will also be heavily influenced by oil prices, particularly if crude stays high.",
-      "publication_date": "Wed, 30 Sep 2026 05:42:16 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/bond-supply-may-outweigh-demand-push-yields-higher/articleshow/134576512.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Investment banks earn Rs 2,274 crore from 81 mainboard IPOs in 2026",
-      "description": "During the initial nine months of 2026, investment banks generated fees totaling ₹2,274 crore by managing 81 mainboard IPOs. This figure showcases a notable uptick in both earnings and amounts raised versus last year. The September quarter alone yielded around ₹1,600 crore, highlighting a remarkable rebound in the primary market.",
-      "publication_date": "Wed, 30 Sep 2026 05:40:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investment-banks-earn-rs-2274-crore-from-81-mainboard-ipos/articleshow/134576533.cms",
-      "source": "rss"
-    },
-    {
-      "title": "202 BSE 500 stocks trade below five-year average valuations",
-      "description": "An analysis indicates that more than 50% of companies within the BSE 500 are trading below their five-year average valuations. Furthermore, close to two-thirds of these organizations have not provided any returns in the past two years. Geopolitical tensions have resulted in marked volatility in energy prices, impacting logistics and commodity costs on a global scale.",
-      "publication_date": "Wed, 30 Sep 2026 05:38:14 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/202-bse-500-stocks-trade-below-five-year-average-valuations/articleshow/134576586.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Man City could face years of legal battles after Premier League verdict, experts say - Reuters",
-      "description": "Man City could face years of legal battles after Premier League verdict, experts say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 05:29:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEtlTUgwdmtZalJqQzdfRTZCdmJPRzN6TWQ2TzVjVFkwdnZLbG5ZZ3BDQjl0OWpXX0FGMTVJbHVleTZuXzJPMEpGM1FCaTJXYVlnMzZFOWFtZ1RzeTJWQ21PcG5OQkYtUVZZMEhSZDVsNVVBSFVWQ3MzUDFpVmxDRjF6enZTa1UtTjFhUW9TZjNtaXE3MFBIS1lXZVc2MnJNR09Gc3FEZ0NiaWdmRkEyVnkwYw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "How the US controls Iraq's oil revenues - Reuters",
-      "description": "How the US controls Iraq's oil revenues &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 05:17:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGpibmlmMTlRdFhRRHZROFhCNERCYTU3ZFBhZHpGTjZwTlVjeTVBUUZ0Vm1JUE5jVnlzTEVjM1VvYTZoOWF0WklCeDVHcHM1ZDdKWlZLT3RfS0Y5TV9PWF9hX1VmOGdsakhkNlY1ay1WSTBLSm5IZVV4QUVPcnFzTjhsV2hkMFUwMFY4SjNaMA?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "AI broke the job application. What replaces it?",
-      "description": "Candidates can use AI to create endless resumes and cover letters. It's forcing businesses to rethink how they hire.",
-      "publication_date": "Wed, 30 Sep 2026 05:00:01 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html",
       "source": "rss"
     }
   ]
