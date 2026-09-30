@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:52:51.351235+00:00",
+  "generated_at": "2026-09-30T13:11:22.628716+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -61,7 +61,7 @@
       "source": "rss"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stock futures edge lower ahead of key inflation report",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market futures extend gains after economic data",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 17:48:14 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-treasury-bond-meta-openai-boeing-northrop-grumman-ai-chip-stock-price-news-30th-september-2026/liveblog/134594254.cms",
@@ -236,6 +236,48 @@
       "source": "rss"
     },
     {
+      "title": "Micron earnings hit Wall Street after the bell. Here's how options traders are positioned into the report",
+      "description": "In the near term, the market needs to get through Micron earnings. The good news is options traders think it could be a slam dunk.",
+      "publication_date": "Wed, 30 Sep 2026 13:07:28 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
+      "source": "rss"
+    },
+    {
+      "title": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' - Reuters",
+      "description": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 13:06:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Boeing rises 3% after securing U.S. Navy deal to develop next-generation fighter jet",
+      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+      "publication_date": "Wed, 30 Sep 2026 13:03:11 GMT",
+      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+      "source": "rss"
+    },
+    {
+      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+      "description": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
+      "publication_date": "Wed, 30 Sep 2026 13:02:08 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+      "source": "rss"
+    },
+    {
+      "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
+      "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
+      "publication_date": "Wed, 30 Sep 2026 12:59:56 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+      "source": "rss"
+    },
+    {
+      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+      "publication_date": "Wed, 30 Sep 2026 12:59:02 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "source": "rss"
+    },
+    {
       "title": "Alphabet stock drops: Google’s latest EU challenge explained",
       "description": "Alphabet stock, Google, EU regulations, Digital Markets Act, AI services, Android, search data, competition, regulatory pressure, privacy concerns, Google appeal, investor concerns, AI growth, market uncertainty",
       "publication_date": "Wed, 30 Sep 2026 12:54:05 +0530",
@@ -254,13 +296,6 @@
       "description": "Holiday retail sales are expected to grow this holiday season and top $1 trillion for the first time, though that growth is boosted by inflation.",
       "publication_date": "Wed, 30 Sep 2026 12:48:46 GMT",
       "link": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
-      "source": "rss"
-    },
-    {
-      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
-      "description": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
-      "publication_date": "Wed, 30 Sep 2026 12:48:05 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
       "source": "rss"
     },
     {
@@ -285,13 +320,6 @@
       "source": "rss"
     },
     {
-      "title": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' - Reuters",
-      "description": "Israeli officials say diverted flydubai incident may be attempted 'terror attack' &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 12:27:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
       "description": "Private job creation picked up in September after a brief slowdown.",
       "publication_date": "Wed, 30 Sep 2026 12:24:21 GMT",
@@ -303,13 +331,6 @@
       "description": "Across all age and income groups examined in new research, the share of individuals transferring money from investment accounts to checking accounts has risen.",
       "publication_date": "Wed, 30 Sep 2026 12:15:02 GMT",
       "link": "https://www.cnbc.com/2026/09/30/more-americans-tap-investment-accounts-to-fund-spending-analysis.html",
-      "source": "rss"
-    },
-    {
-      "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
-      "description": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
-      "publication_date": "Wed, 30 Sep 2026 12:09:16 GMT",
-      "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
       "source": "rss"
     },
     {
@@ -338,13 +359,6 @@
       "description": "Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market with Dots.",
       "publication_date": "Wed, 30 Sep 2026 12:04:46 GMT",
       "link": "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
-      "source": "rss"
-    },
-    {
-      "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
-      "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
-      "publication_date": "Wed, 30 Sep 2026 12:02:39 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
       "source": "rss"
     },
     {
@@ -411,13 +425,6 @@
       "source": "rss"
     },
     {
-      "title": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
-      "description": "In the near term, the market needs to get through Micron earnings. The good news is options traders think it could be a slam dunk.",
-      "publication_date": "Wed, 30 Sep 2026 11:34:45 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
-      "source": "rss"
-    },
-    {
       "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
       "description": "Avalon Technologies shares sharply on Wednesday after an Rs 883 crore block deal involving 6.06% of the company’s equity. Three promoter entities were reported to be the likely sellers. The transaction is estimated to be worth between Rs 861.9 crore and Rs 922 crore.",
       "publication_date": "Wed, 30 Sep 2026 11:32:08 +0530",
@@ -457,6 +464,13 @@
       "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 11:09:59 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Honeywell to help build Dangote's new Kenyan mega-refinery - Reuters",
+      "description": "Honeywell to help build Dangote's new Kenyan mega-refinery &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 11:09:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGRnMGNacGYwUnBWUWFLSUJNb2pMaEhzWVB0eWNMc2VhZ2NxQ1ZmNFJiWmx5Q2pOaTBrV3B4RlhTWVVOT3RDcnlXdk9zWEZta2xicGZlSk5kT1YyQVJNYUw4ZVM2SHI1MGJtUV9tNS1DcHkwaFR6bm9wWGlkNW5GQWRmdzdHS1MwSHpaWlV1OHlXU092SHBhUTFYZ2ltM3ZVTzljSl9qdXdLQQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1188,6 +1202,13 @@
       "source": "rss"
     },
     {
+      "title": "Man City could face years of legal battles after Premier League verdict, experts say - Reuters",
+      "description": "Man City could face years of legal battles after Premier League verdict, experts say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 05:29:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEtlTUgwdmtZalJqQzdfRTZCdmJPRzN6TWQ2TzVjVFkwdnZLbG5ZZ3BDQjl0OWpXX0FGMTVJbHVleTZuXzJPMEpGM1FCaTJXYVlnMzZFOWFtZ1RzeTJWQ21PcG5OQkYtUVZZMEhSZDVsNVVBSFVWQ3MzUDFpVmxDRjF6enZTa1UtTjFhUW9TZjNtaXE3MFBIS1lXZVc2MnJNR09Gc3FEZ0NiaWdmRkEyVnkwYw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "How the US controls Iraq's oil revenues - Reuters",
       "description": "How the US controls Iraq's oil revenues &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 05:17:00 GMT",
@@ -1417,27 +1438,6 @@
       "publication_date": "Wed, 26 Aug 2026 21:22:36 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ashok-leyland-among-2-stock-recommendations-for-thursday/articleshow/133545484.cms",
       "source": "rss"
-    },
-    {
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
-      "publication_date": "Wed, 26 Aug 2026 21:17:46 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
-      "source": "rss"
-    },
-    {
-      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
-      "publication_date": "Wed, 26 Aug 2026 21:17:34 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-      "source": "rss"
-    },
-    {
-      "title": "Advisers launch committee in push to organize Venezuela commercial creditors - Reuters",
-      "description": "Advisers launch committee in push to organize Venezuela commercial creditors &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 21:10:45 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3RVVlJMd2RIMHBXT0NyNGMzOGNBaXZvMV82Nm1HajNUUkg5d1phQld0OFVWNDQtUnpYakVDVV9LTDlMNFlCRFM4d2RkQU5kNVlwVnNzYUROQkdQeXFtSXhyRFRvSXZpSmJhVFI2czRMOHZzbl95dmxfNkt3dkFVMW5GODJXdkh5dkRaUkxBX1lDMGZiVlQzWk1SdjlzRFRORVNlYkxXOWdyTDVfLTdvWk9Xb2gtUDVYNHNTQURiZw?oc=5",
-      "source": "Reuters"
     }
   ]
 }
