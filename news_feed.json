@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:07:09.888089+00:00",
+  "generated_at": "2026-09-30T10:38:20.186454+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -39,6 +39,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Global Market: Eurozone bond yields ease from highs as rate-hike bets cool",
+      "description": "Eurozone bond yields eased Wednesday from multi-year highs as investors tempered expectations for further rate hikes. Germany’s 10-year yield fell to 3.57%, while French and Italian borrowing costs also declined but remained sharply higher for September. Falling energy prices and cautious central-bank signals offered relief, ahead of key inflation data.",
+      "publication_date": "Wed, 30 Sep 2026 15:25:47 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-ease-from-highs-as-rate-hike-bets-cool/articleshow/134590223.cms",
+      "source": "rss"
+    },
     {
       "title": "Diwali stock picks: Urban Company among 5 stock ideas from Ambareesh Baliga for up to 38% upside",
       "description": "Baliga has set a target price of Rs 3,420 for Endurance Technologies, compared with its current market price of Rs 2,688, implying an upside of nearly 27%.",
@@ -271,10 +278,45 @@
       "source": "rss"
     },
     {
+      "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+      "description": "Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election.",
+      "publication_date": "Wed, 30 Sep 2026 10:26:39 GMT",
+      "link": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+      "source": "rss"
+    },
+    {
+      "title": "AI's coming roadblock in regulation: Antitrust hawks",
+      "description": "Top AI executives have asked for narrow antitrust exemptions or waivers so they can collaborate on safety.",
+      "publication_date": "Wed, 30 Sep 2026 10:26:36 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/ai-regulation-congress-antitrust.html",
+      "source": "rss"
+    },
+    {
+      "title": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters",
+      "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 10:23:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Nifty nears longest losing streak in 25 years. Can bulls stop the 8th consecutive weekly selloff?",
       "description": "Indian equities face continued pressure from global uncertainty, crude prices and foreign investor outflows, but analysts see domestic resilience and moderating valuations providing support. The Nifty has become relatively cheaper after its recent correction, with earnings still growing. However, the near-term outlook hinges on the index holding 22,600 and attracting sustained buying to prevent an eighth consecutive weekly decline.",
       "publication_date": "Wed, 30 Sep 2026 10:22:52 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-nears-longest-losing-streak-in-25-years-can-bulls-stop-the-8th-consecutive-weekly-selloff/articleshow/134581896.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
+      "description": "Yorkville Ives priced a fund aiming to give investors access to the private companies helping develop artificial intelligence.",
+      "publication_date": "Wed, 30 Sep 2026 10:21:38 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
+      "source": "rss"
+    },
+    {
+      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+      "description": "The lawsuit appears to be the first publicly reported case seeking to hold an AI developer liable for an incident caused by rogue systems.",
+      "publication_date": "Wed, 30 Sep 2026 10:16:36 GMT",
+      "link": "https://www.cnbc.com/2026/09/30/openai-sued-cyberattack.html",
       "source": "rss"
     },
     {
@@ -313,11 +355,18 @@
       "source": "rss"
     },
     {
-      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Current Market Status",
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv ends the trading session at Rs 1727.9",
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:55:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134581429.cms",
       "source": "rss"
+    },
+    {
+      "title": "Germany orders SEFE to buy more gas to shore up winter reserves - Reuters",
+      "description": "Germany orders SEFE to buy more gas to shore up winter reserves &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 09:54:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFJvV2NZQ2FEOWpwQmxnc1NOVGRKOFZ4Tk9jbnMzUjlkZ0FvYmZodl92U0oyQzd2eTFXUjM1cVZxSllxRlVkRGRldTZfbi05QUNJa3U3aFh6VGxOMmp3dVZsZ0Ezajg2TUhBS09rLTk3UDZTSlZnUDAzMGc5eTRXZzJiaGlra2xwMExmNm0wN0hLcXhzMDV5MWVGNlRyZTh0VWtXT2VvbDRqemVLdDlqOA?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US Market: Fed’s Barr backs further rate hikes as inflation risks remain elevated",
@@ -367,6 +416,13 @@
       "publication_date": "Wed, 30 Sep 2026 09:30:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-sme-ipos-to-list-today-liqvd-digital-unitec-fibres-among-most-subscribed-issues/articleshow/134580847.cms",
       "source": "rss"
+    },
+    {
+      "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says - Reuters",
+      "description": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 09:28:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Foreign outflows from Indian stocks hit 6-month high in September on higher oil, yields",
@@ -467,18 +523,18 @@
       "source": "rss"
     },
     {
-      "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says - Reuters",
-      "description": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 09:00:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
       "description": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
       "publication_date": "Wed, 30 Sep 2026 09:00:01 GMT",
       "link": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
       "source": "rss"
+    },
+    {
+      "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - Reuters",
+      "description": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 08:55:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE14NjRXSUlvdDN4Q3cwYlBXYkd4dWhaN0hqNlVObWNKXy1Nd2gzUEgyUlNoS3hiSkxBN0JiLXIxX0xaMVJlRUd2MzBRaHVSSzJuNXBMLXRCSzBjUFI3b2FnVV82VDVnZ1ZPZ0c1UGNDY2xTYktBUkhfXy1VbGxJbldiU0Job0lmN1hQX2JONUFMMTZ4TVg2VS1rbldPNFpSQWdmOEdMMTlQQ2lWaDljQ2lnYzBLS1lOb21nTElYLUh3ZngyTjVz?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Axis Bank Share Price Live Updates: Axis Bank's Price Movement Analysis",
@@ -521,13 +577,6 @@
       "publication_date": "Wed, 30 Sep 2026 08:50:04 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-live-updates-30-sep-2026/liveblog/134579461.cms",
       "source": "rss"
-    },
-    {
-      "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - Reuters",
-      "description": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 08:47:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE14NjRXSUlvdDN4Q3cwYlBXYkd4dWhaN0hqNlVObWNKXy1Nd2gzUEgyUlNoS3hiSkxBN0JiLXIxX0xaMVJlRUd2MzBRaHVSSzJuNXBMLXRCSzBjUFI3b2FnVV82VDVnZ1ZPZ0c1UGNDY2xTYktBUkhfXy1VbGxJbldiU0Job0lmN1hQX2JONUFMMTZ4TVg2VS1rbldPNFpSQWdmOEdMMTlQQ2lWaDljQ2lnYzBLS1lOb21nTElYLUh3ZngyTjVz?oc=5",
-      "source": "Reuters"
     },
     {
       "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Update",
@@ -992,13 +1041,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Dangote to begin construction of $16 billion East Africa refinery in Kenya - Reuters",
-      "description": "Dangote to begin construction of $16 billion East Africa refinery in Kenya &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 03:02:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Iran appeals to US voters as American troops leave Iraq - Reuters",
       "description": "Iran appeals to US voters as American troops leave Iraq &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 02:48:00 GMT",
@@ -1395,48 +1437,6 @@
       "description": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources.",
       "publication_date": "Wed, 26 Aug 2026 18:07:15 GMT",
       "link": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
-      "source": "rss"
-    },
-    {
-      "title": "How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'",
-      "description": "The legendary Dolly Parton inspired women to dream bigger and fight for what they deserve. Female business leaders and workers share what the icon meant to them.",
-      "publication_date": "Wed, 26 Aug 2026 18:04:25 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html",
-      "source": "rss"
-    },
-    {
-      "title": "Haiti's conflict in numbers as gangs inflict another night of terror - Reuters",
-      "description": "Haiti's conflict in numbers as gangs inflict another night of terror &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 18:02:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0Q4UWpZb3VUVjVRaG5PNjNDT0ZRMFVrdDdVWFlEYVJLZGFnYjlaQzQxVUxEWmFfTjlwUHg2d0NnRC1zTkd2N2hGcnJmZlY3eUVBMUVsUXZSY0tWaG9aUmtteXI1ZDBEYUJkT01SVFJtMG82a1VqSzFUei1aNUhBWVlDRmVKSkpkeHpyMVpSWXYzTDZHM09QellzdXhMd3dzdEhPMzVNY3BFenU5NFE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Pentagon official to brief NATO allies as review fuels questions - Reuters",
-      "description": "Pentagon official to brief NATO allies as review fuels questions &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 26 Aug 2026 18:00:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWtsNUtXejhaZE1lREpUYW5SamRHSTNyM0trLW1QWXdxZzY3MUdlVExsVXoxTFA2RVlCS1RyQ0UydW0wN080RzBWcVFnRWVsUV9jNzFWZTNaZlplN1h0X3Fxc3pYSkYtc0JFR3NSUFZ4RFNmb3JxcDg0Q2diSzlHaDVOYThxYWlJTzdwRU1wcVoyNFRvOGRKem5nYW82ZlVidnAxLTBiYkhEaUE?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-      "description": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-      "publication_date": "Wed, 26 Aug 2026 17:54:01 GMT",
-      "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-      "source": "rss"
-    },
-    {
-      "title": "BSE, NSE impose over Rs 59 lakh penalty on NTPC, SJVN, REC for non-compliance",
-      "description": "The BSE and NSE have imposed financial penalties exceeding Rs 59 lakh on three public sector power companies: NTPC, REC, and SJVN. The fines are due to violations related to board composition listing regulations. In their defense, the companies argue that the appointment of directors falls under presidential powers. They are currently seeking waivers for these penalties.",
-      "publication_date": "Wed, 26 Aug 2026 17:45:29 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-nse-impose-over-rs-59-lakh-penalty-on-ntpc-sjvn-rec-for-non-compliance/articleshow/133540750.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today |Highlights: US stocks end near flat as hot inflation data clouds Fed outlook ahead of Nvidia earnings",
-      "description": "",
-      "publication_date": "Wed, 26 Aug 2026 17:44:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-us-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-nvidia-earnings-forecast-fed-rate-intuit-adobe-stock-price-news-26th-august-2026/liveblog/133540745.cms",
       "source": "rss"
     }
   ]
