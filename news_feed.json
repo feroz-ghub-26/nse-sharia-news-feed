@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:37:21.152960+00:00",
+  "generated_at": "2026-10-01T18:09:39.493641+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -98,7 +98,7 @@
     {
       "title": "Trump says he is still considering diesel export ban - Reuters",
       "description": "Trump says he is still considering diesel export ban &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 22:50:17 GMT",
+      "publication_date": "Wed, 30 Sep 2026 22:49:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzJhUjBKWGtXV3haSjJWRVFyS0VjRE1Xb0pSS2NnQUpHeWRFTXd2ZldXd2hxbFhxM1RyWEl0NUltckZaYjV3dW1SZW9ieTdYNWJJTW9jQy00OERwd0xiMk1KWkVqNUJfN3JEUS1qQTM4NE9aS09qbVU5dUc2WnZfalZNYXFDbDNYRTI1eXRvRGhYS3gtUHR5TE9rMThYc0thSVlTTTZjYw?oc=5",
       "source": "Reuters"
     },
