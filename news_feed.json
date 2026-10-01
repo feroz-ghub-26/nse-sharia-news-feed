@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:57:49.153947+00:00",
+  "generated_at": "2026-10-01T02:20:33.466535+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -163,6 +163,13 @@
       "description": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 22:12:58 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Magnitude 5.7 earthquake strikes off coast of Costa Rica, EMSC says - Reuters",
+      "description": "Magnitude 5.7 earthquake strikes off coast of Costa Rica, EMSC says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 22:12:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmEwcUtpbjEteFYxbV9YZG1RVWJKZnhWTi1ydDV2OXdpRUVkWjdPYV9VbS1ZeDJvbVUzVS1Pbk5KNVJQcWx5RFpwd0l4OTlkanM3eHlRTEYxdk5MMUdmeE9ZWlp1RjlHRFBSRjdfRUZnOEZBcURlQVl4ek9xVmZmUDUtMlFlYU85SUU1a0xhVkp2OURobEhwSVp4SW1BWm1HNVY3ZF92Z01udDVkNGM1T09NLUZfQkpOLUZ3?oc=5",
       "source": "Reuters"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:40:25 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-30-sep-2026/liveblog/134579134.cms",
-      "source": "rss"
-    },
-    {
-      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank Stock Details",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:40:11 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-30-sep-2026/liveblog/134579125.cms",
       "source": "rss"
     }
   ]
