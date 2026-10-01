@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T19:05:56.883493+00:00",
+  "generated_at": "2026-10-01T19:35:29.156708+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -240,6 +240,13 @@
       "description": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 21:05:35 GMT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThZWmxxSzE4Q3hOazJLT29OcExPMnFWcGRpTFhGWlkxV2xkbV9qTlB1WDRpWGJKYXJRdk9QR1pKZzlSeENqMnlXbGo0TFI5dERyQlZsVEZubnFLdFNzLVhRQ1ZrdWs3RlZwbC1wYTdlNzhpdjBhdUduTnYyMVJuWjNfTE1FeFZ2Q0ZCaUx0eF9LMUxNWjNFXzIwNA?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Texas US Senate candidate Paxton said Trump hurt Republicans, New York Times says - Reuters",
+      "description": "Texas US Senate candidate Paxton said Trump hurt Republicans, New York Times says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 21:04:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlgwMVdIQTJBVVY4dVFUSWp5R0lLZFBHN1RZTWdIY2ZCT1dsWF9YLXdiVnFnMHg5ZlJmNlJibmRURDVkbm05S1VoSWZ4WmtVSzNEbkVHVklKOWVBdnM4RXo3SmpLZ2RyUzY0R1hoRXpnTlJZckdFNko1ZzlybG9nUlJSbGtxZ1d2SmdlSWVVYk5Ca3llTms1eHFPUmJXX0xhMDVGXzdHeUp1d204Tzhtci1oRWdiT2g2NzNjZUN2b0hSeW8?oc=5",
       "source": "Reuters"
     },
     {
@@ -1430,13 +1437,6 @@
       "description": "PB Fintech shares have plunged 42% in four sessions, wiping out Rs 37,000 crore in market value, following IRDAI’s proposed reforms to curb dark patterns and rationalise insurance commissions. Bernstein, Jefferies and Morgan Stanley have flagged potential pressure on earnings, distribution economics and valuations, with brokerages highlighting risks to health insurance and the POSP business amid regulatory uncertainty.",
       "publication_date": "Wed, 30 Sep 2026 09:02:41 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-cuts-pb-fintech-share-price-target-by-53-more-pressure-after-rs-37000-m-cap-rout/articleshow/134579716.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Divis Labs Share Price Live Updates: Divis Labs Daily Market Update",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 09:00:55 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-30-sep-2026/liveblog/134579814.cms",
       "source": "rss"
     }
   ]
