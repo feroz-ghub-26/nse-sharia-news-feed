@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:21:41.498108+00:00",
+  "generated_at": "2026-10-01T01:33:52.543406+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -432,9 +432,9 @@
       "source": "rss"
     },
     {
-      "title": "Brazil, US set up working group to discuss potential trade agreement - Reuters",
-      "description": "Brazil, US set up working group to discuss potential trade agreement &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 18:18:44 GMT",
+      "title": "Brazil seeks 'full tariff reduction' in US trade pact - Reuters",
+      "description": "Brazil seeks 'full tariff reduction' in US trade pact &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 18:18:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHZ2TEZPbWExLVRlRDJldV9PX3BsaWt0cnpkOFExX2k2ZmJpZjYwRnhLT2pGYmNlSEc3ZndLbXZJZHB4MXNNUVFFa3oxa0tNMTNDWk4wNWpEVlRPSXd1QjZVT1FWNWNnV2xxMWhoc0FySmpVZ3FJWW9DdHNjQUJZTTVBQmt2U3NmM3o0Z0VFcUR5MjFQenUyUElXdFZMQlpKWDQ3WVVwNFpsSnNNRDB1T1ZWUXpDQQ?oc=5",
       "source": "Reuters"
     },
@@ -738,6 +738,13 @@
       "publication_date": "Wed, 30 Sep 2026 14:57:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-mulls-filing-draft-papers-for-1-billion-ipo-in-december/articleshow/134589426.cms",
       "source": "rss"
+    },
+    {
+      "title": "Trump set to unveil $200 billion South Korean investment in US, Bloomberg News reports - Reuters",
+      "description": "Trump set to unveil $200 billion South Korean investment in US, Bloomberg News reports &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 14:53:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjdta3dLZzA5eUF2NVdUY3dwWDRSd212WEVuSXkyNkNPR2FqTDBXcEVPS1dfVHhWZldPMjBlN1c3VklyR29YMExVYmRicUNkRzAxVE1RWWJBeTI5bmFxakJuZnVLcnlUMDc1ckpwYTdIR2ZYZWZ5WGl6bDlua18yUnhJMHRnUTNYYlhBekw4VnhONjdiaFBHdlptalg5YXY0Q05uc3laXzJmSWFxaGk1QUFHdnkxbGpaZElVOHZCM00wVDhXM1dOT0N3?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "German inflation hits highest level in almost 3 years - Reuters",
@@ -1430,13 +1437,6 @@
       "description": "With most SIFs only months old, early performance data offers limited insight into their long-term potential, Kapoor said. While the new category could expand India’s managed-investment market and intensify competition, investors should prioritise simplicity, diversification and cost discipline.",
       "publication_date": "Wed, 30 Sep 2026 08:34:46 +0530",
       "link": "https://economictimes.indiatimes.com/markets/expert-view/sifs-should-be-satellite-holdings-not-the-core-of-portfolios-morningstar-ceo-kunal-kapoor/articleshow/134578699.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
-      "description": "Russia intensifies attacks on Ukraine’s data centers and communications infrastructure, targeting facilities in Kyiv.",
-      "publication_date": "Wed, 30 Sep 2026 08:33:09 GMT",
-      "link": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
       "source": "rss"
     }
   ]
