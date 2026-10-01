@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:12:13.884529+00:00",
+  "generated_at": "2026-10-01T06:55:00.843054+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -831,13 +831,6 @@
       "source": "rss"
     },
     {
-      "title": "Bank of England sees growing risk that dangers from AI and debt will materialise - Reuters",
-      "description": "Bank of England sees growing risk that dangers from AI and debt will materialise &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 14:26:38 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDZxOXc0SzIwN2d4Z1p6eDRBOTNfaVlDdFVHSk9LWlZqNk5UUHFwaFEtWDM5VTJFUHFMTFN5bGpaRWZmUldDLW1fQTFTMDlQNGd0QlRHWWxkOFU2SUhUTUtYUUFLZkJhblEwd0xKTnpHLXFDSk1hb1Y0NGJqdzFBVWItVVZjLXd6OUpRbEtHcGRRQmFXZjdlM2tGYzJGaHAyQ0VuM3FkX2dNR1BKMEFQZmwxUkp0NDJxREJLSlhn?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "14 smallcap stocks defy market selloff, rally up to 105% in 3 month",
       "description": "While the Nifty 50 fell nearly 5% in three months, several small-cap stocks bucked the trend. Fourteen Nifty Smallcap 500 stocks rallied 50-105%, led by Raymond and Welspun Corp.",
       "publication_date": "Wed, 30 Sep 2026 14:22:50 +0530",
@@ -1097,6 +1090,13 @@
       "source": "rss"
     },
     {
+      "title": "Hormel Foods to buy family-owned chicken firm Brakebush for $1.06 billion - Reuters",
+      "description": "Hormel Foods to buy family-owned chicken firm Brakebush for $1.06 billion &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 11:47:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2J6NkxnTmhIcEZSM3hVNTRac2Q2dWRPVTRTamNvVkVsdkM1ZWNVcGFGUE5sdGRVaENNZkhXbW1zRl9MRkxVVk1PUUxsaGxUd25yUVFDWDVsaHF2V2dfVjd6R05YdWZnY1hJWmJVaGwzQTFXcHFSblZmMldTWDg0NmlQTnI3djNJa0NQdDJHZ3Z0bzdLQ3NScUpIVTJlbEMyNlhLajFn?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Festive crash ahead? Nifty bulls face 4 bearish signs as October F&O series begins",
       "description": "Nifty enters the October series after a 6.7% fall in the September series, its worst in 25 years. Foreign investors sold Rs 25,662 crore of Indian equities, while bearish futures positions increased. The index is also testing its 200-week moving average, making 22,600 a key technical level for investors.",
       "publication_date": "Wed, 30 Sep 2026 11:41:59 +0530",
@@ -1293,6 +1293,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Bank of England sees growing risk that dangers from AI and debt will materialise - Reuters",
+      "description": "Bank of England sees growing risk that dangers from AI and debt will materialise &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 09:35:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDZxOXc0SzIwN2d4Z1p6eDRBOTNfaVlDdFVHSk9LWlZqNk5UUHFwaFEtWDM5VTJFUHFMTFN5bGpaRWZmUldDLW1fQTFTMDlQNGd0QlRHWWxkOFU2SUhUTUtYUUFLZkJhblEwd0xKTnpHLXFDSk1hb1Y0NGJqdzFBVWItVVZjLXd6OUpRbEtHcGRRQmFXZjdlM2tGYzJGaHAyQ0VuM3FkX2dNR1BKMEFQZmwxUkp0NDJxREJLSlhn?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "LTM among 3 stocks that closed below VWAP",
       "description": "LTM, ABB India and Kaynes Technology India closed more than 2.5% below their respective VWAPs on September 29.",
       "publication_date": "Wed, 30 Sep 2026 09:33:39 +0530",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:52:24 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-livestock-price-today-live-updates-30-sep-2026/liveblog/134579545.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Market Position Today",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:51:14 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-30-sep-2026/liveblog/134579503.cms",
       "source": "rss"
     }
   ]
