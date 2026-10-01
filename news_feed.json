@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:53:50.321556+00:00",
+  "generated_at": "2026-10-01T03:12:42.641799+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -663,10 +663,10 @@
       "source": "rss"
     },
     {
-      "title": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - Reuters",
-      "description": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 16:20:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFpGNk5ZNkpKU3hHQ0JreW1HOGw0bzZhNVpoTXM3SnV5cmh3ZFBhNTctYUJVc3FXT3FzNUZHWmpfdlotRU9PdV8xQVZMZTRhMmhiNkZKcUcxa1QyT1FFYWwxWS1DaVRVZ01oSzJzaldkckNRTEl5M2Q3S1dPaERfcnVlemdwaDhTWUJhZGh4LXhaZVo1T3VfeTRZMmtaYmY4WnJmWUhfOTUzcjlfbE1aYUMtakIwNThoTkxldnlBWWZKZ1AxckE?oc=5",
+      "title": "FTSE 100 registers monthly decline as oil rally heightens inflation concerns - Reuters",
+      "description": "FTSE 100 registers monthly decline as oil rally heightens inflation concerns &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 16:23:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGVJajIwd0ozSlBjMWFMejVaTEhTYjNSaVpIMmdJUm54NDJIaG9VZDUzVUhLNFZTU2lLUzJwYWQyS0FRcnlXV3lWbGxZZGQ0RFp4Z1Z6LUZZVlMzTTJENzNEMDkyMndPRnBpb3FjOHI0R3VTTTNuY1poRTU2cWhzNk9CRjNEUFpwMThLZnVrRnZIVTVyTmw5RS1KSlZNMHFpZE1DazRQdm4tQQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -780,6 +780,13 @@
       "publication_date": "Wed, 30 Sep 2026 14:57:19 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-mulls-filing-draft-papers-for-1-billion-ipo-in-december/articleshow/134589426.cms",
       "source": "rss"
+    },
+    {
+      "title": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - Reuters",
+      "description": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 14:57:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFpGNk5ZNkpKU3hHQ0JreW1HOGw0bzZhNVpoTXM3SnV5cmh3ZFBhNTctYUJVc3FXT3FzNUZHWmpfdlotRU9PdV8xQVZMZTRhMmhiNkZKcUcxa1QyT1FFYWwxWS1DaVRVZ01oSzJzaldkckNRTEl5M2Q3S1dPaERfcnVlemdwaDhTWUJhZGh4LXhaZVo1T3VfeTRZMmtaYmY4WnJmWUhfOTUzcjlfbE1aYUMtakIwNThoTkxldnlBWWZKZ1AxckE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Trump set to unveil $200 billion South Korean investment in US, Bloomberg News reports - Reuters",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:46:10 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-30-sep-2026/liveblog/134579344.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hindalco Share Price Live Updates: Hindalco's Current Trading Status",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:45:21 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-30-sep-2026/liveblog/134579318.cms",
       "source": "rss"
     }
   ]
