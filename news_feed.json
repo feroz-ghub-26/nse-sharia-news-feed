@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:20:33.466535+00:00",
+  "generated_at": "2026-10-01T02:53:50.321556+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -332,6 +332,13 @@
       "publication_date": "Wed, 30 Sep 2026 20:15:48 GMT",
       "link": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
       "source": "rss"
+    },
+    {
+      "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic - Reuters",
+      "description": "Russia sends nuclear warning to NATO as tensions rise in the Baltic &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 20:11:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTJVNU5aaklYSDNsWXRMMUVBd2VwaVlhYWtMUzBFSlNCM3dFM2swcENVd3hSOTA1ZEdpUjRtYmVLY0lfNWdfVmM3cW1KNUIxaURqcGNyeTB4djQ3Nkc3c2Z5ME5aN1BXNWlla1ZJQkF2US03X0lmeHNiTEJjblpYTVJMY19wSzlBenJkdGdqNnlEblFhNHItQjBXWWlya0hmQXZPY3YxbnRHVWpBM29fQjFJWUMyTzlJUkE?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Seven people killed, four injured after bus attacked by gunfire in Syria's Homs - Reuters",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:45:21 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-30-sep-2026/liveblog/134579318.cms",
-      "source": "rss"
-    },
-    {
-      "title": "HCL Tech Share Price Live Updates: HCL Tech Trading Insights",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:40:25 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-30-sep-2026/liveblog/134579134.cms",
       "source": "rss"
     }
   ]
