@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:07:25.469819+00:00",
+  "generated_at": "2026-10-01T10:37:33.338516+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1279,6 +1279,13 @@
       "source": "rss"
     },
     {
+      "title": "PODCAST: Fresh tremors - Reuters",
+      "description": "PODCAST: Fresh tremors &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 09:48:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWllVmNXcV9OTTdadTVmX2ZZZjBIWlhhMGREQks0VnpXN2hUNnRhWjMwaEVaX1lXd1hOckd3eURuQ1NwUEhKSXdFMFNHa2F0cFpKV29hUm9nQXkzUDVxZ2ZwamJiOVh1WnItMnZNbndsMDZLYUN4bnFzTnpoOEdoWnNvaHU?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
       "description": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
       "publication_date": "Wed, 30 Sep 2026 09:45:54 GMT",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:54:07 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-30-sep-2026/liveblog/134579618.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Kirloskar Oil Engines among 5 stocks with RSI trending up",
-      "description": "Five Nifty500 stocks showed strengthening RSI momentum on September 29, led by Kirloskar Oil Engines, Cupid, TD Power Systems, Vedanta Power and Kirloskar Brothers, with RSI levels crossing above 50.",
-      "publication_date": "Wed, 30 Sep 2026 08:52:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kirloskar-oil-engines-among-5-stocks-with-rsi-trending-up/slideshow/134579659.cms",
       "source": "rss"
     }
   ]
