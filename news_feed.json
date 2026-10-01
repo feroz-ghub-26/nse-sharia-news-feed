@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:49:10.699328+00:00",
+  "generated_at": "2026-10-01T13:09:33.553340+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 50
+      "article_count": 48
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -1034,6 +1034,13 @@
       "source": "rss"
     },
     {
+      "title": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen - Reuters",
+      "description": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 12:11:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXNvMDhFcWtxb08zQVhCd0RxcXNoQXhOQzUxam9pc2RjSjFoYm81NXkyMFFnUVZKczhZUXJFNlRLVkI5ckV3czhlZlk0Rm1sOHZHa3F5Um96LTB5Z3IyU3VQZlBzUWR5aXR4Y21BWkxTRnlIUW1kZjNVTnl2ZG4yR2hMbDBOWTBxYXo3d1VxMXdEaU1veHpjZ2pLRkxnOW5udkVlak5JV09HZw?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
       "description": "CEO Jim Farley's warning comes on the heels of a high-profile visit last week by Chinese President Xi Jinping with President Donald Trump",
       "publication_date": "Wed, 30 Sep 2026 12:05:32 GMT",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 09:00:55 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-live-30-sep-2026/liveblog/134579814.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Axis Bank Share Price Live Updates: Axis Bank's Price Movement Analysis",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:54:07 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-live-30-sep-2026/liveblog/134579618.cms",
       "source": "rss"
     }
   ]
