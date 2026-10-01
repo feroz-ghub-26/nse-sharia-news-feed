@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T03:45:58.081029+00:00",
+  "generated_at": "2026-10-01T04:08:41.759714+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -689,6 +689,13 @@
       "publication_date": "Wed, 30 Sep 2026 16:05:54 +0530",
       "link": "https://economictimes.indiatimes.com/markets/forex/rupee-lingers-around-bottom-of-asia-fx-pile-as-global-headwinds-deepen/articleshow/134591316.cms",
       "source": "rss"
+    },
+    {
+      "title": "Florida lawyer denies submitting ‘AI slop’ in bid to dodge court sanctions - Reuters",
+      "description": "Florida lawyer denies submitting ‘AI slop’ in bid to dodge court sanctions &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 15:59:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlg1RV9MZTFpSG5MbEtlU2NySTMxQXFiTGlXOW5saDVHWFl2WmpPTXpqc0RxYURQQmVxU2EtLXp1M0JFQ1ZESDc3VFlfcG45QmhETHNGckUydUxKQm95VGJ1a3FZVjRtS0dPMWN0X1oyaDFrdzNDd1lyQXU0dHBnUEY3cWtBTHp1dkFXaG0xT0NyTFRuX1pFVHMta0x5LTAzX2I5Uy1oQmFldlFZZnZVUzJtblQwNEtlSHZ3?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
@@ -1430,13 +1437,6 @@
       "description": "",
       "publication_date": "Wed, 30 Sep 2026 08:50:04 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-live-updates-30-sep-2026/liveblog/134579461.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Stock Update",
-      "description": "",
-      "publication_date": "Wed, 30 Sep 2026 08:46:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-30-sep-2026/liveblog/134579344.cms",
       "source": "rss"
     }
   ]
