@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T11:06:21.286169+00:00",
+  "generated_at": "2026-10-02T11:37:22.652887+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 46
+      "article_count": 47
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -395,6 +395,13 @@
       "publication_date": "Wed, 30 Sep 2026 19:21:44 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-reveals-zerodhas-leadership-secret-why-the-broker-rarely-hires-outsiders-for-top-jobs/articleshow/134596089.cms",
       "source": "rss"
+    },
+    {
+      "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters",
+      "description": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 19:19:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "Personal loan growth rises to 16.9% in August: RBI",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 30 Sep 2026 09:35:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDZxOXc0SzIwN2d4Z1p6eDRBOTNfaVlDdFVHSk9LWlZqNk5UUHFwaFEtWDM5VTJFUHFMTFN5bGpaRWZmUldDLW1fQTFTMDlQNGd0QlRHWWxkOFU2SUhUTUtYUUFLZkJhblEwd0xKTnpHLXFDSk1hb1Y0NGJqdzFBVWItVVZjLXd6OUpRbEtHcGRRQmFXZjdlM2tGYzJGaHAyQ0VuM3FkX2dNR1BKMEFQZmwxUkp0NDJxREJLSlhn?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "LTM among 3 stocks that closed below VWAP",
-      "description": "LTM, ABB India and Kaynes Technology India closed more than 2.5% below their respective VWAPs on September 29.",
-      "publication_date": "Wed, 30 Sep 2026 09:33:39 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ltm-among-3-stocks-that-closed-below-vwap/slideshow/134581101.cms",
-      "source": "rss"
     }
   ]
 }
