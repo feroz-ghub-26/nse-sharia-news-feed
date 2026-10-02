@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T08:42:01.671892+00:00",
+  "generated_at": "2026-10-02T09:07:37.522738+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -34,11 +34,18 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
+    {
+      "title": "US second-quarter GDP revised higher amid robust consumer spending - Reuters",
+      "description": "US second-quarter GDP revised higher amid robust consumer spending &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 23:59:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUNjeGFUTWVjeXFTM2tZeExBbEcyLXUyMVIyZDYwV0lyOG45TDRkd0x2NUhrLWxEdVNBUmZ4LXF2clhWRW1hQ0cyalIyQTFJVzBWTG52LU5uX2J6UzVtbDMzaHhwblhxV2VpdUFoVlRrNnQ5aHk2NEVyNWFBZ3paakF5LU15NWtqNzVscVZkYzRQR0hieGFfNzlGZTZSNUxSblFhLWNXUzdaYnJ6dk9WYg?oc=5",
+      "source": "Reuters"
+    },
     {
       "title": "US SEC proposes wider retail investor access to private assets amid risk concerns",
       "description": "The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may lead to higher returns. Critics express concern that this move could expose retail investors to significant risks and fees. Additionally, proposed changes would allow closed-end funds to redeem shares more frequently and offer varied share classes.",
@@ -96,11 +103,11 @@
       "source": "rss"
     },
     {
-      "title": "Trump says he is still considering diesel export ban - reuters.com",
-      "description": "Trump says he is still considering diesel export ban &nbsp;&nbsp; reuters.com",
+      "title": "Trump says he is still considering diesel export ban - Reuters",
+      "description": "Trump says he is still considering diesel export ban &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 22:49:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzJhUjBKWGtXV3haSjJWRVFyS0VjRE1Xb0pSS2NnQUpHeWRFTXd2ZldXd2hxbFhxM1RyWEl0NUltckZaYjV3dW1SZW9ieTdYNWJJTW9jQy00OERwd0xiMk1KWkVqNUJfN3JEUS1qQTM4NE9aS09qbVU5dUc2WnZfalZNYXFDbDNYRTI1eXRvRGhYS3gtUHR5TE9rMThYc0thSVlTTTZjYw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
@@ -180,18 +187,18 @@
       "source": "rss"
     },
     {
-      "title": "What is red-dyed diesel and can it help lower prices, as Trump wants? - reuters.com",
-      "description": "What is red-dyed diesel and can it help lower prices, as Trump wants? &nbsp;&nbsp; reuters.com",
+      "title": "What is red-dyed diesel and can it help lower prices, as Trump wants? - Reuters",
+      "description": "What is red-dyed diesel and can it help lower prices, as Trump wants? &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 21:36:17 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNBOHFnRTAzOVBWcVhfSEhfcWRHbFNBZzRVZzJtQ0twTi03QTloRmhLWTNrVzZzeE9jLWROWlBsNUwzNTlrdlZRaGU5SWJXTFJleEV2a2Y3VWx4dVNLMkRRV1NDNS1jRkdnVFZ4bmNUUjhUaU52NTI3aHVmV1RMRlhJb0tVdkRBUjMwYWg3dXhOWkwwdjNHbWZDOVpPQnNFRzhNdm52LV9XamotRlFHR2V3?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Ukraine urges US to sanction entities supporting Russia's Starlink rival - reuters.com",
-      "description": "Ukraine urges US to sanction entities supporting Russia's Starlink rival &nbsp;&nbsp; reuters.com",
+      "title": "Ukraine urges US to sanction entities supporting Russia's Starlink rival - Reuters",
+      "description": "Ukraine urges US to sanction entities supporting Russia's Starlink rival &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 21:29:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2F1UEFlNnZtbFFEOC12YjNhckZjQ2xLN2RuZGVuNC1GTTJjRUlVUExVOWk4RjJfRU5rYkZDRW1nMkhzUnE2enZyYk9RbGZHSzVGS1RDdTdvWXNoZXFHb3djc1doczdIMWRRTGJHZlR5MDdXYjl2bk5qeTU2VjJYb0gwdUl0ZWtab0NvOF95YzBMQjRDZkNXMDRjak1lQzQyRkJoU3FFemc5TlRibGpzekpvMFdIa1Z4WHh3M3FUT3ZZRHVLaUtMY0NoRQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
@@ -229,11 +236,11 @@
       "source": "rss"
     },
     {
-      "title": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 - reuters.com",
-      "description": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 &nbsp;&nbsp; reuters.com",
+      "title": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 - Reuters",
+      "description": "COMMENTARY: Trading Day: Shrugging off a volatile September, markets shuffle into Q4 &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 21:05:35 GMT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThZWmxxSzE4Q3hOazJLT29OcExPMnFWcGRpTFhGWlkxV2xkbV9qTlB1WDRpWGJKYXJRdk9QR1pKZzlSeENqMnlXbGo0TFI5dERyQlZsVEZubnFLdFNzLVhRQ1ZrdWs3RlZwbC1wYTdlNzhpdjBhdUduTnYyMVJuWjNfTE1FeFZ2Q0ZCaUx0eF9LMUxNWjNFXzIwNA?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Texas US Senate candidate Paxton said Trump hurt Republicans, New York Times says - Reuters",
@@ -243,11 +250,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Bonds post worst month in years; stocks decline for September and oil gains - reuters.com",
-      "description": "Bonds post worst month in years; stocks decline for September and oil gains &nbsp;&nbsp; reuters.com",
+      "title": "Bonds post worst month in years; stocks decline for September and oil gains - Reuters",
+      "description": "Bonds post worst month in years; stocks decline for September and oil gains &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 20:57:35 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkhETkh2bThQM2VXdlJQZHdqOHVHRTFNX2dRMVZVMGhhMzczY0xIYkRfdmVldzNlVFdEbWZTVC1aYW1fekVfOW9Db28yd0czQVk5MURaaWVfNjdTVFVGeE1Dcy16dk9vQmNZb3c2bklRd3l0cTNwQXBqemxxbWxwS3RaYw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore",
@@ -460,18 +467,18 @@
       "source": "rss"
     },
     {
-      "title": "Brazil seeks 'full tariff reduction' in US trade pact - reuters.com",
-      "description": "Brazil seeks 'full tariff reduction' in US trade pact &nbsp;&nbsp; reuters.com",
+      "title": "Brazil seeks 'full tariff reduction' in US trade pact - Reuters",
+      "description": "Brazil seeks 'full tariff reduction' in US trade pact &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 18:18:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHZ2TEZPbWExLVRlRDJldV9PX3BsaWt0cnpkOFExX2k2ZmJpZjYwRnhLT2pGYmNlSEc3ZndLbXZJZHB4MXNNUVFFa3oxa0tNMTNDWk4wNWpEVlRPSXd1QjZVT1FWNWNnV2xxMWhoc0FySmpVZ3FJWW9DdHNjQUJZTTVBQmt2U3NmM3o0Z0VFcUR5MjFQenUyUElXdFZMQlpKWDQ3WVVwNFpsSnNNRDB1T1ZWUXpDQQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "EU's emergency diesel stocks are mainly in Germany and France - reuters.com",
-      "description": "EU's emergency diesel stocks are mainly in Germany and France &nbsp;&nbsp; reuters.com",
+      "title": "EU's emergency diesel stocks are mainly in Germany and France - Reuters",
+      "description": "EU's emergency diesel stocks are mainly in Germany and France &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 18:07:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFTWGFNZ2Rtd1d3UkVxTE1EQ2FxbW0wdGw3ZENrZnhNMllrVm9MeHhuTFk3c0o5VjZ6TTJZQThOSTJCOVMyZTd2SXBNMlRYd2JNODVRRGpqWU85dFlsTG5MbExxUlVEMHBBZmVjSVlxcHdwTFdteHd5UlVTOVVhS1FqblRPNXBKeVM4OWFPeVo5U0VoZUpsQldJNkdTdDU4bENvM0JRcmQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Vera Vita Living to invest Rs 250 cr to build homes for elderly in Hyderabad",
@@ -495,18 +502,18 @@
       "source": "Reuters"
     },
     {
-      "title": "Israeli strikes kill seven people in Gaza, medics say - reuters.com",
-      "description": "Israeli strikes kill seven people in Gaza, medics say &nbsp;&nbsp; reuters.com",
+      "title": "Israeli strikes kill seven people in Gaza, medics say - Reuters",
+      "description": "Israeli strikes kill seven people in Gaza, medics say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:56:22 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamZFVnF3ODVXUkV4Q3ViOWR5aEpob1QzOVJWSTdQQ0otU2p0MkVTaWdJRXVfTU1hUng1eGZ3dkJqVk1JVjZlV0E0WVVUdGV4NzFZNF9OQ1FaRlFHdmJNRUJVNk84UUJNcDN5Nm41UzhhM21qV1NPaDgzMndCQVI1bG42OVBBWU5QWnJLUklLTHR3bmpGUEstano1Q1lwOVl1RDZZcg?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "US dollar flat against peers after softer-than-expected inflation data - reuters.com",
-      "description": "US dollar flat against peers after softer-than-expected inflation data &nbsp;&nbsp; reuters.com",
+      "title": "US dollar flat against peers after softer-than-expected inflation data - Reuters",
+      "description": "US dollar flat against peers after softer-than-expected inflation data &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:52:46 GMT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXZZWnNiSFFfUWVOeFNjX3hjdGxCOHRmWlR4NnMxT1NZUHFLN1pVYV9MajdTTkljQWVOZm55UDR0MTdaN2hScW41Y1Y4TGoxSi1kZTZNdmNpVkFIa2VUSklhSzZPNVdVRUQ3WkNOZG8yUHBiQUVwajlCVGJ2TG1XYlY4R3ZtTmkxWEEyQUoxZmtyQ09JelJfZWlUUQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
@@ -537,11 +544,11 @@
       "source": "rss"
     },
     {
-      "title": "India cuts windfall taxes on diesel, aviation fuel exports - reuters.com",
-      "description": "India cuts windfall taxes on diesel, aviation fuel exports &nbsp;&nbsp; reuters.com",
+      "title": "India cuts windfall taxes on diesel, aviation fuel exports - Reuters",
+      "description": "India cuts windfall taxes on diesel, aviation fuel exports &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:47:42 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWIxeWhFenF6Nm1Vc0VSZWYtMWFacWVTTVczakl0RmJHYUNFWFVSMnRPRU1xd292T29nc3l3WTkzMnpvRl9jWjdLcmpxYmFDcmppeHB3M3ZsWG5FRUoxbHhXRU5fT2JpU25pNTFHQktkX01Ga3h2YmQ0TldwbFF6MllnRUl4TmtEdWFvTWdpMEVwRm5HS2JSLThzcjFfMWNJb1ktTw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "ET Alpha Wealth Summit 2.0: Why next market cycle may need a new playbook",
@@ -593,11 +600,11 @@
       "source": "rss"
     },
     {
-      "title": "Honeywell to help build Dangote's new Kenyan mega-refinery - reuters.com",
-      "description": "Honeywell to help build Dangote's new Kenyan mega-refinery &nbsp;&nbsp; reuters.com",
+      "title": "Honeywell to help build Dangote's new Kenyan mega-refinery - Reuters",
+      "description": "Honeywell to help build Dangote's new Kenyan mega-refinery &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:23:30 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGRnMGNacGYwUnBWUWFLSUJNb2pMaEhzWVB0eWNMc2VhZ2NxQ1ZmNFJiWmx5Q2pOaTBrV3B4RlhTWVVOT3RDcnlXdk9zWEZta2xicGZlSk5kT1YyQVJNYUw4ZVM2SHI1MGJtUV9tNS1DcHkwaFR6bm9wWGlkNW5GQWRmdzdHS1MwSHpaWlV1OHlXU092SHBhUTFYZ2ltM3ZVTzljSl9qdXdLQQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
@@ -621,60 +628,60 @@
       "source": "rss"
     },
     {
-      "title": "Israel to ramp up pilot checks after flydubai scare - reuters.com",
-      "description": "Israel to ramp up pilot checks after flydubai scare &nbsp;&nbsp; reuters.com",
+      "title": "Israel to ramp up pilot checks after flydubai scare - Reuters",
+      "description": "Israel to ramp up pilot checks after flydubai scare &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:09:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Global stocks weather third-quarter AI, bond and crude maelstrom - reuters.com",
-      "description": "Global stocks weather third-quarter AI, bond and crude maelstrom &nbsp;&nbsp; reuters.com",
+      "title": "Global stocks weather third-quarter AI, bond and crude maelstrom - Reuters",
+      "description": "Global stocks weather third-quarter AI, bond and crude maelstrom &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:07:46 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZjWFpDMnhINXNrdUFFQm50Rjhwc1dLMTRFMTJnU0VSNzgtbDdkS18wTWNGUklqNHAtWnNEM0R0VzYySlR1a3RqZGFMd0pRSnVUd0NzeWREUDFhQVFsVTY4ZVRSNWVuNklsUjJzYTRObHl0NUo0WkRwNFBvUGNNdTBZUlo?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Explainer: What is Alaska LNG and why does the project face doubts? - reuters.com",
-      "description": "Explainer: What is Alaska LNG and why does the project face doubts? &nbsp;&nbsp; reuters.com",
+      "title": "Explainer: What is Alaska LNG and why does the project face doubts? - Reuters",
+      "description": "Explainer: What is Alaska LNG and why does the project face doubts? &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 17:05:47 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVFNdVQwUWk4OHBrcVJ6ZDFtZ2JSWW5zbktNX2tUSHRlblR2WDQwUERLZnNNN19fVUp5TXpaMWpHdWpsRm5wVWRHUldocXN4b29Qb3dtMFZwbl93cFdxQ21EbTlJLWtsaE1GVTVNYnFfZmtuNE41ekFOQkhyNFFvMEtUY1F2NElLNXEyaHBNVGt4aW1hWTRJTWw1WnlpU2Mw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Facing climate lawsuits, Big Oil again turns to US Supreme Court - reuters.com",
-      "description": "Facing climate lawsuits, Big Oil again turns to US Supreme Court &nbsp;&nbsp; reuters.com",
+      "title": "Facing climate lawsuits, Big Oil again turns to US Supreme Court - Reuters",
+      "description": "Facing climate lawsuits, Big Oil again turns to US Supreme Court &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 16:41:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamFfZ2NOWFh6ZFZrQXJlOHEzMHZLS1RFSW1OUHk1cjgtUTJYejRQZDh6YzNWaDJkOElNWXBlT3lGRE51YmdfTkZhWUFrMXhHc2RCNm1NcWtoTnhjV05QTmZ3WDZVekVSOHVVbFY0VWlqak5mdUlNR3Qtdk9nUVcxbHlGemtXLWNJXzZFMUdhVjVyWDlDOFBJcU9uMlFOSmhSc0RBVWlMaW1aODY1emxkb29BTQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power - reuters.com",
-      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power &nbsp;&nbsp; reuters.com",
+      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power - Reuters",
+      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 16:37:11 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says - reuters.com",
-      "description": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says &nbsp;&nbsp; reuters.com",
+      "title": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says - Reuters",
+      "description": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 16:34:02 GMT",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJmckhvcEF2eGlycEZxakpEWU9PdGhueEptR25MUXlsbkJMN0tiS2piSUlkeGtlNkxyaldDNUFNWjFlVGFIU1QzbnU1R1pXSWJnWTh2dDFhS1drZ0JRSHBLaTNJY0hwTXZ2c09hYXI4VlI0ZEhDdFpHRERnMWRTSDQxMHBXVWo1cVRVekpSSVkzQ0ZWMkhyWVRKNTRYc3U0X0pfY2VYNjFHZ0QwdGZQYWZjVENzUmt6MnI3ZlAyNzJpLWdQbDQ1NGd3?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "FTSE 100 registers monthly decline as oil rally heightens inflation concerns - reuters.com",
-      "description": "FTSE 100 registers monthly decline as oil rally heightens inflation concerns &nbsp;&nbsp; reuters.com",
+      "title": "FTSE 100 registers monthly decline as oil rally heightens inflation concerns - Reuters",
+      "description": "FTSE 100 registers monthly decline as oil rally heightens inflation concerns &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 16:23:27 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGVJajIwd0ozSlBjMWFMejVaTEhTYjNSaVpIMmdJUm54NDJIaG9VZDUzVUhLNFZTU2lLUzJwYWQyS0FRcnlXV3lWbGxZZGQ0RFp4Z1Z6LUZZVlMzTTJENzNEMDkyMndPRnBpb3FjOHI0R3VTTTNuY1poRTU2cWhzNk9CRjNEUFpwMThLZnVrRnZIVTVyTmw5RS1KSlZNMHFpZE1DazRQdm4tQQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "UK links Iran to suspected plot outside airbase used by US bombers - reuters.com",
-      "description": "UK links Iran to suspected plot outside airbase used by US bombers &nbsp;&nbsp; reuters.com",
+      "title": "UK links Iran to suspected plot outside airbase used by US bombers - Reuters",
+      "description": "UK links Iran to suspected plot outside airbase used by US bombers &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 16:19:05 GMT",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXZwczdvclVqQk9CUG8tcG81SUlpdmZLcVUtcmxUWW1xLXFQU09BX3FhZ2NkRnlOMUNZaUJiOW4yT09PLVR4TGUxQW9yT2xuOTU5VzY3dVVoeXNhLVRpWTVIU01obUpZd1hKZElLMks0OGRydDRyMFZYTjZ6cWdnbElqbFpLQW5abGx2ZHZlck1ta0ZSNmxn?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Bigger loans lift digital lenders’ books 28% as outstanding accounts decline",
@@ -684,11 +691,11 @@
       "source": "rss"
     },
     {
-      "title": "EU aviation agency issues Saudi airspace advisory after Houthi attacks - reuters.com",
-      "description": "EU aviation agency issues Saudi airspace advisory after Houthi attacks &nbsp;&nbsp; reuters.com",
+      "title": "EU aviation agency issues Saudi airspace advisory after Houthi attacks - Reuters",
+      "description": "EU aviation agency issues Saudi airspace advisory after Houthi attacks &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 16:09:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWJfYXZITmYzSU9mUTRTTlBVdm5fWm5IUHE0dWxwY28wR2tqbUI4eGdNTU0tRDJvR2Y4SDFLWlUxUUY4dkdEdzlOcGoyWTcyN3Z0eXc3bzRkQWlEMUZyZE80cXpnZjg0VDZvZXNsRElURDdDTDROOFNEZTAydWRpQkJiX2hfNGQ0UmU1Y2Q2NF92REtqNVExeDFEZVotNmxLZXdRUVlXRzRsTFk2UWJ5REMxZXROSnRnUXI3UHNBQnVFdw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen",
@@ -740,11 +747,11 @@
       "source": "rss"
     },
     {
-      "title": "ADNOC-backed AIQ secures deal to enter Indian energy markets - reuters.com",
-      "description": "ADNOC-backed AIQ secures deal to enter Indian energy markets &nbsp;&nbsp; reuters.com",
+      "title": "ADNOC-backed AIQ secures deal to enter Indian energy markets - Reuters",
+      "description": "ADNOC-backed AIQ secures deal to enter Indian energy markets &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 15:40:24 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTjI0SGhjUTJpcVhiQTU1X0hUOUhidFlSenNERnlXNzBEZGwzVlFid1dLWUQ3ZDBjM2tFTTBaMTlnOEk3aTFYeDVBd3RjWkdYNlFoTTRRejd3ODhEWGZ3Zjh6QWtLVTVqaXYxemNDdVhNSUJUWl9hSm1CdjRZUUNfbjhZU3hFenJtdDNJRFIwQXdjT3Jrc2xYdm9oY3o1bUJXcW1YNjlVejI1TkhlN3BxNg?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Global Market: Eurozone bond yields ease from highs as rate-hike bets cool",
@@ -803,11 +810,11 @@
       "source": "rss"
     },
     {
-      "title": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - reuters.com",
-      "description": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say &nbsp;&nbsp; reuters.com",
+      "title": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - Reuters",
+      "description": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 14:57:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFpGNk5ZNkpKU3hHQ0JreW1HOGw0bzZhNVpoTXM3SnV5cmh3ZFBhNTctYUJVc3FXT3FzNUZHWmpfdlotRU9PdV8xQVZMZTRhMmhiNkZKcUcxa1QyT1FFYWwxWS1DaVRVZ01oSzJzaldkckNRTEl5M2Q3S1dPaERfcnVlemdwaDhTWUJhZGh4LXhaZVo1T3VfeTRZMmtaYmY4WnJmWUhfOTUzcjlfbE1aYUMtakIwNThoTkxldnlBWWZKZ1AxckE?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Trump set to unveil $200 billion South Korean investment in US, Bloomberg News reports - Reuters",
@@ -950,32 +957,32 @@
       "source": "rss"
     },
     {
-      "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - reuters.com",
-      "description": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say &nbsp;&nbsp; reuters.com",
+      "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - Reuters",
+      "description": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:36:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE14NjRXSUlvdDN4Q3cwYlBXYkd4dWhaN0hqNlVObWNKXy1Nd2gzUEgyUlNoS3hiSkxBN0JiLXIxX0xaMVJlRUd2MzBRaHVSSzJuNXBMLXRCSzBjUFI3b2FnVV82VDVnZ1ZPZ0c1UGNDY2xTYktBUkhfXy1VbGxJbldiU0Job0lmN1hQX2JONUFMMTZ4TVg2VS1rbldPNFpSQWdmOEdMMTlQQ2lWaDljQ2lnYzBLS1lOb21nTElYLUh3ZngyTjVz?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot - reuters.com",
-      "description": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot &nbsp;&nbsp; reuters.com",
+      "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot - Reuters",
+      "description": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:34:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly - reuters.com",
-      "description": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly &nbsp;&nbsp; reuters.com",
+      "title": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly - Reuters",
+      "description": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:28:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXVTeWJ2RkotMXlVWjlUYkJ1WEpwT0N3dXJlTEJCLURlR1FVbl9Kdzd1MWxtR0lPLWpqM1BTUmFmYTFNRlljajZfZ0dpVERyVEE2aVQwNWluT0p1S01iSWxfaDF2TVJLUk5ZYlcxZmtFZi1MazBlMmpianRCN3MyWkx4eW1hWUtQay0zMzNkaXFsdWVXdkJOSGtHZUhHelZ1cmNEREFHeHNCc3A1N1BBcldpb2dheHJDNjR3bTIzZDJiSDNZQ2JR?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "US goods trade deficit widens sharply in August - reuters.com",
-      "description": "US goods trade deficit widens sharply in August &nbsp;&nbsp; reuters.com",
+      "title": "US goods trade deficit widens sharply in August - Reuters",
+      "description": "US goods trade deficit widens sharply in August &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:28:25 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0JQYll1bXFuZjJBV2k2WkFFZXdFaVpYc1dpQmJkMHkwbG43MkZOT1ptNHBDVUpwMVd0U3ZpaDVFVDFGZE5mZVNLSlZqUGZ0ZXAyenA2SEx5YzhaelI1MHc2MVFPX2pZQzJWRldTR0R2cG5KSFA1c0NNaldHcEdZWExxTExlSTc5by0wSGVnSW1QUFk?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
@@ -1013,11 +1020,11 @@
       "source": "rss"
     },
     {
-      "title": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline - reuters.com",
-      "description": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline &nbsp;&nbsp; reuters.com",
+      "title": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline - Reuters",
+      "description": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:08:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd19OMlhEUlRpYXJTY0hWUjF3MDRneXkxa0w0dzhuZ19VUGl3UlEyM0tiWnJqLWprdXByMm9lUG9paGU0Nl9VQ2I5djVaLW5rSGhLMDlCN3Y1enBXcHB3dUNoeEhybms5dmVCS3FJMFl3T20yM2ZJOEx1TGItMnNrT1FrM0RtT0xDc0VieWxkLWJidUh2a2l4V0sxS0plYVJuQi1qOW1ETzRDREdCUEE4U3lZaVpjVHlKTEhRTC1jTmNWWjZ3Zk5fZWFCQnJudw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Micron earnings hit Wall Street after the bell. Here's how options traders are positioned into the report",
@@ -1027,18 +1034,18 @@
       "source": "rss"
     },
     {
-      "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll - reuters.com",
-      "description": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll &nbsp;&nbsp; reuters.com",
+      "title": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll - Reuters",
+      "description": "Analysts raise 2026 oil forecasts on prolonged Gulf disruption: Reuters poll &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:05:39 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1lVNHRnWlpZc2Q4anY4a2dCTndQN3JKSWdTSkVkRGNfdWxra2xlVDAtUGJqOGVBUURGZjh0YUxaSzNpZktWTkFoSG1EUV84SkI5WF9nWVRZXzRNd3pxZWZJOFIwNU5veE9naWlaMGhMV3Vjclc3c3Uzc1pxXzhCaTl4OTktdzVONHlNMTBpYTBBUVRrT3VMeWdyUW1UWUtycWlWa1BtUjdWNjdiV0cxdQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "Explainer: How the US controls Iraq's oil revenues - reuters.com",
-      "description": "Explainer: How the US controls Iraq's oil revenues &nbsp;&nbsp; reuters.com",
+      "title": "Explainer: How the US controls Iraq's oil revenues - Reuters",
+      "description": "Explainer: How the US controls Iraq's oil revenues &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 12:57:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGpibmlmMTlRdFhRRHZROFhCNERCYTU3ZFBhZHpGTjZwTlVjeTVBUUZ0Vm1JUE5jVnlzTEVjM1VvYTZoOWF0WklCeDVHcHM1ZDdKWlZLT3RfS0Y5TV9PWF9hX1VmOGdsakhkNlY1ay1WSTBLSm5IZVV4QUVPcnFzTjhsV2hkMFUwMFY4SjNaMA?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Alphabet stock drops: Google’s latest EU challenge explained",
@@ -1076,11 +1083,11 @@
       "source": "rss"
     },
     {
-      "title": "US forces exit Iraq after two decades, leaving opening for Iran - reuters.com",
-      "description": "US forces exit Iraq after two decades, leaving opening for Iran &nbsp;&nbsp; reuters.com",
+      "title": "US forces exit Iraq after two decades, leaving opening for Iran - Reuters",
+      "description": "US forces exit Iraq after two decades, leaving opening for Iran &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 12:23:45 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "More Americans are tapping investments to pay for spending, analysis finds",
@@ -1223,18 +1230,18 @@
       "source": "rss"
     },
     {
-      "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq - reuters.com",
-      "description": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq &nbsp;&nbsp; reuters.com",
+      "title": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq - Reuters",
+      "description": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 11:08:07 GMT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
-      "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - reuters.com",
-      "description": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows &nbsp;&nbsp; reuters.com",
+      "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
+      "description": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 11:08:06 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO. Check details",
@@ -1307,11 +1314,11 @@
       "source": "rss"
     },
     {
-      "title": "Putin will address newly-elected parliament later on Wednesday, Kremlin says - reuters.com",
-      "description": "Putin will address newly-elected parliament later on Wednesday, Kremlin says &nbsp;&nbsp; reuters.com",
+      "title": "Putin will address newly-elected parliament later on Wednesday, Kremlin says - Reuters",
+      "description": "Putin will address newly-elected parliament later on Wednesday, Kremlin says &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 10:18:16 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0EwYXBPWHpqOGp6Z0s4LTc5aTZucVBxX285eDNjSk04dk5ubzZRc3lQekhDdTVWZGtkVzliNFQyZ0p2YV9CNTVfV3VsUTRURjM4djBFakFUZXlIUFloSmlHckFiOExoaXNhT05mOTB3YmFPQnhTZmJ2OUJ0bHk4TnhwWFNYSS1hakd3TnVaM182R0d5MHYtQzdkVXJxRmVWMm44T3pYRFMzS1JPWVlGRVdJSnU?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
@@ -1335,11 +1342,11 @@
       "source": "rss"
     },
     {
-      "title": "Greece extends motor fuel discounts through mid-October - reuters.com",
-      "description": "Greece extends motor fuel discounts through mid-October &nbsp;&nbsp; reuters.com",
+      "title": "Greece extends motor fuel discounts through mid-October - Reuters",
+      "description": "Greece extends motor fuel discounts through mid-October &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 10:05:26 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnAtRlo3NFBjeE9yOFQ1Wk96UjE5QWFNTnJUWFFhZUlfdFZ0OVlpYnpJMFE1QXBtSTdsQjJYNVlodzJLR05UaEQwVkhJbXg5TTJfMWVFei12Q1d4dkZFclQ4cnFlYnQ3emdaaWZoSUZiUF95d09aZDlaWlVrMm1uTmdQMDRneDBVai04dnRXd085THhKTzRNT0xMel82cC10aExsdnRhUTZ0RDRFZVE?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Nestle India Share Price Live Updates: Nestle India Price and Change Overview",
@@ -1377,11 +1384,11 @@
       "source": "rss"
     },
     {
-      "title": "PODCAST: Fresh tremors - reuters.com",
-      "description": "PODCAST: Fresh tremors &nbsp;&nbsp; reuters.com",
+      "title": "PODCAST: Fresh tremors - Reuters",
+      "description": "PODCAST: Fresh tremors &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 09:48:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWllVmNXcV9OTTdadTVmX2ZZZjBIWlhhMGREQks0VnpXN2hUNnRhWjMwaEVaX1lXd1hOckd3eURuQ1NwUEhKSXdFMFNHa2F0cFpKV29hUm9nQXkzUDVxZ2ZwamJiOVh1WnItMnZNbndsMDZLYUN4bnFzTnpoOEdoWnNvaHU?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
@@ -1398,11 +1405,11 @@
       "source": "rss"
     },
     {
-      "title": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - reuters.com",
-      "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; reuters.com",
+      "title": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya - Reuters",
+      "description": "Nigeria's Dangote breaks ground on $16 billion East African oil refinery in Kenya &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 09:39:36 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW04LThTcE5MdHd5LTBPYTlKb3BhLW5sRUxfcDBOMmlSaUxCLVJnaERPeHVjYURJU3dudWdLTWRUVzk1bTl4OEkxZ2d1amNzQ0VQOFBBeElJM1JXTDlxaEFoNnpPTExGM0hCQkJ4ZGZaRjBUcXROMzJLYlFRS0ZtV2tfNzc4SHlqY3FacUUxT0dDdUdkd2x5MVc4X0tieU4ycGRtRzYyenhLNnVIaG03ZTlNOVZKSkk?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Tether USDT aids Iran funding, Senate report says - Reuters",
@@ -1412,11 +1419,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Bank of England sees growing risk that dangers from AI and debt will materialise - reuters.com",
-      "description": "Bank of England sees growing risk that dangers from AI and debt will materialise &nbsp;&nbsp; reuters.com",
+      "title": "Bank of England sees growing risk that dangers from AI and debt will materialise - Reuters",
+      "description": "Bank of England sees growing risk that dangers from AI and debt will materialise &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 09:35:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDZxOXc0SzIwN2d4Z1p6eDRBOTNfaVlDdFVHSk9LWlZqNk5UUHFwaFEtWDM5VTJFUHFMTFN5bGpaRWZmUldDLW1fQTFTMDlQNGd0QlRHWWxkOFU2SUhUTUtYUUFLZkJhblEwd0xKTnpHLXFDSk1hb1Y0NGJqdzFBVWItVVZjLXd6OUpRbEtHcGRRQmFXZjdlM2tGYzJGaHAyQ0VuM3FkX2dNR1BKMEFQZmwxUkp0NDJxREJLSlhn?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "LTM among 3 stocks that closed below VWAP",
@@ -1430,13 +1437,6 @@
       "description": "South Korean shares slipped on Wednesday as elevated bond yields pressured sentiment, with the KOSPI heading toward its steepest quarterly decline since early 2020. Foreign investors sold stocks worth 519.1 billion won. Weak factory output, mixed performances among major companies and global rate concerns added to market uncertainty.",
       "publication_date": "Wed, 30 Sep 2026 09:31:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-stocks-erase-gains-as-kospi-eyes-steepest-quarterly-fall-since-2020/articleshow/134580897.cms",
-      "source": "rss"
-    },
-    {
-      "title": "5 SME IPOs to list today: Liqvd Digital, Unitec Fibres among most subscribed issues",
-      "description": "On September 30, investors will witness the debut of five small and medium-sized enterprise IPOs, including Coreintegra Consulting and Pooja Logistics. Among these, Liqvd Digital stands out with an impressive subscription rate of 5.08 times. Coreintegra and Pooja also performed well, with subscriptions of 1.40 times and 3.11 times, respectively, while S.K. Offset and Unitec Fibres showed lower but notable interest.",
-      "publication_date": "Wed, 30 Sep 2026 09:30:12 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-sme-ipos-to-list-today-liqvd-digital-unitec-fibres-among-most-subscribed-issues/articleshow/134580847.cms",
       "source": "rss"
     }
   ]
