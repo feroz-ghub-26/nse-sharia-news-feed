@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:36:29.843266+00:00",
+  "generated_at": "2026-10-02T18:08:52.180289+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -80,6 +80,13 @@
       "publication_date": "Wed, 30 Sep 2026 23:16:33 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-crude-oil-output-rose-in-july-while-petroleum-demand-declined-eia-says/articleshow/134600210.cms",
       "source": "rss"
+    },
+    {
+      "title": "Netanyahu and Modi hail Indian flydubai pilot as hero - Reuters",
+      "description": "Netanyahu and Modi hail Indian flydubai pilot as hero &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 30 Sep 2026 23:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHV1SVRpbTNOMkdCZHowZWpBZG5PdUtTTWhtZnNkSXFSZlkxYzctTHdmNzVmZmYzUTROQ05JZ2I0dFRlZ0VLQTNxN2t1YkpHTFBjeFhTczBUTEhEdHp3bE1WZVc1TXQ4YXpfVS1tX0hnRlJkeDVZa2J0Z0FjVEstbVFrcEN2ckNWbjBDRk9wdEx5enlNRVBSMk1VSnhuY3Bh?oc=5",
+      "source": "Reuters"
     },
     {
       "title": "US stocks: AI infra firm Accelevation valued at $3.9 billion as shares fall in Nasdaq debut",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 30 Sep 2026 09:35:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDZxOXc0SzIwN2d4Z1p6eDRBOTNfaVlDdFVHSk9LWlZqNk5UUHFwaFEtWDM5VTJFUHFMTFN5bGpaRWZmUldDLW1fQTFTMDlQNGd0QlRHWWxkOFU2SUhUTUtYUUFLZkJhblEwd0xKTnpHLXFDSk1hb1Y0NGJqdzFBVWItVVZjLXd6OUpRbEtHcGRRQmFXZjdlM2tGYzJGaHAyQ0VuM3FkX2dNR1BKMEFQZmwxUkp0NDJxREJLSlhn?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
-      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
-      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
-      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
-      "source": "rss"
     }
   ]
 }
