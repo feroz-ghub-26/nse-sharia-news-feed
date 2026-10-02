@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:38:21.114437+00:00",
+  "generated_at": "2026-10-02T14:07:23.504820+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 1
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1027,13 +1027,6 @@
       "source": "rss"
     },
     {
-      "title": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline - Reuters",
-      "description": "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 13:08:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd19OMlhEUlRpYXJTY0hWUjF3MDRneXkxa0w0dzhuZ19VUGl3UlEyM0tiWnJqLWprdXByMm9lUG9paGU0Nl9VQ2I5djVaLW5rSGhLMDlCN3Y1enBXcHB3dUNoeEhybms5dmVCS3FJMFl3T20yM2ZJOEx1TGItMnNrT1FrM0RtT0xDc0VieWxkLWJidUh2a2l4V0sxS0plYVJuQi1qOW1ETzRDREdCUEE4U3lZaVpjVHlKTEhRTC1jTmNWWjZ3Zk5fZWFCQnJudw?oc=5",
-      "source": "Reuters"
-    },
-    {
       "title": "Micron earnings hit Wall Street after the bell. Here's how options traders are positioned into the report",
       "description": "In the near term, the market needs to get through Micron earnings. The good news is options traders think it could be a slam dunk.",
       "publication_date": "Wed, 30 Sep 2026 13:07:28 GMT",
@@ -1437,6 +1430,13 @@
       "description": "Bank of England sees growing risk that dangers from AI and debt will materialise &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 09:35:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDZxOXc0SzIwN2d4Z1p6eDRBOTNfaVlDdFVHSk9LWlZqNk5UUHFwaFEtWDM5VTJFUHFMTFN5bGpaRWZmUldDLW1fQTFTMDlQNGd0QlRHWWxkOFU2SUhUTUtYUUFLZkJhblEwd0xKTnpHLXFDSk1hb1Y0NGJqdzFBVWItVVZjLXd6OUpRbEtHcGRRQmFXZjdlM2tGYzJGaHAyQ0VuM3FkX2dNR1BKMEFQZmwxUkp0NDJxREJLSlhn?oc=5",
+      "source": "Reuters"
+    },
+    {
+      "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes - Reuters",
+      "description": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes &nbsp;&nbsp; Reuters",
+      "publication_date": "Thu, 01 Oct 2026 23:44:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUZEajJiMkRVVE04aW5pdTJfSTZUSzFGbms1ZjNfS0dLSlNnQm1MQlZucVpaVHpwbGZ3dW9sR1cycEI1d1pPeUp0X1ZCbkdsS0NEX1FTcXFLeEQxa0JmTVdLRFhaY0dvM3o0QTQ0UmlKZ3BvV2tCZ01TOWZXNjhuWlRpQkdqR3hIMDduVUtnOWlOaXZBVExBdk0tSURvMG0yeDFrYWpfRUJJcGIzNzRGMHFReVdEWFcxbHNUbQ?oc=5",
       "source": "Reuters"
     }
   ]
