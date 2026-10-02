@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T10:06:46.682582+00:00",
+  "generated_at": "2026-10-02T10:37:28.660710+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -761,11 +761,11 @@
       "source": "rss"
     },
     {
-      "title": "Trump set to tout Korean investment in Alaska LNG, other projects, sources say - reuters.com",
-      "description": "Trump set to tout Korean investment in Alaska LNG, other projects, sources say &nbsp;&nbsp; reuters.com",
+      "title": "Trump set to tout Korean investment in Alaska LNG, other projects, sources say - Reuters",
+      "description": "Trump set to tout Korean investment in Alaska LNG, other projects, sources say &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 15:25:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2FpZW1yeUwwUnRGdklIbHNsOVVhU0F4YWZUeW1IbU9pRmsxTG9RMkNGdFZqWWJabzNlM0xwMTI4RXFPV0lXZnBYR2tYdnY4X2laMFk3YUVRVzVKU1UtV1VTWDFPaXpmNFExRW1Bdm9SRnl3OEVheXFRUzhkSTcyQjJKTUphNjR4TmRXWnBodGVkbG1Wel9IZ0xKSE5KeHcwNElsa1Rnbmozd3ZZVGs0QUVibw?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
@@ -1006,11 +1006,11 @@
       "source": "rss"
     },
     {
-      "title": "China extends two trade barrier probes into US till December 27 - reuters.com",
-      "description": "China extends two trade barrier probes into US till December 27 &nbsp;&nbsp; reuters.com",
+      "title": "China extends two trade barrier probes into US till December 27 - Reuters",
+      "description": "China extends two trade barrier probes into US till December 27 &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 13:11:30 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFJiMkE4aFZLenQwa2pqOEpocW4tdXFSYml6Z1lzUnN6S0pVRk14Mjd1SVdlMjQ3a0JXRjBKSlBvUjRSRV9hNHptcEt6aWNRN1JEcXBxdTJtLUc1aFA1dkdXTTVjbnFienVGTU1QSXJkSnJzbEE3ajh4RUs0TE1BYUhRUF93dHU1cTFWQXlWZ3ROd3FydkVheHo0NTdqZlBfTThoM19pM0ZkR2wxd3IxLQ?oc=5",
-      "source": "reuters.com"
+      "source": "Reuters"
     },
     {
       "title": "Indian markets are not vulnerable: Sebi chief Tuhin Kanta Pandey remains optimistic even as Sensex, Nifty bleed",
