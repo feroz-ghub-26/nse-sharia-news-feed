@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:42:09.291040+00:00",
+  "generated_at": "2026-10-02T08:09:14.813225+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -964,6 +964,13 @@
       "source": "reuters.com"
     },
     {
+      "title": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly - reuters.com",
+      "description": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly &nbsp;&nbsp; reuters.com",
+      "publication_date": "Wed, 30 Sep 2026 13:28:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXVTeWJ2RkotMXlVWjlUYkJ1WEpwT0N3dXJlTEJCLURlR1FVbl9Kdzd1MWxtR0lPLWpqM1BTUmFmYTFNRlljajZfZ0dpVERyVEE2aVQwNWluT0p1S01iSWxfaDF2TVJLUk5ZYlcxZmtFZi1MazBlMmpianRCN3MyWkx4eW1hWUtQay0zMzNkaXFsdWVXdkJOSGtHZUhHelZ1cmNEREFHeHNCc3A1N1BBcldpb2dheHJDNjR3bTIzZDJiSDNZQ2JR?oc=5",
+      "source": "reuters.com"
+    },
+    {
       "title": "US goods trade deficit widens sharply in August - reuters.com",
       "description": "US goods trade deficit widens sharply in August &nbsp;&nbsp; reuters.com",
       "publication_date": "Wed, 30 Sep 2026 13:28:25 GMT",
@@ -1223,6 +1230,13 @@
       "source": "reuters.com"
     },
     {
+      "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - reuters.com",
+      "description": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows &nbsp;&nbsp; reuters.com",
+      "publication_date": "Wed, 30 Sep 2026 11:08:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
+      "source": "reuters.com"
+    },
+    {
       "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO. Check details",
       "description": "Inox Clean Energy has filed its DRHP for a Rs 10,000 crore IPO with Sebi. The issue includes a Rs 8,000 crore fresh share sale and Rs 2,000 crore OFS. The company has a 9.29 GW renewable power portfolio and 6 GW solar module manufacturing capacity across India and the US.",
       "publication_date": "Wed, 30 Sep 2026 10:59:07 +0530",
@@ -1423,20 +1437,6 @@
       "description": "On September 30, investors will witness the debut of five small and medium-sized enterprise IPOs, including Coreintegra Consulting and Pooja Logistics. Among these, Liqvd Digital stands out with an impressive subscription rate of 5.08 times. Coreintegra and Pooja also performed well, with subscriptions of 1.40 times and 3.11 times, respectively, while S.K. Offset and Unitec Fibres showed lower but notable interest.",
       "publication_date": "Wed, 30 Sep 2026 09:30:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-sme-ipos-to-list-today-liqvd-digital-unitec-fibres-among-most-subscribed-issues/articleshow/134580847.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Foreign outflows from Indian stocks hit 6-month high in September on higher oil, yields",
-      "description": "Foreign portfolio investors saw a notable outflow of $2.7 billion from Indian equities in September, marking the most significant withdrawal in the past six months. This trend has been driven by escalating oil prices and a tightening of global monetary policies. The rise in crude prices is straining India's current account and inflation expectations, which is weighing heavily on the rupee.",
-      "publication_date": "Wed, 30 Sep 2026 09:27:39 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-outflows-from-indian-stocks-hit-6-month-high-in-september-on-higher-oil-yields/articleshow/134580784.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Vishal Nirmiti IPO opens today. Check GMP, price band, and key details. Should you subscribe?",
-      "description": "Vishal Nirmiti IPO opens on September 30 with a Rs 178-crore issue, comprising fresh shares and an OFS. The IPO has a Rs 208–220 price band and a Rs 6 grey market premium.",
-      "publication_date": "Wed, 30 Sep 2026 09:26:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-opens-today-check-gmp-price-band-and-key-details-should-you-subscribe/articleshow/134580743.cms",
       "source": "rss"
     }
   ]
