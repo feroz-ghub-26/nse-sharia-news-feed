@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:07:23.504820+00:00",
+  "generated_at": "2026-10-02T14:39:28.649375+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,12 +30,12 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 49
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1433,11 +1433,11 @@
       "source": "Reuters"
     },
     {
-      "title": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes - Reuters",
-      "description": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes &nbsp;&nbsp; Reuters",
-      "publication_date": "Thu, 01 Oct 2026 23:44:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUZEajJiMkRVVE04aW5pdTJfSTZUSzFGbms1ZjNfS0dLSlNnQm1MQlZucVpaVHpwbGZ3dW9sR1cycEI1d1pPeUp0X1ZCbkdsS0NEX1FTcXFLeEQxa0JmTVdLRFhaY0dvM3o0QTQ0UmlKZ3BvV2tCZ01TOWZXNjhuWlRpQkdqR3hIMDduVUtnOWlOaXZBVExBdk0tSURvMG0yeDFrYWpfRUJJcGIzNzRGMHFReVdEWFcxbHNUbQ?oc=5",
-      "source": "Reuters"
+      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
+      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
+      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
+      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+      "source": "rss"
     }
   ]
 }
