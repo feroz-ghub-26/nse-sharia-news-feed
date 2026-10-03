@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:14:39.407592+00:00",
+  "generated_at": "2026-10-03T07:41:54.234239+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -191,13 +191,6 @@
       "description": "What is red-dyed diesel and can it help lower prices, as Trump wants? &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 30 Sep 2026 21:36:17 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNBOHFnRTAzOVBWcVhfSEhfcWRHbFNBZzRVZzJtQ0twTi03QTloRmhLWTNrVzZzeE9jLWROWlBsNUwzNTlrdlZRaGU5SWJXTFJleEV2a2Y3VWx4dVNLMkRRV1NDNS1jRkdnVFZ4bmNUUjhUaU52NTI3aHVmV1RMRlhJb0tVdkRBUjMwYWg3dXhOWkwwdjNHbWZDOVpPQnNFRzhNdm52LV9XamotRlFHR2V3?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Ukraine urges US to sanction entities supporting Russia's Starlink rival - Reuters",
-      "description": "Ukraine urges US to sanction entities supporting Russia's Starlink rival &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 30 Sep 2026 21:29:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2F1UEFlNnZtbFFEOC12YjNhckZjQ2xLN2RuZGVuNC1GTTJjRUlVUExVOWk4RjJfRU5rYkZDRW1nMkhzUnE2enZyYk9RbGZHSzVGS1RDdTdvWXNoZXFHb3djc1doczdIMWRRTGJHZlR5MDdXYjl2bk5qeTU2VjJYb0gwdUl0ZWtab0NvOF95YzBMQjRDZkNXMDRjak1lQzQyRkJoU3FFemc5TlRibGpzekpvMFdIa1Z4WHh3M3FUT3ZZRHVLaUtMY0NoRQ?oc=5",
       "source": "Reuters"
     },
     {
@@ -1437,6 +1430,13 @@
       "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
       "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
       "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
+      "source": "rss"
+    },
+    {
+      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+      "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
+      "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
+      "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
       "source": "rss"
     }
   ]
