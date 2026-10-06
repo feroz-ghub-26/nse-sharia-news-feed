@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:05:27.390036+00:00",
+  "generated_at": "2026-10-06T19:35:52.356258+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 50
+      "article_count": 47
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "SAP to acquire workforce data firm TechWolf",
+      "description": "SAP has confirmed its plans to acquire TechWolf, a company renowned for its expertise in workforce data analysis. This strategic move is intended to bolster SAP's comprehension of customer workforce skills and needs in the evolving landscape of AI. Although TechWolf will retain its autonomy and continue to serve its current non-SAP clients, SAP aims to finalize this transaction by the fourth quarter, subject to regulatory approval.",
+      "publication_date": "Wed, 07 Oct 2026 00:11:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sap-to-acquire-workforce-data-firm-techwolf/articleshow/134748843.cms",
+      "source": "rss"
+    },
+    {
       "title": "Flipkart records highest-ever single day sale, grosses $200mn",
       "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
       "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
@@ -1430,13 +1437,6 @@
       "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
       "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
       "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
-      "source": "rss"
-    },
-    {
-      "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-      "description": "Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
-      "publication_date": "Wed, 05 Oct 2016 14:00:44 +0530",
-      "link": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
       "source": "rss"
     }
   ]
