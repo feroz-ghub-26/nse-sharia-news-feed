@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:35:52.356258+00:00",
+  "generated_at": "2026-10-06T20:07:20.296078+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 47
+      "article_count": 49
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Kalshi launches perpetual futures tied to US 500 stock index",
+      "description": "Kalshi has introduced a new perpetual futures contract that is linked to its US 500 index. This contract will allow traders to hold positions indefinitely, without the need to roll over. It aims to provide stock market exposure, a key step in Kalshi's expansion as a financial exchange. The CEO mentioned leveraging long or short positions on the stock index.",
+      "publication_date": "Wed, 07 Oct 2026 01:12:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/kalshi-launches-perpetual-futures-tied-to-us-500-stock-index/articleshow/134749721.cms",
+      "source": "rss"
+    },
+    {
       "title": "SAP to acquire workforce data firm TechWolf",
       "description": "SAP has confirmed its plans to acquire TechWolf, a company renowned for its expertise in workforce data analysis. This strategic move is intended to bolster SAP's comprehension of customer workforce skills and needs in the evolving landscape of AI. Although TechWolf will retain its autonomy and continue to serve its current non-SAP clients, SAP aims to finalize this transaction by the fourth quarter, subject to regulatory approval.",
       "publication_date": "Wed, 07 Oct 2026 00:11:57 +0530",
@@ -1430,13 +1437,6 @@
       "description": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
       "publication_date": "Wed, 05 Oct 2016 14:50:10 +0530",
       "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
-      "source": "rss"
-    },
-    {
-      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-      "description": "The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
-      "publication_date": "Wed, 05 Oct 2016 14:42:19 +0530",
-      "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
       "source": "rss"
     }
   ]
