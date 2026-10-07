@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T04:08:41.222916+00:00",
+  "generated_at": "2026-10-07T04:42:15.858308+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,12 +30,12 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 44
+      "article_count": 47
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "Titan Company shares in focus after Q2 business update. What is Nomura saying?",
-      "description": "Titan Company reported 25% year-on-year growth across its consumer businesses in Q2FY27, led by jewellery, watches and EyeCare. Nomura retained its Buy rating, citing strong growth visibility despite high jewellery sales bases and elevated gold prices.",
-      "publication_date": "Wed, 07 Oct 2026 09:05:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-shares-in-focus-after-q2-business-update-what-is-nomura-saying/articleshow/134755077.cms",
+      "title": "Rupee falls 10 paise to 96.45 against US dollar ahead of RBI monetary policy decision",
+      "description": "In early Wednesday trading, the rupee depreciated by 10 paise, settling at 96.45 against the US dollar. Investors are keenly awaiting the Reserve Bank of India's upcoming monetary policy decisions regarding interest rates and liquidity, with many analysts predicting a rate hike due to escalating inflation concerns stemming from the ongoing conflict in West Asia.",
+      "publication_date": "Wed, 07 Oct 2026 09:47:30 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-10-paise-to-96-45-against-us-dollar-ahead-of-rbi-monetary-policy-decision/articleshow/134755717.cms",
       "source": "rss"
     },
     {
-      "title": "Aether Industries among 4 stocks showing White Marubozu Pattern",
-      "description": "Four Nifty500 stocks flashed White Marubozu patterns, indicating strong buying momentum and bullish price action. Trent, Urban Company, Aether Industries and Motilal Oswal Financial Services emerged among the notable stocks showing sharp gains and sustained upward movement during the trading session.",
-      "publication_date": "Wed, 07 Oct 2026 08:59:26 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/aether-industries-among-4-stocks-showing-white-marubozu-pattern/slideshow/134755051.cms",
+      "title": "Global Market: South Korean shares fall as investors await Samsung Electronics earnings",
+      "description": "South Korean shares declined as investors turned cautious ahead of Samsung Electronics' third-quarter earnings report, with markets seeking clues on AI-driven chip demand. The KOSPI fell amid weakness in major automakers, steel and semiconductor stocks, while foreign investors remained net sellers.",
+      "publication_date": "Wed, 07 Oct 2026 09:46:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-as-investors-await-samsung-electronics-earnings/articleshow/134755658.cms",
       "source": "rss"
     },
     {
-      "title": "Kalyan Jewellers shares in focus as Q2 revenue grows 26% YoY, jeweller records 20% same-store-sales growth",
-      "description": "Kalyan Jewellers reported over 26% consolidated revenue growth in Q2 FY27, supported by strong Indian operations and approximately 20% same-store sales growth. International revenue rose 18%, while its lifestyle brand Candere grew 64%. The company expanded its showroom network, reduced non-GML debt to zero and expressed optimism about the festive and wedding season.",
-      "publication_date": "Wed, 07 Oct 2026 08:57:55 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-in-focus-as-q2-revenue-grows-26-yoy-jeweller-records-20-same-store-sales-growth/articleshow/134754963.cms",
+      "title": "Utkarsh Small Finance Bank shares rally 7% after Q2 disbursements jump 55% YoY, deposits rise 7%",
+      "description": "Utkarsh Small Finance Bank reported a 55% year-on-year rise in Q2 FY27 disbursements to Rs 3,525 crore, driven by strong non-JLG loan growth. Deposits increased 7%, while CASA deposits rose 14%. The bank’s CASA ratio improved to 21.5%, indicating stronger low-cost deposit mobilisation despite overall funding growth remaining moderate.",
+      "publication_date": "Wed, 07 Oct 2026 09:36:58 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/utkarsh-small-finance-bank-shares-rally-7-after-q2-disbursements-jump-55-yoy-deposits-rise-7/articleshow/134755446.cms",
       "source": "rss"
     },
     {
-      "title": "RBI to hike repo rate by 25 bps? These rate sensitive sectors will be in focus on Wednesday",
-      "description": "The RBI’s policy decision will keep banks, NBFCs, realty and auto stocks in focus, with the central bank widely expected to raise the repo rate by 25 bps to 5.50%. Markets will track its inflation outlook and future rate guidance, especially as elevated crude prices pose risks to inflation and the current account deficit.",
-      "publication_date": "Wed, 07 Oct 2026 08:53:10 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-hike-repo-rate-by-25-bps-these-rate-sensitive-sectors-will-be-in-focus-on-wednesday/articleshow/134754911.cms",
+      "title": "Anand Rathi Wealth among 4 F&O stocks with sharp rise in futures OI",
+      "description": "A rise in futures OI indicates an increase in the number of active, unexpired futures contracts in a security.",
+      "publication_date": "Wed, 07 Oct 2026 09:34:57 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-wealth-among-4-fampo-stocks-with-sharp-rise-in-futures-oi/slideshow/134755609.cms",
       "source": "rss"
     }
   ]
