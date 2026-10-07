@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:19:55.559161+00:00",
+  "generated_at": "2026-10-07T01:14:52.886065+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 48
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "US stocks: S&P 500, Nasdaq reach record closing highs as focus pivots to earnings",
-      "description": "The US stock market finished on a high note, buoyed by stabilizing crude prices and easing Treasury yields, offering much-needed relief to investors. The S&P 500 and Nasdaq celebrated record closing highs, indicative of a widespread market upturn. With third-quarter earnings just around the corner, excitement is building among analysts and investors, especially with notable announcements from companies like AMD and Constellation Energy.",
-      "publication_date": "Wed, 07 Oct 2026 01:40:11 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings/articleshow/134749835.cms",
+      "title": "Nvidia nears $6 trillion valuation on AI optimism",
+      "description": "Nvidia has witnessed a remarkable surge in its stock price, propelled by a promising revenue forecast and a robust buyback initiative. The company’s shares have soared by 28% in 2026, contributing nearly $1.2 trillion to its market capitalisation. Amidst rising interest rates and economic volatility, investors are increasingly turning to Nvidia, positioning it as a cornerstone of the S&P 500 Index's success this year.",
+      "publication_date": "Wed, 07 Oct 2026 06:33:04 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-nears-6-trillion-valuation-on-ai-optimism/articleshow/134753250.cms",
       "source": "rss"
     },
     {
-      "title": "Kalshi launches perpetual futures tied to US 500 stock index",
-      "description": "Kalshi has introduced a new perpetual futures contract that is linked to its US 500 index. This contract will allow traders to hold positions indefinitely, without the need to roll over. It aims to provide stock market exposure, a key step in Kalshi's expansion as a financial exchange. The CEO mentioned leveraging long or short positions on the stock index.",
-      "publication_date": "Wed, 07 Oct 2026 01:12:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/kalshi-launches-perpetual-futures-tied-to-us-500-stock-index/articleshow/134749721.cms",
+      "title": "Global Market Today: Asian stocks edge lower as Korean shares lag, oil gains",
+      "description": "The Asian moves came after the S&P 500 and the Nasdaq 100 Index both closed at all-time highs. The milestones came ahead of the start of the US earnings season next week and were driven by gains in artificial intelligence-related shares, with Nvidia Corp.’s market value approaching $6 trillion.",
+      "publication_date": "Wed, 07 Oct 2026 06:23:43 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-lower-as-korean-shares-lag-oil-gains/articleshow/134753210.cms",
       "source": "rss"
     },
     {
-      "title": "SAP to acquire workforce data firm TechWolf",
-      "description": "SAP has confirmed its plans to acquire TechWolf, a company renowned for its expertise in workforce data analysis. This strategic move is intended to bolster SAP's comprehension of customer workforce skills and needs in the evolving landscape of AI. Although TechWolf will retain its autonomy and continue to serve its current non-SAP clients, SAP aims to finalize this transaction by the fourth quarter, subject to regulatory approval.",
-      "publication_date": "Wed, 07 Oct 2026 00:11:57 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sap-to-acquire-workforce-data-firm-techwolf/articleshow/134748843.cms",
+      "title": "Nifty 50 companies likely to log strong double-digit growth in Q2",
+      "description": "Revenue and net profit of Nifty 50 companies are projected to grow by nearly 20% year-on-year. Analysts note that performance is driven by sectors like automobiles, banking, and oil. Operating margins, however, might contract slightly due to input cost pressures and inflation. Key sectors show varied conditions, balancing strong demand against potential challenges. Overall, medium to long-term outlook remains optimistic, despite some near-term volatility.",
+      "publication_date": "Wed, 07 Oct 2026 06:22:55 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-50-companies-likely-to-log-strong-double-digit-growth-in-q2/articleshow/134753164.cms",
       "source": "rss"
     },
     {
-      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
-      "description": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
-      "publication_date": "Wed, 05 Oct 2016 14:59:14 +0530",
-      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+      "title": "Stocks in news: Titan, HCL Tech, Adani Ports and Utkarsh SFB",
+      "description": "Indian equities extended their recovery on Tuesday, driven by positive global cues and corporate updates. The Nifty 50 index closed at 22,714.80, marking a gain of 195.05 points. Several companies, including Titan Company and HCLTech, reported encouraging business developments that are likely to impact their stock performance. Technical analysts suggest that the Nifty will remain constructive if it stays above 22,600.",
+      "publication_date": "Wed, 07 Oct 2026 06:00:00 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-hcl-tech-adani-ports-and-utkarsh-sfb/articleshow/134746122.cms",
       "source": "rss"
     }
   ]
