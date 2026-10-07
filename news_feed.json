@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T04:42:15.858308+00:00",
+  "generated_at": "2026-10-07T05:07:25.499365+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,12 +30,12 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 47
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "Rupee falls 10 paise to 96.45 against US dollar ahead of RBI monetary policy decision",
-      "description": "In early Wednesday trading, the rupee depreciated by 10 paise, settling at 96.45 against the US dollar. Investors are keenly awaiting the Reserve Bank of India's upcoming monetary policy decisions regarding interest rates and liquidity, with many analysts predicting a rate hike due to escalating inflation concerns stemming from the ongoing conflict in West Asia.",
-      "publication_date": "Wed, 07 Oct 2026 09:47:30 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-10-paise-to-96-45-against-us-dollar-ahead-of-rbi-monetary-policy-decision/articleshow/134755717.cms",
+      "title": "Jio IPO SWOT analysis: What the DRHP says about its growth story, moats and risks",
+      "description": "Jio Platforms is gearing up for a landmark public offering to secure Rs 37,700 crore in funds, with subscriptions expected to commence on October 21. With an impressive customer base exceeding 524 million, Jio dominates India's wireless data landscape. The company is well-positioned to capitalize on opportunities like the shift from 2G to 4G and expanding enterprise connectivity.",
+      "publication_date": "Wed, 07 Oct 2026 10:20:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-swot-analysis-what-the-drhp-says-about-its-growth-story-moats-and-risks/articleshow/134756226.cms",
       "source": "rss"
     },
     {
-      "title": "Global Market: South Korean shares fall as investors await Samsung Electronics earnings",
-      "description": "South Korean shares declined as investors turned cautious ahead of Samsung Electronics' third-quarter earnings report, with markets seeking clues on AI-driven chip demand. The KOSPI fell amid weakness in major automakers, steel and semiconductor stocks, while foreign investors remained net sellers.",
-      "publication_date": "Wed, 07 Oct 2026 09:46:57 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-as-investors-await-samsung-electronics-earnings/articleshow/134755658.cms",
+      "title": "US Market: Software stocks hit 2026 highs as AI disruption fears ease",
+      "description": "US software stocks have reached fresh 2026 highs as stronger earnings expectations and growing adoption of AI ease fears of disruption. Strong results, AI partnerships and rising cybersecurity demand have boosted the sector. Software earnings growth forecasts have improved, while investors increasingly view AI as an enabler, though automation risks remain for future business models.",
+      "publication_date": "Wed, 07 Oct 2026 10:17:52 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-software-stocks-hit-2026-highs-as-ai-disruption-fears-ease/articleshow/134756204.cms",
       "source": "rss"
     },
     {
-      "title": "Utkarsh Small Finance Bank shares rally 7% after Q2 disbursements jump 55% YoY, deposits rise 7%",
-      "description": "Utkarsh Small Finance Bank reported a 55% year-on-year rise in Q2 FY27 disbursements to Rs 3,525 crore, driven by strong non-JLG loan growth. Deposits increased 7%, while CASA deposits rose 14%. The bank’s CASA ratio improved to 21.5%, indicating stronger low-cost deposit mobilisation despite overall funding growth remaining moderate.",
-      "publication_date": "Wed, 07 Oct 2026 09:36:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/utkarsh-small-finance-bank-shares-rally-7-after-q2-disbursements-jump-55-yoy-deposits-rise-7/articleshow/134755446.cms",
+      "title": "Satin Creditcare Network shares gain 4% after Q2 business update; AUM rises 31% YoY",
+      "description": "Satin Creditcare Network shares gained 3.74% after strong Q2FY27 business updates. Consolidated AUM rose 31% year-on-year to Rs 16,600 crore, while disbursements increased 41%. Asset quality improved, with GNPA falling to 1.9%. Borrowing costs declined, collections remained strong, and the company expanded its borrower base, branches and workforce during the quarter.",
+      "publication_date": "Wed, 07 Oct 2026 10:13:38 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-network-shares-gain-4-after-q2-business-update-aum-rises-31-yoy/articleshow/134756157.cms",
       "source": "rss"
     },
     {
-      "title": "Anand Rathi Wealth among 4 F&O stocks with sharp rise in futures OI",
-      "description": "A rise in futures OI indicates an increase in the number of active, unexpired futures contracts in a security.",
-      "publication_date": "Wed, 07 Oct 2026 09:34:57 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-wealth-among-4-fampo-stocks-with-sharp-rise-in-futures-oi/slideshow/134755609.cms",
+      "title": "Global Market: China gold reserves rise for 23rd straight month, forex reserves fall",
+      "description": "China’s central bank raised its gold holdings for the 23rd consecutive month in September, underscoring its efforts to diversify reserves amid shifting global financial markets. However, the country’s foreign exchange reserves fell more than expected to $3.400 trillion, pressured by a stronger US dollar. The yuan strengthened 0.22% against the greenback during the month.",
+      "publication_date": "Wed, 07 Oct 2026 10:12:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-gold-reserves-rise-for-23rd-straight-month-forex-reserves-fall/articleshow/134755895.cms",
       "source": "rss"
     }
   ]
