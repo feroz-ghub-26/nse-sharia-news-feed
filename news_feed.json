@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:40:11.711348+00:00",
+  "generated_at": "2026-10-07T17:14:00.556123+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1433,8 +1433,8 @@
       "source": "rss"
     },
     {
-      "title": "Webull sinks over 18% after CNBC reports US House panel flagged China ties",
-      "description": "Webull's shares fell more than 18% on Wednesday after CNBC reported that a US congressional panel had found the online trading platform \"tied in structural ways\" to China's government.",
+      "title": "US stocks: Webull shares plunge 18% after report flags structural ties to China",
+      "description": "Webull shares fell by more than 18% following a report connecting the platform to the Chinese government. The House Select Committee on China revealed discrepancies between Webull’s marketing and its operational reality. Concerns were raised about the company’s reliance on infrastructure subject to Chinese laws. Analysts expressed uncertainty about the regulatory implications affecting the stock's performance. This scrutiny reflects growing apprehension in Washington regarding Chinese involvement in critical US sectors.",
       "publication_date": "Wed, 07 Oct 2026 20:48:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms",
       "source": "rss"
