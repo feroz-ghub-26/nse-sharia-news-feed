@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:37:49.922487+00:00",
+  "generated_at": "2026-10-07T12:11:12.002059+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Bitcoin drops over 3% to $83,000 after losing key support; $394 million liquidated in one hour",
+      "description": "Bitcoin fell nearly 3% toward $83,000 after losing key on-chain support, while Ethereum dropped over 5%. A sharp leveraged sell-off triggered major liquidations, with analysts citing macro uncertainty, derivatives unwinding and weakening technical levels as pressures on crypto markets.",
+      "publication_date": "Wed, 07 Oct 2026 17:06:24 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-drops-over-3-to-83000-after-losing-key-support-394-million-liquidated-in-one-hour/articleshow/134764936.cms",
+      "source": "rss"
+    },
+    {
       "title": "US 30-year bond yield hits fresh 24-year high",
       "description": "The US 30-year bond yield hit a fresh 24 year high on Wednesday, as a selloff in world bond markets resumed a day after getting some respite from worries over higher",
       "publication_date": "Wed, 07 Oct 2026 15:51:05 +0530",
@@ -1430,13 +1437,6 @@
       "description": "Bharti Airtel shares gained after the telecom major launched new postpaid plans offering additional benefits, including free international roaming.",
       "publication_date": "Wed, 07 Oct 2026 15:46:20 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-shares-defy-weak-markets-rise-over-2-after-launch-of-new-plans/articleshow/134762997.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: UK Gilt yields rise as oil, US Treasury yields weigh on bonds",
-      "description": "British 10-year gilt yields jumped 6 basis points to 5.44%, nearing a 19-year high, as rising oil prices and US Treasury yields fueled inflation concerns. Investors also focused on Britain’s upcoming October 28 budget and fiscal outlook. Potentially higher borrowing needs and weak global bond markets added pressure to government debt.",
-      "publication_date": "Wed, 07 Oct 2026 15:41:50 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uk-gilt-yields-rise-as-oil-us-treasury-yields-weigh-on-bonds/articleshow/134762712.cms",
       "source": "rss"
     }
   ]
