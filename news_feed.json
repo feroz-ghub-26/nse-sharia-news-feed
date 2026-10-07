@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:54:54.704537+00:00",
+  "generated_at": "2026-10-07T02:18:36.396038+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 48
+      "article_count": 49
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Oil prices rise as storms and air strikes threaten supply",
+      "description": "As a storm approaches key oil-producing areas in the US and tensions heighten in Saudi Arabia, oil prices are on the rise. The impending storm threatens to disrupt both production and refining processes, potentially affecting large quantities of crude oil and natural gas. Additionally, dwindling US crude and gasoline inventories contrast with a minor increase in distillate stocks.",
+      "publication_date": "Wed, 07 Oct 2026 07:22:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-storms-and-air-strikes-threaten-supply/articleshow/134753652.cms",
+      "source": "rss"
+    },
+    {
       "title": "Pimco bets on bonds as 24-year-high yields lure",
       "description": "According to Pimco, bond yields are at unprecedented peaks, offering lucrative income opportunities for investors. The firm recommends allocating funds across both developed and emerging markets to lessen risk exposure. Long bonds signal possible inflation persistence, fueled by rising energy costs. They also highlight fiscal challenges in nations such as the US and France in their latest report.",
       "publication_date": "Wed, 07 Oct 2026 06:52:44 +0530",
@@ -1430,13 +1437,6 @@
       "description": "Nvidia has witnessed a remarkable surge in its stock price, propelled by a promising revenue forecast and a robust buyback initiative. The company’s shares have soared by 28% in 2026, contributing nearly $1.2 trillion to its market capitalisation. Amidst rising interest rates and economic volatility, investors are increasingly turning to Nvidia, positioning it as a cornerstone of the S&P 500 Index's success this year.",
       "publication_date": "Wed, 07 Oct 2026 06:33:04 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-nears-6-trillion-valuation-on-ai-optimism/articleshow/134753250.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market Today: Asian stocks hold near record highs, oil climbs",
-      "description": "MSCI’s Asia Pacific equities gauge edged up 0.1%, helped by advances in Japan, while South Korean shares reversed an early decline to rise 0.2%. The regional benchmark is less than 2% from its peak.",
-      "publication_date": "Wed, 07 Oct 2026 06:23:43 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-lower-as-korean-shares-lag-oil-gains/articleshow/134753210.cms",
       "source": "rss"
     }
   ]
