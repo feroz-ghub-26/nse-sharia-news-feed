@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:09:04.186433+00:00",
+  "generated_at": "2026-10-07T18:43:27.410038+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "error",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1412,7 +1412,14 @@
       "source": "Reuters"
     },
     {
-      "title": "US bonds selloff resumes as 10-year, 30-yields hit new 24-year high",
+      "title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treasury yields higher",
+      "description": "Foreign investors pulled $26.3 billion from emerging-market stocks and bonds in September due to rising US yields. The hawkish Federal Reserve's interest rate hike influenced this first outflow since June. Additionally, heavy foreign selling in South Korea resulted in a significant decrease in emerging-market equities. While fixed-income assets attracted $246 billion this year, equities saw year-to-date outflows of $113.9 billion.",
+      "publication_date": "Wed, 07 Oct 2026 23:56:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/foreign-investors-pull-out-26-3-billion-from-emerging-markets-in-september-as-hawkish-fed-pushes-us-treasury-yields-higher/articleshow/134772977.cms",
+      "source": "rss"
+    },
+    {
+      "title": "US bond selloff resumes as 10- and 30-year yields hit fresh 24-year highs",
       "description": "US Treasuries are facing significant selling pressure as yields hit new highs, fueled by ongoing inflation concerns. Higher oil prices have exacerbated worries about sustained inflation in the market. The 10-year and 30-year bond yields have soared to their highest levels in 24 years. Additionally, rising corporate borrowing is vying for investor capital, contributing to supply constraints. Amid these dynamics, the Treasury plans to auction $39 billion in 10-year notes.",
       "publication_date": "Wed, 07 Oct 2026 23:01:51 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-selloff-resumes-as-10-year-30-yields-hit-new-24-year-high/articleshow/134771853.cms",
@@ -1430,13 +1437,6 @@
       "description": "Indian markets ended lower on Wednesday as the Sensex fell 429 points and Nifty dropped over 173 points, snapping a two-session rally. Investors reacted to the RBI’s rate hike and calibrated tightening stance, while banking stocks gained and broader sentiment remained cautious.",
       "publication_date": "Wed, 07 Oct 2026 21:30:50 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134769947.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Market Trading Guide: Kotak Mahindra Bank among 5 stock recommendations for Thursday",
-      "description": "Analysts recommend five stocks—Black Box, Deep Industries, MRPL, Leela Palaces and Kotak Mahindra Bank—for medium-term gains after the RBI shifted to calibrated tightening. Technical setups show breakouts, bullish momentum and strong support, while investors await September-quarter earnings and management commentary.",
-      "publication_date": "Wed, 07 Oct 2026 21:00:12 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-kotak-mahindra-bank-among-5-stock-recommendations-for-thursday/slideshow/134769639.cms",
       "source": "rss"
     }
   ]
