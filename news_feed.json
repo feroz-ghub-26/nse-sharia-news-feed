@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:14:52.886065+00:00",
+  "generated_at": "2026-10-07T01:28:24.300359+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -30,7 +30,7 @@
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
       "status": "ok",
-      "article_count": 50
+      "article_count": 48
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Trent shares surge nearly 13% on robust Q2 updates",
+      "description": "Trent, the prominent Tata Group retailer, experienced a notable spike in share prices as it unveiled impressive second-quarter results. The company reported a significant 23% year-on-year revenue growth, amounting to ₹5,788 crore. This development led brokerages to enhance their forecasts and issue favorable ratings. Additionally, Trent celebrated the launch of its 1,000th Zudio store, reflecting productivity gains.",
+      "publication_date": "Wed, 07 Oct 2026 06:43:02 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-surge-nearly-13-on-robust-q2-updates/articleshow/134753290.cms",
+      "source": "rss"
+    },
+    {
       "title": "Nvidia nears $6 trillion valuation on AI optimism",
       "description": "Nvidia has witnessed a remarkable surge in its stock price, propelled by a promising revenue forecast and a robust buyback initiative. The company’s shares have soared by 28% in 2026, contributing nearly $1.2 trillion to its market capitalisation. Amidst rising interest rates and economic volatility, investors are increasingly turning to Nvidia, positioning it as a cornerstone of the S&P 500 Index's success this year.",
       "publication_date": "Wed, 07 Oct 2026 06:33:04 +0530",
@@ -1419,8 +1426,8 @@
       "source": "rss"
     },
     {
-      "title": "Global Market Today: Asian stocks edge lower as Korean shares lag, oil gains",
-      "description": "The Asian moves came after the S&P 500 and the Nasdaq 100 Index both closed at all-time highs. The milestones came ahead of the start of the US earnings season next week and were driven by gains in artificial intelligence-related shares, with Nvidia Corp.’s market value approaching $6 trillion.",
+      "title": "Global Market Today: Asian stocks hold near record highs, oil climbs",
+      "description": "MSCI’s Asia Pacific equities gauge edged up 0.1%, helped by advances in Japan, while South Korean shares reversed an early decline to rise 0.2%. The regional benchmark is less than 2% from its peak.",
       "publication_date": "Wed, 07 Oct 2026 06:23:43 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-lower-as-korean-shares-lag-oil-gains/articleshow/134753210.cms",
       "source": "rss"
@@ -1430,13 +1437,6 @@
       "description": "Revenue and net profit of Nifty 50 companies are projected to grow by nearly 20% year-on-year. Analysts note that performance is driven by sectors like automobiles, banking, and oil. Operating margins, however, might contract slightly due to input cost pressures and inflation. Key sectors show varied conditions, balancing strong demand against potential challenges. Overall, medium to long-term outlook remains optimistic, despite some near-term volatility.",
       "publication_date": "Wed, 07 Oct 2026 06:22:55 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-50-companies-likely-to-log-strong-double-digit-growth-in-q2/articleshow/134753164.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Stocks in news: Titan, HCL Tech, Adani Ports and Utkarsh SFB",
-      "description": "Indian equities extended their recovery on Tuesday, driven by positive global cues and corporate updates. The Nifty 50 index closed at 22,714.80, marking a gain of 195.05 points. Several companies, including Titan Company and HCLTech, reported encouraging business developments that are likely to impact their stock performance. Technical analysts suggest that the Nifty will remain constructive if it stays above 22,600.",
-      "publication_date": "Wed, 07 Oct 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-hcl-tech-adani-ports-and-utkarsh-sfb/articleshow/134746122.cms",
       "source": "rss"
     }
   ]
