@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:10:11.391713+00:00",
+  "generated_at": "2026-10-07T08:45:44.444035+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Global Market: France faces rising market pressure to rein in public finances",
+      "description": "As France grapples with escalating borrowing costs and a dwindling euro, the urgency for bolstered fiscal stability intensifies. With the presidential election on the horizon, tension mounts from political factions and public unrest. Far-right figure Marine Le Pen advocates for drastic cuts in spending, championing deficit control. Yet, doubts linger regarding her administration's capacity to enact these strategies as the financial climate adds complexity to the looming electoral decisions.",
+      "publication_date": "Wed, 07 Oct 2026 14:03:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-france-faces-rising-market-pressure-to-rein-in-public-finances/articleshow/134760755.cms",
+      "source": "rss"
+    },
+    {
       "title": "Tata Motors PV, Maruti Suzuki, Ashok Leyland, auto stocks drop up to 3% as RBI signals rate cuts are ‘off the table’",
       "description": "Auto stocks including Tata Motors PV, Maruti Suzuki, M&M and Ashok Leyland dropped on Wednesday after the RBI raised the repo rate and shifted to calibrated tightening. Analysts expect Q2 revenue growth to remain strong, but rising commodity costs, limited pricing power and elevated inventories could pressure margins and demand.",
       "publication_date": "Wed, 07 Oct 2026 13:30:04 +0530",
@@ -1430,13 +1437,6 @@
       "description": "Hedge fund group AIMA has warned the Bank of England that proposed gilt repo reforms, including wider central clearing, could reduce liquidity and increase vulnerability to funding disruptions during periods of market stress.",
       "publication_date": "Wed, 07 Oct 2026 13:01:04 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-hedge-fund-group-warns-boe-repo-reforms-could-worsen-market-stress/articleshow/134759516.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Pine Labs, CAMS, Moneyview, other fintech stocks rally up to 11% after RBI MPC move. Here’s why",
-      "description": "Shares of Pine Labs, Moneyview and other fintech firms rose after the RBI announced interoperability among NBFC account aggregators. The move will let customers share financial information across different account aggregators through a single account, without fresh registration, subject to their consent.",
-      "publication_date": "Wed, 07 Oct 2026 12:59:17 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-cams-moneyview-other-fintech-stocks-rally-up-to-11-after-rbi-mpc-move-heres-why/articleshow/134759480.cms",
       "source": "rss"
     }
   ]
