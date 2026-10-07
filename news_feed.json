@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:28:24.300359+00:00",
+  "generated_at": "2026-10-07T01:54:54.704537+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,7 +1412,14 @@
       "source": "Reuters"
     },
     {
-      "title": "Trent shares surge nearly 13% on robust Q2 updates",
+      "title": "Pimco bets on bonds as 24-year-high yields lure",
+      "description": "According to Pimco, bond yields are at unprecedented peaks, offering lucrative income opportunities for investors. The firm recommends allocating funds across both developed and emerging markets to lessen risk exposure. Long bonds signal possible inflation persistence, fueled by rising energy costs. They also highlight fiscal challenges in nations such as the US and France in their latest report.",
+      "publication_date": "Wed, 07 Oct 2026 06:52:44 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pimco-bets-on-bonds-as-24-year-high-yields-lure/articleshow/134753343.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Trent surges 13% to 2-year high after strong Q2 update",
       "description": "Trent, the prominent Tata Group retailer, experienced a notable spike in share prices as it unveiled impressive second-quarter results. The company reported a significant 23% year-on-year revenue growth, amounting to ₹5,788 crore. This development led brokerages to enhance their forecasts and issue favorable ratings. Additionally, Trent celebrated the launch of its 1,000th Zudio store, reflecting productivity gains.",
       "publication_date": "Wed, 07 Oct 2026 06:43:02 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-surge-nearly-13-on-robust-q2-updates/articleshow/134753290.cms",
@@ -1430,13 +1437,6 @@
       "description": "MSCI’s Asia Pacific equities gauge edged up 0.1%, helped by advances in Japan, while South Korean shares reversed an early decline to rise 0.2%. The regional benchmark is less than 2% from its peak.",
       "publication_date": "Wed, 07 Oct 2026 06:23:43 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-lower-as-korean-shares-lag-oil-gains/articleshow/134753210.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Nifty 50 companies likely to log strong double-digit growth in Q2",
-      "description": "Revenue and net profit of Nifty 50 companies are projected to grow by nearly 20% year-on-year. Analysts note that performance is driven by sectors like automobiles, banking, and oil. Operating margins, however, might contract slightly due to input cost pressures and inflation. Key sectors show varied conditions, balancing strong demand against potential challenges. Overall, medium to long-term outlook remains optimistic, despite some near-term volatility.",
-      "publication_date": "Wed, 07 Oct 2026 06:22:55 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-50-companies-likely-to-log-strong-double-digit-growth-in-q2/articleshow/134753164.cms",
       "source": "rss"
     }
   ]
