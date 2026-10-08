@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:45:45.413923+00:00",
+  "generated_at": "2026-10-08T04:09:02.916998+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1419,6 +1419,13 @@
       "source": "rss"
     },
     {
+      "title": "Denmark says Russia has conducted sabotage attacks against its defense firms - Reuters",
+      "description": "Denmark says Russia has conducted sabotage attacks against its defense firms &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 07 Oct 2026 23:42:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONEdMa2pKZE5hbUt4S1RoWVlyTm5Zbkc3NlRtTlhmejR6WWdpc2dOZ00xV0RvNmZnckNCX1B2OW5XMDRlT0RnamV2WjJGTm5DZHNoR20wQjU2REMyTkxCYmlGdFpEempBTmszN210R2wyNWhJTnhqMHU1WjZCeERkOUhvME56TFhGdXR0QW9yY2J5cmFIMXpLY1RFdmZITUwtTHR5anpvRzc0aVNhZHpkUFpEMk5JbGZONVdtZjJIQWYxbGFYQzN5MmdVNm5CSnZDeTJfWjZn?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
       "description": "Wall Street ends lower, off record highs, as Treasury yields climb &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 07 Oct 2026 23:14:17 GMT",
@@ -1431,13 +1438,6 @@
       "publication_date": "Wed, 07 Oct 2026 23:13:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk9KZFZoanU3aUpvZm9jNU5pVUhQdVdWR1VTbGNCaGIyTmJCMzJTSDJWcXZGVG1GM3RNUU44eVY5NUpoLWdKMUhHVWEtMW1qb2dJc1J3c1c1cVVIRmNDTWdNcHFFN1FVRGxRYUpLYU43MTZJNmI2YzlwN2szVVZDdGQ0cHNNUEhoTlhrSDVNLVhVZkp6SXNjUVZnU05qOFFJX2w1aWdjT3U3UmlJMUk4ZVYyNVloeGVyUVJaNjVvNnBjUQ?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-      "description": "U.S. Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang.",
-      "publication_date": "Wed, 07 Oct 2026 23:10:54 GMT",
-      "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-      "source": "rss"
     }
   ]
 }
