@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T20:39:08.671438+00:00",
+  "generated_at": "2026-10-08T21:06:32.389492+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -1419,6 +1419,13 @@
       "source": "rss"
     },
     {
+      "title": "Rate hike fears weigh on UK housing market, RICS says - Reuters",
+      "description": "Rate hike fears weigh on UK housing market, RICS says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 07 Oct 2026 23:50:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR21fZjUza1BhZnRPMWxJR2VFWVVkLThyMzRZd2RnSUN1UGZNc3Z3QlBVQndaVVVUekloVF8tOTJCTUs2b3VZTGx2dkppY2lBNGRIaEk1U2R6VFVFQXdFLVlYdUFOVTJlSEp1bmlISTF4dFc4RHNCVTMyaVVaMVN0eEpMbHZOZXBhRjBqOXVUZEZDRlRzS0stVS1B?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Denmark says Russia has conducted sabotage attacks against its defense firms - Reuters",
       "description": "Denmark says Russia has conducted sabotage attacks against its defense firms &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 07 Oct 2026 23:42:13 GMT",
@@ -1430,13 +1437,6 @@
       "description": "Wall Street ends lower, off record highs, as Treasury yields climb &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 07 Oct 2026 23:14:17 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll - Reuters",
-      "description": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 07 Oct 2026 23:13:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk9KZFZoanU3aUpvZm9jNU5pVUhQdVdWR1VTbGNCaGIyTmJCMzJTSDJWcXZGVG1GM3RNUU44eVY5NUpoLWdKMUhHVWEtMW1qb2dJc1J3c1c1cVVIRmNDTWdNcHFFN1FVRGxRYUpLYU43MTZJNmI2YzlwN2szVVZDdGQ0cHNNUEhoTlhrSDVNLVhVZkp6SXNjUVZnU05qOFFJX2w1aWdjT3U3UmlJMUk4ZVYyNVloeGVyUVJaNjVvNnBjUQ?oc=5",
       "source": "Reuters"
     }
   ]
