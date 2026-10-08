@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T03:11:22.147940+00:00",
+  "generated_at": "2026-10-08T03:45:45.413923+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -1426,17 +1426,17 @@
       "source": "Reuters"
     },
     {
+      "title": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll - Reuters",
+      "description": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 07 Oct 2026 23:13:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk9KZFZoanU3aUpvZm9jNU5pVUhQdVdWR1VTbGNCaGIyTmJCMzJTSDJWcXZGVG1GM3RNUU44eVY5NUpoLWdKMUhHVWEtMW1qb2dJc1J3c1c1cVVIRmNDTWdNcHFFN1FVRGxRYUpLYU43MTZJNmI2YzlwN2szVVZDdGQ0cHNNUEhoTlhrSDVNLVhVZkp6SXNjUVZnU05qOFFJX2w1aWdjT3U3UmlJMUk4ZVYyNVloeGVyUVJaNjVvNnBjUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
       "description": "U.S. Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang.",
       "publication_date": "Wed, 07 Oct 2026 23:10:54 GMT",
       "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-      "source": "rss"
-    },
-    {
-      "title": "US bond selloff resumes as 10- and 30-year yields hit fresh 24-year highs",
-      "description": "US Treasuries are facing significant selling pressure as yields hit new highs, fueled by ongoing inflation concerns. Higher oil prices have exacerbated worries about sustained inflation in the market. The 10-year and 30-year bond yields have soared to their highest levels in 24 years. Additionally, rising corporate borrowing is vying for investor capital, contributing to supply constraints. Amid these dynamics, the Treasury plans to auction $39 billion in 10-year notes.",
-      "publication_date": "Wed, 07 Oct 2026 23:01:51 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-selloff-resumes-as-10-year-30-yields-hit-new-24-year-high/articleshow/134771853.cms",
       "source": "rss"
     }
   ]
