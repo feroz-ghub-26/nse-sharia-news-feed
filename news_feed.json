@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:10:15.908567+00:00",
+  "generated_at": "2026-10-08T12:50:34.925913+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -24,8 +24,8 @@
     },
     {
       "url": "https://www.investing.com/rss/news.rss",
-      "status": "ok",
-      "article_count": 10
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
