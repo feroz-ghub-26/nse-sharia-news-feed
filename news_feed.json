@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:07:19.892306+00:00",
+  "generated_at": "2026-10-13T20:38:30.698272+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "description": "In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip index faced a substantial decline, sparking fears surrounding competition in this sector. Despite the turbulence, analysts express optimism about future earnings linked to AI-driven innovations.",
+      "publication_date": "Wed, 14 Oct 2026 01:43:21 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
+      "source": "rss"
+    },
+    {
       "title": "NY Fed President Williams sees no need for a rate hike in 2027",
       "description": "At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next year. He cited the role of artificial intelligence in affecting inflation rates while also addressing the sector's supply-demand imbalance.",
       "publication_date": "Wed, 14 Oct 2026 00:28:02 +0530",
@@ -1430,13 +1437,6 @@
       "description": "Rate hike fears weigh on UK housing market, RICS says &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 07 Oct 2026 23:50:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR21fZjUza1BhZnRPMWxJR2VFWVVkLThyMzRZd2RnSUN1UGZNc3Z3QlBVQndaVVVUekloVF8tOTJCTUs2b3VZTGx2dkppY2lBNGRIaEk1U2R6VFVFQXdFLVlYdUFOVTJlSEp1bmlISTF4dFc4RHNCVTMyaVVaMVN0eEpMbHZOZXBhRjBqOXVUZEZDRlRzS0stVS1B?oc=5",
-      "source": "Reuters"
-    },
-    {
-      "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
-      "description": "Wall Street ends lower, off record highs, as Treasury yields climb &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 07 Oct 2026 23:14:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
       "source": "Reuters"
     }
   ]
