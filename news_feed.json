@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T02:41:10.656192+00:00",
+  "generated_at": "2026-10-14T03:07:40.485796+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "Oil Price Today (October 14): Crude oil gains to $107 as Houthis attack Saudi Aramco building in new attacks. What are experts saying?",
-      "description": "Brent crude futures rose $1.40, or 1.35%, to $107.35 a barrel, while US West Texas Intermediate (WTI) crude futures gained $1.24, or 1.32%, to $95.38. Brent had fallen 0.9% on Tuesday, while WTI rose 0.4%.",
-      "publication_date": "Wed, 14 Oct 2026 07:34:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-14-crude-oil-gains-to-107-as-houthis-attack-saudi-aramco-building-in-new-attacks-what-are-experts-saying/articleshow/134930013.cms",
+      "title": "Ravita Engineering Services IPO opens today: Check GMP, price band and other key details",
+      "description": "Ravita Engineering Services IPO is a book-built issue worth Rs 116.05 crore, comprising an entirely fresh issue of 1.04 crore shares. The allotment is expected to be finalised on October 19, while the company’s shares are tentatively scheduled to list on the NSE SME platform on October 22, 2026.",
+      "publication_date": "Wed, 14 Oct 2026 07:47:03 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ravita-engineering-services-ipo-opens-today-check-gmp-price-band-and-other-key-details/articleshow/134930185.cms",
       "source": "rss"
     },
     {
-      "title": "Gold prices flat as markets await US CPI data",
-      "description": "In early Asian trading, gold prices held steady as investors awaited crucial US consumer price data, which could affect future Federal Reserve decisions. New York Fed President John Williams spoke about the need for potential interest rate increases to combat inflation. Additionally, Fed Governor Christopher Waller noted that robust economic growth could influence US bond yields, with other precious metals experiencing slight downturns amid the evolving market conditions.",
-      "publication_date": "Wed, 14 Oct 2026 07:30:13 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-flat-as-markets-await-us-cpi-data/articleshow/134929941.cms",
+      "title": "Bonus issue, stock split and dividend alert! Last day to buy these 3 stocks before record date. Do you own any?",
+      "description": "As per Sebi's T+1 settlement norm, investors need to buy a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time and they become eligible for the corporate action",
+      "publication_date": "Wed, 14 Oct 2026 07:46:23 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-stock-split-and-dividend-alert-last-day-to-buy-these-3-stocks-before-record-date-do-you-own-any/slideshow/134930294.cms",
       "source": "rss"
     },
     {
-      "title": "Dollar languishes as focus turns to CPI, Fed speakers",
-      "description": "The dollar declined as traders awaited new information on the timing for interest rate increases. Investors reevaluated the recent rally fueled by artificial intelligence developments and easing oil prices. Meanwhile, the euro gained slightly amid regional budget concerns affecting bond yields. The US consumer price index data release is upcoming, alongside important speeches from Federal Reserve officials.",
-      "publication_date": "Wed, 14 Oct 2026 07:27:04 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-languishes-as-focus-turns-to-cpi-fed-speakers/articleshow/134929930.cms",
+      "title": "Indian equities jump 1.6% as FM's STT remarks spark hopes of tax review",
+      "description": "Indian equities surged 1.6% on Tuesday, marking the largest single-day gain in over two months. This increase followed remarks by finance minister Nirmala Sitharaman regarding potential changes to transaction taxes. The rally was supported by a rise in IT stocks despite ongoing concerns over crude oil prices and foreign investor selling. Short-covering ahead of expiry also contributed to the market gains.",
+      "publication_date": "Wed, 14 Oct 2026 07:42:29 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equities-soar-1-6-as-fm-hints-at-transaction-tax-review/articleshow/134929590.cms",
       "source": "rss"
     },
     {
-      "title": "ICICI Life Q2 net profit rises 25% on better product mix",
-      "description": "In the latest financial report, ICICI Life Insurance announced a remarkable 25% increase in net profit for the second quarter, reaching ₹374 crore. Over the first half of FY27, profits rose by 26.5% to ₹760 crore. With annualised premium equivalent growing by 15.1% to ₹4,935 crore, the firm continues to strengthen its focus on protection and retirement products, leading to enhanced profitability and a 22.",
-      "publication_date": "Wed, 14 Oct 2026 07:25:55 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-life-q2-net-profit-rises-25-on-better-product-mix/articleshow/134929830.cms",
+      "title": "Positive Breakout: These 10 stocks cross above their 200 DMAs",
+      "description": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
+      "publication_date": "Wed, 14 Oct 2026 07:36:49 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/134930165.cms",
       "source": "rss"
     }
   ]
