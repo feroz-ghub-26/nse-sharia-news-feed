@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T14:37:44.392542+00:00",
+  "generated_at": "2026-10-14T15:07:12.629846+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "article_count": 100
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "Diwali offer for RIL shareholders! Reliance Jio sets aside Rs 2,500 crore shares in IPO reservation",
-      "description": "Reliance Jio has reserved up to Rs 2,500 crore worth of shares for eligible Reliance Industries shareholders in its upcoming IPO. The quota offers RIL investors a direct route to apply for Jio Platforms shares. The IPO opens on October 21, with anchor investor bidding starting October 19.",
-      "publication_date": "Wed, 14 Oct 2026 19:16:59 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/diwali-offer-for-ril-shareholders-reliance-jio-sets-aside-rs-2500-crore-shares-in-ipo-reservation/articleshow/134944234.cms",
+      "title": "Jio IPO to open on October 21: 10 things to know about the Rs 30,000 crore mega issue",
+      "description": "Jio Platforms will open its Rs 30,000 crore IPO for subscription on October 21, with anchor investor bidding scheduled for October 19. The issue could become India’s largest-ever public offering, surpassing Hyundai Motor India’s record IPO. Here are 10 key details on issue size, dates, shareholder quota, financials and valuation.",
+      "publication_date": "Wed, 14 Oct 2026 20:12:34 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-to-open-on-october-21-10-things-to-know-about-the-rs-30000-crore-mega-issue/articleshow/134945374.cms",
       "source": "rss"
     },
     {
-      "title": "US stocks: US market opens lower after hot CPI data fuels rate-hike bets",
-      "description": "Wall Street's major indices took a hit as an inflation report outpaced forecasts, sparking heightened speculation about rate increases. Investors are closely reviewing earnings from key banks, highlighting concerns over escalating inflation. The notable market fluctuations suggest a likelihood of rising interest rates as the economy continues to be assessed.",
-      "publication_date": "Wed, 14 Oct 2026 19:16:03 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets/articleshow/134944281.cms",
+      "title": "Canara Bank Q2 profit rises 8% YoY to Rs 5,175 crore",
+      "description": "Canara Bank reported an 8.4% year-on-year rise in second-quarter net profit to Rs 5,175 crore, supported by higher net interest income and improved asset quality. Net interest income grew 20.4% to Rs 11,005 crore, while lower provisions helped earnings. Global advances rose 19.5%, outpacing deposit growth.",
+      "publication_date": "Wed, 14 Oct 2026 19:57:31 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-profit-rises-8-yoy-to-rs-5175-crore/articleshow/134945099.cms",
       "source": "rss"
     },
     {
-      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
-      "description": "US consumer prices increased in September, contributing to expectations of an interest rate hike by the Federal Reserve. Following this inflation data, gold prices fell over 1% for the third consecutive session. The US dollar index also climbed, making gold more expensive for foreign investors. Market predictions indicate a 44% chance of a rate hike in October and a 95% chance in December.",
-      "publication_date": "Wed, 14 Oct 2026 19:00:20 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-drops-over-1-as-hot-us-inflation-data-boosts-fed-hike-bets/articleshow/134944020.cms",
+      "title": "Global Market: BoE's Huw Pill wary of market bets on four rate hikes over next year",
+      "description": "Bank of England Chief Economist Huw Pill has questioned market expectations for four quarter-point rate hikes over the next 12 months as policymakers assess the inflationary fallout of the Iran war. His comments highlight divisions within the Monetary Policy Committee over how to balance rising energy prices against risks to economic growth.",
+      "publication_date": "Wed, 14 Oct 2026 19:50:25 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-huw-pill-wary-of-market-bets-on-four-rate-hikes-over-next-year/articleshow/134944944.cms",
       "source": "rss"
     },
     {
-      "title": "Reliance Jio files RHP, announces IPO dates for India's biggest listing",
-      "description": "Jio IPO: Reliance Jio has filed its red herring prospectus for an October 21-23 IPO, set to be India’s biggest public issue. The offering comprises 27 crore fresh shares, with reservations for Reliance Industries shareholders and employees. The company plans to use most of the proceeds to repay borrowings, while investors assess its valuation.",
-      "publication_date": "Wed, 14 Oct 2026 18:50:41 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-files-rhp-announces-ipo-dates-for-record-issue/articleshow/134943768.cms",
+      "title": "US yields jump as hot consumer inflation boosts rate hike bets",
+      "description": "In September, the US Treasury yields climbed as the Consumer Price Index (CPI) showed a surprising rise of 0.6% month-over-month and 3.7% year-over-year. This unexpected inflation report heightened the chances of an interest rate hike by the Federal Reserve in December, signaling a potential response to ongoing inflationary pressures. Market sentiments are now leaning toward the anticipation of policy changes from the Fed as they aim to manage inflation effectively.",
+      "publication_date": "Wed, 14 Oct 2026 19:38:53 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-jump-as-hot-consumer-inflation-boosts-rate-hike-bets/articleshow/134944738.cms",
       "source": "rss"
     }
   ]
