@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:51:03.388905+00:00",
+  "generated_at": "2026-10-14T07:11:10.244053+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "IDBI Bank shares rally 13%, market value swells by Rs 11,460 crore amid muted market. What lies ahead?",
-      "description": "IDBI Bank shares surged nearly 13%, adding over Rs 11,460 crore to its market capitalisation amid progress in the privatisation process. The bank reported strong Q2FY27 business growth, while JM Financial highlighted loan growth, deposit mobilisation and margin pressures across the banking sector.",
-      "publication_date": "Wed, 14 Oct 2026 11:51:22 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-rally-13-market-value-swells-by-rs-11460-crore-amid-muted-market-what-lies-ahead/articleshow/134934298.cms",
+      "title": "Johnson & Johnson stock rout: What's driving the sharp decline?",
+      "description": "Johnson & Johnson shares fell as much as 6.8% despite an improved full-year earnings outlook. A sharp decline in reported quarterly profit, weaker-than-expected MedTech performance and litigation-related charges weighed on investor sentiment despite revenue growth and adjusted earnings beating estimates.",
+      "publication_date": "Wed, 14 Oct 2026 12:23:09 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/johnson-amp-johnson-stock-rout-whats-driving-the-sharp-decline/slideshow/134935157.cms",
       "source": "rss"
     },
     {
-      "title": "Indian bonds slip on higher oil, hawkish RBI governor comments",
-      "description": "Indian government bonds faced a downturn, attributed to soaring oil prices and statements from the Reserve Bank of India. The yield on the benchmark 6.94% 2036 bond rose following the central bank's recent rate hike. Geopolitical tensions involving Yemen and Saudi Arabia also pushed oil prices higher. With consumer inflation expected to exceed the central bank's upper tolerance limit in October, traders are keenly awaiting U.S.",
-      "publication_date": "Wed, 14 Oct 2026 11:31:23 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-higher-oil-hawkish-rbi-governor-comments/articleshow/134933863.cms",
+      "title": "UBS says CarTrade Tech’s OLX buy can deliver 5x revenue in five years. Here’s why",
+      "description": "Global brokerage firm UBS maintained a Buy rating on CarTrade Tech with a target price of Rs 4,000, citing strong monetisation potential in its OLX India business. UBS expects OLX’s emerging revenue levers, such as financing, subscriptions, and logistics to drive a 5x revenue expansion to Rs 11.8 billion by FY31.",
+      "publication_date": "Wed, 14 Oct 2026 12:19:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-says-cartrade-techs-olx-buy-can-deliver-5x-revenue-in-five-years-heres-why/articleshow/134934907.cms",
       "source": "rss"
     },
     {
-      "title": "Bank of Baroda shares drop 3% after NMC Healthcare founder BR Shetty files $15 bn lawsuit; lender issues clarification",
-      "description": "Bank of Baroda shares fell over 3% to Rs 230.40 on Wednesday following reports that NMC Healthcare founder BR Shetty filed a $15 billion lawsuit against the lender in the Bombay High Court alleging fraud. Bank of Baroda clarified to exchanges that it has not yet been served.",
-      "publication_date": "Wed, 14 Oct 2026 11:26:53 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-drop-3-after-nmc-healthcare-founder-br-shetty-files-15-bn-lawsuit-lender-issues-clarification/articleshow/134933740.cms",
+      "title": "Global Market: Japan five-year bond yield steady after strong demand at auction",
+      "description": "Japan’s five-year government bond yield held steady at 2.34% on Wednesday after strong demand at a Ministry of Finance auction. Solid bid-to-cover ratios, easing French bond yields, and growing market expectations that the Bank of Japan is nearing the end of its rate hike cycle buoyed investor appetite.",
+      "publication_date": "Wed, 14 Oct 2026 12:14:26 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-five-year-bond-yield-steady-after-strong-demand-at-auction/articleshow/134934716.cms",
       "source": "rss"
     },
     {
-      "title": "Q2 Results Live Updates: BHEL, Groww, Canara Bank, Tata Technologies to announce September quarter earnings today",
-      "description": "",
-      "publication_date": "Wed, 14 Oct 2026 11:13:38 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/tata-tech-groww-q2-results-fy27-bhel-canara-bank-tata-technologies-earnings-dividend-2026-share-price-updates/liveblog/134933806.cms",
+      "title": "Global Market: Why China’s CXMT is putting global memory chip giants under pressure",
+      "description": "Global semiconductor stocks tumbled as Chinese chipmaker CXMT’s reported progress on a new memory chip design raised concerns about intensifying competition. Samsung, SK Hynix and Micron face potential pricing pressure as Chinese manufacturers seek to narrow the technology gap. The selloff also reflects growing scrutiny of AI valuations and whether heavy investment in AI infrastructure will deliver sustainable returns.",
+      "publication_date": "Wed, 14 Oct 2026 12:05:05 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-why-chinas-cxmt-is-putting-global-memory-chip-giants-under-pressure/articleshow/134934456.cms",
       "source": "rss"
     }
   ]
