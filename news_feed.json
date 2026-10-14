@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:08:56.185919+00:00",
+  "generated_at": "2026-10-14T08:42:12.602594+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,6 +1412,20 @@
       "source": "Reuters"
     },
     {
+      "title": "D-Street's proxy AI trade shines in a bleak year for stocks",
+      "description": "India's Nifty 50 index faces considerable challenges this year, with a significant drop since January. In contrast, stocks linked to artificial intelligence have thrived, attracting investor interest and increased foreign ownership. Companies are investing in the foundational infrastructure for AI, anticipating a fourfold rise in data center capacity by 2029. However, experts warn that lofty valuations could pose risks for future earnings.",
+      "publication_date": "Wed, 14 Oct 2026 13:46:54 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-streets-proxy-ai-trade-shines-in-a-bleak-year-for-stocks/articleshow/134936689.cms",
+      "source": "rss"
+    },
+    {
+      "title": "PMS Tracker: HEM Securities’ SME stars, others rally up to 7.5% in September despite Nifty’s 6% crash",
+      "description": "Despite Nifty and Sensex tumbling over 6% in September, small-cap and SME-focused PMS strategies delivered robust positive returns. Hem Securities' India Rising SME Stars scheme led gains at 7.23%, according to PMS Bazaar data, while broad mid-cap and thematic strategies suffered losses of up to 10.16%.",
+      "publication_date": "Wed, 14 Oct 2026 13:19:35 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-hem-securities-sme-stars-others-rally-up-to-7-5-in-september-despite-niftys-6-crash/articleshow/134936130.cms",
+      "source": "rss"
+    },
+    {
       "title": "Global Market: Lagarde says France must tackle debt woes through fiscal consolidation",
       "description": "ECB President Christine Lagarde stated on Wednesday that France must tackle its ballooning debt and deficit through domestic fiscal consolidation rather than relying on central bank bond intervention. Speaking in Bangkok, Lagarde noted that while elevated Eurozone inflation persists due to energy costs, growth projections remain modestly resilient.",
       "publication_date": "Wed, 14 Oct 2026 13:16:50 +0530",
@@ -1423,20 +1437,6 @@
       "description": "European companies appear better equipped to withstand rising oil and gas prices than during the 2022 energy crisis, supported by changing stock market composition, AI-related spending, global operations and stronger risk management. However, a prolonged energy shock could still pressure earnings and consumer demand.",
       "publication_date": "Wed, 14 Oct 2026 13:15:28 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Groww Q2 Results: Cons net profit surges 54% YoY to Rs 726 crore; revenue jumps 47%",
-      "description": "Groww Q2 Results: The company’s revenue from operations came in at Rs 1,501 crore, marking a 47% increase from Rs 1,019 crore posted in the corresponding quarter of the previous financial year.",
-      "publication_date": "Wed, 14 Oct 2026 12:58:41 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-cons-net-profit-surges-54-yoy-to-rs-726-crore-revenue-jumps-47/articleshow/134935652.cms",
-      "source": "rss"
-    },
-    {
-      "title": "AI: A Boon or a threat for future? Atul Suri | Ravi Dharamshi | Alpha Wealth Summit 2.0",
-      "description": "",
-      "publication_date": "Wed, 14 Oct 2026 12:38:56 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-a-boon-or-a-threat-for-future-atul-suri-ravi-dharamshi-alpha-wealth-summit-2-0/videoshow/134935345.cms",
       "source": "rss"
     }
   ]
