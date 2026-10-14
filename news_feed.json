@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:18:11.327505+00:00",
+  "generated_at": "2026-10-14T01:41:36.118895+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,6 +1412,20 @@
       "source": "Reuters"
     },
     {
+      "title": "Hardening bond yields to weigh on bank profits in September quarter",
+      "description": "For the September quarter, Nifty 50 banks are forecasted to see an 11.5% rise in net interest income, yet net profits are expected to grow more slowly at around 10%. This growth is supported by robust capital inflows from the RBI's FCNR-B deposit swap scheme, bolstering deposit growth. Leading banks like Axis Bank and Kotak Mahindra Bank are likely to show substantial profit growth this quarter.",
+      "publication_date": "Wed, 14 Oct 2026 06:49:34 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hardening-bond-yields-to-weigh-on-bank-profits-in-september-quarter/articleshow/134929613.cms",
+      "source": "rss"
+    },
+    {
+      "title": "RBI's forex curbs lift rupee as banks reassess hedging costs",
+      "description": "The Indian rupee has appreciated in value against the dollar following banks' compliance with recent currency derivative guidelines. The Reserve Bank of India has required banks to hold a 20% reserve for foreign exchange risks. This policy seeks to mitigate speculative trading practices and provide currency stability. As a result, banks are revisiting their dollar hedging costs, striving to protect the rupee from declining further.",
+      "publication_date": "Wed, 14 Oct 2026 06:41:25 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rbi-curbs-on-forex-trades-strengthen-rupee/articleshow/134929595.cms",
+      "source": "rss"
+    },
+    {
       "title": "Global Market Today: Asian stocks rise on Fed rate signal, oil gains",
       "description": "MSCI Inc.’s Asia Pacific equities index advanced 0.2%. A selloff in semiconductor stocks sent the gauge to its weakest close since August on Tuesday. Earlier, the S&P 500 pared earlier losses to close little changed after New York Fed President John Williams said he continued to see one more rate hike as appropriate this year but no need for further tightening in 2027. Pressure on tech stocks eased and Microsoft Corp. rose to a record.",
       "publication_date": "Wed, 14 Oct 2026 06:31:18 +0530",
@@ -1423,20 +1437,6 @@
       "description": "Fusion CX is poised to raise ₹500 crore through a fresh equity offering and ₹202 crore via an offer for sale. Post-IPO, the promoter's stake will be trimmed to about 80%. With impressive revenue and profit growth over the past three years, alongside the acquisition of VA Platinum to bolster its Australian market presence, this IPO presents a compelling long-term investment opportunity for investors.",
       "publication_date": "Wed, 14 Oct 2026 06:29:13 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-fusion-cx-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134929546.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Nifty IT surges 5.2% to log biggest single-day gain in 17 months",
-      "description": "Indian IT stocks experienced a significant increase following HCL Technologies' strong earnings report for the September quarter. The Nifty IT index rose by 5.2%, marking its largest gain in 17 months. All 10 components of the index ended higher, with HCL Technologies leading the gains. Concerns over artificial intelligence adoption have impacted investor sentiment, although a stronger dollar provided additional support.",
-      "publication_date": "Wed, 14 Oct 2026 06:18:58 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mood-swing-ai-hits-a-bump-indian-it-stocks-get-a-jump/articleshow/134929451.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sebi proposes Rs 50,000 fine for firms not cooperating with monitoring agencies",
-      "description": "Sebi has proposed a fine of ₹50,000 for each instance of non-cooperation by listed companies. Monitoring agencies would be empowered to submit reports directly to stock exchanges. Stricter enforcement measures may include freezing promoters' demat accounts. Companies are required to provide information to monitoring agencies within prescribed timelines. This initiative aims to ensure better accountability regarding the utilization of funds raised through public issues.",
-      "publication_date": "Wed, 14 Oct 2026 06:02:33 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-rs-50000-fine-for-firms-not-cooperating-with-monitors/articleshow/134929434.cms",
       "source": "rss"
     }
   ]
