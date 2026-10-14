@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:08:10.516209+00:00",
+  "generated_at": "2026-10-14T09:38:20.010744+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
+      "title": "Global Market: European shares rise as ASML rally lifts tech stocks; investors eye US CPI",
+      "description": "European shares increased modestly as the pan-European STOXX 600 index recovered from previous losses. ASML's strong demand led technology stocks to gain, while concerns about geopolitical risks remained. Oil prices rose following attacks on vessels in the Strait of Hormuz, which limited gains in equities. The market also awaits US consumer price index data that could impact interest-rate projections.",
+      "publication_date": "Wed, 14 Oct 2026 14:54:20 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-asml-rally-lifts-tech-stocks-investors-eye-us-cpi/articleshow/134937855.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market: Asian investors pour money into hedge funds as bond markets falter",
+      "description": "Asian investors are increasing allocations to hedge funds amid volatile bond markets, uneven equity performance and concerns about traditional portfolio strategies. Multi-strategy, macroeconomic and quantitative funds are gaining traction as investors seek diversification and more resilient returns across market cycles.",
+      "publication_date": "Wed, 14 Oct 2026 14:38:09 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-asian-investors-pour-money-into-hedge-funds-as-bond-markets-falter/articleshow/134937550.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Indian families keep just 14% abroad, global peers 30-40%: Prithipal Singh on going global",
+      "description": "",
+      "publication_date": "Wed, 14 Oct 2026 14:31:15 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-families-keep-just-14-abroad-global-peers-30-40-prithipal-singh-on-going-global/videoshow/134937460.cms",
+      "source": "rss"
+    },
+    {
       "title": "BHEL Q2 Results: Net profit skyrockets 120% YoY to Rs 810 crore; revenue rises 24%",
       "description": "Bharat Heavy Electricals Limited has announced a remarkable jump in net profit for Q2, surging 120.1% year-on-year to reach Rs 810 crore, up from Rs 368 crore last fiscal year. Additionally, revenue from operations increased by 23.8%, totaling Rs 9,300 crore. These figures showcase BHEL's strong financial performance, highlighting notable growth and operational success in this quarter.",
       "publication_date": "Wed, 14 Oct 2026 14:05:04 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bhel-q2-results-net-profit-skyrockets-120-yoy-to-rs-810-crore-revenue-rises-24/articleshow/134936902.cms",
-      "source": "rss"
-    },
-    {
-      "title": "D-Street's proxy AI trade shines in a bleak year for stocks",
-      "description": "India's Nifty 50 index faces considerable challenges this year, with a significant drop since January. In contrast, stocks linked to artificial intelligence have thrived, attracting investor interest and increased foreign ownership. Companies are investing in the foundational infrastructure for AI, anticipating a fourfold rise in data center capacity by 2029. However, experts warn that lofty valuations could pose risks for future earnings.",
-      "publication_date": "Wed, 14 Oct 2026 13:46:54 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-streets-proxy-ai-trade-shines-in-a-bleak-year-for-stocks/articleshow/134936689.cms",
-      "source": "rss"
-    },
-    {
-      "title": "PMS Tracker: HEM Securities’ SME stars, others rally up to 7.5% in September despite Nifty’s 6% crash",
-      "description": "Despite Nifty and Sensex tumbling over 6% in September, small-cap and SME-focused PMS strategies delivered robust positive returns. Hem Securities' India Rising SME Stars scheme led gains at 7.23%, according to PMS Bazaar data, while broad mid-cap and thematic strategies suffered losses of up to 10.16%.",
-      "publication_date": "Wed, 14 Oct 2026 13:19:35 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-hem-securities-sme-stars-others-rally-up-to-7-5-in-september-despite-niftys-6-crash/articleshow/134936130.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: Lagarde says France must tackle debt woes through fiscal consolidation",
-      "description": "ECB President Christine Lagarde stated on Wednesday that France must tackle its ballooning debt and deficit through domestic fiscal consolidation rather than relying on central bank bond intervention. Speaking in Bangkok, Lagarde noted that while elevated Eurozone inflation persists due to energy costs, growth projections remain modestly resilient.",
-      "publication_date": "Wed, 14 Oct 2026 13:16:50 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-lagarde-says-france-must-tackle-debt-woes-through-fiscal-consolidation/articleshow/134935514.cms",
       "source": "rss"
     }
   ]
