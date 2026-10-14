@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T23:32:52.965581+00:00",
+  "generated_at": "2026-10-14T00:16:29.030128+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Sebi extends IPO size flexibility by six months",
+      "description": "In a significant regulatory update, Sebi has extended the timeline by six months for companies to adjust their issue sizes without the need for new approvals. This applies to initial public offerings set to commence by March 31, 2027. Lead managers are now permitted to modify offer documents to accommodate these size revisions, ensuring that the main objectives continue to be met.",
+      "publication_date": "Wed, 14 Oct 2026 05:30:07 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-ipo-size-flexibility-by-six-months/articleshow/134929354.cms",
+      "source": "rss"
+    },
+    {
       "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
       "description": "In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip index faced a substantial decline, sparking fears surrounding competition in this sector. Despite the turbulence, analysts express optimism about future earnings linked to AI-driven innovations.",
       "publication_date": "Wed, 14 Oct 2026 01:43:21 +0530",
@@ -1426,18 +1433,11 @@
       "source": "rss"
     },
     {
-      "title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treasury yields higher",
-      "description": "Foreign investors pulled $26.3 billion from emerging-market stocks and bonds in September due to rising US yields. The hawkish Federal Reserve's interest rate hike influenced this first outflow since June. Additionally, heavy foreign selling in South Korea resulted in a significant decrease in emerging-market equities. While fixed-income assets attracted $246 billion this year, equities saw year-to-date outflows of $113.9 billion.",
-      "publication_date": "Wed, 07 Oct 2026 23:56:54 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/foreign-investors-pull-out-26-3-billion-from-emerging-markets-in-september-as-hawkish-fed-pushes-us-treasury-yields-higher/articleshow/134772977.cms",
+      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "description": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
+      "publication_date": "Wed, 14 Oct 2026 00:13:45 GMT",
+      "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
       "source": "rss"
-    },
-    {
-      "title": "Rate hike fears weigh on UK housing market, RICS says - Reuters",
-      "description": "Rate hike fears weigh on UK housing market, RICS says &nbsp;&nbsp; Reuters",
-      "publication_date": "Wed, 07 Oct 2026 23:50:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR21fZjUza1BhZnRPMWxJR2VFWVVkLThyMzRZd2RnSUN1UGZNc3Z3QlBVQndaVVVUekloVF8tOTJCTUs2b3VZTGx2dkppY2lBNGRIaEk1U2R6VFVFQXdFLVlYdUFOVTJlSEp1bmlISTF4dFc4RHNCVTMyaVVaMVN0eEpMbHZOZXBhRjBqOXVUZEZDRlRzS0stVS1B?oc=5",
-      "source": "Reuters"
     }
   ]
 }
