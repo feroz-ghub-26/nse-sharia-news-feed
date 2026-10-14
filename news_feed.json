@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:39:55.400882+00:00",
+  "generated_at": "2026-10-14T08:08:56.185919+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
+      "title": "Global Market: Lagarde says France must tackle debt woes through fiscal consolidation",
+      "description": "ECB President Christine Lagarde stated on Wednesday that France must tackle its ballooning debt and deficit through domestic fiscal consolidation rather than relying on central bank bond intervention. Speaking in Bangkok, Lagarde noted that while elevated Eurozone inflation persists due to energy costs, growth projections remain modestly resilient.",
+      "publication_date": "Wed, 14 Oct 2026 13:16:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-lagarde-says-france-must-tackle-debt-woes-through-fiscal-consolidation/articleshow/134935514.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Global Market | European companies better positioned to withstand energy price shock than in 2022: Analysts",
+      "description": "European companies appear better equipped to withstand rising oil and gas prices than during the 2022 energy crisis, supported by changing stock market composition, AI-related spending, global operations and stronger risk management. However, a prolonged energy shock could still pressure earnings and consumer demand.",
+      "publication_date": "Wed, 14 Oct 2026 13:15:28 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Groww Q2 Results: Cons net profit surges 54% YoY to Rs 726 crore; revenue jumps 47%",
+      "description": "Groww Q2 Results: The company’s revenue from operations came in at Rs 1,501 crore, marking a 47% increase from Rs 1,019 crore posted in the corresponding quarter of the previous financial year.",
+      "publication_date": "Wed, 14 Oct 2026 12:58:41 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-cons-net-profit-surges-54-yoy-to-rs-726-crore-revenue-jumps-47/articleshow/134935652.cms",
+      "source": "rss"
+    },
+    {
       "title": "AI: A Boon or a threat for future? Atul Suri | Ravi Dharamshi | Alpha Wealth Summit 2.0",
       "description": "",
       "publication_date": "Wed, 14 Oct 2026 12:38:56 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-a-boon-or-a-threat-for-future-atul-suri-ravi-dharamshi-alpha-wealth-summit-2-0/videoshow/134935345.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Canara Bank Q2 Results: Standalone net profit rises 8% YoY to Rs 5,175 crore, NII jumps 20%",
-      "description": "Canara Bank has announced a standalone net profit of approximately Rs 5,175 crore for the second quarter of FY27, reflecting a growth of over 8% from the previous year. The bank also experienced a substantial increase in net interest income, surpassing Rs 11,005 crore, along with notable improvements in asset quality through a reduction in non-performing assets.",
-      "publication_date": "Wed, 14 Oct 2026 12:34:31 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-results-standalone-net-profit-rises-8-yoy-to-rs-5175-crore-nii-jumps-20/articleshow/134935180.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Johnson & Johnson stock rout: What's driving the sharp decline?",
-      "description": "Johnson & Johnson shares fell as much as 6.8% despite an improved full-year earnings outlook. A sharp decline in reported quarterly profit, weaker-than-expected MedTech performance and litigation-related charges weighed on investor sentiment despite revenue growth and adjusted earnings beating estimates.",
-      "publication_date": "Wed, 14 Oct 2026 12:23:09 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/johnson-amp-johnson-stock-rout-whats-driving-the-sharp-decline/slideshow/134935157.cms",
-      "source": "rss"
-    },
-    {
-      "title": "UBS says CarTrade Tech’s OLX buy can deliver 5x revenue in five years. Here’s why",
-      "description": "Global brokerage firm UBS maintained a Buy rating on CarTrade Tech with a target price of Rs 4,000, citing strong monetisation potential in its OLX India business. UBS expects OLX’s emerging revenue levers, such as financing, subscriptions, and logistics to drive a 5x revenue expansion to Rs 11.8 billion by FY31.",
-      "publication_date": "Wed, 14 Oct 2026 12:19:39 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-says-cartrade-techs-olx-buy-can-deliver-5x-revenue-in-five-years-heres-why/articleshow/134934907.cms",
       "source": "rss"
     }
   ]
