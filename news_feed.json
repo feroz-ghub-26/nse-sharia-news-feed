@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:42:12.602594+00:00",
+  "generated_at": "2026-10-14T09:08:10.516209+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "BHEL Q2 Results: Net profit skyrockets 120% YoY to Rs 810 crore; revenue rises 24%",
+      "description": "Bharat Heavy Electricals Limited has announced a remarkable jump in net profit for Q2, surging 120.1% year-on-year to reach Rs 810 crore, up from Rs 368 crore last fiscal year. Additionally, revenue from operations increased by 23.8%, totaling Rs 9,300 crore. These figures showcase BHEL's strong financial performance, highlighting notable growth and operational success in this quarter.",
+      "publication_date": "Wed, 14 Oct 2026 14:05:04 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bhel-q2-results-net-profit-skyrockets-120-yoy-to-rs-810-crore-revenue-rises-24/articleshow/134936902.cms",
+      "source": "rss"
+    },
+    {
       "title": "D-Street's proxy AI trade shines in a bleak year for stocks",
       "description": "India's Nifty 50 index faces considerable challenges this year, with a significant drop since January. In contrast, stocks linked to artificial intelligence have thrived, attracting investor interest and increased foreign ownership. Companies are investing in the foundational infrastructure for AI, anticipating a fourfold rise in data center capacity by 2029. However, experts warn that lofty valuations could pose risks for future earnings.",
       "publication_date": "Wed, 14 Oct 2026 13:46:54 +0530",
@@ -1430,13 +1437,6 @@
       "description": "ECB President Christine Lagarde stated on Wednesday that France must tackle its ballooning debt and deficit through domestic fiscal consolidation rather than relying on central bank bond intervention. Speaking in Bangkok, Lagarde noted that while elevated Eurozone inflation persists due to energy costs, growth projections remain modestly resilient.",
       "publication_date": "Wed, 14 Oct 2026 13:16:50 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-lagarde-says-france-must-tackle-debt-woes-through-fiscal-consolidation/articleshow/134935514.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market | European companies better positioned to withstand energy price shock than in 2022: Analysts",
-      "description": "European companies appear better equipped to withstand rising oil and gas prices than during the 2022 energy crisis, supported by changing stock market composition, AI-related spending, global operations and stronger risk management. However, a prolonged energy shock could still pressure earnings and consumer demand.",
-      "publication_date": "Wed, 14 Oct 2026 13:15:28 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
       "source": "rss"
     }
   ]
