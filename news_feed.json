@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:03:38.067568+00:00",
+  "generated_at": "2026-10-14T01:18:11.327505+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,7 +1412,21 @@
       "source": "Reuters"
     },
     {
-      "title": "Mood Swing: AI hits a bump, Indian IT stocks get a jump",
+      "title": "Global Market Today: Asian stocks rise on Fed rate signal, oil gains",
+      "description": "MSCI Inc.’s Asia Pacific equities index advanced 0.2%. A selloff in semiconductor stocks sent the gauge to its weakest close since August on Tuesday. Earlier, the S&P 500 pared earlier losses to close little changed after New York Fed President John Williams said he continued to see one more rate hike as appropriate this year but no need for further tightening in 2027. Pressure on tech stocks eased and Microsoft Corp. rose to a record.",
+      "publication_date": "Wed, 14 Oct 2026 06:31:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-fed-rate-signal-oil-gains/articleshow/134929560.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Can Fusion CX IPO deliver long-term growth for high-risk investors?",
+      "description": "Fusion CX is poised to raise ₹500 crore through a fresh equity offering and ₹202 crore via an offer for sale. Post-IPO, the promoter's stake will be trimmed to about 80%. With impressive revenue and profit growth over the past three years, alongside the acquisition of VA Platinum to bolster its Australian market presence, this IPO presents a compelling long-term investment opportunity for investors.",
+      "publication_date": "Wed, 14 Oct 2026 06:29:13 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-fusion-cx-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134929546.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Nifty IT surges 5.2% to log biggest single-day gain in 17 months",
       "description": "Indian IT stocks experienced a significant increase following HCL Technologies' strong earnings report for the September quarter. The Nifty IT index rose by 5.2%, marking its largest gain in 17 months. All 10 components of the index ended higher, with HCL Technologies leading the gains. Concerns over artificial intelligence adoption have impacted investor sentiment, although a stronger dollar provided additional support.",
       "publication_date": "Wed, 14 Oct 2026 06:18:58 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/mood-swing-ai-hits-a-bump-indian-it-stocks-get-a-jump/articleshow/134929451.cms",
@@ -1423,20 +1437,6 @@
       "description": "Sebi has proposed a fine of ₹50,000 for each instance of non-cooperation by listed companies. Monitoring agencies would be empowered to submit reports directly to stock exchanges. Stricter enforcement measures may include freezing promoters' demat accounts. Companies are required to provide information to monitoring agencies within prescribed timelines. This initiative aims to ensure better accountability regarding the utilization of funds raised through public issues.",
       "publication_date": "Wed, 14 Oct 2026 06:02:33 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-rs-50000-fine-for-firms-not-cooperating-with-monitors/articleshow/134929434.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "The Nifty index surged to close at 22,722, bouncing back with a hefty gain of 434 points from its lowest dip of the day. Positive remarks from Finance Minister Nirmala Sitharaman are likely to bolster investor confidence regarding the long-term capital gains tax. A decline in the India VIX suggests lower market anxiety, while foreign institutional investors recorded net sales, countered by robust domestic institutional purchases.",
-      "publication_date": "Wed, 14 Oct 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134929327.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Stocks in news: Adani Enterprises, Hyundai Motor India, BHEL, BEL, Groww, Tata Elxsi and RailTel",
-      "description": "Indian stocks rallied impressively, as benchmark indices surged by over 1.5%, fueled by a wave of positive investor sentiment. Key players like Adani Enterprises and Hyundai Motor India are capturing attention due to significant recent updates. While Tata Elxsi experienced a minor dip in net profit, revenue and EBIT improvements were encouraging. Furthermore, Bharat Electronics has secured fresh orders totaling Rs 533 crore, enhancing its order backlog.",
-      "publication_date": "Wed, 14 Oct 2026 06:00:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-enterprises-hyundai-motor-india-bhel-bel-groww-tata-elxsi-and-railtel/articleshow/134922286.cms",
       "source": "rss"
     }
   ]
