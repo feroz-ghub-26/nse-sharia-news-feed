@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T15:07:12.629846+00:00",
+  "generated_at": "2026-10-14T15:39:53.448155+00:00",
   "article_count": 200,
   "source_health": [
     {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20(Iran%20OR%20Hormuz%20OR%20%22Middle%20East%22%20OR%20%22Red%20Sea%22%20OR%20oil%20OR%20shipping%20OR%20sanctions)%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 100
     },
     {
       "url": "https://feeds.reuters.com/reuters/businessNews",
@@ -1412,6 +1412,20 @@
       "source": "Reuters"
     },
     {
+      "title": "Jio announces price band for over Rs 30,000 crore IPO. Check key dates, GMP and other details",
+      "description": "Jio has set the price band for its much-awaited IPO at Rs 1,065-1,119 per share. At the lower end of the price band, Jio Platforms could raise Rs 28,755 crore. At the cap price of Rs 1,119, the IPO size would rise to about Rs 30,213 crore.",
+      "publication_date": "Wed, 14 Oct 2026 20:24:51 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-announces-price-band-for-over-rs-30000-crore-ipo-check-key-dates-gmp-and-other-details/articleshow/134945465.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Akash, Isha Ambani's birthday to mark close of Reliance Jio's mega IPO",
+      "description": "Akash and Isha Ambani’s birthday on October 23 coincides with the closing day of Reliance Jio’s Rs 30,000 crore IPO. The listing marks a milestone for the telecom and digital business, which the twins have helped shape since its early years, as Jio prepares to enter India’s public markets.",
+      "publication_date": "Wed, 14 Oct 2026 20:19:28 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/akash-isha-ambanis-birthday-to-mark-close-of-reliance-jios-mega-ipo/articleshow/134945459.cms",
+      "source": "rss"
+    },
+    {
       "title": "Jio IPO to open on October 21: 10 things to know about the Rs 30,000 crore mega issue",
       "description": "Jio Platforms will open its Rs 30,000 crore IPO for subscription on October 21, with anchor investor bidding scheduled for October 19. The issue could become India’s largest-ever public offering, surpassing Hyundai Motor India’s record IPO. Here are 10 key details on issue size, dates, shareholder quota, financials and valuation.",
       "publication_date": "Wed, 14 Oct 2026 20:12:34 +0530",
@@ -1423,20 +1437,6 @@
       "description": "Canara Bank reported an 8.4% year-on-year rise in second-quarter net profit to Rs 5,175 crore, supported by higher net interest income and improved asset quality. Net interest income grew 20.4% to Rs 11,005 crore, while lower provisions helped earnings. Global advances rose 19.5%, outpacing deposit growth.",
       "publication_date": "Wed, 14 Oct 2026 19:57:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-profit-rises-8-yoy-to-rs-5175-crore/articleshow/134945099.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Global Market: BoE's Huw Pill wary of market bets on four rate hikes over next year",
-      "description": "Bank of England Chief Economist Huw Pill has questioned market expectations for four quarter-point rate hikes over the next 12 months as policymakers assess the inflationary fallout of the Iran war. His comments highlight divisions within the Monetary Policy Committee over how to balance rising energy prices against risks to economic growth.",
-      "publication_date": "Wed, 14 Oct 2026 19:50:25 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-huw-pill-wary-of-market-bets-on-four-rate-hikes-over-next-year/articleshow/134944944.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US yields jump as hot consumer inflation boosts rate hike bets",
-      "description": "In September, the US Treasury yields climbed as the Consumer Price Index (CPI) showed a surprising rise of 0.6% month-over-month and 3.7% year-over-year. This unexpected inflation report heightened the chances of an interest rate hike by the Federal Reserve in December, signaling a potential response to ongoing inflationary pressures. Market sentiments are now leaning toward the anticipation of policy changes from the Fed as they aim to manage inflation effectively.",
-      "publication_date": "Wed, 14 Oct 2026 19:38:53 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-jump-as-hot-consumer-inflation-boosts-rate-hike-bets/articleshow/134944738.cms",
       "source": "rss"
     }
   ]
