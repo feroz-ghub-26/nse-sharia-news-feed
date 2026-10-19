@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:43:31.698388+00:00",
+  "generated_at": "2026-10-19T04:07:36.675693+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -20,7 +20,7 @@
     {
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "status": "ok",
-      "article_count": 21
+      "article_count": 28
     },
     {
       "url": "https://www.investing.com/rss/news.rss",
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
