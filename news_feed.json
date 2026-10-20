@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:06:50.465352+00:00",
+  "generated_at": "2026-10-20T21:35:39.924351+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -29,8 +29,8 @@
     },
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 50
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
@@ -1412,6 +1412,20 @@
       "source": "Reuters"
     },
     {
+      "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
+      "description": "Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. The S&P 500 also gained, while the Nasdaq slipped as technology stocks paused after a rebound in the previous session. Healthcare shares gained, while small-caps and defensive sectors also outperformed.",
+      "publication_date": "Wed, 21 Oct 2026 01:54:39 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
+      "source": "rss"
+    },
+    {
+      "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
+      "description": "Elon Musk's SpaceX on Tuesday reported a 161% rise in revenue for the third quarter, beating estimates, buoyed by a surge in its AI business and steady growth at its Starlink",
+      "publication_date": "Wed, 21 Oct 2026 01:50:41 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-q3-revenue-soars-161-yoy-on-ai-business-growth-beating-estimates/articleshow/135076651.cms",
+      "source": "rss"
+    },
+    {
       "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
       "description": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 14 Oct 2026 23:33:39 GMT",
@@ -1424,20 +1438,6 @@
       "publication_date": "Wed, 14 Oct 2026 23:25:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWS1yV3E3Rm1xX2VvajFnMnBRT2UtdjBYRlEwWWlqZ200ejhWMURWMUtPNVdaUXQybU13dkR4bFYwVXViTHVfRkpLanlXOTlHZGdHNzdVemNhem9SN1g1aEh0RlUwekQ5U2UtVTlZZkZDMk9LU3NZanI2akhVTEpFUEtnLWtIUFdGZktlWlVoX2hRNmEtV0lGa2g0NUdwdVIwbzBWag?oc=5",
       "source": "Reuters"
-    },
-    {
-      "title": "BlackRock, Goldman Sachs, Nomura among key investors as Zetwerk mops up Rs 2,251 crore in anchor bidding; IPO opens on Oct 15",
-      "description": "Zetwerk Manufacturing Businesses raised Rs 2,251 crore from 99 anchor investors, including BlackRock, Goldman Sachs and Nomura, ahead of its IPO opening on October 15. The Rs 5,012 crore issue, priced at Rs 143–151 per share, comprises a fresh issue and an offer for sale. Subscription closes on October 19.",
-      "publication_date": "Wed, 14 Oct 2026 22:48:48 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/blackrock-goldman-sachs-nomura-among-key-investors-as-zetwerk-mops-up-rs-2251-crore-in-anchor-bidding-ipo-opens-on-oct-15/articleshow/134947568.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US Fed’s Bowman sees no urgency for another rate hike",
-      "description": "Michelle Bowman, the Vice Chair for Supervision of the US Federal Reserve, spoke during the IMF-World Bank meetings in Bangkok. She stated that the central bank does not feel urgency for further rate hikes at this time. Bowman's comments came after a recent rate increase that set the target range to 3.75%-4.00%. Additionally, she addressed the need for stronger oversight in light of recent bank failures.",
-      "publication_date": "Wed, 14 Oct 2026 22:48:12 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-bowman-sees-no-urgency-for-another-rate-hike/articleshow/134947666.cms",
-      "source": "rss"
     }
   ]
 }
