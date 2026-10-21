@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:05:21.510321+00:00",
+  "generated_at": "2026-10-21T17:35:54.479243+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
+      "description": "Persistent Systems has opened a qualified institutional placement to raise up to USD 450 million, or about Rs 4,265 crore. The IT company has set the QIP floor price at Rs 5,550 per share and may offer investors a discount of up to 5% under the approved pricing terms.",
+      "publication_date": "Wed, 21 Oct 2026 23:01:22 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
+      "source": "rss"
+    },
+    {
       "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
       "description": "Bitcoin delivered nearly 234% returns over three years, outperforming silver, gold and equities. However, precious metals led over one year as cryptocurrencies declined. CoinDCX data also shows Bitcoin topping hypothetical one-year SIP values, highlighting the importance of investment horizons and risk management.",
       "publication_date": "Wed, 21 Oct 2026 21:35:58 +0530",
@@ -1430,13 +1437,6 @@
       "description": "Technical analysts have recommended Wipro, NHPC, Sagility, LTTS and Hexaware Technologies for potential gains, citing bullish chart patterns, support levels and momentum indicators. The recommendations include specific entry prices, stop losses and targets to manage trading risks.",
       "publication_date": "Wed, 21 Oct 2026 20:39:13 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
-      "description": "Netflix shares fell after the streaming giant reported its slowest sales growth in three years and forecast another quarter of slowing revenue growth. Its fourth quarter sales outlook missed analysts’ expectations, while weaker than expected advertising revenue added to concerns. The stock had already declined 30% this year, underperforming the S&P 500.",
-      "publication_date": "Wed, 21 Oct 2026 20:10:40 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/netflix-shares-slide-4-as-slowing-sales-growth-raises-fresh-concerns/articleshow/135094744.cms",
       "source": "rss"
     }
   ]
