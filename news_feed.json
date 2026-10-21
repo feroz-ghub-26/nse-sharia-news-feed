@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:05:24.054482+00:00",
+  "generated_at": "2026-10-21T23:35:11.848984+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Tesla beats on earnings and sales even as auto revenue declines",
+      "description": "Tesla reported better-than-expected third-quarter results.",
+      "publication_date": "Wed, 21 Oct 2026 23:32:04 GMT",
+      "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "source": "rss"
+    },
+    {
       "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
       "description": "US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The move came ahead of a $13 billion 20 year Treasury auction, while markets continued to price in a muted chance of a Fed rate hike.",
       "publication_date": "Wed, 21 Oct 2026 23:19:52 +0530",
@@ -1419,24 +1426,17 @@
       "source": "rss"
     },
     {
+      "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
+      "description": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 21 Oct 2026 23:12:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
       "description": "Persistent Systems has opened a qualified institutional placement to raise up to USD 450 million, or about Rs 4,265 crore. The IT company has set the QIP floor price at Rs 5,550 per share and may offer investors a discount of up to 5% under the approved pricing terms.",
       "publication_date": "Wed, 21 Oct 2026 23:01:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
-      "source": "rss"
-    },
-    {
-      "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-      "description": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
-      "publication_date": "Wed, 21 Oct 2026 22:50:35 GMT",
-      "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-      "source": "rss"
-    },
-    {
-      "title": "Tesla beats on earnings and sales even as auto revenue declines",
-      "description": "Tesla reported better-than-expected third-quarter results.",
-      "publication_date": "Wed, 21 Oct 2026 22:35:36 GMT",
-      "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
       "source": "rss"
     }
   ]
