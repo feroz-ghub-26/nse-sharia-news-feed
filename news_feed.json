@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:07:40.408255+00:00",
+  "generated_at": "2026-10-21T04:39:48.803495+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "Paras Healthcare IPO opens today: Check GMP, price band and key details",
-      "description": "Paras Healthcare’s Rs 1,450 crore IPO opens for subscription on October 21 and closes on October 23, with a grey market premium (GMP) of around 7%. The issue comprises a fresh issue of Rs 500 crore and an offer for sale (OFS) of Rs 950 crore.",
-      "publication_date": "Wed, 21 Oct 2026 09:11:59 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-ipo-opens-today-check-gmp-price-band-and-key-details/articleshow/135081382.cms",
+      "title": "Jio IPO or RIL shares? Where should investors bet as Ambani's Rs 30,213 crore issue opens",
+      "description": "Jio Platforms is eyeing a staggering valuation of Rs 10 lakh crore for its upcoming IPO, sparking heated debates among analysts on whether to pursue Jio or Reliance Industries shares. The IPO holds the potential for investors to capitalize on India's booming digital economy, focusing specifically on Jio's telecommunications prowess, while Reliance offers broader sector diversification.",
+      "publication_date": "Wed, 21 Oct 2026 09:48:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-or-ril-shares-where-should-investors-bet-as-ambanis-rs-30213-crore-issue-opens/articleshow/135081917.cms",
       "source": "rss"
     },
     {
-      "title": "HD Fire Protect shares to list today; GMP signals 26% listing gain",
-      "description": "HD Fire Protect is set to debut on the BSE and NSE on October 21, with a grey market premium of around 26%, signalling expectations of strong listing gains. The Rs 712 crore IPO was priced at Rs 271 per share and comprised entirely an offer for sale (OFS) of 2.63 crore shares by promoters Harish Narshi Dharamshi and Kusum Harish Dharamshi. Since it was an OFS, the company will receive no proceeds from the issue.",
-      "publication_date": "Wed, 21 Oct 2026 09:11:15 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hd-fire-protect-shares-to-list-today-gmp-signals-26-listing-gain/articleshow/135081363.cms",
+      "title": "Japan’s Nikkei jumps over 1% as AI optimism lifts chip stocks; exports rise 16.7%",
+      "description": "Japan’s Nikkei 225 rose 1.56% as renewed optimism over AI demand and gains on Wall Street lifted investor sentiment. Strong export growth and reports of major Chinese technology firms ordering Nvidia chips also supported the rally.",
+      "publication_date": "Wed, 21 Oct 2026 09:46:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-jumps-over-1-as-ai-optimism-lifts-chip-stocks-exports-rise-16-7/articleshow/135081946.cms",
       "source": "rss"
     },
     {
-      "title": "ETMarkets Smart Talk| India’s next wealth creators may be hidden in specialised manufacturing and energy infrastructure: Paresh Bhagat",
-      "description": "Paresh Bhagat, Chairman of Mangal Keshav Financial Services, discusses where India’s next wealth creators could emerge from, why several mid- and smallcap stocks remain priced for strong future growth, and how investors can distinguish expensive growth stories from genuine long-term compounders. He also explains why valuation discipline matters, whether largecaps are becoming more attractive, and what investors should look for when identifying smaller companies that could grow into tomorrow’s market leaders.",
-      "publication_date": "Wed, 21 Oct 2026 09:10:46 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-next-wealth-creators-may-be-hidden-in-specialised-manufacturing-and-energy-infrastructure-paresh-bhagat/articleshow/135081263.cms",
+      "title": "Global Market: South Korean shares jump 3% as chipmakers rally on strong exports, AI demand",
+      "description": "South Korea’s KOSPI surged 3.03% after hitting a six-month closing low, supported by a rally in chipmakers, record semiconductor exports and optimism over sustained AI infrastructure demand. Foreign investor buying also aided the rebound.",
+      "publication_date": "Wed, 21 Oct 2026 09:40:43 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-jump-3-as-chipmakers-rally-on-strong-exports-ai-demand/articleshow/135081882.cms",
       "source": "rss"
     },
     {
-      "title": "Himadri Speciality Chemical among 3 stocks to close crossing below VWAP",
-      "description": "Three Nifty 500 stocks experienced notable price weakness on October 19, closing significantly below their volume-weighted average prices amid subdued trading performance and downward price pressure.",
-      "publication_date": "Wed, 21 Oct 2026 09:04:27 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/himadri-speciality-chemical-among-3-stocks-to-close-crossing-below-vwap/slideshow/135081354.cms",
+      "title": "Hindustan Zinc shares in focus after Q2 net profit more than doubles. Why did Jefferies cut target price?",
+      "description": "Hindustan Zinc reported a 142% year-on-year jump in Q2FY27 net profit to Rs 6,412 crore, while revenue rose 77% to Rs 15,093 crore. Despite strong earnings, Jefferies cut its target price to Rs 650 from Rs 750, citing silver price volatility and lower price assumptions for the coming years.",
+      "publication_date": "Wed, 21 Oct 2026 09:38:59 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-in-focus-after-q2-net-profit-more-than-doubles-why-did-jefferies-cut-target-price/articleshow/135081741.cms",
       "source": "rss"
     }
   ]
