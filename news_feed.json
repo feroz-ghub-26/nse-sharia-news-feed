@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:40:51.915571+00:00",
+  "generated_at": "2026-10-21T04:07:40.408255+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
-      "title": "Union Bank Of India among 4 stocks showing RSI trending up",
-      "description": "Four Nifty500 banking stocks showed strengthening momentum on October 19, with rising RSI values indicating improving price strength and potential bullish trends, according to StockEdge’s technical scan.",
-      "publication_date": "Wed, 21 Oct 2026 08:54:02 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-4-stocks-showing-rsi-trending-up/slideshow/135081189.cms",
+      "title": "Paras Healthcare IPO opens today: Check GMP, price band and key details",
+      "description": "Paras Healthcare’s Rs 1,450 crore IPO opens for subscription on October 21 and closes on October 23, with a grey market premium (GMP) of around 7%. The issue comprises a fresh issue of Rs 500 crore and an offer for sale (OFS) of Rs 950 crore.",
+      "publication_date": "Wed, 21 Oct 2026 09:11:59 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-ipo-opens-today-check-gmp-price-band-and-key-details/articleshow/135081382.cms",
       "source": "rss"
     },
     {
-      "title": "ETMarkets Smart Talk | Investors want more than trading apps; they want a partner in their wealth journey: Shripal Shah",
-      "description": "The transition to Kotak Neo builds on three decades of experience, with over ₹12,000 crore in net worth and ₹17 lakh crore in DP assets, the highest among stockbroker depository participants. It marks the company's evolution from traditional broking towards a broader platform designed around the investing, trading and wealth management needs of the new-age Indian investor.",
-      "publication_date": "Wed, 21 Oct 2026 08:47:49 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-investors-want-more-than-trading-apps-they-want-a-partner-in-their-wealth-journey-shripal-shah/articleshow/135080840.cms",
+      "title": "HD Fire Protect shares to list today; GMP signals 26% listing gain",
+      "description": "HD Fire Protect is set to debut on the BSE and NSE on October 21, with a grey market premium of around 26%, signalling expectations of strong listing gains. The Rs 712 crore IPO was priced at Rs 271 per share and comprised entirely an offer for sale (OFS) of 2.63 crore shares by promoters Harish Narshi Dharamshi and Kusum Harish Dharamshi. Since it was an OFS, the company will receive no proceeds from the issue.",
+      "publication_date": "Wed, 21 Oct 2026 09:11:15 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hd-fire-protect-shares-to-list-today-gmp-signals-26-listing-gain/articleshow/135081363.cms",
       "source": "rss"
     },
     {
-      "title": "Only 2.3% of wealthy family businesses are ready for succession. What’s holding them back?",
-      "description": "Julius Baer–EY’s Family Barometer Report 2026 shows that 65.9% of families believe the next generation is not yet ready, while emotional attachment, informal decision-making and weak family governance continue to complicate the transition. For India’s business families, the hardest part may not be transferring ownership—but preparing the family to decide what comes next.",
-      "publication_date": "Wed, 21 Oct 2026 08:31:37 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/only-2-3-of-wealthy-family-businesses-are-ready-for-succession-whats-holding-them-back/articleshow/135080544.cms",
+      "title": "ETMarkets Smart Talk| India’s next wealth creators may be hidden in specialised manufacturing and energy infrastructure: Paresh Bhagat",
+      "description": "Paresh Bhagat, Chairman of Mangal Keshav Financial Services, discusses where India’s next wealth creators could emerge from, why several mid- and smallcap stocks remain priced for strong future growth, and how investors can distinguish expensive growth stories from genuine long-term compounders. He also explains why valuation discipline matters, whether largecaps are becoming more attractive, and what investors should look for when identifying smaller companies that could grow into tomorrow’s market leaders.",
+      "publication_date": "Wed, 21 Oct 2026 09:10:46 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-next-wealth-creators-may-be-hidden-in-specialised-manufacturing-and-energy-infrastructure-paresh-bhagat/articleshow/135081263.cms",
       "source": "rss"
     },
     {
-      "title": "There is no contingency plan from government to deal with higher fuel price: RS Sharma",
-      "description": "",
-      "publication_date": "Wed, 21 Oct 2026 08:31:31 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/there-is-no-contingency-plan-from-government-to-deal-with-higher-fuel-price-rs-sharma/videoshow/65766183.cms",
+      "title": "Himadri Speciality Chemical among 3 stocks to close crossing below VWAP",
+      "description": "Three Nifty 500 stocks experienced notable price weakness on October 19, closing significantly below their volume-weighted average prices amid subdued trading performance and downward price pressure.",
+      "publication_date": "Wed, 21 Oct 2026 09:04:27 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/himadri-speciality-chemical-among-3-stocks-to-close-crossing-below-vwap/slideshow/135081354.cms",
       "source": "rss"
     }
   ]
