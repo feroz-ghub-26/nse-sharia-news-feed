@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:37:01.406773+00:00",
+  "generated_at": "2026-10-21T14:07:22.775655+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "ok",
-      "article_count": 18
+      "status": "empty",
+      "article_count": 0
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
+      "title": "US stocks today: US stocks open higher as SpaceX, Super Micro results lift AI stocks",
+      "description": "Wall Street opened higher on Wednesday, led by gains in technology and AI stocks after quarterly results from SpaceX and Super Micro Computer improved investor appetite. The Nasdaq gained 0.67%, while the S&P 500 and Dow Jones also rose. Netflix slipped as its outlook disappointed investors.",
+      "publication_date": "Wed, 21 Oct 2026 19:07:35 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-spacex-super-micro-results-lift-ai-stocks/articleshow/135093777.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Can Jio IPO unlock hidden value in Reliance Industries shares?",
+      "description": "",
+      "publication_date": "Wed, 21 Oct 2026 19:05:50 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-jio-ipo-unlock-hidden-value-in-reliance-industries-shares/videoshow/135093782.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Sky Gold and Diamonds among 5 stocks that hit 52-week highs and rallied up to 45% in a month",
+      "description": "Despite the Sensex falling 143 points on Wednesday, five BSE 1000 stocks hit fresh 52-week highs. PC Jeweller led monthly gains at 45%, followed by Sky Gold and Diamonds, HFCL, South Indian Bank and Tatva Chintan Pharma Chem.",
+      "publication_date": "Wed, 21 Oct 2026 18:50:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sky-gold-and-diamonds-among-5-stocks-that-hit-52-week-highs-and-rallied-up-to-45-in-a-month/slideshow/135093530.cms",
+      "source": "rss"
+    },
+    {
       "title": "IGI Q2 Results: Consolidated PAT surges 43% to Rs 185 crore",
       "description": "The International Gemological Institute recently announced an impressive 43.14 percent growth in profit after tax for the previous quarter. Operational revenue rose by 31 percent compared to last year. Demand for both lab-grown and natural diamonds remains strong, particularly as the festive season approaches, prompting retailers and manufacturers to anticipate a surge in sales across their segments.",
       "publication_date": "Wed, 21 Oct 2026 18:35:12 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/igi-q2-results-consolidated-pat-surges-43-to-rs-185-crore/articleshow/135093213.cms",
-      "source": "rss"
-    },
-    {
-      "title": "AI data center projects boost US warehouse demand and rents, real estate company JLL says",
-      "description": "AI data center construction projects, particularly near Dallas/Fort Worth and Washington, DC, are generating new demand for warehouse space and helped send rents higher in the third quarter, real estate services company JLL said on Tuesday.",
-      "publication_date": "Wed, 21 Oct 2026 18:32:00 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ai-data-center-projects-boost-us-warehouse-demand-and-rents-real-estate-company-jll-says/articleshow/135093158.cms",
-      "source": "rss"
-    },
-    {
-      "title": "UK annual house prices rise at weakest pace since March, ONS says",
-      "description": "British annual house prices rose at their weakest annual pace since March in August, according to official data published on Wednesday that also showed growth in average",
-      "publication_date": "Wed, 21 Oct 2026 18:30:20 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/uk-annual-house-prices-rise-at-weakest-pace-since-march-ons-says/articleshow/135093001.cms",
-      "source": "rss"
-    },
-    {
-      "title": "TVS ILP leases 80k sq ft at Visakhapatnam park in Andhra to Yokohoma group",
-      "description": "TVS ILP has leased 80,000 square feet in Visakhapatnam to ATC Tires for a new warehouse. This facility will support domestic distribution and export operations for Yokohama passenger car tires. The development is expected to create local employment opportunities in the region. Visakhapatnam's strategic location provides significant advantages for various industries seeking to grow. This partnership is key in enhancing operational efficiencies and logistics infrastructure for ATC Tires.",
-      "publication_date": "Wed, 21 Oct 2026 18:20:40 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tvs-ilp-leases-80k-sq-ft-at-visakhapatnam-park-in-andhra-to-yokohoma-group/articleshow/135092976.cms",
       "source": "rss"
     }
   ]
