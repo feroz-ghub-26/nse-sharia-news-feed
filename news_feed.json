@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:07:22.775655+00:00",
+  "generated_at": "2026-10-21T14:38:02.145965+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,31 +1412,31 @@
       "source": "Reuters"
     },
     {
+      "title": "Jio IPO strengthens Reliance’s financial flexibility; capex funding remains key: Moody’s",
+      "description": "Moody’s has termed Jio Platforms’ IPO credit positive for Reliance Industries, citing debt repayment and funding flexibility. The Rs 30,200 crore issue will support investments while helping manage leverage amid elevated capital expenditure.",
+      "publication_date": "Wed, 21 Oct 2026 19:32:53 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-strengthens-reliances-financial-flexibility-capex-funding-remains-key-moodys/articleshow/135094225.cms",
+      "source": "rss"
+    },
+    {
+      "title": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
+      "description": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to banks and is set to unveil a new jewellery brand aimed at attracting younger consumers.",
+      "publication_date": "Wed, 21 Oct 2026 19:29:06 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
+      "source": "rss"
+    },
+    {
+      "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
+      "description": "Indian Hotels Company Ltd, under the Tata Group, has announced a remarkable 19.35% rise in consolidated profit for the September quarter, soaring to Rs 379.85 crore from Rs 318.26 crore last year. Revenue from operations also surged to Rs 2,484.32 crore, up from Rs 2,040.89 crore. The Managing Director highlighted promising growth prospects and anticipates domestic hotel business growth exceeding 20%, notwithstanding challenges faced in the aviation sector.",
+      "publication_date": "Wed, 21 Oct 2026 19:27:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms",
+      "source": "rss"
+    },
+    {
       "title": "US stocks today: US stocks open higher as SpaceX, Super Micro results lift AI stocks",
       "description": "Wall Street opened higher on Wednesday, led by gains in technology and AI stocks after quarterly results from SpaceX and Super Micro Computer improved investor appetite. The Nasdaq gained 0.67%, while the S&P 500 and Dow Jones also rose. Netflix slipped as its outlook disappointed investors.",
       "publication_date": "Wed, 21 Oct 2026 19:07:35 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-spacex-super-micro-results-lift-ai-stocks/articleshow/135093777.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Can Jio IPO unlock hidden value in Reliance Industries shares?",
-      "description": "",
-      "publication_date": "Wed, 21 Oct 2026 19:05:50 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-jio-ipo-unlock-hidden-value-in-reliance-industries-shares/videoshow/135093782.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Sky Gold and Diamonds among 5 stocks that hit 52-week highs and rallied up to 45% in a month",
-      "description": "Despite the Sensex falling 143 points on Wednesday, five BSE 1000 stocks hit fresh 52-week highs. PC Jeweller led monthly gains at 45%, followed by Sky Gold and Diamonds, HFCL, South Indian Bank and Tatva Chintan Pharma Chem.",
-      "publication_date": "Wed, 21 Oct 2026 18:50:01 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sky-gold-and-diamonds-among-5-stocks-that-hit-52-week-highs-and-rallied-up-to-45-in-a-month/slideshow/135093530.cms",
-      "source": "rss"
-    },
-    {
-      "title": "IGI Q2 Results: Consolidated PAT surges 43% to Rs 185 crore",
-      "description": "The International Gemological Institute recently announced an impressive 43.14 percent growth in profit after tax for the previous quarter. Operational revenue rose by 31 percent compared to last year. Demand for both lab-grown and natural diamonds remains strong, particularly as the festive season approaches, prompting retailers and manufacturers to anticipate a surge in sales across their segments.",
-      "publication_date": "Wed, 21 Oct 2026 18:35:12 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/igi-q2-results-consolidated-pat-surges-43-to-rs-185-crore/articleshow/135093213.cms",
       "source": "rss"
     }
   ]
