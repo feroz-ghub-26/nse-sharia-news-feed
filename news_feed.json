@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:41:01.020179+00:00",
+  "generated_at": "2026-10-26T13:32:45.903080+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -24,8 +24,8 @@
     },
     {
       "url": "https://www.investing.com/rss/news.rss",
-      "status": "ok",
-      "article_count": 10
+      "status": "error",
+      "article_count": 0
     },
     {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
