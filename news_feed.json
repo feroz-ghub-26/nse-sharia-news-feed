@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:33:21.018685+00:00",
+  "generated_at": "2026-10-27T19:04:28.170938+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Boeing cuts delivery target, shares hit 18-month low as recovery takes longer",
+      "description": "Boeing has announced a cut in its 737 Max delivery target for this year, which raises concerns. The company now aims to increase 737 production to 52 jets per month in the second half of next year. Boeing reported a wider than expected loss in its commercial airplane division but posted positive free cash flow results. Despite delays, the company plans to begin deliveries of its 777-9 jets next year.",
+      "publication_date": "Wed, 28 Oct 2026 00:00:07 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-cuts-delivery-target-shares-hit-18-month-low-as-recovery-takes-longer/articleshow/135243808.cms",
+      "source": "rss"
+    },
+    {
       "title": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea - Reuters",
       "description": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 21 Oct 2026 23:57:00 GMT",
@@ -1430,13 +1437,6 @@
       "description": "Tesla reported better-than-expected third-quarter results.",
       "publication_date": "Wed, 21 Oct 2026 23:32:04 GMT",
       "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "source": "rss"
-    },
-    {
-      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
-      "description": "US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The move came ahead of a $13 billion 20 year Treasury auction, while markets continued to price in a muted chance of a Fed rate hike.",
-      "publication_date": "Wed, 21 Oct 2026 23:19:52 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
       "source": "rss"
     }
   ]
