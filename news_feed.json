@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:05:28.291072+00:00",
+  "generated_at": "2026-10-28T16:33:08.503855+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,6 +1412,20 @@
       "source": "Reuters"
     },
     {
+      "title": "Satin Creditcare Q2 profit surges over three-fold as asset quality improves",
+      "description": "Satin Creditcare Network reported a more than three-fold rise in consolidated net profit to Rs 176 crore in the second quarter, helped by lower microfinance provisions, portfolio growth and improved asset quality. Its gross NPA ratio improved to 1.9% from 3.5% a year earlier, signalling a recovery from earlier stress.",
+      "publication_date": "Wed, 28 Oct 2026 21:38:45 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise",
+      "description": "Cholamandalam Investment and Finance reported a 41% rise in second-quarter net profit to Rs 1,630 crore, helped by strong income growth, higher loan disbursements and lower loan losses. The company’s board approved a proposal to raise up to Rs 5,000 crore through a qualified institutional placement.",
+      "publication_date": "Wed, 28 Oct 2026 21:34:42 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms",
+      "source": "rss"
+    },
+    {
       "title": "Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge",
       "description": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore, while revenue increased 23% to Rs 14,970.50 crore. Scooter sales surged 47%, VIDA retail sales grew 76%, and international expansion strengthened growth prospects.",
       "publication_date": "Wed, 28 Oct 2026 21:31:33 +0530",
@@ -1423,20 +1437,6 @@
       "description": "Indian markets closed lower on Wednesday as rising crude oil prices and Middle East tensions hurt sentiment. Sensex fell 353 points to 73,246, while Nifty slipped 51 points to 22,699 despite a late recovery.",
       "publication_date": "Wed, 28 Oct 2026 21:08:47 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms",
-      "source": "rss"
-    },
-    {
-      "title": "British homebuilder shares slump on lack of clarity over first-time buyer plan in budget",
-      "description": "Shares of British homebuilders plummeted following finance minister John Healey's budget speech about housing initiatives. The delays surrounding the launch and funding of the awaited 'Your First Home' scheme have analysts worried that it won’t receive long-term financial support. Prominent companies like Barratt Redrow, Taylor Wimpey, and Persimmon experienced sharp declines, which could further hinder the timeline for new site developments that builders are eager to pursue.",
-      "publication_date": "Wed, 28 Oct 2026 21:06:36 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Weak returns at home fuel India's overseas retail investing boom",
-      "description": "Indian retail investors are increasingly venturing into global markets, significantly boosting their overseas investments. In response, domestic asset managers are introducing new funds to meet the rising demand for international exposure. With the Reserve Bank of India's limits on overseas investments nearing their cap, many investors are exploring tax-friendly locations like GIFT City.",
-      "publication_date": "Wed, 28 Oct 2026 21:03:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms",
       "source": "rss"
     }
   ]
