@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:07:06.717823+00:00",
+  "generated_at": "2026-10-28T08:34:52.271370+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,20 @@
       "source": "Reuters"
     },
     {
+      "title": "Jio effect! Reliance beats Tata to become India's most valued conglomerate",
+      "description": "Jio Platforms’ listing has propelled the Reliance Group to become India’s most valuable conglomerate, with a combined market capitalisation of over Rs 28 lakh crore, surpassing the Tata Group. Jio debuted at Rs 1,358, a 21% premium to its IPO price of Rs 1,119, adding over Rs 12.5 lakh crore to Reliance Group’s market value.",
+      "publication_date": "Wed, 28 Oct 2026 13:26:18 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
+      "source": "rss"
+    },
+    {
+      "title": "Q2 Results Live Updates: Adani Ent Q2 profit falls 55% YoY to Rs 1,492 crore, revenue surges 75% YoY",
+      "description": "",
+      "publication_date": "Wed, 28 Oct 2026 13:11:09 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-hyundai-vedanta-adani-enterprises-quarter-2-fy27-earnings-result-dividend-share-price-updates/liveblog/135257115.cms",
+      "source": "rss"
+    },
+    {
       "title": "Global Market: UBS Q3 profit rises 8% to $2.69 billion, accelerates buyback plan",
       "description": "ETMutualFunds identifies Axis, SBI, Kotak and Nippon India small-cap funds using parameters such as rolling returns, consistency, downside risk, outperformance and asset size. These schemes offer strong long-term return potential but are suitable mainly for aggressive investors with a high risk appetite.",
       "publication_date": "Wed, 28 Oct 2026 13:09:23 +0530",
@@ -1423,20 +1437,6 @@
       "description": "The US dollar’s safe-haven status could face pressure if the AI investment boom unwinds, prompting foreign investors to pull back from American equities and corporate bonds. Weaker growth, lower interest rates and credit-market stress could amplify the risk.",
       "publication_date": "Wed, 28 Oct 2026 13:07:31 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-ai-boom-could-weaken-dollars-safe-haven-appeal-as-foreign-flows-rise/articleshow/135256789.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
-      "description": "Adani Ports Q2 Results: Adani Ports reported a 17% year-on-year rise in Q2 FY27 net profit to Rs 3,622 crore, while revenue grew 24% to Rs 11,340 crore. The company raised its FY27 revenue and EBITDA guidance by Rs 1,000 crore each and increased its capex guidance by Rs 3,000 crore, citing strong first-half performance.",
-      "publication_date": "Wed, 28 Oct 2026 12:53:19 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q2-results-net-profit-jumps-17-yoy-to-rs-3622-crore-revenue-up-24/articleshow/135256370.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Jio Platforms delivers biggest listing gain among India’s 5 largest IPOs, jumps 21% on debut",
-      "description": "Jio Platforms shares listed at a 21.35% premium to the IPO price of Rs 1,119, delivering the biggest listing-day gain among India’s five largest IPOs by issue size. Brokerages Nomura, Motilal Oswal and Elara Capital initiated coverage with Buy ratings, citing tariff hikes, subscriber monetisation and digital services growth.",
-      "publication_date": "Wed, 28 Oct 2026 12:48:18 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-delivers-biggest-listing-gain-among-indias-5-largest-ipos-jumps-21-on-debut/articleshow/135256268.cms",
       "source": "rss"
     }
   ]
