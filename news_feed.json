@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:04:57.633451+00:00",
+  "generated_at": "2026-10-28T15:33:02.956847+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -35,7 +35,7 @@
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
       "status": "ok",
-      "article_count": 1
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Hero MotoCorp Q2 Results: Profit surges 41% YoY to Rs 1,861 crore, revenue jumps 23%",
+      "description": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,861 crore, while revenue increased 23% to Rs 14,971 crore. Scooter sales, 100cc motorcycles and VIDA electric scooters boosted growth, alongside international expansion and investments.",
+      "publication_date": "Wed, 28 Oct 2026 20:38:33 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms",
+      "source": "rss"
+    },
+    {
       "title": "Sebi to review FPI compliance norms, issue consultation paper to align with global standards",
       "description": "Sebi Chairman Tuhin Kanta Pandey stated they will review compliance requirements for foreign portfolio investors in India. A consultation paper will seek feedback on aligning these norms with global standards while ensuring investor protection. This initiative aims to enhance foreign investor participation in domestic markets and streamline access procedures. Additionally, Pandey emphasized the significance of domestic savings along with international capital to support market development.",
       "publication_date": "Wed, 28 Oct 2026 19:40:10 +0530",
@@ -1430,13 +1437,6 @@
       "description": "Vedanta Aluminium’s Q2 FY27 net profit surged 105% to Rs 6,187 crore, driven by record production, higher sales and improved realisations. Revenue rose 41%, EBITDA increased 83%, and net debt declined Rs 3,090 crore sequentially.",
       "publication_date": "Wed, 28 Oct 2026 19:13:05 +0530",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-q2-results-profit-doubles-to-rs-6187-crore-revenue-jumps-41/articleshow/135268184.cms",
-      "source": "rss"
-    },
-    {
-      "title": "US stocks today: US stocks turn choppy as megacaps offset chip gains before Fed meet",
-      "description": "In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced declines. Investors eye the Federal Reserve's imminent interest rate decision and important earnings announcements from Microsoft and Alphabet. The Nasdaq showed positive momentum this week, rising around 2%, reflecting growing optimism surrounding artificial intelligence.",
-      "publication_date": "Wed, 28 Oct 2026 19:09:22 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms",
       "source": "rss"
     }
   ]
