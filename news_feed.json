@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:37:53.066035+00:00",
+  "generated_at": "2026-10-28T13:04:46.111507+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "India bonds end flat as oil woes come up against short covering",
+      "description": "Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacted to market conditions. Elevated crude prices have increased worries about inflation, a wider fiscal deficit, and slower economic growth for India. The rupee weakened further against the dollar, prompting fears of aggressive policy tightening by the Reserve Bank of India.",
+      "publication_date": "Wed, 28 Oct 2026 18:04:01 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-woes-come-up-against-short-covering/articleshow/135265739.cms",
+      "source": "rss"
+    },
+    {
       "title": "Bandhan Bank Q2 profit jumps 5.6 times as asset quality improves",
       "description": "Bandhan Bank reported a five-fold rise in Q2 profit to Rs 622 crore, supported by lower provisions and improving asset quality. Net interest income grew 14%, margins strengthened, gross advances increased 13%, and deposits rose 9% year-on-year.",
       "publication_date": "Wed, 28 Oct 2026 18:02:34 +0530",
@@ -1430,13 +1437,6 @@
       "description": "Carlsberg India has filed an updated draft prospectus with Sebi for an IPO comprising 8.64 crore shares, entirely through an offer for sale by existing shareholders. The Tuborg maker could raise up to $700 million, according to earlier reports, as multinational companies increasingly tap India’s equity markets to monetise local businesses.",
       "publication_date": "Wed, 28 Oct 2026 17:57:57 +0530",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tuborg-maker-carlsberg-india-moves-closer-to-ipo-files-updated-drhp-for-complete-ofs-issue/articleshow/135265478.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hyundai Motor India Q2 profit falls 24% despite record sales",
-      "description": "Hyundai Motor India’s Q2 FY27 net profit fell 24% to Rs 1,196.2 crore as commodity costs pressured margins. Revenue rose 19% to Rs 20,696.1 crore, supported by record sales, stronger exports and upcoming vehicle launches.",
-      "publication_date": "Wed, 28 Oct 2026 17:41:52 +0530",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-profit-falls-24-despite-record-sales/articleshow/135264974.cms",
       "source": "rss"
     }
   ]
