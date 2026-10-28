@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:04:37.144359+00:00",
+  "generated_at": "2026-10-28T23:32:45.228446+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -1419,24 +1419,24 @@
       "source": "rss"
     },
     {
+      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+      "description": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven.",
+      "publication_date": "Wed, 28 Oct 2026 23:24:37 GMT",
+      "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+      "source": "rss"
+    },
+    {
+      "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+      "description": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+      "publication_date": "Wed, 28 Oct 2026 23:17:17 GMT",
+      "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+      "source": "rss"
+    },
+    {
       "title": "World Bank sees commodity prices surging 23% in 2026 on Middle East war",
       "description": "Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. The World Bank warned that further conflict escalation and a severe El Niño could intensify inflation and food security risks.",
       "publication_date": "Wed, 28 Oct 2026 22:56:20 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms",
-      "source": "rss"
-    },
-    {
-      "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-      "description": "Any button that can be clicked can also be touched.",
-      "publication_date": "Wed, 28 Oct 2026 22:38:41 GMT",
-      "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-      "source": "rss"
-    },
-    {
-      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-      "description": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-      "publication_date": "Wed, 28 Oct 2026 22:34:56 GMT",
-      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
       "source": "rss"
     }
   ]
