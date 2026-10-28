@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:32:40.090235+00:00",
+  "generated_at": "2026-10-28T15:04:57.633451+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 1
     }
   ],
   "articles": [
@@ -1433,8 +1433,8 @@
       "source": "rss"
     },
     {
-      "title": "US stocks today: S&P 500, Nasdaq open higher as SK Hynix lifts chips; Fed meet in focus",
-      "description": "On Wednesday, the S&P 500 and Nasdaq opened higher after positive results from memory-chip firms like SK Hynix. Investors are now focused on upcoming key corporate earnings, seen as a test for AI trade. Meanwhile, the Dow Jones Industrial Average experienced a slight decline of 42.1 points at the open. The S&P 500 gained 13.0 points, bolstered by positive market sentiment.",
+      "title": "US stocks today: US stocks turn choppy as megacaps offset chip gains before Fed meet",
+      "description": "In the US stock market, a mixed performance emerged as chipmakers like Micron Technology surged, buoyed by favorable reports from SK Hynix, while major tech players such as Tesla and Apple faced declines. Investors eye the Federal Reserve's imminent interest rate decision and important earnings announcements from Microsoft and Alphabet. The Nasdaq showed positive momentum this week, rising around 2%, reflecting growing optimism surrounding artificial intelligence.",
       "publication_date": "Wed, 28 Oct 2026 19:09:22 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms",
       "source": "rss"
