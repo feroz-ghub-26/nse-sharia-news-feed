@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:05:24.470772+00:00",
+  "generated_at": "2026-10-29T01:34:09.339625+00:00",
   "article_count": 200,
   "source_health": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://www.moneycontrol.com/rss/MCtopnews.xml",
-      "status": "error",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 18
     }
   ],
   "articles": [
@@ -1412,6 +1412,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says - Reuters",
+      "description": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says &nbsp;&nbsp; Reuters",
+      "publication_date": "Wed, 28 Oct 2026 23:58:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWllOXNsUkJtZ0FVOEFHYVpETWxwTkZkRmFEamVYTWNveDR5MTZmLUtpMWJJMU9zTVNIX09VOS1IWmJwcjRnWW9UdlM1QjQ5Q0xDaEdYWmdxM3ctMXJPZHJFWEVfeDN5UGJ4QUFYeXBadEZsZWJxbHFXWUJVSHVsYmVYZWtnSGplWndXWTM3U1BTOUxEZmk1MDVfRlZleDdlYl9rblBVcEEyQWxhYTRlUFE2RzdEcHVxaHc?oc=5",
+      "source": "Reuters"
+    },
+    {
       "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters",
       "description": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings &nbsp;&nbsp; Reuters",
       "publication_date": "Wed, 28 Oct 2026 23:53:34 GMT",
@@ -1430,13 +1437,6 @@
       "description": "The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid the upcoming midterm elections. Rising energy prices and tariffs contribute significantly to the ongoing inflation pressures faced by the economy. Traders are closely monitoring the upcoming Personal Consumption Expenditures inflation report for indications of future rate hikes.",
       "publication_date": "Wed, 28 Oct 2026 23:31:23 +0530",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
-      "source": "rss"
-    },
-    {
-      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-      "description": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven.",
-      "publication_date": "Wed, 28 Oct 2026 23:24:37 GMT",
-      "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
       "source": "rss"
     }
   ]
